@@ -1,15 +1,45 @@
+Notations to be used in place of letters with diacritics when a suitable keyboard is unavailable:
+
 ’
 
-ā   ã   ā̃
+ā > a_
 
-ē   ẽ   ē̃
+ã > a~
 
-ī   ĩ   ī̃
+ā̃ > a_~
 
-ō   õ   ō̃
+ē > e_
 
-ū   ũ   ū̃
+ẽ > e~
 
-ṅ   ń   ṇ
+ē̃ > e_~
 
-ḍ   ṛ   ṭ 
+ī > i_
+
+ĩ > i~
+
+ī̃ > i_~
+
+ō > o_
+
+õ > o~
+
+ō̃ > o_~
+
+ū > u_
+
+ũ >u~
+
+ū̃ > u_~
+
+ṅ > n0   (n zero)
+
+ń > n/
+
+ḍ > d#
+
+ṛ > r#
+
+ṭ > t#
+
+ṇ > n#
