@@ -2,92 +2,85 @@
 
 M 
 
--ma (AI ) - an enclitic, much like <i>do(i), often implying some contrast (in expression <i>jet#ema jargi<i>, it means <i>jetereyo_ jargireyo_<i>, ‘rain or shine’
+-ma (AI ) - an enclitic, much like <i>do(i), often implying some contrast (in expression <i>jeṭema jargi<i>, it means <i>jetereyō jargireyō<i>, ‘rain or shine’
 
-ma_ (a ) - day (when enumerating 3 or more days); last year
-*ma_-man - some years back 
+mā (a ) - day (when enumerating 3 or more days); last year
+*mā-man - some years back 
 
 ma: (#: ) - to cut, slash, chop with a swinging motion, e.g. a tree with an axe 
-*ma:-a_du - to cut down
-*ma:-apa_~ - to cut a hole in an embankment so that water can pass through 
+*ma:-ādu - to cut down
+*ma:-apā~ - to cut a hole in an embankment so that water can pass through 
 *ma:-atom - to cut and remove
-*ma:-band#i: - to cut off e.g. the head of a goat 
+*ma:-banḍi: - to cut off e.g. the head of a goat 
 *ma:-biyur - to cut around e.g. the edges of an embankment with a kudali 
 *ma:-chongam - to so cut as to leave a thin sharp stump
 *ma:-dabi - when cutting e.g. a branch with an axe, to make a cut (not through) such that the branch is weakened and may break off with a heavy wind; to occasion a new growth, e.g. a <i>sum<i> or <i>opad<i> in a section of a tree by cutting that part of a tree
 *ma:-etol - to make a gesture as though about to cut or slash witha swinging motion, e.g. of an axe 
 *ma:-goe: - to kill with a swinging motion of some weapon 
 *ma:-gur - to cut down e.g. a tree, making it fall 
-*ma:-hulsub - to cut the branches of a low bush causing a proliferation of new branches in all directions (with <i>pudad#<i> or some such word as object) 
+*ma:-hulsub - to cut the branches of a low bush causing a proliferation of new branches in all directions (with <i>pudaḍ<i> or some such word as object) 
 *ma:-iyu: - to cut down, making fall from a height, e.g. branches from a tree
-*ma:-kat#a - to cut off the branches of a tree, leaving only the trunk
-*ma:-langar#a - to make lame by cutting or slashing 
+*ma:-kaṭa - to cut off the branches of a tree, leaving only the trunk
+*ma:-langaṛa - to make lame by cutting or slashing 
 *ma:-nam - to search for or find with an action as described under <i>ma:<i>, e.g. worms by cutting the earth with a kudali 
-*ma:-nam chalu:-nam bongako - protective beneficial spirits believed to have revealed themselves from the earliest times when the Hos cleared the jungles and made fields. These sometimes afflict harm on those who do not make proper offerings to them or who dishonour them, but they protect their devotees. Distinct from these are malign spirits, <i>har-er#a: bongako<i>, q.v. 
-*ma:-od# - to cut through with a swinging motion (e.g. the neck of a goat being sacrificed or a tree; to fell a tree) 
-*ma:-o_:l - to cut and carry out
-*ma: par#a-par#i - to cut into separate sections e.g. game gotten in a hunt 
+*ma:-nam chalu:-nam bongako - protective beneficial spirits believed to have revealed themselves from the earliest times when the Hos cleared the jungles and made fields. These sometimes afflict harm on those who do not make proper offerings to them or who dishonour them, but they protect their devotees. Distinct from these are malign spirits, <i>har-eṛa: bongako<i>, q.v. 
+*ma:-oḍ - to cut through with a swinging motion (e.g. the neck of a goat being sacrificed or a tree; to fell a tree) 
+*ma:-ō:l - to cut and carry out
+*ma: paṛa-paṛi - to cut into separate sections e.g. game gotten in a hunt 
 *ma:-parlanga - to cut into making a deep open gash (much like <i>had-lapar<i>, but deeper) 
-*ma:-rapud# - to break by cutting or slashing 
+*ma:-rapuḍ - to break by cutting or slashing 
 *ma:-rau - to break open (e.g. an embankment) with a swinging motion (e.g. of a kudali)
 *ma:-sagen - to cut causing new offshoots to come out
 *ma:-sarla: - to cut causing shavings
+*ma: soṛa - With an axe to trim around a felled tree to make it more manageable in size and shape
+*ma:-ṭapa - to partially cut a branch so that it hangs loose (e.g. during silkworm cultivation); to partially trim down a piece of wood to be brought home for making a plough, e.g. to reduce the weight to be carried
+*ma:-uṭaw - to cut and lift (used in term <i>hasa ma:-uṭaw<i>, see <i>hasa-utaw<i>)
 
-239
+mã (A ) - mother 
+*mã buru - sometimes used for the more common form <i>mā buru<i>, q.v.
+*mã lukin - a name sometimes given to the <i>baba enga<i>, q.v. The form <i>lukin mã<i> or <i>lokin m~<i> is also used, (This may be related to Lakshmi, the Hindu goddess of wealth. In Ho the term <i>lochom<i> is also used, but in reference to cattle)
 
-*ma: sor#a - With an axe to trim around a felled tree to make it more manageable in size and shape
-*ma:-t#apa - to partially cut a branch so that it hangs loose (e.g. during silkworm cultivation); to partially trim down a piece of wood to be brought home for making a plough, e.g. to reduce the weight to be carried
-*ma:-ut#aw - to cut and lift (used in term <i>hasa ma:-ut#aw<i>, see <i>hasa-utaw<i>)
-
-ma~ (A ) - mother 
-*ma~ buru - sometimes used for the more common form <i>ma_ buru<i>, q.v.
-*ma~ lukin - a name sometimes given to the <i>baba enga<i>, q.v. The form <i>lukin ma~<i> or <i>lokin m~<i> is also used, (This may be related to Lakshmi, the Hindu goddess of wealth. In Ho the term <i>lochom<i> is also used, but in reference to cattle)
-
-ma_ buru (A F ) - a spirit often associated with Desauli in sacrificial prayers
+mā buru (A F ) - a spirit often associated with Desauli in sacrificial prayers
 
 macha (Aa ) - a raised platform (Hindi - machan); to make or use as a machan
 
-machaku_mba (Aatatat ) - the name of a place in <i>buta buru<i> (perhaps there once was a machan or the appearance of a machan in a karam {ku_mba} tree)
+machakūmba (Aatatat ) - the name of a place in <i>buta buru<i> (perhaps there once was a machan or the appearance of a machan in a karam {kūmba} tree)
 
-macha-muchu (4a-7z_) - used in the expression <i>macha-muchu a_tenko<i> to describe the mouth of Spirits (prob. connoting ‘pointed’)
+macha-muchu (4a-7z_) - used in the expression <i>macha-muchu ātenko<i> to describe the mouth of Spirits (prob. connoting ‘pointed’)
 
-machi (afa ) - edge, border, esp. used of the place where the rope of a net is joined to the supporting bamboo. In prayers, etc., used as a poetic parallel with <i>kut#i<i>, ‘edge’ 
-*machi danda: - same as <i>jalom kat#a<i>, q.v. 
+machi (afa ) - edge, border, esp. used of the place where the rope of a net is joined to the supporting bamboo. In prayers, etc., used as a poetic parallel with <i>kuṭi<i>, ‘edge’ 
+*machi danda: - same as <i>jalom kaṭa<i>, q.v. 
 
-machila (afsen ) gand#u - a stool with rope seat (cf. <i>daru gand#u<i>, wooden stool) 
+machila (afsen ) ganḍu - a stool with rope seat (cf. <i>daru ganḍu<i>, wooden stool) 
 
 machis (afsa ) - matches (for starting a fire, from English) 
-*machis-kar#i - a match stick
+*machis-kaṛi - a match stick
 
-mad# (4s ) - bamboo 
-*mad# a_: - a herb with long thin leaves found in damp places, prob. Polygonum barbatum, L., Polygonaceae, B.111/3, H.111/1/9
-*mad# bura - shavings formed by scraping off bamboos (as Mahalis do when making baskets) 
-*mad# chari: - a <i>chari:<i> (pin for sewing leaves together) made of bamboo (cf. also <i>gangai chari:<i>)
-*mad# chatom - a bamboo umbrella (see also <i>lija: chatom<i>)
-*mad# d#and#a: - a stick (e.g. for herding cattle) made of bamboo
-*mad# mail - arrow shafts made of branches of <i>buru mad#<i> 
-*mad# sae haku - same as <i>mad# sakam haku<i>, q.v. 
-*mad# sakam a_: - a diffusely branched, rooting or ascending herb with slender leaves and small blue or violet flowers, Aneilema nudiflorum, Br., Commelinaceae, H.143/2/4, B.143/1 (This looks like bamboo leaves, hence the name)
-*mad# sakam haku - a flat thin fish resembling a bamboo blade
-*mad# t#onga: - a hollow piece of jungle bamboo, usually from one joint to the next, used for storing birdlime; also used to blow through in fanning a fire
-*mad# t#onga: oe - the Grey Hornbill (a bird), prob. so called because of the casque on the beak (resembling a <i>mad# t#onga:<i>). This
+maḍ (4s ) - bamboo 
+*maḍ ā: - a herb with long thin leaves found in damp places, prob. Polygonum barbatum, L., Polygonaceae, B.111/3, H.111/1/9
+*maḍ bura - shavings formed by scraping off bamboos (as Mahalis do when making baskets) 
+*maḍ chari: - a <i>chari:<i> (pin for sewing leaves together) made of bamboo (cf. also <i>gangai chari:<i>)
+*maḍ chatom - a bamboo umbrella (see also <i>lija: chatom<i>)
+*maḍ ḍanḍa: - a stick (e.g. for herding cattle) made of bamboo
+*maḍ mail - arrow shafts made of branches of <i>buru maḍ<i> 
+*maḍ sae haku - same as <i>maḍ sakam haku<i>, q.v. 
+*maḍ sakam ā: - a diffusely branched, rooting or ascending herb with slender leaves and small blue or violet flowers, Aneilema nudiflorum, Br., Commelinaceae, H.143/2/4, B.143/1 (This looks like bamboo leaves, hence the name)
+*maḍ sakam haku - a flat thin fish resembling a bamboo blade
+*maḍ ṭonga: - a hollow piece of jungle bamboo, usually from one joint to the next, used for storing birdlime; also used to blow through in fanning a fire
+*maḍ ṭonga: oe - the Grey Hornbill (a bird), prob. so called because of the casque on the beak (resembling a <i>maḍ ṭonga:<i>). This bird is also called <i>cheṛe diuri<i>
 
-240 
+-māḍ (1S) - verbal affix - before (Lesson 27) 
 
-bird is also called <i>cher#e diuri<i>
+mādeḍ (aes ) - a bull having a large hump on the neck
 
--ma_d# (1S) - verbal affix - before (Lesson 27) 
-
-ma_ded# (aes ) - a bull having a large hump on the neck
-
-mad#kam (ag64) daru - the mahua tree. Bassia latifolia, Roxb., Sapotaceae, B.84/1, H.84/2/1. The fruit of this is called <i>d#ola<i>
+maḍkam (ag64) daru - the mahua tree. Bassia latifolia, Roxb., Sapotaceae, B.84/1, H.84/2/1. The fruit of this is called <i>ḍola<i>
 
 mage ("1 ) - the feast observed in each village after the harvest work is finished; obscene language used then; to use obscene language
 *mage-giyu: -to cause shame to someone by using obscene language
 *mage kaji - obscene language such as is spoken during the <i>mage<i> feast 
 *mage moroe: - the second day after the main day of the <i>mage<i> feast (this day is also called <i>har mage<i>)
 mageya (ata ) - a spirit found esp. in the jungle and often troublesome to hunters (see also <i>bagiya bonga<i>) (<i>mageya<i> spirits are servant spirits to (or at least lower in rank to) the more important spirits of the hunt. They are usually found many together so the word is usually found in the plural)
-*mageya putam - an alternate name (used only in certain villages) for the <i>chend#o putam# (a dove)
+*mageya putam - an alternate name (used only in certain villages) for the <i>chenḍo putam# (a dove)
 *mageya sim - the smali black chicken stoned on the day of the <i>mage<i> sacrifice 
 
 magor-magor (TiR-WIR )a loud shrill noise made by cats 
@@ -107,73 +100,70 @@ Mailgiri (agafiR ) - used in prayers to refer to a hill, presumably the Nilgiri 
 main (434 ) - of clothes, to be of fine material 
 
 main (4s ) - respect; praise
-*main-manaran0 - praise 
+*main-manaraṅ - praise 
 
-ma_ja_l (asa ) - a casting net (also called <i>hurla jalom<i>) 
+mājāl (asa ) - a casting net (also called <i>hurla jalom<i>) 
 
 maji (aft ) - a bed bug 
 
 majl, maji hon (afa, af HA )a Santal 
 
-ma_jon (Ala ) - a money lender; a merchant 
+mājon (Ala ) - a money lender; a merchant 
 
-makar#i (Ha@fs ) - an ornament worn in the upper part of the ear
+makaṛi (Ha@fs ) - an ornament worn in the upper part of the ear
 
-ma_kur#u (Ags ) - poetic parallel of <i>gau<i>, a member of a cow-herding community (used in prayers, etc.); sometimes used for those who carry water for others in town
+mākuṛu (Ags ) - poetic parallel of <i>gau<i>, a member of a cow-herding community (used in prayers, etc.); sometimes used for those who carry water for others in town
 
-ma_l (ac) - goods, cargo (Hindi)
+māl (ac) - goods, cargo (Hindi)
 *mal diri - iron ore (also called <i>bicha dir<i>) 
-*mal gar#i - a goods train
+*mal gaṛi - a goods train
 
 mala (Hat ) - a member of a fisherman caste 
 
-mala-med# (aa—*s ) - to look from one thing to another to see what one will choose, buy, etc. (connotes pleasure with the objects seen)
+mala-meḍ (aa—*s ) - to look from one thing to another to see what one will choose, buy, etc. (connotes pleasure with the objects seen)
 
 malan (aaa ) - a kind of bean growing on a bush
-
-241 
-
-*malan chidu - a variety of caterpillar prob. same as <i>ma_r chidu<i>, q,v, (used in prayers as poetic parallel of <i>dubi chidu<i>)
+*malan chidu - a variety of caterpillar prob. same as <i>mār chidu<i>, q,v, (used in prayers as poetic parallel of <i>dubi chidu<i>)
 *malan uru - a black tree beetle
 
 malchi (aafa ) - a chilli (an alternate form of <i>marchi<i>, q.v.)
-*malchi a_: - same as <i>marchi a_<i>, q.v.
+*malchi ā: - same as <i>marchi ā<i>, q.v.
 *malchi dumbu - same as <i>marchi dumbu<i>, q.v.
 
 malge: (Ac: ) - to be satisfied, to have enough of something, e.g. eating, drinking, playing (usually used as a verbal affix, but when the action is clear sometimes used alone); in a shooting contest, to topple over, e.g. a bird
 
 malgujari (Aerio ) - tax, rent
 
-mali (afa) - used in prayers referring to a chicken in phrase <i>dubi ankai<i>(q.v.) <i>mali ket#o sim<i>, meaning uncertain (E.M. gives: <i>mali<i>, adj. with <i>sim<i>, a fowl of many mixed colours)
+mali (afa) - used in prayers referring to a chicken in phrase <i>dubi ankai<i>(q.v.) <i>mali keṭo sim<i>, meaning uncertain (E.M. gives: <i>mali<i>, adj. with <i>sim<i>, a fowl of many mixed colours)
 
-mali (afa ) ba_ - a white sweet-smelling flower, found in abundance, prob. Jasminum sambac, Ait, Oleaceae, B.87/4, H.87/ 1/1 (see also <i>at#al ba_<i>)
+mali (afa ) bā - a white sweet-smelling flower, found in abundance, prob. Jasminum sambac, Ait, Oleaceae, B.87/4, H.87/ 1/1 (see also <i>aṭal bā<i>)
 
 mali (a’fa ) - a member of the Mahali community
 
-ma_li (fs ) bonga - the wife of a_: bonga, a spirit of the jungles
+māli (fs ) bonga - the wife of ā: bonga, a spirit of the jungles
 
-mam, mama (44, a4 ) - baby talk for <i>mand#i<i>
+mam, mama (44, a4 ) - baby talk for <i>manḍi<i>
 
-mamaran0 (ARXS) - pride; proud; to become proud
+mamaraṅ (ARXS) - pride; proud; to become proud
 
 mamu (44 ) - brother of mother (used when addressing, otherwise <i>kuma<i> is usually used)
 
-ma_n (#1 ) - respect
-*ma_n-da_n - respect
-*ma_n-manatin0 - respect; to respect 
-* ma_n-mapa_n - a generic term for respect including mutual respect
+mān (#1 ) - respect
+*mān-dān - respect
+*mān-manatiṅ - respect; to respect 
+* mān-mapān - a generic term for respect including mutual respect
 
--man0 (a1) - a verbal affix meaning ‘before’ (also <i>mad#<i>) (Les. 27) 
+-maṅ (a1) - a verbal affix meaning ‘before’ (also <i>maḍ<i>) (Les. 27) 
 
-mana ("aI ) - to forbid; <i>mana_kan<i> - forbidden 
+mana ("aI ) - to forbid; <i>manākan<i> - forbidden 
 
 manal (7a ) - a bean (also <i>malan<i>, q.v.) 
-*manal ba_ - the flower of the <i>manal<i> plant; figur. - something of inconsequential value. Used in negative with the idea of not considering something to be of even trivial importance; to not be at all bothered or concerned about something 
+*manal bā - the flower of the <i>manal<i> plant; figur. - something of inconsequential value. Used in negative with the idea of not considering something to be of even trivial importance; to not be at all bothered or concerned about something 
 
-manaran0 (FANS ) - greatness, glory (verbal noun of <i>maran<i>) 
+manaraṅ (FANS ) - greatness, glory (verbal noun of <i>maran<i>) 
 
-manatin/ (Aaifas ) - to obey; to observe (e.g. a feast); to respect; obedience, respect
-*manatin/-uju: - to obey or observe from some time in the past until the present 
+manatiń (Aaifas ) - to obey; to observe (e.g. a feast); to respect; obedience, respect
+*manatiń-uju: - to obey or observe from some time in the past until the present 
 
 manchi (aAfi ) - same as <i>munchi<i>, q.v. 
 
@@ -183,36 +173,36 @@ manchuri: (a7g: ) - very small, e.g. a fraction of an inch
 
 manda (Ha ) - a head cold; to get a head cold 
 
-mand#a (4s!) - a footprint; to make a footprint; to take a step 
+manḍa (4s!) - a footprint; to make a footprint; to take a step 
 
-mandal (4a) - a custard apple; (also <i>d#ambau<i>, q.v.) 
+mandal (4a) - a custard apple; (also <i>ḍambau<i>, q.v.) 
 
-mandal (asa ) sakam - a leaf of the <i>sin/ a_:<i> tree or sometimes used of a <i>ru_n0<i> climber, folded and pinned with a chart:, on which <i>punji<i> is put when offerings are made to <i>maran0 bonga<i> and sometimes to <i>Sin0bonga<i> (these are sometimes made three cornered) 
+mandal (asa ) sakam - a leaf of the <i>siń ā:<i> tree or sometimes used of a <i>rūṅ<i> climber, folded and pinned with a chart:, on which <i>punji<i> is put when offerings are made to <i>maraṅ bonga<i> and sometimes to <i>Siṅbonga<i> (these are sometimes made three cornered) 
 
 Mandali (ay ) - a capsule, worn e.g. around the neck or an arm, in which medicine is kept
 
 mandara-munduru () - to be unsteady in one’s gait and speech due to slight intoxication
 
-mand#i (#f ) - cooked rice: to prepare a rice meal
-*mand#i chat#u - the earthen pot used for cooking the family meal. This pot is treated with special respect; it is usually washed within the house lest it be defiled by unworthy eyes falling upon it; on certain feasts those who can afford to do so retire the old <i>mand#i chat#u<i> and bring in a new one (cf. also the next two items)
-*miyad# mand#i chat#uite jom - to eat a meal prepared in a common pot; to share a common meal
-*miyad# mand#i-chat#urenko - all those descended from a common ancestor (from people who once ate from the same pot). This is reckoned as far back as people can remember, e.g. 4 or 5 generations. All these may enter one another’s <i>adin/<i>, and should anyone of these die, all the others must remove from service the <i>mand#i cha#u<i> then in use
-*mand#i chat#u eper#a: - to mutually throw out the <i>mand#i chat#u<i> e.g. on the death of a member of any family belonging to <i>miyad# mand#i chat#urenko<i> (see above) 
-*mand#i chat#u eper#a:ko - those who are so related that they mutually throw out the <i>mand#i chat#u<i> when a member of the family dies
-*mand#i chat#u tanga - to cook separately (used esp in reference to people, e.g. married brothers, who previously lived in a joint family with a common <i>mand#i chat#u<i>, dividing and setting up separate kitchens and normally also dividing their lands) 
-*mand#i da: - water in which rice has been cooked (same as <i>d#und#u: da:<i>), to treat with rice water, e.g. a thread in order to make it stronger
-*mand#i-mand#i utu-utu inun0 - to play a game of preparing the family meal (using dry mud, etc.) as is done by little girls 
+manḍi (#f ) - cooked rice: to prepare a rice meal
+*manḍi chaṭu - the earthen pot used for cooking the family meal. This pot is treated with special respect; it is usually washed within the house lest it be defiled by unworthy eyes falling upon it; on certain feasts those who can afford to do so retire the old <i>manḍi chaṭu<i> and bring in a new one (cf. also the next two items)
+*miyaḍ manḍi chaṭuite jom - to eat a meal prepared in a common pot; to share a common meal
+*miyaḍ manḍi-chaṭurenko - all those descended from a common ancestor (from people who once ate from the same pot). This is reckoned as far back as people can remember, e.g. 4 or 5 generations. All these may enter one another’s <i>adiń<i>, and should anyone of these die, all the others must remove from service the <i>manḍi cha#u<i> then in use
+*manḍi chaṭu epeṛa: - to mutually throw out the <i>manḍi chaṭu<i> e.g. on the death of a member of any family belonging to <i>miyaḍ manḍi chaṭurenko<i> (see above) 
+*manḍi chaṭu epeṛa:ko - those who are so related that they mutually throw out the <i>manḍi chaṭu<i> when a member of the family dies
+*manḍi chaṭu tanga - to cook separately (used esp in reference to people, e.g. married brothers, who previously lived in a joint family with a common <i>manḍi chaṭu<i>, dividing and setting up separate kitchens and normally also dividing their lands) 
+*manḍi da: - water in which rice has been cooked (same as <i>ḍunḍu: da:<i>), to treat with rice water, e.g. a thread in order to make it stronger
+*manḍi-manḍi utu-utu inuṅ - to play a game of preparing the family meal (using dry mud, etc.) as is done by little girls 
 
-*ma_nd#ini: - a cook 
-*ma_ndi owa: - the house where the family meal is cooked 
-*mand#i ti_ - the right hand (more commonly called <i>jo_m ti_<i> or <i>etom ti_<i>)
-*mand#i utu - rice and curry, a meal, to prepare a meal 
+*mānḍini: - a cook 
+*māndi owa: - the house where the family meal is cooked 
+*manḍi tī - the right hand (more commonly called <i>jōm tī<i> or <i>etom tī<i>)
+*manḍi utu - rice and curry, a meal, to prepare a meal 
 
 mandir (afex ) - a temple
 
-mand#oko (Ass! ) owa: - a small enclosure like the <i>churui<i> in appearance made for religious purposes far from the village
+manḍoko (Ass! ) owa: - a small enclosure like the <i>churui<i> in appearance made for religious purposes far from the village
 
-mand#owa (Asia ) - a small room in a house 
+manḍowa (Asia ) - a small room in a house 
 
 mane (FH ) - meaning 
 
@@ -221,8 +211,8 @@ mangal (aa ) - verbal affix - connotes to defile, disgrace, disrespect
 mangaw (414 ) - to send for or to arrange to get through some outside agency, e.g. new seeds or the like 
 
 mani (aff ) a: - the mustard plant, a plant cultivated for the oilseeds and for the tender leaves which are sometimes eaten, Brassica napus, var. dichotoma, Prain (Sinapis dichotoma, Roxb.), Cruciferae, B.10/6, H.10/1/2 
-*mani jan0 - mustard seed (Hos sometimes scatter or sow (<i>her<i>) these in order to drive away certain evil spirits, also some tie them on a string around the neck or arm for the same purpose)
-*mani janum - same as <i>gand#u janum<i>, q.v.
+*mani jaṅ - mustard seed (Hos sometimes scatter or sow (<i>her<i>) these in order to drive away certain evil spirits, also some tie them on a string around the neck or arm for the same purpose)
+*mani janum - same as <i>ganḍu janum<i>, q.v.
 *mani sunum - mustard oil
 
 manka-monko (AaI-aH! ) - of the vision of one who is partially intoxicated, to be somewhat blurred so that he walks unsteadily, etc.
@@ -231,87 +221,83 @@ manki (aafe ) - the headman of a confederation of villages, each of which has a 
 
 man-man (4-44 ) - very small, e.g. of fruit, potatoes
 
-manmi (Af ) - a man, mankind (in prayers in phrase <i>ho_ ji_ manmi ji_<i>)
+manmi (Af ) - a man, mankind (in prayers in phrase <i>hō jī manmi jī<i>)
 
-mansi_k, mansi_ki (Hat, Fatih) - a promise to sacrifice as a pledge of which sindur is dabbed on the wall (see <i>agom<i>, <i>tapan<i>); to make such a promise
+mansīk, mansīki (Hat, Fatih) - a promise to sacrifice as a pledge of which sindur is dabbed on the wall (see <i>agom<i>, <i>tapan<i>); to make such a promise
 
 manwa (aaa ) - human being; man; mankind
 
-ma_p (ard ) - to forgive; forgiveness
+māp (ard ) - to forgive; forgiveness
 
 mapa: (4: ) - very big (used as an adjective to refer to a particular variety of horses)
 
-ma_paran0 (AuURS ) - very big (see <i>maran0<i>)
+māparaṅ (AuURS ) - very big (see <i>maraṅ<i>)
 
-mapa:-tupun/ (a5—-qT ) - a battle; to fight a battle (recip. of <i>ma:<i> and <i>tun/<i>)
+mapa:-tupuń (a5—-qT ) - a battle; to fight a battle (recip. of <i>ma:<i> and <i>tuń<i>)
 
 mar (FR ) - an interjection urging someone to some action
 *mara - same as <i>mar<i> (<i>mar + a<i>)
-*mara_i: - same as <i>mar<i>
+*marāi: - same as <i>mar<i>
 *maramar - same as <i>mar<i>
 *mar chiya - much like <i>mar<i> but implies more of a challenge 
 *marga - same as <i>mar<i>, said in aspect (cf. <i>-ga<i>) 
 *marto - same as <i>mar chiya<i>
 
-ma_r ("1 ) - a carrying pole 
-*ma_r dand#a: - same as mar
+mār ("1 ) - a carrying pole 
+*mār danḍa: - same as mar
 
-ma_r (Art ) - same as ma_ra, q.v.
+mār (Art ) - same as māra, q.v.
 
-ma_ra (AI )a cowherder (a term used in prayers and in the term <i>gau mara<i>, q.v.) 
+māra (AI )a cowherder (a term used in prayers and in the term <i>gau mara<i>, q.v.) 
 
 mara: (RR )-a peacock
-*mara: kat#a ud# - a small edible mushroom which comes out in large numbers on embankments during the rainy season, but which 1s not eaten until the <i>hero:<i> feast has been observed (also called <i>gitil ud#<i>)
+*mara: kaṭa uḍ - a small edible mushroom which comes out in large numbers on embankments during the rainy season, but which 1s not eaten until the <i>hero:<i> feast has been observed (also called <i>gitil uḍ<i>)
 *mara: pinchi - a cluster of peacock feathers tied together
 
-maran0 (AXS ) - big, great; to become big; to grow 
-*maran0 a_ - to scold (implies a certain intimacy, e.g. a parent to a child) (can be used as a verb with a dir. animate obj., or can be used with a <i>-te<i> affix and the verb <i>kaji<i>, e.g. <i>ja_i:yo maran0 a_te kako kajiyakowa<i>, ‘No one will scold them’ 
-*maran0 a~r#a - silkworm cultivation of the later yearly cycle (from about late Aug. until Nov.) when the silkworm remains in the cocoon and forms a fuller cocoon (cf. <i>du~r#iya a~r#a<i> for the earlier cycle) 
-*maran0 a~r#i - a hill/mountain (said jokingly) 
-*maran0 bonga - one of the more prominent spirits, also called <i>duku disum maran0 bonga<i>, q.v. 
-*marann0 danchu: - the Rackettailed Drongo (a bird, so called in some places, see also <i>buru da_nchu:)
-*maran0 era - the first wife of a man who has more than one wife (also referred to as <i>ayer era<i>)
-*maran0 ere - the Goldenbacked Woodpecker 
-*maran0 hasu - Smallpox (also called <i>maran0 mari<i>)
-*maran0 ho_ - a big (important) man; an older brother (<i>bau<i>); an  elephant 
-*maran0 itika - a large climber of the damper forests with dull purple flowers and winged pods. These have abundant irritating bristles. Mucuna imbricata, DC. Papilionaceae, H.53/47/1, B.53/78, (also called <i>ra: itika<i>, q.v.) | 
-*maran0 ka~yur - a larger variety of the <i>ka~yur<i> (q.v.) shrub
-*maran0 kikir - the Pied Kingfisher (a bird) 
-*maran0 kuda daru - the <i>kuda daru<i>, q.v., when distinguished from the <i>gar#a kuda<i> 
-*maran0 mari - smallpox 
-*maran0 puru - a herb also called <i>sowan puru<i>, q.v. 
-*maran0 rali - a bush resembling the <i>rali<i> creeper (see <i>rali re_d#<i>). This has medicinal usages 
-*maran0 rot#okod# - a shrub in appearance like the <i>rot#okod# janum<i> but with white flowers, prob. Solanum torvum, Swartz., - Solanaceae, 3B.97/17, H.97/5/8 
-*maran0 sangar - a hunt conducted by two or three hundred people from many different villages and continuing for many days (see <i>hur#in/ sangar<i>)
-*maran0 sayed - a sigh of relief 
-*maran0 t#e: oe - a name given by some to the Large Grey Babbler, for which other give <i>hono_yad# oe
-*maran0 tempa a_: - a large variety of tempa a_:, q.v. prob. Corchorus acutangulus, Lam., Tiliaceae, B.28/1, H.28/3/5 
-*maran0 ut#u - see <i>ut#u<i>
+maraṅ (AXS ) - big, great; to become big; to grow 
+*maraṅ ā - to scold (implies a certain intimacy, e.g. a parent to a child) (can be used as a verb with a dir. animate obj., or can be used with a <i>-te<i> affix and the verb <i>kaji<i>, e.g. <i>jāi:yo maraṅ āte kako kajiyakowa<i>, ‘No one will scold them’ 
+*maraṅ ãṛa - silkworm cultivation of the later yearly cycle (from about late Aug. until Nov.) when the silkworm remains in the cocoon and forms a fuller cocoon (cf. <i>du~ṛiya ãṛa<i> for the earlier cycle) 
+*maraṅ ãṛi - a hill/mountain (said jokingly) 
+*maraṅ bonga - one of the more prominent spirits, also called <i>duku disum maraṅ bonga<i>, q.v. 
+*maranṅ danchu: - the Rackettailed Drongo (a bird, so called in some places, see also <i>buru dānchu:)
+*maraṅ era - the first wife of a man who has more than one wife (also referred to as <i>ayer era<i>)
+*maraṅ ere - the Goldenbacked Woodpecker 
+*maraṅ hasu - Smallpox (also called <i>maraṅ mari<i>)
+*maraṅ hō - a big (important) man; an older brother (<i>bau<i>); an  elephant 
+*maraṅ itika - a large climber of the damper forests with dull purple flowers and winged pods. These have abundant irritating bristles. Mucuna imbricata, DC. Papilionaceae, H.53/47/1, B.53/78, (also called <i>ra: itika<i>, q.v.) | 
+*maraṅ kãyur - a larger variety of the <i>kãyur<i> (q.v.) shrub
+*maraṅ kikir - the Pied Kingfisher (a bird) 
+*maraṅ kuda daru - the <i>kuda daru<i>, q.v., when distinguished from the <i>gaṛa kuda<i> 
+*maraṅ mari - smallpox 
+*maraṅ puru - a herb also called <i>sowan puru<i>, q.v. 
+*maraṅ rali - a bush resembling the <i>rali<i> creeper (see <i>rali rēḍ<i>). This has medicinal usages 
+*maraṅ roṭokoḍ - a shrub in appearance like the <i>roṭokoḍ janum<i> but with white flowers, prob. Solanum torvum, Swartz., - Solanaceae, 3B.97/17, H.97/5/8 
+*maraṅ sangar - a hunt conducted by two or three hundred people from many different villages and continuing for many days (see <i>huṛiń sangar<i>)
+*maraṅ sayed - a sigh of relief 
+*maraṅ ṭe: oe - a name given by some to the Large Grey Babbler, for which other give <i>honōyaḍ oe
+*maraṅ tempa ā: - a large variety of tempa ā:, q.v. prob. Corchorus acutangulus, Lam., Tiliaceae, B.28/1, H.28/3/5 
+*maraṅ uṭu - see <i>uṭu<i>
 
 marchi (axrfa ) - a chilli, an underbush with small purple flowers, cultivated, Capsicum annuum, var. nigra, Prain Solanaceae, B.97/2, H.97/4/1 (note expression used in a story:- <i>marchi matalekae: hapanumakana<i>, ‘She has developed into a young woman as a chilli ripens (prob. refers to smooth glossy appearance and rich full colour) 
-*marchi a_: - a small erect herb (not the chilli bush) with edible leaves, E.M. and B. give Vinca pusilla, Murr., Apocynaceae, B.89/ 15, H.89/6/1 
-*marchi dumbu - same as <i>marchi a_:<i> 
+*marchi ā: - a small erect herb (not the chilli bush) with edible leaves, E.M. and B. give Vinca pusilla, Murr., Apocynaceae, B.89/ 15, H.89/6/1 
+*marchi dumbu - same as <i>marchi ā:<i> 
 
-ma_r (ar® ) chidu - an insect which makes a long crying sound in the hot season (Santali <i>marar# tejo<i> suggests that this is named after the Indian Coral tree, called <i>mara_r#<i> or <i>marar#<i> in Santali. <i>Malan chidu<i> is probably an alternate name for this caterpillar called <i>malar#a/mala~r#a~/mara~r#a tiju<i> in Mundari) 
+mār (ar® ) chidu - an insect which makes a long crying sound in the hot season (Santali <i>maraṛ tejo<i> suggests that this is named after the Indian Coral tree, called <i>marāṛ<i> or <i>maraṛ<i> in Santali. <i>Malan chidu<i> is probably an alternate name for this caterpillar called <i>malaṛa/malãṛã/marãṛa tiju<i> in Mundari) 
 
-margad# (arts ) - of rice beer, to be somewhat tasteless or turned (e.g. by sitting too long in hot sun) 
+margaḍ (arts ) - of rice beer, to be somewhat tasteless or turned (e.g. by sitting too long in hot sun) 
 
 mari (AR ) - smallpox, chickenpox
-*hurin/ mari - chickenpox
-*maran0 mari - smallpox 
+*huriń mari - chickenpox
+*maraṅ mari - smallpox 
 *mari bosonto - a collective noun for smallpox and such diseases (used esp. in prayers) 
-*mari med#-mut#a - pockmarked
+*mari meḍ-muṭa - pockmarked
 
-ma_riya (ai'ftar ) - a broad watercourse, canal 
+māriya (ai'ftar ) - a broad watercourse, canal 
 
 marka (AI ) - a mark made e.g. on a tree by the forest dept., to make such a mark 
 *marka-biyur - to make a mark around something, e.g. a tree or 4 line around a hill 
 
-markin (afa ) - of a fighting cock, one who has been victorious the
-
-245 
-
-previous year; of cloth, plain white cloth made in a mill 
+markin (afa ) - of a fighting cock, one who has been victorious the previous year; of cloth, plain white cloth made in a mill 
 
 marmar (ARR ) - a scorpion marsal (axa ) - light; to give off light (also maskal) 
 
