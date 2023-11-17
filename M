@@ -1,11 +1,11 @@
 M 
 
--ma (AI ) - an enclitic, much like <i>do(i), often implying some contrast (in expression <i>jeṭema jargi<i>, it means <i>jetereyō jargireyō<i>, ‘rain or shine’
+-ma (मा ) - an enclitic, much like <i>do(i), often implying some contrast (in expression <i>jeṭema jargi<i>, it means <i>jetereyō jargireyō<i>, ‘rain or shine’
 
-mā (a ) - day (when enumerating 3 or more days); last year
+mā (मा’) - day (when enumerating 3 or more days); last year
 *mā-man - some years back 
 
-ma: (#: ) - to cut, slash, chop with a swinging motion, e.g. a tree with an axe 
+ma: (माः ) - to cut, slash, chop with a swinging motion, e.g. a tree with an axe 
 *ma:-ādu - to cut down
 *ma:-apā~ - to cut a hole in an embankment so that water can pass through 
 *ma:-atom - to cut and remove
@@ -34,27 +34,27 @@ ma: (#: ) - to cut, slash, chop with a swinging motion, e.g. a tree with an axe
 *ma:-ṭapa - to partially cut a branch so that it hangs loose (e.g. during silkworm cultivation); to partially trim down a piece of wood to be brought home for making a plough, e.g. to reduce the weight to be carried
 *ma:-uṭaw - to cut and lift (used in term <i>hasa ma:-uṭaw<i>, see <i>hasa-utaw<i>)
 
-mã (A ) - mother 
+mã (मां) - mother 
 *mã buru - sometimes used for the more common form <i>mā buru<i>, q.v.
 *mã lukin - a name sometimes given to the <i>baba enga<i>, q.v. The form <i>lukin mã<i> or <i>lokin m~<i> is also used, (This may be related to Lakshmi, the Hindu goddess of wealth. In Ho the term <i>lochom<i> is also used, but in reference to cattle)
 
-mā buru (A F ) - a spirit often associated with Desauli in sacrificial prayers
+mā buru (मा’ बुरु) - a spirit often associated with Desauli in sacrificial prayers
 
-macha (Aa ) - a raised platform (Hindi - machan); to make or use as a machan
+macha (मचा) - a raised platform (Hindi - machan); to make or use as a machan
 
-machakūmba (Aatatat ) - the name of a place in <i>buta buru<i> (perhaps there once was a machan or the appearance of a machan in a karam {kūmba} tree)
+machakūmba (मचाकूम्बा ) - the name of a place in <i>buta buru<i> (perhaps there once was a machan or the appearance of a machan in a karam {kūmba} tree)
 
-macha-muchu (4a-7z_) - used in the expression <i>macha-muchu ātenko<i> to describe the mouth of Spirits (prob. connoting ‘pointed’)
+macha-muchu (मचा-मुचु) - used in the expression <i>macha-muchu ātenko<i> to describe the mouth of Spirits (prob. connoting ‘pointed’)
 
-machi (afa ) - edge, border, esp. used of the place where the rope of a net is joined to the supporting bamboo. In prayers, etc., used as a poetic parallel with <i>kuṭi<i>, ‘edge’ 
+machi (मचि) - edge, border, esp. used of the place where the rope of a net is joined to the supporting bamboo. In prayers, etc., used as a poetic parallel with <i>kuṭi<i>, ‘edge’ 
 *machi danda: - same as <i>jalom kaṭa<i>, q.v. 
 
-machila (afsen ) ganḍu - a stool with rope seat (cf. <i>daru ganḍu<i>, wooden stool) 
+machila (मचिला) ganḍu - a stool with rope seat (cf. <i>daru ganḍu<i>, wooden stool) 
 
-machis (afsa ) - matches (for starting a fire, from English) 
+machis (मचिस) - matches (for starting a fire, from English) 
 *machis-kaṛi - a match stick
 
-maḍ (4s ) - bamboo 
+maḍ (मड्‌) - bamboo 
 *maḍ ā: - a herb with long thin leaves found in damp places, prob. Polygonum barbatum, L., Polygonaceae, B.111/3, H.111/1/9
 *maḍ bura - shavings formed by scraping off bamboos (as Mahalis do when making baskets) 
 *maḍ chari: - a <i>chari:<i> (pin for sewing leaves together) made of bamboo (cf. also <i>gangai chari:<i>)
@@ -67,13 +67,13 @@ maḍ (4s ) - bamboo
 *maḍ ṭonga: - a hollow piece of jungle bamboo, usually from one joint to the next, used for storing birdlime; also used to blow through in fanning a fire
 *maḍ ṭonga: oe - the Grey Hornbill (a bird), prob. so called because of the casque on the beak (resembling a <i>maḍ ṭonga:<i>). This bird is also called <i>cheṛe diuri<i>
 
--māḍ (1S) - verbal affix - before (Lesson 27) 
+-māḍ (मा’ड्‌) - verbal affix - before (Lesson 27) 
 
-mādeḍ (aes ) - a bull having a large hump on the neck
+mādeḍ (मा’देड्‌) - a bull having a large hump on the neck
 
-maḍkam (ag64) daru - the mahua tree. Bassia latifolia, Roxb., Sapotaceae, B.84/1, H.84/2/1. The fruit of this is called <i>ḍola<i>
+maḍkam (मड्‌कम) daru - the mahua tree. Bassia latifolia, Roxb., Sapotaceae, B.84/1, H.84/2/1. The fruit of this is called <i>ḍola<i>
 
-mage ("1 ) - the feast observed in each village after the harvest work is finished; obscene language used then; to use obscene language
+mage (मगे) - the feast observed in each village after the harvest work is finished; obscene language used then; to use obscene language
 *mage-giyu: -to cause shame to someone by using obscene language
 *mage kaji - obscene language such as is spoken during the <i>mage<i> feast 
 *mage moroe: - the second day after the main day of the <i>mage<i> feast (this day is also called <i>har mage<i>)
@@ -81,107 +81,107 @@ mageya (ata ) - a spirit found esp. in the jungle and often troublesome to hunte
 *mageya putam - an alternate name (used only in certain villages) for the <i>chenḍo putam<i> (a dove)
 *mageya sim - the smali black chicken stoned on the day of the <i>mage<i> sacrifice 
 
-magor-magor (TiR-WIR )a loud shrill noise made by cats 
+magor-magor (मगोर-मोगोर) - a loud shrill noise made by cats 
 
-magura (ARNT ) haku a fish 4-5 inches long and full bodies, tasty to eat, a cat fish 
+magura (मगुरा) haku - a fish 4-5 inches long and full bodies, tasty to eat, a cat fish 
 
-mai (3 ) - a young girl (used esp. when addressing a young girl) 
+mai (मइ) - a young girl (used esp. when addressing a young girl) 
 
-mai(te) (48 ) - slowly 
+mai(te) (मइ) - slowly 
 *mai-mai(te) - slowly 
 
-mail (aga ) - a tall grass, the stems of which are used for shafts of arrows; an arrow shaft; to employ as or to fashion into an arrow shaft; to fix a shaft on to an arrowhead 
+mail (मइल) - a tall grass, the stems of which are used for shafts of arrows; an arrow shaft; to employ as or to fashion into an arrow shaft; to fix a shaft on to an arrowhead 
 *mail owa: - a house with the roof sloping on two sides only (compare <i>kupi owa:<i> and <i>chatom owa:<i>)
 
-Mailgiri (agafiR ) - used in prayers to refer to a hill, presumably the Nilgiri hills (the form Nilgiri is also sometimes used in Ho prayers)
+Mailgiri (मइलगिरि) - used in prayers to refer to a hill, presumably the Nilgiri hills (the form Nilgiri is also sometimes used in Ho prayers)
 
-main (434 ) - of clothes, to be of fine material 
+main (मइन) - of clothes, to be of fine material 
 
-main (4s ) - respect; praise
+main (मइन) - respect; praise
 *main-manaraṅ - praise 
 
-mājāl (asa ) - a casting net (also called <i>hurla jalom<i>) 
+mājāl (मा’जा’ल) - a casting net (also called <i>hurla jalom<i>) 
 
-maji (aft ) - a bed bug 
+maji (मजि) - a bed bug 
 
-majl, maji hon (afa, af HA )a Santal 
+majl, maji hon (मजि, मजि होन) - a Santal 
 
-mājon (Ala ) - a money lender; a merchant 
+mājon (मा’जोन) - a money lender; a merchant 
 
-makaṛi (Ha@fs ) - an ornament worn in the upper part of the ear
+makaṛi (मकाड़ि) - an ornament worn in the upper part of the ear
 
-mākuṛu (Ags ) - poetic parallel of <i>gau<i>, a member of a cow-herding community (used in prayers, etc.); sometimes used for those who carry water for others in town
+mākuṛu (मा’कुड़ु) - poetic parallel of <i>gau<i>, a member of a cow-herding community (used in prayers, etc.); sometimes used for those who carry water for others in town
 
-māl (ac) - goods, cargo (Hindi)
+māl (माल) - goods, cargo (Hindi)
 *mal diri - iron ore (also called <i>bicha dir<i>) 
 *mal gaṛi - a goods train
 
-mala (Hat ) - a member of a fisherman caste 
+mala (मला) - a member of a fisherman caste 
 
-mala-meḍ (aa—*s ) - to look from one thing to another to see what one will choose, buy, etc. (connotes pleasure with the objects seen)
+mala-meḍ (मला-मेड्‌) - to look from one thing to another to see what one will choose, buy, etc. (connotes pleasure with the objects seen)
 
-malan (aaa ) - a kind of bean growing on a bush
+malan (मलन) - a kind of bean growing on a bush
 *malan chidu - a variety of caterpillar prob. same as <i>mār chidu<i>, q,v, (used in prayers as poetic parallel of <i>dubi chidu<i>)
 *malan uru - a black tree beetle
 
-malchi (aafa ) - a chilli (an alternate form of <i>marchi<i>, q.v.)
+malchi (मलचि) - a chilli (an alternate form of <i>marchi<i>, q.v.)
 *malchi ā: - same as <i>marchi ā<i>, q.v.
 *malchi dumbu - same as <i>marchi dumbu<i>, q.v.
 
-malge: (Ac: ) - to be satisfied, to have enough of something, e.g. eating, drinking, playing (usually used as a verbal affix, but when the action is clear sometimes used alone); in a shooting contest, to topple over, e.g. a bird
+malge: (मलगेः) - to be satisfied, to have enough of something, e.g. eating, drinking, playing (usually used as a verbal affix, but when the action is clear sometimes used alone); in a shooting contest, to topple over, e.g. a bird
 
-malgujari (Aerio ) - tax, rent
+malgujari (मलगुजारि) - tax, rent
 
-mali (afa) - used in prayers referring to a chicken in phrase <i>dubi ankai<i>(q.v.) <i>mali keṭo sim<i>, meaning uncertain (E.M. gives: <i>mali<i>, adj. with <i>sim<i>, a fowl of many mixed colours)
+mali (मलि) - used in prayers referring to a chicken in phrase <i>dubi ankai<i>(q.v.) <i>mali keṭo sim<i>, meaning uncertain (E.M. gives: <i>mali<i>, adj. with <i>sim<i>, a fowl of many mixed colours)
 
-mali (afa ) bā - a white sweet-smelling flower, found in abundance, prob. Jasminum sambac, Ait, Oleaceae, B.87/4, H.87/ 1/1 (see also <i>aṭal bā<i>)
+mali (मलि) bā - a white sweet-smelling flower, found in abundance, prob. Jasminum sambac, Ait, Oleaceae, B.87/4, H.87/ 1/1 (see also <i>aṭal bā<i>)
 
-mali (a’fa ) - a member of the Mahali community
+māli (मा’लि) - a member of the Mahali community
 
-māli (fs ) bonga - the wife of ā: bonga, a spirit of the jungles
+māli (मा’लि) bonga - the wife of ā: bonga, a spirit of the jungles
 
-mam, mama (44, a4 ) - baby talk for <i>manḍi<i>
+mam, mama (मम, ममा ) - baby talk for <i>manḍi<i>
 
-mamaraṅ (ARXS) - pride; proud; to become proud
+mamaraṅ (ममरङ) - pride; proud; to become proud
 
-mamu (44 ) - brother of mother (used when addressing, otherwise <i>kuma<i> is usually used)
+mamu (ममु) - brother of mother (used when addressing, otherwise <i>kuma<i> is usually used)
 
-mān (#1 ) - respect
+mān (मा’न) - respect
 *mān-dān - respect
 *mān-manatiṅ - respect; to respect 
 * mān-mapān - a generic term for respect including mutual respect
 
--maṅ (a1) - a verbal affix meaning ‘before’ (also <i>maḍ<i>) (Les. 27) 
+-maṅ (मा’ङ) - a verbal affix meaning ‘before’ (also <i>maḍ<i>) (Les. 27) 
 
-mana ("aI ) - to forbid; <i>manākan<i> - forbidden 
+mana (मना) - to forbid; <i>manākan<i> - forbidden 
 
-manal (7a ) - a bean (also <i>malan<i>, q.v.) 
+manal (मनल) - a bean (also <i>malan<i>, q.v.) 
 *manal bā - the flower of the <i>manal<i> plant; figur. - something of inconsequential value. Used in negative with the idea of not considering something to be of even trivial importance; to not be at all bothered or concerned about something 
 
-manaraṅ (मनारङ् ) - greatness, glory (verbal noun of <i>maran<i>) 
+manaraṅ (मनारङ) - greatness, glory (verbal noun of <i>maran<i>) 
 
-manatiń (मनातिञ्) - to obey; to observe (e.g. a feast); to respect; obedience, respect
+manatiń (मनातिञ) - to obey; to observe (e.g. a feast); to respect; obedience, respect
 *manatiń-uju: - to obey or observe from some time in the past until the present 
 
-manchi (मन्चि) - same as <i>munchi<i>, q.v. 
+manchi (मनचि) - same as <i>munchi<i>, q.v. 
 
-manchui: (मन्चुइः) - same as <i>manchuri:<i> 
+manchui: (मनचुइः) - same as <i>manchuri:<i> 
 
-manchuri: (मन्चुरिः) - very small, e.g. a fraction of an inch 
+manchuri: (मनचुरिः) - very small, e.g. a fraction of an inch 
 
-manda (मन्दा) - a head cold; to get a head cold 
+manda (मंदा) - a head cold; to get a head cold 
 
-manḍa (मन्डा) - a footprint; to make a footprint; to take a step 
+manḍa (मंडा) - a footprint; to make a footprint; to take a step 
 
-mandal (मन्दाल) - a custard apple; (also <i>ḍambau<i>, q.v.) 
+mandal (मंदल) - a custard apple; (also <i>ḍambau<i>, q.v.) 
 
-mandal (मन्दाल) sakam - a leaf of the <i>siń ā:<i> tree or sometimes used of a <i>rūṅ<i> climber, folded and pinned with a chart:, on which <i>punji<i> is put when offerings are made to <i>maraṅ bonga<i> and sometimes to <i>Siṅbonga<i> (these are sometimes made three cornered) 
+manḍal (मंडल) sakam - a leaf of the <i>siń ā:<i> tree or sometimes used of a <i>rūṅ<i> climber, folded and pinned with a chart:, on which <i>punji<i> is put when offerings are made to <i>maraṅ bonga<i> and sometimes to <i>Siṅbonga<i> (these are sometimes made three cornered) 
 
-Mandali (मन्दालि) - a capsule, worn e.g. around the neck or an arm, in which medicine is kept
+Mandali (मंदालि) - a capsule, worn e.g. around the neck or an arm, in which medicine is kept
 
-mandara-munduru (मन्दारा-मुन्दुरु) - to be unsteady in one’s gait and speech due to slight intoxication
+mandara-munduru (मंदारा-मुंदुरु) - to be unsteady in one’s gait and speech due to slight intoxication
 
-manḍi (#f ) - cooked rice: to prepare a rice meal
+manḍi (मंडि) - cooked rice: to prepare a rice meal
 *manḍi chaṭu - the earthen pot used for cooking the family meal. This pot is treated with special respect; it is usually washed within the house lest it be defiled by unworthy eyes falling upon it; on certain feasts those who can afford to do so retire the old <i>manḍi chaṭu<i> and bring in a new one (cf. also the next two items)
 *miyaḍ manḍi chaṭuite jom - to eat a meal prepared in a common pot; to share a common meal
 *miyaḍ manḍi-chaṭurenko - all those descended from a common ancestor (from people who once ate from the same pot). This is reckoned as far back as people can remember, e.g. 4 or 5 generations. All these may enter one another’s <i>adiń<i>, and should anyone of these die, all the others must remove from service the <i>manḍi chaṭu<i> then in use
@@ -190,50 +190,49 @@ manḍi (#f ) - cooked rice: to prepare a rice meal
 *manḍi chaṭu tanga - to cook separately (used esp in reference to people, e.g. married brothers, who previously lived in a joint family with a common <i>manḍi chaṭu<i>, dividing and setting up separate kitchens and normally also dividing their lands) 
 *manḍi da: - water in which rice has been cooked (same as <i>ḍunḍu: da:<i>), to treat with rice water, e.g. a thread in order to make it stronger
 *manḍi-manḍi utu-utu inuṅ - to play a game of preparing the family meal (using dry mud, etc.) as is done by little girls 
-
 *mānḍini: - a cook 
 *māndi owa: - the house where the family meal is cooked 
 *manḍi tī - the right hand (more commonly called <i>jōm tī<i> or <i>etom tī<i>)
 *manḍi utu - rice and curry, a meal, to prepare a meal 
 
-mandir (afex ) - a temple
+mandir (मंदिर) - a temple
 
-manḍoko (Ass! ) owa: - a small enclosure like the <i>churui<i> in appearance made for religious purposes far from the village
+manḍoko (मंडोको) owa: - a small enclosure like the <i>churui<i> in appearance made for religious purposes far from the village
 
-manḍowa (Asia ) - a small room in a house 
+manḍowa (मंडोवा) - a small room in a house 
 
-mane (FH ) - meaning 
+mane (मने) - meaning 
 
-mangal (aa ) - verbal affix - connotes to defile, disgrace, disrespect 
+mangal (मंगल ) - verbal affix - connotes to defile, disgrace, disrespect 
 
-mangaw (414 ) - to send for or to arrange to get through some outside agency, e.g. new seeds or the like 
+mangaw (मंगव ) - to send for or to arrange to get through some outside agency, e.g. new seeds or the like 
 
-mani (aff ) a: - the mustard plant, a plant cultivated for the oilseeds and for the tender leaves which are sometimes eaten, Brassica napus, var. dichotoma, Prain (Sinapis dichotoma, Roxb.), Cruciferae, B.10/6, H.10/1/2 
+mani (मनि) a१: - the mustard plant, a plant cultivated for the oilseeds and for the tender leaves which are sometimes eaten, Brassica napus, var. dichotoma, Prain (Sinapis dichotoma, Roxb.), Cruciferae, B.10/6, H.10/1/2 
 *mani jaṅ - mustard seed (Hos sometimes scatter or sow (<i>her<i>) these in order to drive away certain evil spirits, also some tie them on a string around the neck or arm for the same purpose)
 *mani janum - same as <i>ganḍu janum<i>, q.v.
 *mani sunum - mustard oil
 
-manka-monko (AaI-aH! ) - of the vision of one who is partially intoxicated, to be somewhat blurred so that he walks unsteadily, etc.
+manka-monko (मंको-मंको) - of the vision of one who is partially intoxicated, to be somewhat blurred so that he walks unsteadily, etc.
 
-manki (aafe ) - the headman of a confederation of villages, each of which has a headman called the <i>munda<i>
+manki (मनकि) - the headman of a confederation of villages, each of which has a headman called the <i>munda<i>
 
-man-man (4-44 ) - very small, e.g. of fruit, potatoes
+man-man (मन-मन) - very small, e.g. of fruit, potatoes
 
-manmi (Af ) - a man, mankind (in prayers in phrase <i>hō jī manmi jī<i>)
+manmi (मनमि ) - a man, mankind (in prayers in phrase <i>hō jī manmi jī<i>)
 
-mansīk, mansīki (Hat, Fatih) - a promise to sacrifice as a pledge of which sindur is dabbed on the wall (see <i>agom<i>, <i>tapan<i>); to make such a promise
+mansīk, mansīki (मनसीक, मनसीकि) - a promise to sacrifice as a pledge of which sindur is dabbed on the wall (see <i>agom<i>, <i>tapan<i>); to make such a promise
 
-manwa (aaa ) - human being; man; mankind
+manwa (मनवा ) - human being; man; mankind
 
-māp (ard ) - to forgive; forgiveness
+māp (मा’प) - to forgive; forgiveness
 
-mapa: (4: ) - very big (used as an adjective to refer to a particular variety of horses)
+mapa: (मपः ) - very big (used as an adjective to refer to a particular variety of horses)
 
-māparaṅ (AuURS ) - very big (see <i>maraṅ<i>)
+māparaṅ (मा’पारङ) - very big (see <i>maraṅ<i>)
 
-mapa:-tupuń (a5—-qT ) - a battle; to fight a battle (recip. of <i>ma:<i> and <i>tuń<i>)
+mapa:-tupuń (मपः-तुपुञ) - a battle; to fight a battle (recip. of <i>ma:<i> and <i>tuń<i>)
 
-mar (FR ) - an interjection urging someone to some action
+mar (मर) - an interjection urging someone to some action
 *mara - same as <i>mar<i> (<i>mar + a<i>)
 *marāi: - same as <i>mar<i>
 *maramar - same as <i>mar<i>
@@ -241,18 +240,18 @@ mar (FR ) - an interjection urging someone to some action
 *marga - same as <i>mar<i>, said in aspect (cf. <i>-ga<i>) 
 *marto - same as <i>mar chiya<i>
 
-mār ("1 ) - a carrying pole 
+mār (मा’र) - a carrying pole 
 *mār danḍa: - same as mar
 
-mār (Art ) - same as māra, q.v.
+mār (मा’र) - same as māra, q.v.
 
-māra (AI )a cowherder (a term used in prayers and in the term <i>gau mara<i>, q.v.) 
+māra (मा’रा) - a cowherder (a term used in prayers and in the term <i>gau mara<i>, q.v.) 
 
-mara: (RR )-a peacock
+mara: (मरः) - a peacock
 *mara: kaṭa uḍ - a small edible mushroom which comes out in large numbers on embankments during the rainy season, but which 1s not eaten until the <i>hero:<i> feast has been observed (also called <i>gitil uḍ<i>)
 *mara: pinchi - a cluster of peacock feathers tied together
 
-maraṅ (AXS ) - big, great; to become big; to grow 
+maraṅ (मरङ) - big, great; to become big; to grow 
 *maraṅ ā - to scold (implies a certain intimacy, e.g. a parent to a child) (can be used as a verb with a dir. animate obj., or can be used with a <i>-te<i> affix and the verb <i>kaji<i>, e.g. <i>jāi:yo maraṅ āte kako kajiyakowa<i>, ‘No one will scold them’ 
 *maraṅ ãṛa - silkworm cultivation of the later yearly cycle (from about late Aug. until Nov.) when the silkworm remains in the cocoon and forms a fuller cocoon (cf. <i>du~ṛiya ãṛa<i> for the earlier cycle) 
 *maraṅ ãṛi - a hill/mountain (said jokingly) 
@@ -276,113 +275,113 @@ maraṅ (AXS ) - big, great; to become big; to grow
 *maraṅ tempa ā: - a large variety of tempa ā:, q.v. prob. Corchorus acutangulus, Lam., Tiliaceae, B.28/1, H.28/3/5 
 *maraṅ uṭu - see <i>uṭu<i>
 
-marchi (axrfa ) - a chilli, an underbush with small purple flowers, cultivated, Capsicum annuum, var. nigra, Prain Solanaceae, B.97/2, H.97/4/1 (note expression used in a story:- <i>marchi matalekae: hapanumakana<i>, ‘She has developed into a young woman as a chilli ripens (prob. refers to smooth glossy appearance and rich full colour) 
+marchi (मरचि) - a chilli, an underbush with small purple flowers, cultivated, Capsicum annuum, var. nigra, Prain Solanaceae, B.97/2, H.97/4/1 (note expression used in a story:- <i>marchi matalekae: hapanumakana<i>, ‘She has developed into a young woman as a chilli ripens (prob. refers to smooth glossy appearance and rich full colour) 
 *marchi ā: - a small erect herb (not the chilli bush) with edible leaves, E.M. and B. give Vinca pusilla, Murr., Apocynaceae, B.89/ 15, H.89/6/1 
 *marchi dumbu - same as <i>marchi ā:<i> 
 
-mār (ar® ) chidu - an insect which makes a long crying sound in the hot season (Santali <i>maraṛ tejo<i> suggests that this is named after the Indian Coral tree, called <i>marāṛ<i> or <i>maraṛ<i> in Santali. <i>Malan chidu<i> is probably an alternate name for this caterpillar called <i>malaṛa/malãṛã/marãṛa tiju<i> in Mundari) 
+mār (मा’र) chidu - an insect which makes a long crying sound in the hot season (Santali <i>maraṛ tejo<i> suggests that this is named after the Indian Coral tree, called <i>marāṛ<i> or <i>maraṛ<i> in Santali. <i>Malan chidu<i> is probably an alternate name for this caterpillar called <i>malaṛa/malãṛã/marãṛa tiju<i> in Mundari) 
 
-margaḍ (arts ) - of rice beer, to be somewhat tasteless or turned (e.g. by sitting too long in hot sun) 
+margaḍ (मरगड्‌ ) - of rice beer, to be somewhat tasteless or turned (e.g. by sitting too long in hot sun) 
 
-mari (AR ) - smallpox, chickenpox
+mari (मरि ) - smallpox, chickenpox
 *huriń mari - chickenpox
 *maraṅ mari - smallpox 
 *mari bosonto - a collective noun for smallpox and such diseases (used esp. in prayers) 
 *mari meḍ-muṭa - pockmarked
 
-māriya (ai'ftar ) - a broad watercourse, canal 
+māriya (मा’रिया ) - a broad watercourse, canal 
 
-marka (AI ) - a mark made e.g. on a tree by the forest dept., to make such a mark 
+marka (मरका) - a mark made e.g. on a tree by the forest dept., to make such a mark 
 *marka-biyur - to make a mark around something, e.g. a tree or a line around a hill 
 
-markin (afa ) - of a fighting cock, one who has been victorious the previous year; of cloth, plain white cloth made in a mill 
+markin (मरकिन) - of a fighting cock, one who has been victorious the previous year; of cloth, plain white cloth made in a mill 
 
-marmar (ARR ) - a scorpion
+marmar (मरमर) - a scorpion
 
-marsal (axa ) - light; to give off light (also <i>maskal</i>)
+marsal (मरसल) - light; to give off light (also <i>maskal</i>)
 
-martom (axd4 ) - of paddy which has been boiled and is spread out for husking, to become excessively dry (so that it will break up when husking) 
+martom (मरतोम ) - of paddy which has been boiled and is spread out for husking, to become excessively dry (so that it will break up when husking) 
 
-martul (Ada ) - a sledge hammer
+martul (मरतुल ) - a sledge hammer
 
-maru (4% ) - of animals, men (less of women), to be fully grown (the form marulekani: sometimes used means much the same as maranlekani:) (see also moṛondo)
+maru (मरु) - of animals, men (less of women), to be fully grown (the form marulekani: sometimes used means much the same as maranlekani:) (see also moṛondo)
 
-maru (fe ) - of dirty goats, sheep, cattle, and sometimes of men, to give off a bad smell (used with the enclitic -ge and the verb sowana, or in the repeated form)
+maru (मरु) - of dirty goats, sheep, cattle, and sometimes of men, to give off a bad smell (used with the enclitic -ge and the verb sowana, or in the repeated form)
 *maru-maru - same as maru
 
-masala (Aue ) - a spice, condiment (Hindi - masāla), used sometimes in term sasaṅ-masala, q.v., also used as given under masala gara
+masala (मसाला) - a spice, condiment (Hindi - masāla), used sometimes in term sasaṅ-masala, q.v., also used as given under masala gara
 *masala ā: - the Coriander herb, the seed of which is used as a condiment, also called doneya ā:, q.v. 
 *masala gara - mortar, a mixture of cement, etc. for building purposes
 
-masaṭor, masṭor (AMER, FER ) - a school teacher (also maṭasor)
+masaṭor, masṭor (मसाटोर, मसटोर) - a school teacher (also maṭasor)
 
-masin (aft ) - a machine
+masin (मसिन ) - a machine
 
-maskal, masakal (HaHa, FATHA) - light,to give off light; to shine (also marsal) 
+maskal, masakal (मसकल, मसाकल) - light,to give off light; to shine (also marsal) 
 *maskal-tala - to surround with light 
 
-masul ("qa ) - tax; to collect taxes
+masul (मसुल ) - tax; to collect taxes
 *masul-owa: - a tax collector’s office 
 *masultani: - a tax collector 
 
-masuri (AgR ) - a cultivated pulse, a variety of dal; Lens esculenta, Moench., Papilionaceae H.53/ 15/1, B.53/74 
+masuri (मसुरि) - a cultivated pulse, a variety of dal; Lens esculenta, Moench., Papilionaceae H.53/ 15/1, B.53/74 
 *masuri dumbu - a grass or weed which grows in rice fields. Its leaves resemble those of the masuri plant
 
-mata (aa ) - to ripen; of fruit,etc. ripe; e.g. mata uli, a ripe mango; to mature; used in word hara-mata or parallel to hara with meaning ‘to grow to maturity’; of a bamboo, to turn yellow (when ripe); of a wound, to fill up with puss; used sometimes in prayers parallel to jiu or in term hō-mata meaning ‘a living being’; for usage of mata-no: see below
+mata (मता ) - to ripen; of fruit,etc. ripe; e.g. mata uli, a ripe mango; to mature; used in word hara-mata or parallel to hara with meaning ‘to grow to maturity’; of a bamboo, to turn yellow (when ripe); of a wound, to fill up with puss; used sometimes in prayers parallel to jiu or in term hō-mata meaning ‘a living being’; for usage of mata-no: see below
 *mata-bār - of many fruits, etc., to ripen at the same time
 *mata-jurunguḍ - of a fruit, to be completely turned to a ripe colour, e.g. of a completely yellow mango
 *mata maḍ -a bamboo which has turned yellow 
 
-mata (no:) (Aq ) - means the same as pura: no:, ‘rather much’, with a verb of going this could mean ‘rather quickly’ (This is regularly used with the no: affix) 
+mata (no:) (मता) - means the same as pura: no:, ‘rather much’, with a verb of going this could mean ‘rather quickly’ (This is regularly used with the no: affix) 
 *mata-mata - rather much 
 
-maṭa (Ac ) ā: - a variety of sour or acid herb coming from a shrub, Antidesma diandrum, Roth., Euphorbiaceae, B.29/2, H.29/37/1 (see also maṭa sura) 
+maṭa (मटा) ā: - a variety of sour or acid herb coming from a shrub, Antidesma diandrum, Roth., Euphorbiaceae, B.29/2, H.29/37/1 (see also maṭa sura) 
 *maṭa lupu: - a powder made by drying out the leaves of the mata ā:
 *maṭa-sura - the maṭa a-: (as referred to in hero: prayers, i.e. maṭa sura, nama maṭa, nama sura). It is taboo to eat maṭa ā: before the hero: feast 
 *maṭa sura daru - a bush or small tree, Antidesma ghaesembilla, Gaertn., Euphorbiaceae, B.29/3, H.29/37/4
 
-maṭasor (FTIR ) - a school master 
+maṭasor (मटासोर) - a school master 
 
--mate (A +) - an enclitic same as -ma, q.v.
+-mate (मते) - an enclitic same as -ma, q.v.
 
--mateya ("am ) - an enclitic, same as -ma, q.v.
+-mateya (मतेया) - an enclitic, same as -ma, q.v.
 
-maṭeyar () - used parallel with gãsi or in the term gasi-mateyarko, a collective noun for those who do menial work (prob. from Hindi mehtar, ‘a sweeper’)
+maṭeyar (मटेयर) - used parallel with gãsi or in the term gasi-mateyarko, a collective noun for those who do menial work (prob. from Hindi mehtar, ‘a sweeper’)
 
-mati (Af ) - over-ripe (used esp. of small fruits (kuda, tarob), eggplants and tomatoes)
+mati (मति ) - over-ripe (used esp. of small fruits (kuda, tarob), eggplants and tomatoes)
 
-maṭi (fe ) - used in prayers in term maṭi-ganga, prob. meaning ‘soil, earth’ (Hindi matti) and the combination meaning ‘earth and water
+maṭi (मटि ) - used in prayers in term maṭi-ganga, prob. meaning ‘soil, earth’ (Hindi matti) and the combination meaning ‘earth and water
 
-maṭi (afe ) ili - rice beer prepared esp. for sacrificial purposes (usually kept in a maṭiya, but sometimes in a tumiń or a maṭi kanda (a term used in prayers)
+maṭi (मटि ) ili - rice beer prepared esp. for sacrificial purposes (usually kept in a maṭiya, but sometimes in a tumiń or a maṭi kanda (a term used in prayers)
 
-maṭi (afe ) kanḍa - a kanḍa (earthen pot) put aside for certain feasts, also called jayer kanḍa
+maṭi (मटि ) kanḍa - a kanḍa (earthen pot) put aside for certain feasts, also called jayer kanḍa
 
-maṭiya (afeat ) - a very small earthen vessel, used for ceremonial pouring of rice-beer and such purposes.
+maṭiya (मटिया ) - a very small earthen vessel, used for ceremonial pouring of rice-beer and such purposes.
 *maṭiya ara: - of a cock, to be the reddish brown colour of a maṭiya
 
-maṭu (¢) - of a pãl (plough-share), to become blunted; of one’s tongue, to become coated, e.g. by eating a kuda (jamun) fruit
+maṭu (मटु) - of a pãl (plough-share), to become blunted; of one’s tongue, to become coated, e.g. by eating a kuda (jamun) fruit
 
-matuḍ (ads ) - of the hair, to be matted, thick with dirt
+matuḍ (मतुड्‌ ) - of the hair, to be matted, thick with dirt
 
-maṭukal (A¢re ) - of the head of a man, to be big (ḍaḍu bō: or maraṅ bō: is more often used for this)
+maṭukal (मटुकल ) - of the head of a man, to be big (ḍaḍu bō: or maraṅ bō: is more often used for this)
 
-maukal (asea ) - the Crow Pheasant (also called sengel ṭope oe)
+maukal (मउकल) - the Crow Pheasant (also called sengel ṭope oe)
 
-maya (aa ) - the fermented grains of rice beer or any other brew 
+maya (मया) - the fermented grains of rice beer or any other brew 
 *gota maya - maya before straining 
 *saba: maya - maya after straining (sometimes maya alone is used for this) 
 
-maya (Aa ) - the custard apple tree (so called in the Balandia vicinity: also called mandal, ḍambau, boṛor, see ḍambau) 
+maya (मया) - the custard apple tree (so called in the Balandia vicinity: also called mandal, ḍambau, boṛor, see ḍambau) 
 
-mayaṅ (Hae ) - the waist 
+mayaṅ (मयङ ) - the waist 
 
-mayom (a4 ) - blood; pass. - to bleed (N.B. in prayers garaken mayom means ‘riversful of blood’ of sacrificed animals, see buru)
+mayom (मयोम) - blood; pass. - to bleed (N.B. in prayers garaken mayom means ‘riversful of blood’ of sacrificed animals, see buru)
 *mayom gãwa saki - a bloodwitness, a martyr 
 *mayom-kirum - blood (a doublet used in sacrificial prayers)
 *mayom lāi: dul - bloody dysentry
 *mayom-lum - to make wet with blood 
 
-meḍ (As ) - eye; to look at; to open the eyes; to be awake; with durative aspect marker -aka - to stay awake, to keep the eyes fixed on something; to stare; medre - see below
+meḍ (मेड् ) - eye; to look at; to open the eyes; to be awake; with durative aspect marker -aka - to stay awake, to keep the eyes fixed on something; to stare; medre - see below
 *meḍ-aḍakan - blind 
 *meḍ-aṅ - to be awake until dawn 
 *meḍ-angara - to be awake all night 
@@ -408,120 +407,120 @@ meḍ (As ) - eye; to look at; to open the eyes; to be awake; with durative aspe
 *meḍ suṛi - blind 
 *meḍ-uju: - to look at someone coming 
 
-mēd (4s ) - iron 
+mēd (मे’ड्) - iron 
 *mēd ii: - rust 
 *mēd kuntu - an iron post; in prayers - to nail down with an iron post 
 *mēd sinkī - an iron chain; in prayers, to tie with an iron chain
 
-mēj, mēje (AG, HA) - a table (Hindi)
+mēj, mēje (मे’ज, मे’जे) - a table (Hindi)
 
-mekoe: (F#m: ) - to gulp down
+mekoe: (मेकोएः) - to gulp down
 
-mēl (#a ) - concord; to bring about concord (Hindi) 
+mēl मे’ल) - concord; to bring about concord (Hindi) 
 *mēl-perēm - mutual concord and love 
 
-mela (a ) - of a house, empty; of cattle, etc. not fully grown, not capable of doing heavy work 
+mela (मेला) - of a house, empty; of cattle, etc. not fully grown, not capable of doing heavy work 
 
-mela (4a ) - a fair (Hindi)
+mela (मेला) - a fair (Hindi)
 
-mela-mili (*a1-ffe ) - a long vista of level treeless land 
+mela-mili (मेला-मिलि) - a long vista of level treeless land 
 
-mele-gule (4-1 ) - of leaves, etc., to have a rich dark green colour; with verb form bākana, of flowers, to be growing among such leaves
+mele-gule (मेमे-गुले ) - of leaves, etc., to have a rich dark green colour; with verb form bākana, of flowers, to be growing among such leaves
 
-mele-mele (Ac—Aei ) - grains growing very full and close to one another so as to give the impression of a sea or carpet of grains; sometimes in songs same meaning as mela-mili 
+mele-mele (मेले-मेले ) - grains growing very full and close to one another so as to give the impression of a sea or carpet of grains; sometimes in songs same meaning as mela-mili 
 
-mel-mel (Aa—-Ha ) - of deep water, to be dark coloured with ripples of waves, giving a scary appearance
+mel-mel (मेल-मेल ) - of deep water, to be dark coloured with ripples of waves, giving a scary appearance
 
-melo: (Aci: ) - of a snake or frog, to put out the tongue 
+melo: (मेलोः) - of a snake or frog, to put out the tongue 
 *melo:-melo: - same of a repeated action 
 
-me:-me: (*:—#: ) - a call to a young goat (kid) to come (cf. lē the call to a grown goat) 
+me:-me: (मेः-मेः) - a call to a young goat (kid) to come (cf. lē the call to a grown goat) 
 
-men (44 ) - to say; to reflect (N.B. men as distinct from kaji often has this interior meaning, e.g. jibonreko menena, ‘they reflect within their spirits’). English indirect discourse can be translated as follows:- gapale huju:wako menkeḍa, ‘they said that they would come tomorrow’. (The exact words spoken are used followed by the required form of the verb men, Les.35,36). Men is not used when in English we have an indirect object, ‘to say to ...’; in that case meta, q.v. would be used. When meaning ‘say instead of a full verb form merely the root men is used 1) when quoting replies made by some third person, e.g. Kań huju:wae: men, ‘He says that he will not come’ or 2) when emphasizing one’s own words, e.g., Kań seno:wań men, ‘I say that I will not go’ (after having already Said it and the hearer did not hear or insisted to the contarary); The passive form meno: is used meaning ‘to be said', 'to be called something, e.g. nena chikana; meno:wa, ‘what is this called?', but it is also used meaning 'to say or reflect to one’s advantage’; men is also used in the same way as menteya: or mena instead of mente, ‘that’ (following direct discourse) when the word for saying is a noun, e.g. Haturen kuiko kako paiṭiya men kajido bano:wa, ‘The fact is not that village women do not work’
+men (मेन ) - to say; to reflect (N.B. men as distinct from kaji often has this interior meaning, e.g. jibonreko menena, ‘they reflect within their spirits’). English indirect discourse can be translated as follows:- gapale huju:wako menkeḍa, ‘they said that they would come tomorrow’. (The exact words spoken are used followed by the required form of the verb men, Les.35,36). Men is not used when in English we have an indirect object, ‘to say to ...’; in that case meta, q.v. would be used. When meaning ‘say instead of a full verb form merely the root men is used 1) when quoting replies made by some third person, e.g. Kań huju:wae: men, ‘He says that he will not come’ or 2) when emphasizing one’s own words, e.g., Kań seno:wań men, ‘I say that I will not go’ (after having already Said it and the hearer did not hear or insisted to the contarary); The passive form meno: is used meaning ‘to be said', 'to be called something, e.g. nena chikana; meno:wa, ‘what is this called?', but it is also used meaning 'to say or reflect to one’s advantage’; men is also used in the same way as menteya: or mena instead of mente, ‘that’ (following direct discourse) when the word for saying is a noun, e.g. Haturen kuiko kako paiṭiya men kajido bano:wa, ‘The fact is not that village women do not work’
 *men-ayer - to tell beforehand (unlike men this can take an -a aspect marker, e.g. men-ayeraḍkowae:, ‘He told them beforehand’)
 *menten - one (animate) who is called/named, e.g. Monsa menten kuitani:, ‘a woman called Monsa’
 *men-ura - to reply (unlike the simple men form this can take an -a aspect marker, e.g. men-urākowae:, ‘he will reply to them’)
 
-mena (Aa ) - same as menteya:, (Les. 35)
+mena (मेना) - same as menteya:, (Les. 35)
 
-mena (1 ) - perhaps (used after verb forms with the -a mood marker dropped, e.g. okoe chi okoe iḍkeḍ mena, ‘perhaps someone or other took it’)
+mena (मेना) - perhaps (used after verb forms with the -a mood marker dropped, e.g. okoe chi okoe iḍkeḍ mena, ‘perhaps someone or other took it’)
 
-mena: (2: ) - to be present, exist, be home; with an inan. subject the form mena: is used, with animate subj. forms, the forms mena:ńa. etc. are used (see Les. 18 and 36); to have (in certain constructions, Les. 21); used as a participle/adjective as in the examples given here, esu bababiti mena: owa:, ‘a house having much wealth’, kowa hon miḍōge mena:i owa:, 'a house in which there is only one son', sangi honko mena:ko owa:, 'a house in which there are many children' (See Les. 18)
+mena: (मेनाः ) - to be present, exist, be home; with an inan. subject the form mena: is used, with animate subj. forms, the forms mena:ńa. etc. are used (see Les. 18 and 36); to have (in certain constructions, Les. 21); used as a participle/adjective as in the examples given here, esu bababiti mena: owa:, ‘a house having much wealth’, kowa hon miḍōge mena:i owa:, 'a house in which there is only one son', sangi honko mena:ko owa:, 'a house in which there are many children' (See Les. 18)
 * mena:-sekā - to already be
 *mena:ten - an adjectival form modifying an animate noun and meaning either 1) being present (after a form ending in -re, ‘in’, e.g. otere mena:ten nageko, ‘nage spirits present in a field’) or 2) ‘having’, ‘possessing’, e.g. poysa mena:ten sepēḍko, ‘young men having money’. from mena:ten noun forms are formed, - (sg.) mena:tini:, (dl.) mena:tenkiń, (pl.) mena:tenko, e.g. otere mena:tini:, ‘the one (anim.) on the ground’, bugin sal oteko mena:tenko, ‘those having good low fields’
 *mena:teya: - 1) an adjectival form modifying an inanimate noun with usage the same as given under mena:ten (which is used with animate nouns), e.g. baba mena:teya: muṭi, ‘a sheaf which has paddy grains on it’; 2) a noun form mena:teya; in the sing. and mena:teya:ko in the pl. meaning ‘that which is present or possessed’
 *mena:-uju: - to be from earlier times, e.g. of some custom which has come down 
 
-menḍa (ast ) - to have a foot or both feet turned in e.g. due to some defect from birth; of the horns of cattle, to curve off in a different direction than that with which they come out of the head 
+menḍa (मेंडा) - to have a foot or both feet turned in e.g. due to some defect from birth; of the horns of cattle, to curve off in a different direction than that with which they come out of the head 
 *menda-kata - having one or both feet turned in, pigeon toed 
 *menda-menda - pigeon toed, with one or both feet turned in (with verbs of going)
 *menda singi -okra or lady’s finger, a vegetable producing plant, also called minḍi diriń, q.v.
 
-menḍeyoṅ (483s ) meḍ - to look at with roving eyes (keeping the head relatively still)(used in scolding, etc.) 
+menḍeyoṅ (मेंडेयोङ ) meḍ - to look at with roving eyes (keeping the head relatively still)(used in scolding, etc.) 
 
-mendo (He! ) - but 
+mendo (मेंदो ) - but 
 
-menēḍ (43'S ) - used something like mente in indirect discourse but with the connotation of making oneself to be, supposing or presuming oneself to be, etc. e.g. maraṅań menēd sama hōlo:te bugite kae: jagara, ‘Supposing himself to be important he does not converse nicely with an ordinary man’; menēd is also used after an animate noun or pronoun and before a verb to indicate that the subject did well to have done that action, e.g. apudo kae: kajikeḍa, hon menēḍ udubkeḍa, “The father did not tell it, happily the child revealed it’
+menēḍ (मेने’ड् ) - used something like mente in indirect discourse but with the connotation of making oneself to be, supposing or presuming oneself to be, etc. e.g. maraṅań menēd sama hōlo:te bugite kae: jagara, ‘Supposing himself to be important he does not converse nicely with an ordinary man’; menēd is also used after an animate noun or pronoun and before a verb to indicate that the subject did well to have done that action, e.g. apudo kae: kajikeḍa, hon menēḍ udubkeḍa, “The father did not tell it, happily the child revealed it’
 *menēḍgeya - same as metatana
 
-mengeya (ata ) - same as metatana, q.v. 
+mengeya (मेनगेया ) - same as metatana, q.v. 
 
-menjati (Acnfa ) daru - a small tree or large bush from which a red dye is gotten, Lawsonia inermis, L., Lythraceae, B.66/8, H.66/2/1
+menjati (मेंजाति ) daru - a small tree or large bush from which a red dye is gotten, Lawsonia inermis, L., Lythraceae, B.66/8, H.66/2/1
 
-menkote (A410 ) - saying this and ‘such like things (used the same as mente with direct discourse)
+menkote (मेनकोते ) - saying this and ‘such like things (used the same as mente with direct discourse)
 
-menleka (AaciH ) - say something like; as though one were to say; with kaji, uṛu:, etc., to suppose (used the same as mente is used with direct discourse)
+menleka (मेनलेका) - say something like; as though one were to say; with kaji, uṛu:, etc., to suppose (used the same as mente is used with direct discourse)
 
-mmeń-meń (Ax-AS ) - of a tãṛi, to be Sparkling and give off a ringing sound when struck (used with saṛi); of tiny flies, to fly around (e.g. close to one’s eyes) making a buzzing sound 
+mmeń-meń (मेञ-मेञ) - of a tãṛi, to be Sparkling and give off a ringing sound when struck (used with saṛi); of tiny flies, to fly around (e.g. close to one’s eyes) making a buzzing sound 
 
-mente (Aq ) - for, because; that (with direct discourse), (Les. 34,35)
+mente (मेन्ते) - for, because; that (with direct discourse), (Les. 34,35)
 
-menteya: (471: ) - used instead of mente (direct discourse) when the word for saying occurs as a noun (Les. 35) 
+menteya: (मेन्तेयः) - used instead of mente (direct discourse) when the word for saying occurs as a noun (Les. 35) 
 
-mēr (a% )- a salty or agreeably bitter taste (Les. 26) 
+mēr (मे’र)- a salty or agreeably bitter taste (Les. 26) 
 
-mera (x ) - let not (same meaning as aloka, but used only in prayers) (usually used in expressions such as merale lāi: hasū:, merale bo: hasū:, merale kulawo:, merale bińo:, ‘May we suffer no stomach ache nor head ache, may we not be attacked by a tiger nor a snake’, however sometimes the phrase is expressed in an abbreviated way, e.g. mera kula, mera bińa, mera dirl, mera sampura, ‘may we suffer no harm from a tiger, a snake, a stone, may we not suddenly come to harm’; sometimes used for kage, ‘no’, in stories 
+mera (मेरा) - let not (same meaning as aloka, but used only in prayers) (usually used in expressions such as merale lāi: hasū:, merale bo: hasū:, merale kulawo:, merale bińo:, ‘May we suffer no stomach ache nor head ache, may we not be attacked by a tiger nor a snake’, however sometimes the phrase is expressed in an abbreviated way, e.g. mera kula, mera bińa, mera dirl, mera sampura, ‘may we suffer no harm from a tiger, a snake, a stone, may we not suddenly come to harm’; sometimes used for kage, ‘no’, in stories 
 
-merche miluṅ (Ax fas ) - the facial expression (cupped lips and sparkling eyes) of one laughing
+merche miluṅ (मेरचे मिलुङ ) - the facial expression (cupped lips and sparkling eyes) of one laughing
 
-merel (Ata ) daru - a tree; its astringent fruit is appreciated in hot weather and it has many medical usages, the Emblic Myrabolan, Emblica officinalis, Gaertn., Euphorbiaceae, B.29/9, H.29/28/1
+merel (मेरेल) daru - a tree; its astringent fruit is appreciated in hot weather and it has many medical usages, the Emblic Myrabolan, Emblica officinalis, Gaertn., Euphorbiaceae, B.29/9, H.29/28/1
 *merel patā -a leaf of the merel tree (sometimes used for purposes of divining instead of chauli jan when the latter is not available, e.g. during a hunt in the jungle) 
 
-merle: (#Xe: ) daru - a tree or shrub with yellowish-green flowers and edible fruit. Flacourtia ramontchi, L'Herit., var. Occidentalis, H. & Th. Flacourtiaceae, B.14/3, H.14/2/2 (perhaps also B.14/4/) 
+merle: (मेरलेः ) daru - a tree or shrub with yellowish-green flowers and edible fruit. Flacourtia ramontchi, L'Herit., var. Occidentalis, H. & Th. Flacourtiaceae, B.14/3, H.14/2/2 (perhaps also B.14/4/) 
 
-merom (RX ) - a goat 
+merom (मेरोम) - a goat 
 *merom hon - a kid, young goat
 *merom ii: - goat droppings (in the ceremonial setting of the bride price these are sometimes used to indicate the number of heads of cattle requested or offered) 
 *merom kaṭa - goat’s leg (sometimes used to refer to a whole goat, e.g. when giving to guests) 
 *merom meḍ - to have the eyes bulging out (as do the eyes of a goat which has been killed if someone strikes the head with a strong stroke of a hammer) (see also luḍ meḍ) 
 *merom towa sanga - 1) a climber with large tubers, prob. Dioscorea alata, L., Dioscoreaceae, B.152/1, H.152/1/7; 2) a grass with small tubers 
 
-mesa (Aa ) - an alternate form for the more common misa, to be united or include with (e.g. someone or some group) 
+mesa (मेसा) - an alternate form for the more common misa, to be united or include with (e.g. someone or some group) 
 
-mēṭ, mēṭe (Ac, He ) - a mate, petty overseer 
+mēṭ, mēṭe (मे’ट, मे’टे ) - a mate, petty overseer 
 
-meta (Aa ) - to say to (usage same as men, q.v. but used when in Eng. we get an indirect object) e.g. tisiń kań seno:wań metaḍkowa, ‘I told them that I would not go today’. (N.B. the letter a is not lengthened in the future nor in the past tense, e.g. metakowae:, ‘He will tell them’, metaḍkowae:, ‘He told them’); to call someone this or that, e.g. I have a mango in my hand and ask a Ho, nena chikana:pe meta:?, ‘What do you call this?’ he would answer, nena ulile meta:, ‘we call this a mango’ (meta: = meta + mood marker -a) (Les. 35,36) 
+meta (मेता) - to say to (usage same as men, q.v. but used when in Eng. we get an indirect object) e.g. tisiń kań seno:wań metaḍkowa, ‘I told them that I would not go today’. (N.B. the letter a is not lengthened in the future nor in the past tense, e.g. metakowae:, ‘He will tell them’, metaḍkowae:, ‘He told them’); to call someone this or that, e.g. I have a mango in my hand and ask a Ho, nena chikana:pe meta:?, ‘What do you call this?’ he would answer, nena ulile meta:, ‘we call this a mango’ (meta: = meta + mood marker -a) (Les. 35,36) 
 
-metai (cig ) - sweetmeats
+metai (मेटाइ ) - sweetmeats
 
-metam (2d ) - 'I tell you', ‘mark my word’ (used in a sentence to emphasize some statement); sometimes used after a word denoting a person as an expression of contempt 
+metam (मेतम) - 'I tell you', ‘mark my word’ (used in a sentence to emphasize some statement); sometimes used after a word denoting a person as an expression of contempt 
 
-metatana (8aIdal ) - a word emphasizing that something is indeed such a thing, and therefore certain consequences can be expected. mengeya and menēḍgeya are used in this same way. The enclitic -tedo can mean much the same but is less emphatic 
+metatana (मेतातना ) - a word emphasizing that something is indeed such a thing, and therefore certain consequences can be expected. mengeya and menēḍgeya are used in this same way. The enclitic -tedo can mean much the same but is less emphatic 
 
-meya (aa ) - the hard inner core of a tree
+meya (मेया) - the hard inner core of a tree
 
-meyaṅ () - the day after tomorrow
+meyaṅ (मेयङ) - the day after tomorrow
 
-meyon (Aas ) - the mew (miaow) of a cat 
+meyoṅ (मेयोङ) - the mew (miaow) of a cat 
 
-mi (f§ ) - one (short form); in many expressions mi means ‘full’ e.g. mi ā ‘a mouthful’, mi chipuḍ, ‘a fistful’; sometimes it means ‘one stroke with’ something, e.g. mi ḍanḍa ‘one stroke with a stick’; also mi can mean the whole of some period, e.g. mi nida, ‘the whole night’, mi seta:ete ayub joka, ‘the whole time from morning until night, mi huṛińēte hapanumeyan jakeḍ, ‘the whole period from the time when she was small until she had become a young woman’ 
+mi (मि ) - one (short form); in many expressions mi means ‘full’ e.g. mi ā ‘a mouthful’, mi chipuḍ, ‘a fistful’; sometimes it means ‘one stroke with’ something, e.g. mi ḍanḍa ‘one stroke with a stick’; also mi can mean the whole of some period, e.g. mi nida, ‘the whole night’, mi seta:ete ayub joka, ‘the whole time from morning until night, mi huṛińēte hapanumeyan jakeḍ, ‘the whole period from the time when she was small until she had become a young woman’ 
 *mi ēn - the first deep sleep (until one first awakes) 
 *mi iya(leka) - very many 
 *mi mi - one each 
 *mi mi iya - very many to each one; with gele (an ear of grain) very many 
 *mi so~kai - very many (same as mi iya) 
 
-miḍ (fas ) - one (short form, with all the usages given under mi, q.V.); to be one with; to be united with; to have sexual intercourse (not considered polite to use in mixed company) 
+miḍ (मिड् ) - one (short form, with all the usages given under mi, q.V.); to be one with; to be united with; to have sexual intercourse (not considered polite to use in mixed company) 
 *miḍ da: - a late first good rain, coming too late for ploughing, but in time for sowing 
 *miḍgen - of the same type (referring to animate objects) 
 *miḍ-lāi:ren - born of the same mother 
@@ -533,14 +532,14 @@ miḍ (fas ) - one (short form, with all the usages given under mi, q.V.); to be
 *miḍ tala...miḍ tala - alternately (with one in between) 
 *miḍ torsa - immediately, in an instant, at once 
 
-miḍō (fz ) - one person (used alone or used with a personal noun, e.g miḍō raja, ‘a/one king’) 
+miḍō (मिडो’) - one person (used alone or used with a personal noun, e.g miḍō raja, ‘a/one king’) 
 *miḍō chanab miḍō - one after another (animates)
 *miḍō-midōte -one by one (animates)
 *midō misa midō - one by one in turn 
 
-milgaḍ (ffarg ) - of fat (itil ) e.g. of a pig, to remain on one’s hands after efforts to clean it; esp. of a woman, to have oil too thick on the head, e.g. en kui bo:-bale milgaḍakanae: (this is best removed by nāka hasa) 
+milgaḍ (मिलगड्) - of fat (itil ) e.g. of a pig, to remain on one’s hands after efforts to clean it; esp. of a woman, to have oil too thick on the head, e.g. en kui bo:-bale milgaḍakanae: (this is best removed by nāka hasa) 
 
-minḍi (ffs ) - a sheep 
+minḍi (मिंडि) - a sheep 
 *minḍi chidu - a kind of caterpillar which has dense black hair 
 *minḍi diriń - a sheep’s horn; the name of a herb with an edible vegetable popularly called lady’s fingers, Hibiscus esculentus, L. Malvaceae, B.26/10, H.26/8/3
 *minḍi gupi hō - a shepherd
@@ -551,156 +550,156 @@ minḍi (ffs ) - a sheep
 *minḍi-meromko - a collective noun for sheep and goats 
 *minḍi ub - wool 
 
-minḍō (fae ) - an alternate form of miḍō, one person 
+minḍō (मिंडो’) - an alternate form of miḍō, one person 
 
-mipiyaḍ (fiftag ) - one each
+mipiyaḍ (मिपियड् ) - one each
 
-mirā (faz' ) - twilight, before sunrise or after sunset; pass. - to be overtaken by twilight 
+mirā (मिरा’ ) - twilight, before sunrise or after sunset; pass. - to be overtaken by twilight 
 *mira-mira - twilight 
 
-mirt (ft ) daru - a big tree, the wood of which is not useful for carpentry work but only for burning, prob. Elaeodendron glaucum, Pers., Celastraceae, E.M. (under nin daru he gives miriri as an alternate form), B.44/2, H.44/4/1 
+mirī (मिरी ) daru - a big tree, the wood of which is not useful for carpentry work but only for burning, prob. Elaeodendron glaucum, Pers., Celastraceae, E.M. (under nin daru he gives miriri as an alternate form), B.44/2, H.44/4/1 
 
-mirī (PR ) haḍ - of a de~wa, to draw blood from his thigh for sacrificial purposes 
+mirī (मिरी) haḍ - of a de~wa, to draw blood from his thigh for sacrificial purposes 
 
-mirkalan (fiers ) - used in prayers as poetic parallel with baḍ, ‘to demand insistently’ 
+mirkalan (मिकालङ ९११) - used in prayers as poetic parallel with baḍ, ‘to demand insistently’ 
 
-mīr-mīr (4R-4R ) - same as mirāmirā, twilight 
+mīr-mīr (मीर-मीर ) - same as mirāmirā, twilight 
 
-miru (fie ) - the largest type of parrot 
+miru (मिरु ) - the largest type of parrot 
 
-misa (frat ) - once 
+misa (मिसा ) - once 
 *misa bano misa - sometime or other 
 *misaw ka - not even once, never
 *misa-misa - sometimes 
 
-misa (ff ) - to unite with, include with, mix; verbal affix - to do something together with 
+misa (मिसा ) - to unite with, include with, mix; verbal affix - to do something together with 
 *misate - together with: at the same time 
 *misa-misate - at the same time (of many individuals) 
 
-misaḍ (Fwg ) - the year before last
+misaḍ (मिसड् ) - the year before last
 
-misi () - younger sister; a younger cousin-sister (also used in very broad sense, e.g. in expression haga-misiko, ‘brothers and sisters’ used in addressing a group of people 
-
+misi (मिसि) - younger sister; a younger cousin-sister (also used in very broad sense, e.g. in expression haga-misiko, ‘brothers and sisters’ used in addressing a group of people 
 *misi-bareko - girls  and their brothers 
 *misi era - younger sister, younger female cousin
 *misiya-bareya - of a girl and her brother, to do some activity together
 
-misin (PRs ) - a machine
+misin (मिसिन) - a machine
 
-mistiri (frafaft ) - a mechanic, craftsman, mason 
+mistiri (मिसतिरि ) - a mechanic, craftsman, mason 
 
-miṭai (Frelg ) - sweetmeats 
+miṭai (मिटाइ ) - sweetmeats 
 
-miṭi (fAfe ) - used in prayers parallel to baḍ, ‘to demand’, with the same meaning 
+miṭi (मिटि) - used in prayers parallel to baḍ, ‘to demand’, with the same meaning 
 
-miṭiń (ffes ) - meeting (better Ho wound be dunub) 
+miṭiń (मिटिञ) - meeting (better Ho wound be dunub) 
 
-miyaḍ (ffag ) - one (long form); to become one (pass. form) 
+miyaḍ (मियड्) - one (long form); to become one (pass. form) 
 *miyaḍ misa miyaḍ - one by one in turn (of animals or things, of people midō misa miḍō would be used) 
 
-miyu (faq ) - a calf (also muyu)
+miyu (मियु ) - a calf (also muyu)
 
-mō (x ) - swollen; to swell; pass. - to become swollen 
+mō (मो’ ) - swollen; to swell; pass. - to become swollen 
 *mō-batuwa - pass. - to be swollen with a long standing swelling, esp. in the feet
 *mō-lūlū - to swell up causing a lump 
 *mō-sapuwa - to swell up; to be swollen (esp. over a large area) 
 *mō-sipae:-sopoe: - of a limb, to well up with fluid 
 *mō-topa - to swell to as to bury (e.g. of the face being so swollen that eyes are hidden)
 
-mo: () - smoke; to give off smoke; to feel smoke in the eyes (Les. 26) 
+mo: (मोः) - smoke; to give off smoke; to feel smoke in the eyes (Les. 26) 
 *mo:-parā-purū - of the eyes, to water because of smoke 
 
-mocha (ar ) - the front part of the mouth (lips, etc., the whole mouth is ā) 
+mocha (मोचा ) - the front part of the mouth (lips, etc., the whole mouth is ā) 
 *mocha data - used in prayers parallel to and taking on the meaning of ā daṭa, q.v 
 *mocha-parchi - ‘lip cleaner’, chilli (so referred to in jest esp. by the host at a feast) 
 
-mochokundi (ararefe ) daru - a large tree. prob. Pterospermum acerifolium, Willd., Sterculiceae, B.27/4, H.27/5/1, which has large fragrant white flowers; and possibly also Michelia champara, L., Magnohaceae, B.3/1, H.3/1/1 which has smaller fragrant yellow flowers
+mochokundi (मोचोकुंदि ) daru - a large tree. prob. Pterospermum acerifolium, Willd., Sterculiceae, B.27/4, H.27/5/1, which has large fragrant white flowers; and possibly also Michelia champara, L., Magnohaceae, B.3/1, H.3/1/1 which has smaller fragrant yellow flowers
 *mochokundi bā - the large flowers of the mochokundi daru; These have medicinal uses
 
-mocho-mocho (atattat ) - beautiful, well-proportioned
+mocho-mocho (मोचो-मोचो ) - beautiful, well-proportioned
 
-mochon (rears ) - the edge e.g. of some elevated surface 
+mochon० (मोचोङ ) - the edge e.g. of some elevated surface 
 *disum mochoṅēte - from the ends of the earth
 *mochoṅ-mochoṅ - along the edges or side 
 
-mochoṛaw (artsa ) - a sprain; to be sprained (better Ho would be loṭoe:) 
+mochoṛaw (मोचोड़व ) - a sprain; to be sprained (better Ho would be loṭoe:) 
 
-modai (Aras ) - a plaintiff, claimant, one who takes a case against another (also mudai) 
+modai (मोदाइ ) - a plaintiff, claimant, one who takes a case against another (also mudai) 
 
-modali (atafe ) - the defendant, the accused in a court case (also mudali) 
+modali (मोदलि ) - the defendant, the accused in a court case (also mudali) 
 
-modoḍ (acs ) - help (from Hindi, proper Ho would be denga) 
+modoḍ (मोदोड् ) - help (from Hindi, proper Ho would be denga) 
 
-moe (ar ) - five (short form) 
+moe (मोए) - five (short form) 
 
-moe: (Av ) - to blossom, bud 
+moe: (मोए ) - to blossom, bud 
 
-moe: (Av: ) - beautiful
+moe: (मोएः ) - beautiful
 *moe:-mojo:ge - beautifully (moe:moe: + o:ge) e.g. honte kui moe:mojo:ge: nel-sengereyana, ‘His daughter grew into young womanhood beautifully’ 
 
-mogai (arms) lungama - variety of silkworm cocoon 
+mogai (मोगाइ) lungama - variety of silkworm cocoon 
 
-mogaru (AT ) - a wooden mallet
+mogaru (मोगरु ) - a wooden mallet
 
-mogau (Ars ) - of the colour of cattle, a mixture of dark grey and white 
+mogau (मोगाउ ) - of the colour of cattle, a mixture of dark grey and white 
 
-mogo-mogo (4ri—arT ) - of a human body, to be healthily filled out (somewhat fat throughout) 
+mogo-mogo (मोगो-मोगो ) - of a human body, to be healthily filled out (somewhat fat throughout) 
 
-moja (ict ) - stockings 
+moja (मोजा) - stockings 
 
-moka (#1 ) - an opportunity (Hindi - mauka) 
+moka (मोक) - an opportunity (Hindi - mauka) 
 
-mokor (aR ) porob - the Makar Sankranti feast of the Hindus held about Jan. 14th (see also diku porob) 
+mokor (मोकोर) porob - the Makar Sankranti feast of the Hindus held about Jan. 14th (see also diku porob) 
 
-mokordoma (ART ) - a case in a court; a law suit 
+mokordoma (मोकोरदोमा) - a case in a court; a law suit 
 
-mola: (ata: ) - fed up, i.e. having no appetite because one has recently eaten or because of repeatedly getting the same thing; also fed up with hearing the same thing over and over 
+mola: (मोलः ) - fed up, i.e. having no appetite because one has recently eaten or because of repeatedly getting the same thing; also fed up with hearing the same thing over and over 
 
-mol-mol (Hta—aTa ) - a repulsive stench e.g. on one having passed wind, of rotting flesh 
+mol-mol (मोल-मोल ) - a repulsive stench e.g. on one having passed wind, of rotting flesh 
 
-moloṅ (Fics ) - the part of the head right above the forehead
+moloṅ (मोलोङ ) - the part of the head right above the forehead
 
-mōm-bati (ara—sfa ) - a candle
+mōm-bati (मो’म-बति) - a candle
 
-mon (4m ) - the mind 
+mon (मोन ) - the mind 
 *mon-duku - to be sad, repentant, grieved; sadness, repentance, grief
 
-mon, mōn (AM, 4a ) - one maund (weight) 
+mon, mōn (मोन, मो’न) - one maund (weight) 
 
-moncho (Aaa ) - a place where spirits of the dead stay (considered lower than sorog and higher than patāl) 
+moncho (मोनचो ) - a place where spirits of the dead stay (considered lower than sorog and higher than patāl) 
 
-mondol (Fie ) - a pleasant scent e.g. of flowers, purfume
+mondol (मोंदोल) - a pleasant scent e.g. of flowers, purfume
 
-mondowaṅ (Aiaas ) - very dark; black, e.g. of a crow, or of a person’s complexion 
+mondowaṅ (मोंदोवङ ) - very dark; black, e.g. of a crow, or of a person’s complexion 
 
-mone (= ) - of a fighting cock after being introduced to his opponent, to show an eagerness to fight
+mone (मोने) - of a fighting cock after being introduced to his opponent, to show an eagerness to fight
 
-mongolmondi (atutaatfe ) - Singhbhum (an old name still sometimes heard esp. by men who have moved to Orissa, and also sometimes heard in prayers and old songs. It possibly refers to some area in Singhbhum which some centuries ago was captured or reserved by the Moguls. E.M. gives “mogolbandi, mongolbandi - a reserved forest. H. Mughal and bandhna, closed by the Mughal Government”) 
+mongolmondi (मोंगोलमोंदि ) - Singhbhum (an old name still sometimes heard esp. by men who have moved to Orissa, and also sometimes heard in prayers and old songs. It possibly refers to some area in Singhbhum which some centuries ago was captured or reserved by the Moguls. E.M. gives “mogolbandi, mongolbandi - a reserved forest. H. Mughal and bandhna, closed by the Mughal Government”) 
 
-mongoṛa (atiuist ) - a female goddess (possibly Parvati) sometimes invoked by those who divine by the use of mantras
+mongoṛa (मोंगोड़ा ) - a female goddess (possibly Parvati) sometimes invoked by those who divine by the use of mantras
 
-mongoṛobar (alirstax_) - Tuesday (for this people living near Chaibasa usually say hāṭ musiń) 
+mongoṛobar (मोंगोड़ोबर) - Tuesday (for this people living near Chaibasa usually say hāṭ musiń) 
 
-monsa (AM ) - a female goddess considered to be a very powerful guru bonga who teaches powerful mantras to her disciples 
+monsa (मोनसा ) - a female goddess considered to be a very powerful guru bonga who teaches powerful mantras to her disciples 
 
-montor, montō:r (AMAR , AMAR) - mantras; to chant mantras; to say mantras over someone (with the person as direct obj., e.g. montorītanako, ‘they are saying mantras over him’)
+montor, montō:r (मोनतोर, मोनतो’ःर ९११) - mantras; to chant mantras; to say mantras over someone (with the person as direct obj., e.g. montorītanako, ‘they are saying mantras over him’)
 *montor-bugin(ura) - to heal by the use of mantras 
 *montor-eṛa: - to drive out by the use of mantras 
 *montor-jīḍ - to revive an apparently dead (or dying) person by the use of mantras 
 
-mōr (AX ) - a seal, the impression of a seal; an office stamp; to seal or stamp (something) 
+mōr (मो’र) - a seal, the impression of a seal; an office stamp; to seal or stamp (something) 
 *mōr hisir - a necklace made of silver pieces
-*mō:r (ATX ) - a smell such as that given off by burning chicken feathers or by a dead body being cremated (with verb sowan) (used in forms mō:rge/ mō:rleka sowantana, mō:r-mō:rtan sowantana)
+
+*mō:r (मो’ःर ९११ ९१२) - a smell such as that given off by burning chicken feathers or by a dead body being cremated (with verb sowan) (used in forms mō:rge/ mō:rleka sowantana, mō:r-mō:rtan sowantana)
 *mō:r-mō:r(tan) - see mō:r
 
-moṛa (#IsI ) - a corpse
+moṛa (मोड़ा ८८) - a corpse
 *moṛa lija: - a burial cloth, a shroud
 
-Morbōnjo (Arai‘st ) - the Mayurbanj District of Orissa
+Morbōnjo (मोरबों’जो ) - the Mayurbanj District of Orissa
 
-mo~ṛe (His ) - five, short form (This form is used in Mundari and in the northern part of the Ho country. Elsewhere the Hos used moe for five)
+mo~ṛe (मोंड़े) - five, short form (This form is used in Mundari and in the northern part of the Ho country. Elsewhere the Hos used moe for five)
 
-moroe: (ARN: ) - sour, acid (e.g. of a tamarind fruit, dahi) (Les. 26)
+moroe: (मोरोए: ) - sour, acid (e.g. of a tamarind fruit, dahi) (Les. 26)
 *moroe: da: = dundu: da: - water in which rice has been cooked, kept over for a day or two (appreciated as a drink in the hot season)
 *moroe: dakrasi - sour wine, vinegar
 *moroe: ipil ā: - a name sometimes given to the ara: ipil ā:, q.v.
@@ -708,82 +707,82 @@ moroe: (ARN: ) - sour, acid (e.g. of a tamarind fruit, dahi) (Les. 26)
 *moroe: manḍi - rice which has become sour from sitting two-three days in water
 *moroe: musiń - the day after the basi feast, i.e. the second day after a feast
 
-moṛoe (aIsty ) - a spirit whose charge is to take care of (gupi) the jungle animals. Hunters have reputedly seen this spirit and claim that he is very short (a dwarf) and has long hair on his body 
+moṛoe (मोड़ोए) - a spirit whose charge is to take care of (gupi) the jungle animals. Hunters have reputedly seen this spirit and claim that he is very short (a dwarf) and has long hair on his body 
 
-moron (AR ) daru, moron nai - a short twining shrub with copious juice, Marsdenia tenacissima, W. & A., Asclepiadaceae, B.90/9, H.90/17/1 
+moron (मोरोन) daru, moron nai - a short twining shrub with copious juice, Marsdenia tenacissima, W. & A., Asclepiadaceae, B.90/9, H.90/17/1 
 *moron ā: - the edible leaves of the moron shrub 
 
-moṛondo (Atsiel ) - fully matured, in full adult strength (also maru, moṛondo implies a slightly stronger state than maru. Both words are also sometimes used preceded by the word hām) 
+moṛondo (मोड़ोंदो ) - fully matured, in full adult strength (also maru, moṛondo implies a slightly stronger state than maru. Both words are also sometimes used preceded by the word hām) 
 
-morso, moroso, moros (ARG, ARK, arr ) - to wither or dry up (more so than goso; moroso and moros are sometimes used in songs) 
+morso, moroso, moros (मोरसो, मोरोसो, मोरोस ) - to wither or dry up (more so than goso; moroso and moros are sometimes used in songs) 
 
-moso (art ) - ight black; to blacken one’s face with blackish ashes, e.g. of straw 
+moso (मोसो ) - light black; to blacken one’s face with blackish ashes, e.g. of straw 
 
-mosongoḍ (aris ) - black from soot or from having been burnt
+mosongoḍ (मोसोंगोड् ) - black from soot or from having been burnt
 
-moṭa (Aer ) - fat; thick; of the voice, deep 
+moṭa (मोटा ) - fat; thick; of the voice, deep 
 
-moti (Af ) - a pearl (Hindi, used in Ho stories)
+moti (मोति ) - a pearl (Hindi, used in Ho stories)
 
-moṭor (AleX ) - a motor 
+moṭor (मोटोर ) - a motor 
 *moṭor daṛaka - a truck 
 *moṭor gaṛi - a motor car
 
-motora (Ald ) - very dirty, e.g. from heavy dust, etc. 
+motora (मोतोरा ) - very dirty, e.g. from heavy dust, etc. 
 
-moṭora (Aer ) - a pea 
+moṭora (मोटोरा) - a pea 
 
-mōya (ara ) - five (long form)
+mōya (मो’या ) - five (long form)
 
-moyla (Amen ) - dirty 
+moyla (मोयला ) - dirty 
 
-moyo: (Ara: ) - pass. of moe, ‘to blossom’ 
+moyo: (मोयोः ) - pass. of moe, ‘to blossom’ 
 
-muchaḍ (3x< ) - to finish off, destroy, put an end to 
+muchaḍ (मुचड्) - to finish off, destroy, put an end to 
 
-muchi (fa ) - a shoemaker
+muchi (मुचि ) - a shoemaker
 
-muchu (3% ) - a kind of fish trap made of bamboo strips tied together in a conical shape with an opening at the top and a wider opening at the bottom through which fish enter and cannot swim out. They are then taken out by hand; to trap fish in this way
+muchu (मुचु ) - a kind of fish trap made of bamboo strips tied together in a conical shape with an opening at the top and a wider opening at the bottom through which fish enter and cannot swim out. They are then taken out by hand; to trap fish in this way
 *muchu-biyur - to move a muchu around in water in order to catch fish 
 
 muchuriya pāṭ kantaṛa-jantaṛa - a jantaṛa q.v. rite, performed before reaping grasses used for thatching (sayū) and making brooms (jono:ko)
 
-mudai (ag ) - a plaintiff, also modal, q.v. 
+mudai (मुदाइ ) - a plaintiff, also modal, q.v. 
 
-mudali (qafe ) - the defendant, the accused in a court case (also modali)
+mudali (मुदालि ) - the defendant, the accused in a court case (also modali)
 
-mudam (4 ) - a finger-ring (also pola) 
+mudam (मुदम ) - a finger-ring (also pola) 
 
-mugai (4s ) lungam - a variety of silkworm cocoons (also called mogai lungam) 
+mugai (मुगाइ) lungam - a variety of silkworm cocoons (also called mogai lungam) 
 
-mugi (ft ) - acultivated pulse crop, Phaseolus aconitifolius, Jacq., Papilionaceae, H.53/49/5, B.53/85
+mugi (मुगि ) - acultivated pulse crop, Phaseolus aconitifolius, Jacq., Papilionaceae, H.53/49/5, B.53/85
 
-mui: (43: ) - a small ant; of numerous small ants, to attack something, e.g. sugar 
+mui: (मुइः ) - a small ant; of numerous small ants, to attack something, e.g. sugar 
 *mui: ā: - a small edible which is found in the hot season, Polygonum plebejum, Br., Polygonaceae, H.111/1/1, B.111/7 
 
-mūi: (4g: ) - to sink down into some non-liquid (for a liquid ḍubui: is used); to become embedded in
+mūi: (मूइः) - to sink down into some non-liquid (for a liquid ḍubui: is used); to become embedded in
 
-mujuri (aR ) paiṭi - work for wages; to work for wages; compare ṭika paiṭi, to work at a rate according to the volume of work completed
+mujuri (मुजुरि) paiṭi - work for wages; to work for wages; compare ṭika paiṭi, to work at a rate according to the volume of work completed
 
-muka (qaI ) - a measurement of 1 cubit (elbow to finger tip, about a half yard); to measure off in cubits
+muka (मुका ) - a measurement of 1 cubit (elbow to finger tip, about a half yard); to measure off in cubits
 *mi muka munḍuraḍ - one muka plus one munḍuraḍ, q.v.
 
-mukui (44g ) - the knee 
+mukui (मुकुइ ) - the knee 
 *mukui lunuki: - the back of the knee at the place where the knee bends 
 *mukui rapaṛub - to knock the knees together when walking; to be knock-kneed 
 
-mukuń (445 ) - to bother, annoy; to feel bored, fed up, annoyed
+mukuń (मुकुञ ) - to bother, annoy; to feel bored, fed up, annoyed
 
-mula (qe ) ā: - a radish, Raphanus sativus, L. Cruciferae, B.10/5, H.10/11/1 
+mula (मुला ) ā: - a radish, Raphanus sativus, L. Cruciferae, B.10/5, H.10/11/1 
 *mula daka, mula ā: daka - the edible tuber of the mula (ā:) plant.
 
-mulaw (qed ) - to buy or sell a whole lot (e.g. a basket-full) without measuring or weighing 
+mulaw (मुलाव ) - to buy or sell a whole lot (e.g. a basket-full) without measuring or weighing 
 
-mulga (3a7 ) daru - the horse radish tree, Moringa oleifera, Lamk., Moringaceae, H.52, B.52
+mulga (मुलगा) daru - the horse radish tree, Moringa oleifera, Lamk., Moringaceae, H.52, B.52
 *mulga ā: - the edible leaves of the mulga tree 
 *mulga bā - the edible flowers of the mulga tree 
 
-muli (afa ) - straight; to make straight; to go straight; to go in the direction of (often as verbal affix)
+muli (मुलि ) - straight; to make straight; to go straight; to go in the direction of (often as verbal affix)
 *goṭa muli - in all directions, everywhere 
 *miḍge muli - uniformly straight; straight on all sides, e.g. a bandi with no parts bulging out 
 *okon muli - whither? to where?
@@ -798,100 +797,100 @@ muli (afa ) - straight; to make straight; to go straight; to go in the direction
 *muli singi - high noon
 *muli tikin - same as muli singi
 
-mulu: (3g) - the new moon; the time of the new moon
+mulu: (मुलुः) - the new moon; the time of the new moon
 *mulu: chanḍu: - the new moon; next month
 
-muluku (ap) - a region
+muluku (मुलुकु) - a region
 
-munchi (#2 ) - to divide about a towab of reaped paddy down the middle and then tie two ends together, and use this in order to tie together a muṭi of paddy; paddy thus tied together for this purpose (also manchi)
+munchi (मुंचि) - to divide about a towab of reaped paddy down the middle and then tie two ends together, and use this in order to tie together a muṭi of paddy; paddy thus tied together for this purpose (also manchi)
 
-munḍa (¥s1 ) - a village headman; wealthy (usually in the form munḍatan); a member of the Munḍa tribe
-
+munḍa (मुंडा) - a village headman; wealthy (usually in the form munḍatan); a member of the Munḍa tribe
 *munḍa hatana: - one variety of the hatana: tree, q.v.; its surface is rough; the gaṛa hatana: has a smooth surface
 
-munḍi (f= ) - an end of a string; a starting point for something; a clue or information (e.g. enreya: munḍi bano:wa, ‘There is no clue about that’); meaning; to begin from some point, e.g. okonta:etebu munḍīya, ‘From where will we start it’
+munḍi (मुंडि) - an end of a string; a starting point for something; a clue or information (e.g. enreya: munḍi bano:wa, ‘There is no clue about that’); meaning; to begin from some point, e.g. okonta:etebu munḍīya, ‘From where will we start it’
 *miḍ munḍīte - from the very beginning, e.g. when explaining or narrating something
 
-munḍraḍ, munḍuraḍ (48% . 482) - the length from the elbow to the end of the closed fist
+munḍraḍ, munḍuraḍ (मुंडरड्‌, मुंडुरड्) - the length from the elbow to the end of the closed fist
 
-munḍu (4 ) - to enter a body of water, a pit, etc., to the height indicated by the part of the body mentioned (e.g. mukui munḍu, ‘to the knee’); if no part of the body is mentioned it means to enter to a height over one’s head; for the full length of something, e.g. an arrow or a stick to enter into some object; in some expressions munḍu seems to refer to the end or completion of something, e.g. hal munḍu, q.v., and ote munḍu, q.v. 
+munḍu (मुंडु) - to enter a body of water, a pit, etc., to the height indicated by the part of the body mentioned (e.g. mukui munḍu, ‘to the knee’); if no part of the body is mentioned it means to enter to a height over one’s head; for the full length of something, e.g. an arrow or a stick to enter into some object; in some expressions munḍu seems to refer to the end or completion of something, e.g. hal munḍu, q.v., and ote munḍu, q.v. 
 *bō: munḍu - to a height over one’s head 
 *supu munḍu - up to the upper part of the arm (e.g. when reaching one’s arm into a hole) 
 *munḍu lāi: - the small entrails of fowls 
 
-Munḍu (ig ) buru - a hill behind the agricultural farm at Putida: village 
+Munḍu (मुंडु ) buru - a hill behind the agricultural farm at Putida: village 
 
-mundura (4x ) - a kind of ear ornament worn in some place by both young men and girls
+mundura (मुंदुरा ) - a kind of ear ornament worn in some place by both young men and girls
 
-munḍura (4s ) gom - a variety of wheat which does not have small projections (rosa) coming out of the grains 
+munḍura (मुंडुरा ) gom - a variety of wheat which does not have small projections (rosa) coming out of the grains 
 
 munḍuraḍ - see munḍraḍ 
 
-munga (4m ) hisir - a necklace of coral beads (used in stories; prob. as in Bodding, ‘a necklace of long red beads’. Hindi -mūga, ‘red coral’
+munga (मुंगा) hisir - a necklace of coral beads (used in stories; prob. as in Bodding, ‘a necklace of long red beads’. Hindi -mūga, ‘red coral’
 
-muni (af ) - an ascetic, hermit, seer 
+muni (मुनि ) - an ascetic, hermit, seer 
 *muni bonga - a muni who has died and become a bonga. Such a bonga would also be a guru bonga, q.v. 
 *muni risiko - a collective noun for ascetics or seers; in prayers used to refer to muni bongako 
 
-munsi (4% ) - a clerk 
+munsi (मुंसि ) - a clerk 
 
-munu (4 ) - origin; original; first beginning 
+munu (मुनु) - origin; original; first beginning 
 *munu kāṛ(o) - from very ancient times
 
-mūṛ (4s ) - main; capital (as distinct from interest) 
+mūṛ (मूड़ ) - main; capital (as distinct from interest) 
 *mūṛ kaji - the main point under discussion (also sār kajl) 
 
-mū:r (4:% ) daru - a small to medium sized tree with showy scarlet-orange coloured flowers, the Palas or Flame of the forest, Butea frondosa, Roxb., Papilionaceae, B.53/12, H.53/45/1 
+mū:r (मूःर ८८) daru - a small to medium sized tree with showy scarlet-orange coloured flowers, the Palas or Flame of the forest, Butea frondosa, Roxb., Papilionaceae, B.53/12, H.53/45/1 
 *mū:r nai - creepers of the mū:r tree 
 
-murchuḍ (args ) - to cut short, e.g. when reaping, or of cattle, when grazing (also hurchaḍ) 
+murchuḍ (मुरचुड् ) - to cut short, e.g. when reaping, or of cattle, when grazing (also hurchaḍ) 
 
-murdum (4x44 ) - a small drum used by snake-charmers 
+murdum (मुरदुम) - a small drum used by snake-charmers 
 
-murga (41 ) - a shrub with pointed leaves much used as a hedge and producing good fibre for ropes (called ‘konga’ in many languages), Agave cantula, Roxb., Amaryllidaceae, H.149/1/2-3, B.149/1 
+murga (मुरगा ) - a shrub with pointed leaves much used as a hedge and producing good fibre for ropes (called ‘konga’ in many languages), Agave cantula, Roxb., Amaryllidaceae, H.149/1/2-3, B.149/1 
 
-murgaḍ (as ) - by cutting, breaking or eating off the top part, to leave a section of a stalk or of a thin tree trunk standing; a section of a stalk or of a thin tree trunk so left standing (nara has the same meaning but is used only of paddy or wheat whereas murgaḍ can be used of anything, e.g. reyaṛi)
-mūrir (af) - a petition writer
+murgaḍ (मुरगड् ) - by cutting, breaking or eating off the top part, to leave a section of a stalk or of a thin tree trunk standing; a section of a stalk or of a thin tree trunk so left standing (nara has the same meaning but is used only of paddy or wheat whereas murgaḍ can be used of anything, e.g. reyaṛi)
 
-murki (af ) - an ear-ring; to wear an ear-ring 
+mūrir (मूरिर) - a petition writer
 
-murluṅ (3Xqs) - of a man, e.g. when speaking, to move his lips in a quick way resembling that of a muskrat (cf. lumur-lumur). This is normally used with the word ā, mouth, e.g. āe: murluṅetana 
+murki (मुरकि ) - an ear-ring; to wear an ear-ring 
+
+murluṅ (मुरलुङ) - of a man, e.g. when speaking, to move his lips in a quick way resembling that of a muskrat (cf. lumur-lumur). This is normally used with the word ā, mouth, e.g. āe: murluṅetana 
 *murluṅ-ā - used as a verb with meaning given above, e.g. murluṅ-ā-baetanae:, ‘He moves his mouth about as a muskrat does’ 
 
-murmuṛi (aRafs ) - a very small kind of mosquito 
+murmuṛi (मुरमुड़ि ८८ ) - a very small kind of mosquito 
 
-murtu (xq ) - a statue, figure
+murtu (मुरतु ) - a statue, figure
 
-murui (AX ) - a large bamboo receptacle for storing grains
+murui (मुरुइ) - a large bamboo receptacle for storing grains
 
-muruku (48% ) - foolish, stupid, stubborn 
+muruku (मुरुकु) - foolish, stupid, stubborn 
 
-murum (qe ) - a nilgai (a large antelope) (see also susam) 
+murum (मुरुम ) - a nilgai (a large antelope) (see also susam) 
 
-murum (44 ) - of cattle, to be of a deep greyish colour (probably referring to the colour of the nilgat)
+murum (मुरुम ) - of cattle, to be of a deep greyish colour (probably referring to the colour of the nilgat)
 *murum uḍ - an edible mushroom, blackish in colour
 
-muruwam (4ed4 ) - of men, very dark in complexion (used as an insult) 
+muruwam (मुरुवम ) - of men, very dark in complexion (used as an insult) 
 
-musiń (fas ) - one day; day
+musiń (मुसिञ ) - one day; day
 *musiń bano musiń - some day or other 
 *musin betaraṅ - one day
 *musiń danaṅ musiń - on alternate days 
 *musiń ulan- one day 
 
-muskil, musukil (qafea, qfra ) - difficult; difficulty; pass. verb - to be in difficulty; to find something difficult 
+muskil, musukil (मुसकिल, मुसुकिल) - difficult; difficulty; pass. verb - to be in difficulty; to find something difficult 
 
-musūi: (44g: ) - to become dirty, e.g. clothes 
+musūi: (मुसूइः) - to become dirty, e.g. clothes 
 
-mūṭ, mūṭu (Fe, 4 ) - verbal affix used with her, to make a start (at sowing); refl. mūṭun - to observe the her mūṭ (q.v.) rites 
+mūṭ, mūṭu (मूट, मूटु) - verbal affix used with her, to make a start (at sowing); refl. mūṭun - to observe the her mūṭ (q.v.) rites 
 *mūṭ(u) porob - the her mūṭ (q.v.) feast; refl. mūṭu poroben, ‘to observe the her mūṭ feast 
 
-muta (aq ) - a brass bowl, a lota
+muta (मुता ) - a brass bowl, a lota
 *muta ā - the mouth of a muta
 *muta da: - water given in a muta to wash up, e.g. when a guest arrives, before and after eating
 *muta dubui - the base of a muta 
 
-muṭa (er ) - nose (also muwa)
+muṭa (मुटा) - nose (also muwa)
 *mi muṭa - a noseful
 
 258 
@@ -901,37 +900,39 @@ muṭa (er ) - nose (also muwa)
 *muṭa sopor - the nose and adjoining part of the face of a cow, bull, bison, etc. (sopor is apparently not used alone in Ho)
 *muṭa unḍu - nostril 
 
-muṭi (ale) - a tied sheaf (e.g. of grass) a bit more than can be encompassed by both hands; to tie into such a sheaf 
+muṭi (मुटि) - a tied sheaf (e.g. of grass) a bit more than can be encompassed by both hands; to tie into such a sheaf 
 *muṭi baba - paddy tied together in sheaves 
 
-muṭi (fe ) - of men and animals, the region about the base of the spine; of birds, chickens, etc., the posterior where the feathers prtrude; in the term rimil muti, q.v., muṭi seems to refer to the base of a cloud, (the part nearest the earth) 
+muṭi (मुटि) - of men and animals, the region about the base of the spine; of birds, chickens, etc., the posterior where the feathers prtrude; in the term rimil muti, q.v., muṭi seems to refer to the base of a cloud, (the part nearest the earth) 
 
-mutiḍ (afas ) - every (follows word, e.g. sirma mutiḍ, “every year) 
+mutiḍ (मुतिड् ) - every (follows word, e.g. sirma mutiḍ, “every year) 
 
-Muṭkan, Muṭukan () - a member of the Bhumij tribe (also called Bumbuji) 
+Muṭkan, Muṭukan (मुटकन, मुटुकन) - a member of the Bhumij tribe (also called Bumbuji) 
 
-muṭu (fg)-a log 
+muṭu (मुटु)-a log 
 *muṭu sengel - a log fire 
 
-mūṭu (%~ ) - same as mūṭ, q.v. 
+mūṭu (मूटु) - same as mūṭ, q.v. 
 
-mutuḍ (4g ) - a fragrant smell; giving off a fragrant smell
+mutuḍ (मुतुड् ) - a fragrant smell; giving off a fragrant smell
 
-mutukul (4q¢a ) - first born (also ḍinḍa lāi: hon, pu~ṛuwa (lāi:) hon)
+mutukul (मुतुकुल) - first born (also ḍinḍa lāi: hon, pu~ṛuwa (lāi:) hon)
 
-mutul (4a ) - the two end walls of a house (as distinct from the front and rear walls) which help to support the ridge pole (jangi) (sometimes in a roughly made house or cowshed these are supported by a pole (mutul kunṭu) but it is often the walls themselves which support the ridge pole)
+mutul (मुतुल) - the two end walls of a house (as distinct from the front and rear walls) which help to support the ridge pole (jangi) (sometimes in a roughly made house or cowshed these are supported by a pole (mutul kunṭu) but it is often the walls themselves which support the ridge pole)
 *mutul dopa - the opening between the wall and the roof of a side wall of a kupi owa;, q.v.
 *mutul jangi - the ridge pole at the ridge of a house 
 *mutul kunṭu - the posts at the two ends of a house or shed which help to support the ridge pole
 
-muṭuri (qc ) - a bundle of many things; to bundle many things together (see also juṭri-muṭri)
+muṭuri (मुटुरि ) - a bundle of many things; to bundle many things together (see also juṭri-muṭri)
 
-muwa (4a ) - nose (also muṭa)
+muwa (मुवा) - nose (also muṭa)
 *muwa danḍi - the bridge of the nose 
 *muwa unḍu - the nostril
 
-muwal (qaqa ) - the ridge along the tope of a house; to put tiles or thatch over the ridge of a house 
+muwal (मुवल) - the ridge along the tope of a house; to put tiles or thatch over the ridge of a house 
 
-muyu (4 ) - a calf (also miyu)
+muyu (मुयु) - a calf (also miyu)
 
-muyu: (4%: ) - lonely; a sad feeling at being alone
+muyu: (मुयुः ) - lonely; a sad feeling at being alone
+
+
