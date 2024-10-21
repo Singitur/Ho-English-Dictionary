@@ -4,8 +4,8 @@
 
 chaḱ (ken) > the sound of a slap; to slap someone making this sound
 *chaḱ-bagol > to slap someone suddenly
-*chaḱ-bangol > same as cha:-bagol
-*chaḱ-chaḱ (tan) > the sound of heavily falling rain; (less frequently) the sound of repeated slapping; the sound made by repeatedly hitting the ground when clearing (la:) it with a kudali
+*chaḱ-bangol > same as chaḱ-bagol
+*chaḱ-chaḱ (tan) > the sound of heavily falling rain; (less frequently) the sound of repeated slapping; the sound made by repeatedly hitting the ground when clearing (laḱ) it with a kudali
 chaḱ-choḱ (tan) > the sound of slapping, a bone breaking, arrows or axes hitting one another 
 
 chã́ > tea 
@@ -24,7 +24,7 @@ chaba-nam > to finish completely
 chaba-rená > to absolutely finish
 *chaba-utaraṅ > same as chaba-rená 
 
-chabaḱ-chubuḱ (tan) > the sound of many small objects or animals, e.g. fishes, falling or jumping into water with a splash (with verbs ui, jyu: etc.) (see also chubu:ken) 
+chabaḱ-chubuḱ (tan) > the sound of many small objects or animals, e.g. fishes, falling or jumping into water with a splash (with verbs uć, iuḱ etc.) (see also chubuḱ ken) 
 
 chabar-chubur > the sound produced by two people alternately husking together 
 
@@ -39,24 +39,24 @@ chabuḱ > esp. of the fingers, to be dipped into some liquid, e.g. oil
 
 chabura > to sink down into water, e.g. of a person or a heavy object falling or being thrown into water 
 
-chachaḱ > to tear, e.g. cloth, paper; note the expression chacha:tane: iyuitana, he is shouting tearing his mouth', ie. with full voice
+chachaḱ > to tear, e.g. cloth, paper; note the expression chachaḱ taneć iuê tana, he is shouting tearing his mouth', ie. with full voice
 chachaḱ á > term applied to one who blurts out anything that comes to his mind
 *chachaḱ-bara > to tear into two approximately equal parts
 *chachaḱ-beteć-beteć > to tear into small pieces (into shreds) 
 
-chã́-chẽ́ (tan) > the high thin sound of many small babies crying here and there (compare chẽ́ chẽ́ used for the high thin cry of a small baby crying repeatedly (with verb ra: etc.) 
+chã́-chẽ́ (tan) > the high thin sound of many small babies crying here and there (compare chẽ́ chẽ́ used for the high thin cry of a small baby crying repeatedly (with verb raḱ etc.) 
  
 
 chachić > to split off a part (strip) of e.g. a bamboo pole or a log 
 
 chá-chú > words used to encourage a baby to walk; baby talk for 'to walk' 
 
-chadaḱ-chadaḱ > to jump up and down with both feet together (used esp. of small birds) (Often used with-tan and verbs such as sen or nir, e.g. chada:-chada: tane: nireya, He will run away hopping along) (also dacha:-dacha:) 
+chadaḱ-chadaḱ > to jump up and down with both feet together (used esp. of small birds) (Often used with-tan and verbs such as sen or nir, e.g. chadaḱ-chadaḱ taneć nireya, He will run away hopping along) (also dachaḱ-dachaḱ) 
 
 chat́chom > same as chat́lom 
 
 chat́lom > a tail; of the flower of the sarjom tree, to develop a long extension when the fruit is emerging
-*chat́lom ipil > a comet (also called jono: ipil)
+*chat́lom ipil > a comet (also called Jonoḱ Ipil)
 *chat́lom muṭi > the part of the body of an animal from which the tail protrudes 
 
 chador > a shawl; a large piece of e.g. asbestos 
@@ -109,7 +109,7 @@ chakãṛa > some small tasty edibles served along with rice-beer
 
 chaka-ram-ram > of a frog, while sitting to lift or partially lift his body; of an object, not flat against a surface, but having one end propped up; of a small child, to be stretched out on a weak bending branch of a tree 
 
-chakaratiń > to be confusedly turning from one task to another (of one overwhelmed with things to do): of a chicken, to run confused from one direction to another (also akaratiń) 
+chakaratiń > to be confusedly turning from one task to another (of one overwhelmed with things to do) of a chicken, to run confused from one direction to another (also akaratiń) 
 
 chakatiń > poetic parallel of hiyatiń, to feel pity, grieve 
 
@@ -134,9 +134,9 @@ chal > of a bird, squirrel, monkey, man, to jump or swing from one branch of a t
 chal-rakaben > to climb by an action as given under chal (refl. form) 
 
 chal > behaviour (Hindi, sometimes used in Ho, e.g. as given below).
-*chal-bul > bad behaviour, used in expression chal-bul-lekani: of a person of bad behaviour chal-cholon behaviour (or just cholon) 
+*chal-bul > bad behaviour, used in expression chal-bul lekanić of a person of bad behaviour chal-cholon behaviour (or just cholon) 
 
-chala > a strainer; to strain (using a strainer); when referring to rice beer the distinction is sometimes made between chalate (strained, giving saba: maya) and goṭate (intact, unstrained, giving gota maya)
+chala > a strainer; to strain (using a strainer); when referring to rice beer the distinction is sometimes made between chalate (strained, giving sabaḱ maya) and goṭate (intact, unstrained, giving gota maya)
 *mit́ chala > as much as is used in one straining (of rice beer) 
 
 chalaḱ > to frighten or startle someone by suddenly showing him e.g. a scorpion very close to him 
@@ -149,7 +149,7 @@ chalaṭa, chalaṭo > a plank
 
 chalao > to drive, direct 
 
-chál-cholon > behaviour (N.B. ako bugin chal-cholontekowa means the same as akowa: chal cholon bugina, 'their behaviour is good'") 
+chál-cholon > behaviour (N.B. ako bugin chal-cholontekowa means the same as akowaḱ chal cholon bugina, 'their behaviour is good'") 
 
 chali > a small piece of e.g.wood put to fill an interstice, e.g. beneath a short leg of a table; the small piece of wood put beneath the tari in tapi inun; to fit a chali into position 
 
@@ -159,14 +159,14 @@ chalkoṕ > one whose mouth is shriveled and sunken in, e.g. because toothless (
 
 chalni > a sieve 
 
-chalpa > flat; to make or plane flat, e.g. a plank (see la: chalpa); poetic parallel to gandu, a stool, (charpa is also used in this last meaning) 
+chalpa > flat; to make or plane flat, e.g. a plank (see laḱ chalpa); poetic parallel to gandu, a stool, (charpa is also used in this last meaning) 
 
-chalpat́ > flat; to make or plane flat (see la: chalpad); a flat stone 
+chalpat́ > flat; to make or plane flat (see laḱ chalpad); a flat stone 
 
 chalpanḍaḱ > flat 
 
 chaluḱ > to hoe; to cut the ground with an inward swinging motion (e.g. of a kudali)
-chaluḱ-nam > to get (find) by hoeing (used as poetical parallel with ma:-namand ur-nam) 
+chaluḱ-nam > to get (find) by hoeing (used as poetical parallel with maḱ-namand ur-nam) 
 
 chama > a kind of grass, the seeds of which are used as famine food and in preparing beer; prob. Echinochloa crus-galli, Beauv., Gramineae, B.139/17, H.139/44/2 
 
@@ -183,7 +183,7 @@ cham-chur (tan) > of men or animals, to quickly come from all sides and finish (
 
 chamka-chakal > a less common form of tamka-tagal, q.v. 
 
-chamka-chakut́ (tan) > same as chamka-chakui: (tan) 
+chamka-chakut́ (tan) > same as chamka-chakuć (tan) 
 
 chamka-chakuć (tan) > of a dog, to run about excitedly from place to place; of a man, to run about excitedly busy about many things (as in tamka-tagal) 
 
@@ -213,7 +213,7 @@ chanda > a white spot on the forehead of buffaloes, cattle, etc.; to make a spot
 *chanda kuit́ > a hawk-like bird, probably the White-eyed Buzzard, which has some white showing through the head feathers, and which has a prominent white patch on the neck
 chanda-umi > to defame, slander; a bad reputation 
 
-chandai > the eaves of a roof "chandai da: water falling down from the eaves of a roof 
+chandai > the eaves of a roof "chandai daḱ water falling down from the eaves of a roof 
 
 chandan > sandalwood, used esp by Hindus for religious purposes (in Ho more commonly called chondon, q.v.) 
 
@@ -236,14 +236,14 @@ chanḍol > the train or flapping part of a garment; of a part of a garment, to 
 
 chandra-bundru > to be spotted, e.g. of the spotted deer (pusta); of the skin, to be marked from sitting close to the fire; of urine to have tiny bubbles formed within it (e.g. when being examined to check someone's sickness) 
 
-chanḍuḱ > moon; month; menstruation (used as follows, chandu: (or nen chandu:) kań nelkena 'I did not have my menstrual period. chandureya:ń neltana, 'I am having a menstrual period. nen duna chand#u:reya: bano:wa, 'this time there is no menstruation'
+chanḍuḱ > moon; month; menstruation (used as follows, chanḍuḱ (or nen chanḍuḱ) kań nelkena 'I did not have my menstrual period. chanḍuḱ reaḱń neltana, 'I am having a menstrual period. nen duna chand#u:reyaḱ bano:wa, 'this time there is no menstruation'
 *chanḍuḱ bah > the sun flower, Helianthus annuus, L., Compositae H.78/27/1
 *chanḍuḱ beć > a kind of white froth found in small balls on grass 
 
 *chanḍuḱ garui > lunar eclipse
 *chanḍuḱ homol > a minor spirit, said in some stories to be the wife of Sinbonga. (Such stories are probably taken from other cultures and in them Sinbonga is substituted for e.g. Ram)
 *chanḍuḱ muluḱ > the new moon, the time of the new moon
-*chanḍuḱ páṭ > a name sometimes given to chandu: homol, q.v. 
+*chanḍuḱ páṭ > a name sometimes given to Chanḍuḱ Homol, q.v. 
 
 changá > to tear apart, taking hold of two parts, e.g. two sections of a forked branch 
 
@@ -263,7 +263,7 @@ chanka-ooḱl > to pull fish out using a chanka
 
 chankiya > a jutting chin 
 
-cháoḱ > see chawo: 
+Cháoḱ > see Chaoḱ
 
 chaom > see chawom 
 
@@ -275,9 +275,7 @@ chapa > to print; an imprint
 
 chapa-choṛe (tan) > the noise made by e.g. a frog or a fish splashing around in a few inches of water, (with verb sari, etc.); char-chor is used of a thinner sound of very small fish in less water 
 
-chapaka > diarrhoea, frequent loose stools (used of men and sometimes of goats, cattle, etc. See also jara, ii:-porom) 
-
-chapakal > a hand pump 
+chapaka > diarrhoea, frequent loose stools (used of men and sometimes of goats, cattle, etc. See also jaṛa, ić poṛom) 
 
 chapal > a hip
 chapal-chopol (tan) > the splashing sound made by walking through several inches of water; chapal chopoltan Daḱ menaḱa 'water is of such depth as to make a splashing sound' (as above) 
@@ -292,7 +290,7 @@ chapanḍa, chapanṭa > flat
 
 chapara > an open shed or veranda built with posts and covered on top but without side walls (used parallel to guyu in prayers addressed to Sinbonga in the phrase guyuken chaparakenam, 'you gave (us) a place to reside) 
 
-chapaṛa > to slap: a slap 
+chapaṛa > to slap; a slap 
 
 chaparãsi > a forest guard, a 'chaparasi' at court 
 
@@ -338,7 +336,7 @@ chaṛar > the sound of thunder clouds or of water being struck by a heavy objec
 
 chaṛao > of mating silkworms, to separate 
 
-char-cher (tan) > repeated sounds of cloth being torn (with verbs de, etc. see cherken for a single sound of cloth tearing); the sound made by a noisy discharge of watery diarrhoea (with verb ii:, etc.) 
+char-cher (tan) > repeated sounds of cloth being torn (with verbs de, etc. see cherken for a single sound of cloth tearing); the sound made by a noisy discharge of watery diarrhoea (with verb Ić, etc.) 
 
 char-chor (tan) > a splash ing sound of small fish moving around in very shallow water, loose mud, etc. (see also chapa-chore(tan) 
 
@@ -349,7 +347,7 @@ chári > of a silkworm, to change its skin for the fourth time
 charić > a thin bamboo or gangai pin. These are used for sewing leaf cups and plates together
 *charić berbenḍoṅ > a dragonfly with long thin legs
 *charić muṭi > thin bamboo or gangai pins tied together in a bundle
-*charić te bonga-nam > a form of divining e.g. discerning what spirit is causing a sickness. A dẽoa breaks off 2 or 3 chari: of equal sizes. Then while he holds these tightly in his hand he names one by one spirits who could be causing the sickness. When he names the proper spirit, one twig moves up higher than the other(s). This process is used when rice grains are not available, e.g. during hunts in the jungles 
+*charić te bonga-nam > a form of divining e.g. discerning what spirit is causing a sickness. A dẽoa breaks off 2 or 3 Charić of equal sizes. Then while he holds these tightly in his hand he names one by one spirits who could be causing the sickness. When he names the proper spirit, one twig moves up higher than the other(s). This process is used when rice grains are not available, e.g. during hunts in the jungles 
 
 chaṛi > twigs broken into equal size used to teach children to count chari (efs) Oe the Brown Shrike (a bird) 
 
@@ -357,7 +355,7 @@ charkaniya lijaḱ > a sari with coloured stripes/bands see
 
 charlat́ > of the ears (gele) of a grain, to be filled with towa (milky substance) which is already solidifying although the grain is not yet entirely ripe (taben can be prepared from rice grains in this stage) 
 
-charmapit́ > : charmarid a: 
+charmapit́ > : charmarid aḱ 
 
 charmarid/charmari > an erect herb about 1-3 ft. high having yellow flowers, 3-5. foliolate leaves, viscous fruits and stems, and seed bearing capsules. The leaves and seeds are eaten. Cleome viscosa, L., Capparidaceae, B.11/3, H.11/1/2; also a herb 1-2 ft. high with lilac coloured flowers and single leaves. Cleome monophylla, L., Cappar idaceae, B.11/2, H.11/1/1 
 
@@ -386,7 +384,7 @@ chata > porob an annual non-Ho feast, which Hos attend and at which they dance (
 chaṭaḱ > to split or crack open; to split into two parts (e.g. a closed rūn sakam)
 *chaṭaḱ-bara > to split dividing into two approximately equal parts
 *si-chaṭaḱ ote > a ploughed field
-*gora chaṭaḱ ote > used in prayers as poetic parallel with st-chaṭa: ote 
+*gora chaṭaḱ ote > used in prayers as poetic parallel with st-chaṭaḱ ote 
 
 chaṭai > a mat made from the jintu plant (from Hindi. The ordinary mats found in Ho houses is made from palm (buru kita) and is called jati) 
 
@@ -411,13 +409,13 @@ chatom owaḱ > a house with the inner part of the house raised higher and havin
 
 chatom > to float 
 
-chatu > an earthen pot; sometimes used figuratively as follows: kuma chaṭu ka hućoḱ- wakana, 'the people of the family/ families of the maternal uncle/ uncles have not yet come' (literally the earthen pots in which they will bring diyan have not yet come); see also figur. usage under nama chatu
-*chaṭu diyan > an earthen pot full of rice beer
-*chaṭu hon > a small carthen pot
+chat́u > an earthen pot; sometimes used figuratively as follows: Kuma chaṭu ká hućoḱ akana, 'the people of the family/ families of the maternal uncle/ uncles have not yet come' (literally the earthen pots in which they will bring diyan have not yet come); see also figur. usage under nama chatu
+*Chaṭu Ḍiaṅ > an earthen pot full of rice beer
+*Chaṭu hon > a small carthen pot
 *chaṭu-lundić > a collective noun for cooking utensils 
 
 chauḱ > to catch hold of someone playfully merely letting the fingers slide off him (more than juṭid and less than sab)
-*chauḱ-beteń > to startle someone by catching hold of him playfully (as under cháº©u:) 
+*chauḱ-beteń > to startle someone by catching hold of him playfully (as under chauḱ) 
 
 chauka > a measurement of earthwork, usually 100 cubic ft. "chauka ur to dig a chauka; said in jest inviting guests to sit down for a meal 
 
@@ -427,7 +425,7 @@ Chauli > husked uncooked rice; to prepare this by husking rice
 *Chauli Chapi Berbenḍoṅ > a dragon fly with orange coloured wings
 *Chauli Gangai > another name for Tilae Gangai, q.v.
 *Chauli Jaṅ > husked rice grain
-*Chauli Jaṅ gosoḱ > to divine by rubbing husked rice grains in a winnowing basket (also called haṭa: goso:)
+*Chauli Jaṅ gosoḱ > to divine by rubbing husked rice grains in a winnowing basket (also called haṭaḱ gosoḱ)
 *Chauli Jaṅ nel > to divine by inspecting grains of husked rice put in a leaf
 *Chauli Ṭunki > a Ṭunki (a type of basket) in which uncooked husked rice is kept 
 
@@ -449,7 +447,7 @@ chay(leka) > to feel a burning sensation from extreme heat of the sun
 
 chay-chay (tan) > same as chay(leka) 
 
-chaya > a green flying bug which attacks paddy, to cause destruction (as these flying bugs do); (less commonly) a beetle which has pink wings and which eats the fresh leaves of the baru daru tree (also called ara: chaya or baru chava); of a village, to get a bad name because of repeated infidelity of one or more people of the village; also used of traders buying up things and selling at higher prices (hat chayako)
+chaya > a green flying bug which attacks paddy, to cause destruction (as these flying bugs do); (less commonly) a beetle which has pink wings and which eats the fresh leaves of the baru daru tree (also called araḱ chaya or baru chava); of a village, to get a bad name because of repeated infidelity of one or more people of the village; also used of traders buying up things and selling at higher prices (hat chayako)
 *chaya-chipili > a collective noun for all kinds of crop-eating bugs 
 
 chayla > attractive to look at (used in a saying in reference to kadsom, cotton, but not in general use. The Ency. Mund. gives as a meaning of caela, 'festive, destined for show or pleasure') 
@@ -458,7 +456,7 @@ chayom-chayom > a sound made by sweeping (used in a riddle, seyor-seyor is more 
 
 cheć (tan) > the sound of a glass breaking on a stone, a stone hitting against a pane of glass, etc. 
 
-chẽ́ć (leka) > the high thin sound of a small baby crying; the high pitched sound of a trapped bird (with verb ra:, etc.)
+chẽ́ć (leka) > the high thin sound of a small baby crying; the high pitched sound of a trapped bird (with verb raḱ, etc.)
 *chẽ́ć-chẽ́ć (tan) > the same of a repeated action 
 
 cheć-cheć > of rice beer, to have a somewhat unpleasent smell and taste 
@@ -497,12 +495,12 @@ chenaḱ > what? an alternate form of chinaḱ
 
 chẽ́t́-chẽ́t́ > an excited sound made by certain birds when captured (the cheport́, ṭeć, etc.) 
 
-chenḍeloṅ-menḍeloṅ > of fruit, grains, men, etc., to be thin and undersized (sometimes used with tan, e.g. chenḍeloṅ-menḍeloṅ taneć harawo:tana, he is growing to be thin and undersized'; sometimes used with ge, e.g. chenḍeloṅ-menḍeloṅ geć neloḱ tana, 'he looks thin and undersized' 
+chenḍeloṅ-menḍeloṅ > of fruit, grains, men, etc., to be thin and undersized (sometimes used with tan, e.g. chenḍeloṅ-menḍeloṅ taneć haraoḱ tana, he is growing to be thin and undersized'; sometimes used with ge, e.g. chenḍeloṅ-menḍeloṅ geć neloḱ tana, 'he looks thin and undersized' 
 
 chenḍoḱ > to wave, e.g. a back-flap of a Dhoti or Botoć; to protrude, e.g hair protruding through a Chendoḱ Supit́
 *Chenḍoḱ Supit́ > a kind of hair-knot with some hair protruding 
 
-Chenḍo Putam > a dove having white dots as though forming a garland around the neck, also called hichir chendo: putam, q.v. 
+Chenḍo Putam > a dove having white dots as though forming a garland around the neck, also called hichir Chenḍoḱ Putam, q.v. 
 
 chenetaw > warning (verbal noun of chetaw) 
 
@@ -522,7 +520,7 @@ chepe-chiluṅ > of a bird, esp. a young one, to playfully balance itself on a b
 chepeć-chepeć > a small amount of water, e.g. about one inch in a field 
 
 chepet́ > flat; of grains, empty; to suck flat; to flatten
-*chepet́-enḍaḱ > to suck out e.g. poisoning by a bonga najom (see huwa:-era:) 
+*chepet́-enḍaḱ > to suck out e.g. poisoning by a bonga najom (see huwaḱ-eraḱ) 
 
 chepo > to cause to sink in, in one or more places, something which originally had a full shape,e.g. a box, a ball, a cocoon; intrans. to sink in (e.g. the cheeks due to old age) 
 
@@ -541,7 +539,7 @@ Cherdenḍeaṅ Oe > a bird, identified by some villagers as the Common Babbler
 cheṛe > bald; denuded; to denude (e.g. a piece of land of all foliage)
 *cheṛe-chaba > to make completely bald; to completely denude a piece of land of all foliage, e.g. by grazing cattle on it
 *Chere Didi > a vulture, the white Backed or Bengal Vulture
-*Cheṛe Diuri Oe > a bird identified by villagers as the Common Grey Hornbill (see mad tonge: oe) 
+*Cheṛe Diuri Oe > a bird identified by villagers as the Common Grey Hornbill (see mad tongeć oe) 
 
 chere > a bird (esp. in songs and prayers. In ordinary usage de is common)
 *chere cheporoṕ > a collective noun for birds
@@ -564,12 +562,12 @@ chetan > above; on high; to be or place above
 *chetan-jiten hoo > a hypocrite chetan-latar not level (of a field high in some places, low in others); to now raise, now lower 
 *chetan met́ haku > a fish with eves on the top of its head
 
-chetaw > to warn, to try to make someone mend his ways by means of a warning, e.g. kae: chetawakana he has not mended his ways (although he was warned)
+chetaw > to warn, to try to make someone mend his ways by means of a warning, e.g. kaeć chetawakana he has not mended his ways (although he was warned)
 *chetaw-kaji > words of warning 
 
 cheṭeṕ jota > sandals or shoes which make a flapping sound 
 
-chete-bete (tan) > a slow noise made by rice beer as it ferments (with verb upudo:) (also can say diyan cheṭe-beteyo:tana)
+chete-bete (tan) > a slow noise made by rice beer as it ferments (with verb uput́oḱ) (also can say diyan cheṭe-bet́eoḱ tana)
 *cheteṕ-cheteṕ (tan) > a flapping sound made by loose-fitting sandals (which verbs sari, sen, etc.) 
 
 chete chari Oe > the common chari bird, the Brown Shrike which makes a chete-chete sound
@@ -614,7 +612,7 @@ chekanaḱ > what? (inanimate)
 *chekanaḱ chika > to do what? e.g. chekanaḱm chikaêa? What will you do?, chikanaḱm chikaê re bugina? 'What will it be good for me to do?"
 *chekanaḱ lagit́ te > why?
 *chekanaḱ mente > why?
-*chekanić > what? (animate), this takes a dual chikankiń and a plural chikanko. In some usages the meaning of chikanko comes to be that of eṭa:ko, 'others', e.g. surpanko chikanko leka kako haro:wa, Wasps are not driven off like other living creatures'
+*chekanić > what? (animate), this takes a dual chikankiń and a plural chikanko. In some usages the meaning of chikanko comes to be that of eṭaḱko, 'others', e.g. surpanko chikanko leka kako haro:wa, Wasps are not driven off like other living creatures'
 *chekanreaḱ > why? 
 
 chilam > the earthen bowl of a hooka. This holds the tobacco and the fire 
@@ -633,7 +631,7 @@ Chilip > e another name for the Hon Oe, q.v.
 
 chima > used in prayers in the expression chimarema charema apparently with the meaning of sirma, 'the sky', 'the heavens' 
 
-chimat́ > perhaps (following the word or words qualified, i.e. ae: chimad, 'perhaps he'. Also in forms chiyad and chilan) 
+chimat́ > perhaps (following the word or words qualified, i.e. aeć chimad, 'perhaps he'. Also in forms chiyad and chilan) 
 
 chimin > how much? how many?
 *chimin bano chimin > very much
@@ -662,7 +660,7 @@ china > a sign
 
 china > poetic parallel of nel, to see 
 
-chenaḱ > what? same as chikana: 
+chenaḱ > what? same as chikanaḱ 
 
 chinabadam > a peanut or groundnut, Arachis hypogea, L., Papilionaceae, B.53/9, H.53/22/1 
 
@@ -713,7 +711,7 @@ chiṛir > watery diarrhoea, esp. of children, but used also of the diarrhoea of
 
 Chirmat́ > a strip of land, e.g. an embankment, dividing off the field of one man from that of another 
 
-Chirnimi Oe > a small bird, usually found in groups of 3, 4, or 5; they make a chir-nint or nininini sound; some say that this is the same as the su: sakam oe, the Tailor Bird 
+Chirnimi Oe > a small bird, usually found in groups of 3, 4, or 5; they make a chir-nint or nininini sound; some say that this is the same as the Suk Sakam Oe, the Tailor Bird 
 
 Chirpi Haku > a small fish which resembles the Haaht́ fish 
 
@@ -739,7 +737,7 @@ chiti-biti > to squander, scatter
 
 chiṭi-biṭi > the sound made by rice beer when fermenting 
 
-chiṭi-biṭi > same as chiṭa: 
+chiṭi-biṭi > same as chiṭaḱ 
 
 chiṭiki > a flat leaf-plate (cf. kalgi, a curved-up leaf-plate) 
 
@@ -747,7 +745,7 @@ chitir-bitir > to scatter
 
 chitira > a servant who comes to work from his own home (compare dasi-a servant who stays in the house of his master) 
 
-chitiri, chitri > the Grey Partridge (commonly called kiru: due to the call of the female) 
+chitiri, chitri > the Grey Partridge (commonly called Kiruḱ due to the call of the female) 
 
 chitiri-bitiri > to scatter (also chitir-bitir) 
 
@@ -772,9 +770,9 @@ chochora > of wood, e.g. rafters, to be weak because eaten up by white ants, etc
 
 chochoṛe > very thin (used esp. of women) 
 
-chot́ > of e.g. a bird, to sit on the uppermost tip or on a thin uppermost edge of something (we can say Oe enre; chodakana, or chodakanlekae: dubakana); to put something on the uppermost top or the uppermost edge of something, a knot of hair worn over the front part of the head as the Sikhs and some Ho men wear it 
+chot́ > of e.g. a bird, to sit on the uppermost tip or on a thin uppermost edge of something (we can say Oe enre; chodakana, or chodakanlekaeć dubakana); to put something on the uppermost top or the uppermost edge of something, a knot of hair worn over the front part of the head as the Sikhs and some Ho men wear it 
 
-chot́-chot́ > the pinnacle e.g. of a pointed steeple chod-chod owa: a house with a high pointed steeple 
+chot́-chot́ > the pinnacle e.g. of a pointed steeple chod-chod owaḱ a house with a high pointed steeple 
 
 choeć > to spray with a spray-gun; a 1-1.5 ft. long piece of bamboo used as a spray gun 
 
@@ -785,7 +783,7 @@ Chõebasa > Chaibasa (also called Ḍongol)
 
 choga > a thin short piece of wood, e.g. from the stubble of the reari plant, protruding out of the ground; pass. - to be pierced by such a protruding piece of wood 
 
-chokaḱ > the covering or shell of eggs, peanuts, fruits, etc.; the shell of a tortoise; the bark of certain trees which have thick bark, such as the gara hatana; (for thin bark, e.g. of the jojo tree, the word harta: is used); the husks of grains (sometimes but not commonly used for this. The ordinary word for this is hÃª)
+chokaḱ > the covering or shell of eggs, peanuts, fruits, etc.; the shell of a tortoise; the bark of certain trees which have thick bark, such as the gara hatana; (for thin bark, e.g. of the jojo tree, the word hartaḱ is used); the husks of grains (sometimes but not commonly used for this. The ordinary word for this is hÃª)
 *moṭa chokaḱ > a thick shell or bark; esp. the thick bark of the Raj Kusum tree, which is used by village doctors as medicine for T.B. 
 
 Choke > a frog
@@ -844,7 +842,7 @@ chongam > a thin sharp stump of e.g. a sappling or a branch of a tree (used as p
 
 chṍṭeat́ > a topknot of hair (chundi) worn by some Hindus 
 
-chopa > an empty honeycomb (see daka); a cob of maize after the maize has been removed (a full cob with maize on it is called tepoe:); the inner part of a pulū or juni jõ which is thread-like and can be used e.g. for washing dishes or even one's body 
+chopa > an empty honeycomb (see daka); a cob of maize after the maize has been removed (a full cob with maize on it is called tepoeć); the inner part of a pulū or juni jõ which is thread-like and can be used e.g. for washing dishes or even one's body 
 
 chopai > to make a chopai Oaḱ
 *Chopai Oaḱ > a small shack made of branches of trees, twigs, etc. covered with thatch, used for cattle and also sometimes for men 
@@ -875,7 +873,7 @@ chor-mor > the noise made by oil, etc. when frying in a pan
 
 choro-boto > the crackling sound of dry wood burning, esp that of the tiril tree 
 
-choro-chÅro > a pointed tower; note usage: lukiko chõro- choro geko tirin-unditada "They have placed the brass cooking vessels one on top of another in great number in a steeple-like formation' 
+choro-chÅro > a pointed tower; note usageć lukiko chõro- choro geko tirin-unditada "They have placed the brass cooking vessels one on top of another in great number in a steeple-like formation' 
 
 chõroka/choroka > a glass (chombe is also used) 
 
@@ -890,14 +888,14 @@ choṭaḱ > to peel off something attached, such as a scab from the skin or a l
 
 chotaṕ > poetic parallel of jal, 'lick', (used esp. in scolding someone for being gluttonous) 
 
-choṭeć > to miss narrowly; as verbal affix - with verbs of shooting, etc, to miss narrowly; with kaji, nel, etc. just for an instant; with em - almost give but not actually do so, (Les 27); very little (found only in certain expressions, cf. chote:(no:) owa: below)
+choṭeć > to miss narrowly; as verbal affix - with verbs of shooting, etc, to miss narrowly; with kaji, nel, etc. just for an instant; with em - almost give but not actually do so, (Les 27); very little (found only in certain expressions, cf. choteć(no:) owaḱ below)
 *choṭeć(noḱ) owaḱ > a house(hold) in which there is insufficient food (referring to the economic condition of the family, rather than to the size of the house)
 *ka choteć > not a little, very much 
 
 chote-chote > to shake (out of fear); of a dog, to wag the tail 
 
 choteyad/choteyat́ > topknot of hair (chundi); also chūṭiyad
-choteyat́ koḱ > the Little Egret. an egret (ko:) which developes a long drooping head-plume in the breeding season 
+choteyat́ koḱ > the Little Egret. an egret (Koḱ) which developes a long drooping head-plume in the breeding season 
 
 choto > see chot 
 
@@ -906,43 +904,43 @@ choto-boto (tan) > the cracking sound of wood burning, esp. that of the tiril tr
 chowaḱ > to break off e.g. a tree branch (by the wind, by pull- ing, etc.) quick
 chowaḱ kaṭa > bow-legged (this term is used more in derision, as distince from lera which implies no derision) 
 
-chúḱ > to pick up with the fin- gers e.g. grains, salt; (the paddy bun- dle (bandi) from which paddy is cur rently being taken for the family meal is referred to as owa:renko chū:ta bandi)
+chúḱ > to pick up with the fin- gers e.g. grains, salt; (the paddy bun- dle (bandi) from which paddy is cur rently being taken for the family meal is referred to as owaḱrenko chū:ta bandi)
 chúḱ-bolo > to take up with the fingers and add to (e.g. rice on a plate)
 *chúḱ-huḍiṅ > to make less by taking some with the hand
 *chúḱ-nam > to get by taking out with the fingers; to finish taking paddy out of a bandi; in the pass. referring to taking paddy out of a bandi, for the paddy to last as long as hoped for (see nam)
 *chúḱ-ooḱl > to take out with the fingers
-*mi chúḱ > as much as one can take hold of in the joined fingers of one hand, a pinch e.g. of salt (ef. mi ruba which would imply more than mi chu:) 
+*mit́ chúḱ > as much as one can take hold of in the joined fingers of one hand, a pinch e.g. of salt (ef. mi ruba which would imply more than mit́ chúḱ) 
 
 chuṕ > a sound made by a woman when greeting 
 
 chubaḱ > of some tiny particle e.g. of dust, to get into the eye; to bribe 
 
-chubuḱ (tan) > the sound made by a small object, e.g. a stone, falling into water (with verb jyu:, etc.) 
+chubuḱ (tan) > the sound made by a small object, e.g. a stone, falling into water (with verb iuḱ, etc.) 
 
 chuchu > to help someone climbing by a push from below; to give someone a boost, to encourage someone in some endeavour (often used of inciting someone to do evil)
 *chuchu-deć > same as chuchu
 *chuchu-rakaṕ > same as chuchu 
 
-chuchungtūr, chuchungur > to sit on the haunches (usually used with a te construction, e.g. chuchungtū:rte: dubakana) 
+chuchungúr, chuchungurt́ > to sit on the haunches (usually used with a te construction, e.g. chuchungurt́ teć duṕ akana) 
 
 chut́ > of birds, frogs, etc.. to hop along the ground; of men, to move along from a squatting position; sometimes chudakana used like chodakana of sitting on the topmost branch, etc. 
 
-chudki > the vulva (also ruji) 
+chut́ki > the vulva (also ruji) 
 
-chugui(leka) > to move rapidly with short steps (with verbs sen, nir, etc.)
+chugui (leka) > to move rapidly with short steps (with verbs sen, nir, etc.)
 *chugui-chugui (tan) > same as chugui(tan)
 *chugui-mugui (tan) > chugui-chugui(tan) 
 
 chuguli > to speak of faults of others; to backbite 
-
-chuguyuḱ Oe > a bird about the size of a chepoir oe, which is usually found in jungles or in thick groves near jungles and which makes a chuguyu:-chuguyu: sound (possibly this is the sun danchu: which is said to make such a sound)
-*chuguyuḱ-chuguyuḱ > the cry of the chuguyu: bird 
+C
+huguyuḱ Oe > a bird about the size of a chepoir oe, which is usually found in jungles or in thick groves near jungles and which makes a chuguyuḱ-chuguyuḱ sound (possibly this is the sun Dã́chut́ which is said to make such a sound)
+*chuguyuḱ-chuguyuḱ > the cry of the Chuguyuḱ bird 
 
 chui(leka) > a sharp burning pain (with verb hasu, etc.)
 *chui-chui (tan) > same as chili(leka) 
 
-chuć (tan) > of a chundi, to let out a squeak (with verb ra: etc.); very quickly, in an instant (the time it takes a chundi to squeak); the sound made by a thin stick hitting against something (with verb tam, etc.) (compare hui;, the sound made by a thin stick cutting through the air)
-*chuć-chuć (tan) > the sound of repeated squeaking of a chundi (with verb ra: etc.); or of repeatedly hitting with a thin stick (with verb tam, etc.)
+chuć (tan) > of a chundi, to let out a squeak (with verb raḱ etc.); very quickly, in an instant (the time it takes a chundi to squeak); the sound made by a thin stick hitting against something (with verb tam, etc.) (compare hui;, the sound made by a thin stick cutting through the air)
+*chuć-chuć (tan) > the sound of repeated squeaking of a chundi (with verb raḱ etc.); or of repeatedly hitting with a thin stick (with verb tam, etc.)
 chuć kikir chili(leka) > the Small Blue Kingfisher (a bird also called the Common Kingfisher) 
 
 chuila > when? (in a broader sensee.g what day? chimita is used for when? meaning 'at what time?)
@@ -954,13 +952,13 @@ chuila > e a local name for the hon oe, the Greyheaded Flycatcher
 
 chuir > to overflow used esp. of grains overflowing, e.g. from a poyla, can also be used of water overflowing, for which the word pair is more commonly used 
 
-chuiti > chandu: a month (chait), corresponding to the latter part of March and the first part of April
-*chuiti basi > the day after the chuiti porob
-*chuiti poroṕ > a feast held in chuiti chandu:, e.g. that held annually at Chitimiti 
+Chuiti chanḍuḱ a month (chait), corresponding to the latter part of March and the first part of April
+*Chuiti Basi > the day after the Chuiti Poroṕ
+*Chuiti Poroṕ > a feast held in Chuiti chanḍuḱ, e.g. that held annually at Chiṭimiṭi 
 
-chukaḱ > an earthen vessel much like but smaller than a matiya and used mostly for purposes of divination; also made with only a very small opening in the top in which coins can be put (for saving money)
+Chukaḱ > an earthen vessel much like but smaller than a matiya and used mostly for purposes of divination; also made with only a very small opening in the top in which coins can be put (for saving money)
 
-chukuu > a Rúṅ leaf rain protector, worn over the head and body like a hood leaving the front open for work, e.g. transplanting or weeding
+Chukuu > a Rúṅ leaf rain protector, worn over the head and body like a hood leaving the front open for work, e.g. transplanting or weeding
 
 chukut́ > to shake up and down, e.g. a man on a horse, a carrying pole; to weave up and down, e.g. one playing a flute or a fiddle at the mage feast
 *chukut́-mukut́ > a jingle on chukud with the same meaning 
@@ -1053,11 +1051,11 @@ Churuyuḱ Oe > a type of hawk, smaller than a kuid and larger than a richi
 
 churuyur > a term spoken by a dewa while pouring water in a sacrificial action (apparently this has no meaning) 
 
-chuṭa > the tip of something e.g. an animal's tail, the hairs of one's head (like chuṭuka: but for smaller things) (it) wurd 
+chuṭa > the tip of something e.g. an animal's tail, the hairs of one's head (like chuṭukaḱ but for smaller things) (it) wurd 
 
 chuti > the vulva (from Hindi 'chuÅ¥) (mage kaji in Ho the word ruji is more commonly used for this) 
 
-chuṭi > the top e.g. of a hill (also chuṭuka:); the tip (when referring to fruit it would mean the part farthest from the gopod) 
+chuṭi > the top e.g. of a hill (also chuṭukaḱ); the tip (when referring to fruit it would mean the part farthest from the gopod) 
 
 chuṭi > dismissal; recess; vacation; leave; to take recess or leave; pass. to be dismissed; to be given recess or leave 
 
@@ -1077,7 +1075,7 @@ Chuṭu > a mouse; the male organ
 *Chuṭu Baduṛi > the smallest type of bat
 *Chuṭu Lutur (Nai) > a creeper so named for the shape of the leaves surrounding the fruit, which leaves resemble the ears of mice. Children eat the fruit which is embedded in a hairy section. Ipomoea pestigridis, L., Convolvulaceae, B.96/17, H.96/ 11/6 (called also bilae kaṭa in Mundari)
 *Chuṭu Lutur Uṭu > see chuṭu lutur (nai)
-*chutu puṭaḱ > an auxiliary entrance and exit to a burrow in which mice live (see puṭa:) 
+*chutu puṭaḱ > an auxiliary entrance and exit to a burrow in which mice live (see puṭaḱ) 
 
 chutuka > an alternate form of chutka, q.v. 
 
