@@ -37,7 +37,7 @@ mut(u), q.v.
 
 *baba her tunki a basket used exclusively for sowing paddy seeds
 *baba kara- a small plank, about one and a half feet long, fastened to a pole, used for pulling back together paddy which has been spread out (e.g. in threshing)
-*babako rice grains personified as though offspring of the baba enga, q.v. (used in certain prayers) *baba lete: - by chewing to husk rice grains (spitting out the husk and eating the grain) mub
+*babako rice grains personified as though offspring of the baba enga, q.v. (used in certain prayers) *baba leteć - by chewing to husk rice grains (spitting out the husk and eating the grain) mub
 *baba marchi - a small but very pungent chilli, Capsicum annuum, L., var. abbreviata, Fingerh., Solanaceae, B.97/1, H.97/4/1. Medicine is prepared from this for sick buffaloes and cattle.rated *baba mut(u) same as her
 
 mut(u), q.v. Abel ua tatla
@@ -50,7 +50,7 @@ from the end of a paddy grain.
 *baba sar bonga a spirit who the rice supply of his/ her devotee, red
 *baba sara used in prayers for baba jań, paddy seeds.
 *baba sin-straw (also called busu) 
-*baba sokoe: to throw down unthreshed paddy stalks for threshing; sometimes used to
+*baba sokoć to throw down unthreshed paddy stalks for threshing; sometimes used to
 *baba tiki - the process of boiling paddy grains in water for the purpose of husking.indd
 *baba-tiki chatu an earthen pot used for boiling the paddy for husking. (This may be used for such purposes as boiling clothes, e.g. on the occasion of niyar-eraḱ [purification after a birth] but it may not be used for cooking the family meal). (1) bad
 *baba-tupu chatu: same as baba-tiki chatu:
@@ -75,7 +75,7 @@ bachur chora ( बचुर चोरा) a hill in Orissa named in prayers.
 
 bad (a) after (a Hindi word sometimes used in Ho, e.g. in the expression en bad; proper Ho would be en chanab)
 
-bad (3) certainly, by all means; to demand (e.g. of a girl before going for her marriage, to hold on to the feet of a relative until she is given a going-away gift); of a dewa, etc. to put a curse on someone; refl. baden - to put a curse on oneself, e.g. gojo:kań mente: badentanae:, 'She curses herself to die'
+bad (3) certainly, by all means; to demand (e.g. of a girl before going for her marriage, to hold on to the feet of a relative until she is given a going-away gift); of a dewa, etc. to put a curse on someone; refl. baden - to put a curse on oneself, e.g. gojo:kań menteć badentanać, 'She curses herself to die'
 *bad-bapad to insist (in asking, giving, etc)
 *bad-duku(te) with great diffi- culty
 *badte with difficulty (e.g. because of some physical weakness, etc., or because very much against one's wishes) bad-bed (a-3) the cries of many goats or sheep.
@@ -95,7 +95,7 @@ badara (3) a long dragnet for catching fish. 101 visururinese
 badchom (as) - sabai grass, used to make ropes for beds, etc. Pollinidium angustifolium, Gramineae, B. 139/34, H.139/61/1
 *badchom bayer rope made of badchom 
 
-badi (af) a strip of silk-cocoon that has been cut to the proper thickness to tie an arrowhead to the arrow; to tie with such a strip; the leather strips used to span drums; poetic parallel of juri, a mate or companion, used in a marriage song; refl. badin - to strongly commit (tie) oneself to some action (Sometimes the double term badintanae, tolentanae: is used for this)
+badi (af) a strip of silk-cocoon that has been cut to the proper thickness to tie an arrowhead to the arrow; to tie with such a strip; the leather strips used to span drums; poetic parallel of juri, a mate or companion, used in a marriage song; refl. badin - to strongly commit (tie) oneself to some action (Sometimes the double term badintanae, tolentanać is used for this)
 
 badi (af) used in prayers par allel to ladi, or in the jingle ladi badi with the meaning of ladi, "to load upon'
 
@@ -132,11 +132,11 @@ bagan (3) a garden (also bakai) vegetables, etc., to grow in abundance, big and 
 bagara (3) - see bagra) bagasa (a) - a boxid his
 
 bage (a) to leave, abandon, 
-*bagur-bagur - same as bagur(ken) relinquish; refl. to dissociate oneself or take oneself away from a person or situation (e.g. a woman leaving her husband or a dasi leaving his work), also in refl. we can say kaji kae: bagentana, 'he 
+*bagur-bagur - same as bagur(ken) relinquish; refl. to dissociate oneself or take oneself away from a person or situation (e.g. a woman leaving her husband or a dasi leaving his work), also in refl. we can say kaji kać bagentana, 'he 
 *baguri-ö:1- to separate from the doesn't stop talking' 
 *bage-atu- to leave behind
 *bage-eraḱ - to abandon or desert; to neglect (e.g. a parent not taking proper care of his or her child); refl. -to neglect (not care for) oneself; to deny oneself.
-*bage-goe: to let die through neglect.
+*bage-goć to let die through neglect.
 *bagekete besides, e.g. neya bagekete, 'besides this'. AP
 
 bagiya (बगिया) - the shade of a person killed by a tiger. The bagiya spirits are believed to control the jungle tigers and sometimes inflict
@@ -157,7 +157,7 @@ bai () to make; the refl. form bain is sometimes used in the sense of 'become'; 
 *bai-muli- to make straight (e.g. fields)
 *bai-sangi to make numerous audind
 *bai-seka - to complete making refers to the whole town and not 
-*bai-tãe: to skip or leave out
+*bai-tãeć to skip or leave out
 
 just to the market place, which is something while making.in called hat(o). 
 bajara (aus) -a drum beat on the
@@ -169,7 +169,7 @@ bajaw (au) to be a certain time (Hindi - bajna "to strike") Chimin bajawo:tana?,
 
 bai (s)- to inflict harm esp. death on someone by witchcraft.
 *bai-adani:- one who knows how to inflict harm by witchcraft; a wizard.
-*bai-goe: - to kill by witchcraft. 
+*bai-goć - to kill by witchcraft. 
 *bai-sid to kill off a family by witchcraft. (22) (05) Brynd
 
 bai (as) daru- the banyan tree; Ficus bengalensis, L., Moraceae, B.125/4. H.125/8/13
@@ -285,41 +285,41 @@ bale () hair, the string of a banam (fiddle)
 bale (a) a trap made of thread, horse hair, rope, wire, etc.;a snare (for birds, etc.); to entrap, to ensnare; to fish with a line and hook; to draw water out of a well with e.g. a bucket on a rope.
 *bale chari: - a bird trap made of thin bamboo strips (chari:)
 *bale-o:1- to draw out (e.g. water from a well with a bucket)
-*bale: sagen oe - a small bird which makes its appearance at the time when new tender leaves blossom.
-*bale: sakam tender freshly blossomed leaves.
+*baleć sagen oe - a small bird which makes its appearance at the time when new tender leaves blossom.
+*baleć sakam tender freshly blossomed leaves.
 *bale seped a boy in early
 
 adolescence (13-16 years old)
-*bale: singi - the newly risen sun *bale: sitiya - an infant
-*bale:-ura to become fresh or tender again; of flesh, to form again after a wound has healed.
+*baleć singi - the newly risen sun *baleć sitiya - an infant
+*baleć-ura to become fresh or tender again; of flesh, to form again after a wound has healed.
 
 Balisor (बलिसो र) Balasore, adj. from or considered to be from Balasore.
 
 baliya (af) the colour of a hen, *bale-urui: - to entrap tightly two shades of red and some white
 
-bale: (a) young; early; fresh, tender (in some cases the check of this word is dropped, see usages given below); infancy, e.g. bale:re, in infancy (for which bale:yakanre can also be used), bale: (or nickname of a girl; pass. verb - to become fresh or tender; of fresh flesh, to form again after a wound has healed, jilu bale: yakana, 'flesh has formed freshly' (after a wound) Castela *balu mui: a small black ant
+baleć (a) young; early; fresh, tender (in some cases the check of this word is dropped, see usages given below); infancy, e.g. balećre, in infancy (for which balećyakanre can also be used), baleć (or nickname of a girl; pass. verb - to become fresh or tender; of fresh flesh, to form again after a wound has healed, jilu baleć yakana, 'flesh has formed freshly' (after a wound) Castela *balu mui: a small black ant
 
 mixed. balok (at) - a child, childhood
 
 (used in songs. Hindi - balak') balsa (c) - balsam, an aromatic, commonly oily and resinous, substance flowing from certain
 
-bale:mai) is sometimes used as the plants.
+balećmai) is sometimes used as the plants.
 
 balti (f) a bucket (Hindi) balu () a bear (also bana)
-*balu gotaḱ - a term used in some places for the Sirkeer Cuckoo (elsewhere called ke: berlo:)
+*balu gotaḱ - a term used in some places for the Sirkeer Cuckoo (elsewhere called keć berlo:)
 
 found in fields and trees, does not bite (as do e.g. the rola mui: and the had mui:)
 *balu surpan - a hornet (blackish and rather big)
 
 bamal (a) a kind of rash. bamal (44) lost, esp. of cattle, (goats, etc.
 *bale hapanum - a girl in early adolescence (13-16 yrs. old)
-*bale: hon an infant *bale: hopad- a fresh offshoot
-*bale: iyal-the fine downy hair of
+*baleć hon an infant *baleć hopad- a fresh offshoot
+*baleć iyal-the fine downy hair of
 
 a baby
-*bale: mai- a nickname sometimes given to a girl.
+*baleć mai- a nickname sometimes given to a girl.
 *bale mulu: the second or third day after a new moon.tum
-*bale: sagen tender leaves blossoming on twigs after the cold season is over.
+*baleć sagen tender leaves blossoming on twigs after the cold season is over.
 
 bamali (H)-one who has left his village and roams from place to
 
@@ -416,8 +416,8 @@ bandu (a) nai a very heavy woody climber of the jungle, which yields a good fibr
 
 married for many years but is childless
 
-bandur-basu: (-a) having *banji era a barren woman very fine smooth hairs, e.g. of the hairs (iyal) of the mindi chidu or ote leper aḱ, q.v. of the tail of a jackal (one could say banji (af) to collect (esp. from the ayaḱ chadlom bandur-basu:tana, or jungle) and bring in great quantity; bandur-basu:tane: chadlomana) used as verbal affix or poetic
-*banji leper aḱ another name for
+bandur-basu: (-a) having *banji era a barren woman very fine smooth hairs, e.g. of the hairs (iyal) of the mindi chidu or ote leper Aaḱ, q.v. of the tail of a jackal (one could say banji (af) to collect (esp. from the ayaḱ chadlom bandur-basu:tana, or jungle) and bring in great quantity; bandur-basu:taneć chadlomana) used as verbal affix or poetic
+*banji leper Aaḱ another name for
 
 -banga (-) bangol, q.v.
 
@@ -539,7 +539,7 @@ common krait.
 
 barad-bered(tan) (-3)- the cry of many goats or sheep (with verb raḱ, etc.)
 
-baram (33) a dwarf (usually referring to a spirit except in terms such as baram-lekan hö, a dwarf (man) and baram-lekae: harakana, 'his growth was stunted' (like that of a dwarf)
+baram (33) a dwarf (usually referring to a spirit except in terms such as baram-lekan hö, a dwarf (man) and baram-lekać harakana, 'his growth was stunted' (like that of a dwarf)
 *baram bongako dwarf-like malign spirits (these are considered to be servant spirits to the juguni spirits.)
 
 32
@@ -611,7 +611,7 @@ wood is used for firewood and for making ploughs and levelling planks; the pulp 
 
 basan (s) to boil water *basan daḱ singi about 4-5 P.M. when water is put on the fire for
 
-Anded *basan-goe: to sterilize by boiling; to boil and let cool off. Fed
+Anded *basan-goć to sterilize by boiling; to boil and let cool off. Fed
 *baru chaya - a beetle which has pink wings and which eats the fresh leaves of the baru tree; This is also called araḱ chaya
 
 basi (af) left over from the previous day; the day after the main day of any feast.
@@ -638,16 +638,16 @@ basa (a) - one off by itself, solitary (used in certain contexts, e.g. of a tree
 basa bandu (g) a kind of creeper, the tender shoots of which are edible and sometimes eaten by cowherds, etc. (This is much like ii: towar and is prob. Vitis tomentosa, Heyne., Ampelidaceae, H.47/1/9, B.47/9)
 *basi daḱ -water which has been in the chatu from the previous
 *basi dundu daḱ water in which rice was cooked the previous day.
-*basi geje:-geje: - for something, e.g. cooked rice or curry, to be exceedingly stale to the point of almost rotting.
+*basi gejeć-gejeć - for something, e.g. cooked rice or curry, to be exceedingly stale to the point of almost rotting.
 *basi mandi cooked rice which has been kept overnight without putting water into it, and hence which has developed a smell (cooked rice into which water has been put is referred to as daḱ mandi even when taken the next day which is usually the case)
-*basi moroe:- something held over for two days (may be used of rice beer, also of the day after basi of the mage feast, also called mage
+*basi moroć- something held over for two days (may be used of rice beer, also of the day after basi of the mage feast, also called mage
 
-moroe: or har mage)) basi (a) a fish hook; to fish with
+moroć or har mage)) basi (a) a fish hook; to fish with
 
 a line and hook.
 *basi dandaḱ a fishing rodated *basi sutam - a fishing line
 
-basiyam (f) - to take something to eat about basiyam singi time; pass. to become this time (used) in terms basiyamakana, it has become basiyam singi time', or singidoe: basiyamo:wa, "The sun logo will reach basiyam singi time')
+basiyam (f) - to take something to eat about basiyam singi time; pass. to become this time (used) in terms basiyamakana, it has become basiyam singi time', or singidoć basiyamo:wa, "The sun logo will reach basiyam singi time')
 
 34
 *basiyam singi - about 8 to 10 A.M. *basiyam tikin - some time about
@@ -698,14 +698,14 @@ outer ropes (bandi bayer) of which are fixed by rolling the bundle along the gro
 *batin-batin - (refl. form repeated) -roll over (said playfully at the end of a verse by one playing the banam or the flute).
 *bați uru another name for the guri: uru (dung beetle), so called because making a ball of dung, it rolls it over into a hole which it has made.
 
-batid (afas) same as batil, q.v. batil, batı:1 (afact, adet) a word (not translatable in a uniform way) put after a word or phrase to which the main subject is compared, usually unfavorably, indicating that the subject would prefer the action to which batil is attached than that to which it is compared, e.g. achado ka rasakowa, kako herdaiyanredo rowa batilko rowaya. "They do not like to sow in water; if they have not been able to sow, they would rather transplant (they would prefer to transplant); Sometimes used after a noun or pronoun, e.g. ae: alom emaiya, am batil jomeme, 'Do not give it to him, rather you eat it.
+batid (afas) same as batil, q.v. batil, batı:1 (afact, adet) a word (not translatable in a uniform way) put after a word or phrase to which the main subject is compared, usually unfavorably, indicating that the subject would prefer the action to which batil is attached than that to which it is compared, e.g. achado ka rasakowa, kako herdaiyanredo rowa batilko rowaya. "They do not like to sow in water; if they have not been able to sow, they would rather transplant (they would prefer to transplant); Sometimes used after a noun or pronoun, e.g. ać alom emaiya, am batil jomeme, 'Do not give it to him, rather you eat it.
 
 batilo used in a story-song in the term bet batilo apparently meaning the same as bet dandaḱ, a rattan cane' (bațilo is not a Ho word. Some story songs mix some Oriya with the Ho) batin (afasi) - same as batil, q.v.
 
 batin (arfast a poetic parallel to hiyatin, 'to feel pity' (more often chakatiń is used for this)
 
 bato (are) -rheumatism (also bat) batuwa (a) a long-standing swelling esp. in the foot or leg; elephantiasis; pass. To be thus swollen
-*batuwa aḱ- an edible herb, some times cultivated and sold in the market; Clenopodium album, L. Clenopodiaceae, B.109/3 H.109/ 1/1
+*batuwa Aaḱ- an edible herb, some times cultivated and sold in the market; Clenopodium album, L. Clenopodiaceae, B.109/3 H.109/ 1/1
 *batuwa kata - a badly swolled leg or legs (this term when referred to someone (batuwa kaṭäni:) would be spoken in ridicule or scorn)
 
 bau (3) whitish matter or mould which forms on certain objects (e.g. bakara fruit, paddy stalks, leather) which start to decompose; of mould, to form bau (3) older brother, or older male cousin
@@ -743,21 +743,21 @@ rankani juguni and bir jugunion) *baya konka - dull wittted; of e.g. a spirit, t
 
 bayaḱ-bataḱ (-e) to roam from place to place looking for or asking for something, and
 
-bayan (as) aḱ - an edible creeper found in the jungle, prob. Vitis auriculata, Laws., Ampelidaceae, H.47/1/16, B.47/6., for which Haines gives 'baiang' (this may a cloth
+bayan (as) Aaḱ - an edible creeper found in the jungle, prob. Vitis auriculata, Laws., Ampelidaceae, H.47/1/16, B.47/6., for which Haines gives 'baiang' (this may a cloth
 
 not be eaten until after the hero: sacrifice has been performed). *bayan togo a larger type of togo (a variety of civet cat): a smaller variety is called biskal togo) bayda (au) a castrated male goat;
 
 to castrate by cutting (cf. kuta) bayed (ar) at least (often used after a verb root followed by a full
 
-verb form from that same root). bayer () a rope; to tie with a rope, (a rope seen in a dream could refer to a snake and the threat of a spirit to throw a rope at someone could mean that he would send a snake to bite that person) *bayer-adu - to let down by a rope. *bayer aḱ-sar a bow in which the bow string is made of rope instead of a thin strip of bamboo (made for
+verb form from that same root). bayer () a rope; to tie with a rope, (a rope seen in a dream could refer to a snake and the threat of a spirit to throw a rope at someone could mean that he would send a snake to bite that person) *bayer-adu - to let down by a rope. *bayer Aaḱ-sar a bow in which the bow string is made of rope instead of a thin strip of bamboo (made for
 
 small children to play with) bayna (a) an advance paid on something; earnest money given to clinch a sale-contractanbht
 
-be: (a) spittle; to spit (takes transitive verb forms); to spit upon (be: means to spit out saliva; lele: is used meaning to spit out e.g. a seed or food)
-*be:-daḱ - spittle
-*be:-0:1 - to spit out saliva. *be:-topa - to spit all over (used in
+beć (a) spittle; to spit (takes transitive verb forms); to spit upon (beć means to spit out saliva; leleć is used meaning to spit out e.g. a seed or food)
+*beć-daḱ - spittle
+*beć-0:1 - to spit out saliva. *beć-topa - to spit all over (used in
 
-prayers with the parallel kae:-topa with the figur. meaning of 'to show disrespect')
+prayers with the parallel kać-topa with the figur. meaning of 'to show disrespect')
 
 bebe-bebe (-a) a loud call made by repeatedly putting the back of the hand to the mouth producing a sound something like bebe-bebe (used when hunting to excite a sail (bison) or to urge one another on to kill or trap a sail)
 
@@ -779,14 +779,14 @@ H.105/10/2
 
 behos (8) unconscious (Hindi,
 
-better Ho would be goe:-anjed)
+better Ho would be goć-anjed)
 
 beja (a) used only in the term
 
 beja sim, q.v.
 *beja sim- a chicken entrusted by the head of a household to be sacrificed by a diuri and then taken back to be eaten by the members of the household (this is done on the occasion of the ba feast and also at the time of a borobonji sacrifice)
 
-beke:-beke: (-)- to converse laughingly and light-heartedly, e.g. of young people when dancing. bel (a) daru- the Bel tree, Aegle marmelos, Correa., Rutaceae, B. 36/1, H.36/14/1 (see also lowagasi:,
+bekeć-bekeć (-)- to converse laughingly and light-heartedly, e.g. of young people when dancing. bel (a) daru- the Bel tree, Aegle marmelos, Correa., Rutaceae, B. 36/1, H.36/14/1 (see also lowagasi:,
 
 the same as above, perhaps esp. as found in its wild state) 300 bela (e) a round bowl, bigger
 
@@ -830,7 +830,7 @@ benga (m) - separate; to separate one from another. Syn. of tanga q.v. (At least
 
 Chakradharpur area)
 
-egg-plant; Solanum melongena, L., fall suddenly and copiously (with verbs of crying) bere:-bete: (-)- to tear, cut, etc.
+egg-plant; Solanum melongena, L., fall suddenly and copiously (with verbs of crying) bereć-beteć (-)- to tear, cut, etc.
 
 Solanaceae, B.97/14 H.97/5/9
 *belati benga - a tomato *daru benga - an egg-plant
@@ -839,7 +839,7 @@ benga-bingi (fa) parallel running stripes of alternate colour (e.g. as of a junj
 
 bengan () - excellent, fine, good looking, e.g. esu bengan kajikote, 'with very fine words'
 
-bengere: () - same as bengerle: bengerle: () coloured with stripes alternately reddish or reddish-brown and a lighter colour, e.g. of the junjui, a small *berel-totod- of fruit, still raw and smooth-skinned lizard
+bengereć () - same as bengerleć bengerleć () coloured with stripes alternately reddish or reddish-brown and a lighter colour, e.g. of the junjui, a small *berel-totod- of fruit, still raw and smooth-skinned lizard
 
 benk. benke (, ) - a commer
 
@@ -847,7 +847,7 @@ cial bank
 
 bența (a) a turban; to wear something around the head like
 
-bere: (3) sanga a climbing jungle vine with large edible tubers; perhaps Dioscorea Hamiltonii, Hook, Dioscoreaceae, H.152/1/6 (He gives 'beri kanda', beola (den)- a cup-like receptacle Ho), B.152/13
+bereć (3) sanga a climbing jungle vine with large edible tubers; perhaps Dioscorea Hamiltonii, Hook, Dioscoreaceae, H.152/1/6 (He gives 'beri kanda', beola (den)- a cup-like receptacle Ho), B.152/13
 
 a turban
 
@@ -858,7 +858,7 @@ bepari (R) a trader, merchant bera (1) low-lying fields (also called sal) Cozy
 
 berangi (af) of a man, to be carried away and eaten by a tiger; of a place, to become very unsafe because of the presence of a tiger b opol)
 
-into small pieces (also bete:-bete:) bered (3) the bleat of a sheep, of a sheep, to bleat
+into small pieces (also beteć-beteć) bered (3) the bleat of a sheep, of a sheep, to bleat
 
 berel (a) unripe; of wood, unseasoned, green; of meat or vegetables, uncooked, raw; of water, unboiled; of the body of a woman after childbirth, still weak and sensitive to pain; of the complexion of a young person, fresh (as in the term esel-berel) *berel daḱ - unboiled water
 
@@ -883,19 +883,19 @@ br (4) to cause someone or some animal to eat his full; pass. to eat one's stoma
 
 reach' to some destination, e.g. br-br (बी-बी) - an awe-inspiring appearance of very deep water. bicha (f) to tease, provoke *bicha-nam- to tease, provoke
 
-gupi-betake dae:, 'the servant bicha (fa) diri - iron ore. bichar (fax) judgment, to judge; to pass judgment on (see also sirma bichar) Jamiemo *bichar-sala- to pass judgment
+gupi-beta ket́ać, 'the servant bicha (fa) diri - iron ore. bichar (fax) judgment, to judge; to pass judgment on (see also sirma bichar) Jamiemo *bichar-sala- to pass judgment
 
 betaran (R)- a day
 
-bete:-bete: (-- to tear, cut, etc. *bichar-sanala - a passing judgment (sanala -verbal noun of
+beteć-beteć (-- to tear, cut, etc. *bichar-sanala - a passing judgment (sanala -verbal noun of
 
 into small pieces (into shreds) betel (ca) to move slightly, e.g. sala, to select) of the float supporting the bait when fishing or of fishes idling along.
 *betel-betel - the slow motion, e.g. of fish idling along (somewhat faster would be pețel-petel); of the pui (float supporting the bait when fishing) to bob up and down on the water' of rain drops, to fall very lightly (just a few small drops) beteń (225) to startle; to be
 
 beto: (et) to move across water with an undulating motion (e.g. of tiny insects); to deliberately bend the finger up and down.
 *beto:-beto: same as beto: of a continued or repeated action
-*bichar ulan- judgment day bid (fas) to plant (by digging a hole, etc.); to erect by planting; refl. of a plough, to dig (itself) into the ground at too deep an angle so that it cannot move along properly; as used with bo: and kata see below. *bo: biden to stand on one's head, e.g. bo:e: bidentana, 'He is standing on his head'. tommoo
-*kata biden- to stand or walk on startled, to start (Les. 26) tiptoes, e.g. katae: bidentana, 'He is standing on tiptoes'.
+*bichar ulan- judgment day bid (fas) to plant (by digging a hole, etc.); to erect by planting; refl. of a plough, to dig (itself) into the ground at too deep an angle so that it cannot move along properly; as used with bo: and kata see below. *bo: biden to stand on one's head, e.g. bo:eć bidentana, 'He is standing on his head'. tommoo
+*kata biden- to stand or walk on startled, to start (Les. 26) tiptoes, e.g. katać bidentana, 'He is standing on tiptoes'.
 *bid-bid(tan) on tiptoes (with verbs of walking or standing)
 *bid-bolo to plant more plants or seedlings among others, e.g. because the others are coming up
 
@@ -936,7 +936,7 @@ bikan-bokon (f) to be long-bodied, e.g. of a deer, horse, cattle, etc; to be str
 bikolo (fate)- perplexed, confused
 
 bilae (eng) a catm
-*bilae muta aḱ- a jungle herb, prob ably Lepidagathis fasciculata. Nees, Acanthaceae, H.104/21/5, B.104/22 ("a diffuse aromatic viscous hairy herb among rocks in sal forests")
+*bilae muta Aaḱ- a jungle herb, prob ably Lepidagathis fasciculata. Nees, Acanthaceae, H.104/21/5, B.104/22 ("a diffuse aromatic viscous hairy herb among rocks in sal forests")
 *bilae sarsar- the name of a bush about 4-5 feet high. The leaves are used for scrubbing dishes. It has a bidsi-bina (fasf far) naughty (also black fruit (not eaten) at the bottom of which are small hook-like extensions; Martynia diandra, Glox., Pedaliaceae, H. 103/3/1, B.103/1 (H. also gives an English name, 'Devil's Claw') bilae-baliya (fany-afeu) a mixed black and white colour of chickens bilay (fr) a cat, also spelled
 
 obil-bil (-) - an awe inspiring appearance of deep
@@ -959,7 +959,7 @@ Tobin a haku- an eel (a fish with a snake like mouth)
 *biń sapuwa- a snake charmer *biń ud- a kind of small inedible flowers.
 
 mushroom
-*bin ula a kind of thick white bindi daru froth, about as big as a hockey ball, found (esp. In the beginning tree of the rainy season) on water and occasionally on land, believed to be vomitted up by snakes. (Much smaller than this is chandu: be:, q.v.)
+*bin ula a kind of thick white bindi daru froth, about as big as a hockey ball, found (esp. In the beginning tree of the rainy season) on water and occasionally on land, believed to be vomitted up by snakes. (Much smaller than this is chandu: beć, q.v.)
 
 biņa (d) a harp (used in translating, not a Ho word) binda (fa) - the circular object
 
@@ -978,7 +978,7 @@ bindi (af) daru - several trees as follows (for more details consult the descrip
 bindi (fafe) era poetic parallel of nage era, q.V..
 
 bindi (af) putam - a variety of pigeon which the villagers identify as the Common Green Pigeon. bindrram (बिंदीरम) a spider
-*bindiram aḱ same as bindıram
+*bindiram Aaḱ same as bindıram
 
 red, q.v.
 *bindıram duki spider lick, a burn-like skin irritation supposedly caused by the urine of
@@ -989,13 +989,13 @@ bindiram chãi, q.v. *bindıram nai- same as bindıram
 
 red, q.v. *bindıram red a climbing vine
 
-which has its small fruit wrapped up in a web-like formation. The leaves and fruit of this are eaten and it gives a medicine which is applied to spider-lick (also called bindiram aḱ, bindiram nai, sikuwar aḱ, tob aḱ)
+which has its small fruit wrapped up in a web-like formation. The leaves and fruit of this are eaten and it gives a medicine which is applied to spider-lick (also called bindiram Aaḱ, bindiram nai, sikuwar Aaḱ, tob Aaḱ)
 
 42
 
 bindu (fag) to coil up, e.g. of a *bir juguni- a type of juguni spirit which inflicts harm on animals (as rankani juguni inflicts harm on
 
-snake; to squat with one's legs crossed (of one thus squating we could say binduwakanae: or bindute: dubakana binduwakante: dubakana) or
+snake; to squat with one's legs crossed (of one thus squating we could say binduwakanać or binduteć dubakana binduwakanteć dubakana) or
 
 binga-banga (-) many
 
@@ -1030,9 +1030,9 @@ tani)
 *bir sim- a jungle fowl *bir-sirimi - one of the
 
 many plants used in divination to protect a village or house from baneful actions of spirits (said not to be found locally, but in the big jungles e.g. in Orissa) abem)
-*bir sukuri - a wild boar Caranse *bir sursu aḱ - a plant also called
+*bir sukuri - a wild boar Caranse *bir sursu Aaḱ - a plant also called
 
-buru sursu aḱ or buru mani aḱ *bir uri: - sometimes used to refer to a murum, a nilgai
+buru sursu Aaḱ or buru mani Aaḱ *bir uri: - sometimes used to refer to a murum, a nilgai
 
 bir, bi:r (fax) to perform the initial process of weaving a net bir (R) a powerful guru bonga called upon by dewas to help them in their work (usually used in plural birko. Probably from Hindi wir, 'brave, mighty'
 
@@ -1124,7 +1124,7 @@ about wayari node i golau
 *biyur-ura to turn or wind about and return back; to return e.g. some
 
 bo: (a) head; a leader; the part of a tank, pond, etc. where the water enters; a man's height (when meas uring the depth of water, e.g. bar bo: - twice the height of a man); to face one's head or the head of some object, e.g. a bed, in a certain direc
-*bo: aḱ - to let down one's hair *bo: atan - same as bo: hatan
+*bo: áà - to let down one's hair *bo: atan - same as bo: hatan
 *bo: bale-hair of the human head; pass. verb- of one's hair to grow, (e.g.
 
 to a certain height) *bo: bale pana - a part in one's hair
@@ -1136,7 +1136,7 @@ to a certain height) *bo: bale pana - a part in one's hair
 *bo: hatan - the brain, also called
 
 merely hatan or atan
-*bo: hed to pull the hair, e.g. bo:e: hedkidina, she pulled my hair
+*bo: hed to pull the hair, e.g. bo:eć hedkidina, she pulled my hair
 *bo: jan - a skull
 *bo: kanduwa-South, referring to the position of the head of a buried person. Hos bury North-Sount with the head to the South, so that the body is facing North (should it sit up), the direction from which their ancestors have come
 *bo: mundu - reaching to the top of one's head, e.g. of the depth of water
@@ -1176,12 +1176,12 @@ convert
 
 bodranko (a) respected elders who give advice in panchayats,
 
-boe: (a) to peel off the bark of
+boć (a) to peel off the bark of
 
 tender branches
 
-boe:(at)tadleka - same as boe: boe:(tan) beeld alo
-*boe:-boe:(tan) very straight and high (of a tree, see also bojo-bojo
+boć(at)tadleka - same as boć boć(tan) beeld alo
+*boć-boć(tan) very straight and high (of a tree, see also bojo-bojo
 
 boesor - see boysor
 
@@ -1204,7 +1204,7 @@ bogsis (बोगसीस) - a reward
 
 boja (at) a load; a bundle of bolo (a) to enter
 
-wood, leaves, etc. tied together bojo-bojo(tan) (atuit-atuit) very straight and fairly long; of an arrow, to go very straight (cf. boe:-boe:(tan))
+wood, leaves, etc. tied together bojo-bojo(tan) (atuit-atuit) very straight and fairly long; of an arrow, to go very straight (cf. boć-boć(tan))
 
 paddy of which the grains are long and slender
 
@@ -1242,12 +1242,12 @@ bolo-bapad - to certainly enter *bolo-bisi: - to defile by entering
 enter into
 *bolo-tala to enter among: to
 
-boka (a) aḱ-same as buka aḱ, q.v. numbers
+boka (a) Aaḱ-same as buka Aaḱ, q.v. numbers
 *bolo-undi to enter in large
 
 47
 
-bomor mari ( R) daru a tree considered by some villagers to be the biggest tree, not found locally but found in the big jungles of Orissa and in the Saranda jungle. Also called gomor mari daru, and called uruko goe: daru since it is believed that when it flowers insects, birds, etc. who sit under it die. It is used for medicine bon-bon (ats-ale) to make a wide gaping hole, e.g. in an embankment (also ban-bon)
+bomor mari ( R) daru a tree considered by some villagers to be the biggest tree, not found locally but found in the big jungles of Orissa and in the Saranda jungle. Also called gomor mari daru, and called uruko goć daru since it is believed that when it flowers insects, birds, etc. who sit under it die. It is used for medicine bon-bon (ats-ale) to make a wide gaping hole, e.g. in an embankment (also ban-bon)
 
 in Orissa, mentioned in prayers bondo (a) to close (from Hindi), used in certain metaphorical usages, e.g. paiti: bondokeda, it back 'He closed down the work' bondo (at) to render someone's power ineffectual; to put an end to one's power. Pass. of one's power, to be rendered ineffectual, to come to an end.
 
@@ -1262,7 +1262,7 @@ is offered usually takes the affix . re, e.g. pundi sandi Sinbongareko bongaiya.
 *bonga-biyur- by a sacrifice to turn back some harm upon another, e.g 1) upon a witch who is inflicting harm on another, 2) upon the bondarkocha buru a hill (jungle) people of another village who have driven out (bonga-eraḱ) a spirit who has now moved into the village of those who are sending
 *bonga-buru a generic term for traditional sacrifices to the spirits *bonga dandaḱ the bamboo staff used by one who goes into a trance for the purposes of divining
 *bonga diyan rice beer made for sacrificial offerings, which is therefore considered sacred and can only be drunk by certain people *bonga didi the Black or King Vulture (also called rilan didi and
-*bonga eraḱ to get rid of (e.g. sickness or a spirit inflicting sickness) by performing a sacrifice *bonga-goe:- to kill some animal for sacrificial purposes
+*bonga eraḱ to get rid of (e.g. sickness or a spirit inflicting sickness) by performing a sacrifice *bonga-goć- to kill some animal for sacrificial purposes
 *bonga hōko people who offer sacrifices (referring esp. to the diuri who performs the sacrifice but also to those who call upon him to do so) *bonga hora - the Milky Way
 *bonga jid-by a sacrifice to preserve the life of a man apparently dying *bonga jilu- the meat of an animal which has been sacrificed. This is
 
@@ -1295,23 +1295,23 @@ banai) by means of divining
 
 bonka (at) to have an open space in some small surface, e.g.one's teeth where a tooth is missing (for which the form datam bonkayana can be used) (see also bowań which has much the same meaning but which can also refer to a bigger open space, e.g. a break in an embankment) bono: (a) headship, leadership; responsibility for some work (verbal noun of bo:) guolaidos m
 
-bonoe: (dry) - to tie something with a slip-knot
+bonoć (dry) - to tie something with a slip-knot
 
 bonolo (a) an entering, an entrance (verbal noun of bolo)
 *bonolo duwar - a door or gate for entering (e.g. bajarreyaḱ bonolo duwar, the gate of the city) lood
 
 bor (a) to unwind or stretch out thread; to unwrap silk-cocoons, to stretch out, e.g. a muffler, length-wise; refl. to stretch oneself out (e.g. a worm or a snake)
-*bor aḱ an edible leaf (vegetable) found growing wildly and extensively over fields at about the time of the
+*bor Aaḱ an edible leaf (vegetable) found growing wildly and extensively over fields at about the time of the
 
 49
 
-start of the monsoon, much like mui: aḱ but longer
+start of the monsoon, much like mui: Aaḱ but longer
 *bor-o:1- to unwind or unreel
 *bor-rakab - to unwind upward, e.g. the thread around a sayu dumbu which at the time of burial is stretched up from a corpse to the air above
 
 bor (a) having a slppery surface; of the feet, not to get a good foothold because the surface is too slippery *bor chora haku- a chora (q.v.) type fish, slippery to hold on to
 *borramba- a smooth-seed variety of ramba called urid in Hindi, Phaseolus mungo, L., incl. var. roxburgii, Prain, Papilionaceae, H.53/49/8-9, B53/90) dan bukur-liyan)
-*bor tempa aḱ - a plant resembling the tempa aḱ plant, called bör since its leaves, esp. when cooked are very slippery in the hand so
+*bor tempa Aaḱ - a plant resembling the tempa Aaḱ plant, called bör since its leaves, esp. when cooked are very slippery in the hand so
 *bōr-ura - of the feet, to slip back because a surface is too slippery
 
 bor, bōro (ars are) - a straw rope expressed it takes a -te or a *bor(o) sengel - a piece of straw rope, an end of which is kept smouldering as a source of fire
@@ -1339,7 +1339,7 @@ borked (बोरकोड़ ) - the lungs
 
 bor-longi (af) a bird, the Tree Pie, also called bokor-liyan and d
 
-boro (a) fear, to fear; to be afraid. When the object of the fear is not ex pressed, this is used transitively, e.g. borokedae:, 'He was afraid', alom boroya (boro-e-a), 'Don't be afraid'. When the object of fear is marker, e.g. alom borotekowa or alom borowakowa, 'Do not be afraid of them'. Boro is used in an imper sonal construction with the experiencer as object, e.g. edka borokidina, 'I was thoroughly scared. It is also sometimes used with a personal subject and a direct personal object with the meaning of 'to make someone give in (give up) borana (13 311) - a mouth in which out of fright' ship in
+boro (a) fear, to fear; to be afraid. When the object of the fear is not ex pressed, this is used transitively, e.g. borokedać, 'He was afraid', alom boroya (boro-e-a), 'Don't be afraid'. When the object of fear is marker, e.g. alom borotekowa or alom borowakowa, 'Do not be afraid of them'. Boro is used in an imper sonal construction with the experiencer as object, e.g. edka borokidina, 'I was thoroughly scared. It is also sometimes used with a personal subject and a direct personal object with the meaning of 'to make someone give in (give up) borana (13 311) - a mouth in which out of fright' ship in
 *boro-beteń - to scare causing one to be startled Guda Bongs
 *boro-birkaw- to frighten, startle boro-boro- timid, frightened; in a
 
@@ -1399,7 +1399,7 @@ bos, boso (a)- an ancestral line or family in panutame to
 
 and juguni spirits; a jungle picnic generations bosichi - a word used in a story with
 
-boroe: (a) of diyan, to turn bad
+boroć (a) of diyan, to turn bad
 
 because of the heat; of men, to the prob. meaning of 'to sit', (not a become sick because of the heat Ho word, prob. from Uriya, see
 
@@ -1429,7 +1429,7 @@ bostor (बोसतोर) a chatu of water raised up on a pole by Kumhars to a
 
 boto-boto (alat-alat) to stretch out something long and straight
 
-botoe: (ay) - a loin cloth; to put a loin cloth on someone; refl. - to wear a loin cloth
+botoć (ay) - a loin cloth; to put a loin cloth on someone; refl. - to wear a loin cloth
 
 (-)- a bird which attacks silkworms, prob. another name for the bokorliyan, the Tree Pie
 
@@ -1510,7 +1510,7 @@ buidi (gsf) a village doctor and buiya (g) a form of address to
 
 a girl or a young woman, (bui+a) buiya (4) a member of the
 
-buka (3) aḱ a herb, grown in water and used for curry. In some places called boka aḱ and said to be called losod aḱ in Mundari, prob. Limnophila gratioloides, Br. Scrophulariaceae, B.98/12, H.98/
+buka (3) Aaḱ a herb, grown in water and used for curry. In some places called boka Aaḱ and said to be called losod Aaḱ in Mundari, prob. Limnophila gratioloides, Br. Scrophulariaceae, B.98/12, H.98/
 
 bukal-bukal (gc-ghet) of spring water, to bubble up rapidly
 
@@ -1621,7 +1621,7 @@ buru (3) a mountain, a hill, a jungle; to heap up (used also as verbal affix wit
 give lan danchu:, bindu danchu:)
 *buru dedem probably the Yellow-throated Sparrow *buru dowan - a level section in a
 
-heap', note the expression buruken chauli used in prayers as follows, buruken chauli garaken mayomen punjiyama hinjiyama "I put in the punji heaped-up rice jungle above a ravine and between grains for you, I cause rivers of blood hills to flow for you" (i.e. I offer you numerous sacrifices); poetic parallel with bonga - a spirit, to sacrifice; as a passive verb, poetic parallel with bonga or goe: having the meaning 'to become a spirit' (said e.g. in prayers to the ancestors)
+heap', note the expression buruken chauli used in prayers as follows, buruken chauli garaken mayomen punjiyama hinjiyama "I put in the punji heaped-up rice jungle above a ravine and between grains for you, I cause rivers of blood hills to flow for you" (i.e. I offer you numerous sacrifices); poetic parallel with bonga - a spirit, to sacrifice; as a passive verb, poetic parallel with bonga or goć having the meaning 'to become a spirit' (said e.g. in prayers to the ancestors)
 *buru dudulum - a jungle pigeon *buru dundu - probably the Indian
 
 Great Horned Owl
@@ -1640,7 +1640,7 @@ mountain or high hill. Each high hill near a village has its buru bonga. 'hills'
 buru jola the base of a hill or jungle, also called buru latar
 *buru kadal - a banana plant 3-4 ft. high with slender stems and firm inedible fruit in a rose coloured spathe, Musa ornata, Roxb., Musaceae, B.155/1, H.155/1/2
 *buru kayur - a plant resembling the kayur plant but said to have smaller flowers and leaves ar
-*buru kesari aḱ- same as dora aḱ, q.v. *buru chutukaḱ the top of a hill *buru kita - a stemless dwarf palm, the leaves of which are extensively used to make mats, Phoenix
+*buru kesari Aaḱ- same as dora Aaḱ, q.v. *buru chutukaḱ the top of a hill *buru kita - a stemless dwarf palm, the leaves of which are extensively used to make mats, Phoenix
 *buru danchu: - some give this for the Racket-tailed Drongo (others
 
 56
@@ -1654,13 +1654,13 @@ burud(leka)
 *buru kuid a jungle eagle, somewhat larger than the ordinary kuid (kite). Hoffman gives 'the Southern Indian Harrier Eagle'
 *buru kurti a plant resembling kurti, q.v., and in many places
 
-called gai sane: *buru lodom - a level place on the
+called gai saneć *buru lodom - a level place on the
 
 top of a hill
 *buru mad- a kind of bamboo, not too thick but with a very thin hole and quite strong; prob. Dendrocalamus strictus, Nees, Gramineae, B.139/15, H.139/2/1
 *buru mani - a herb growing about 1-2 ft. high which in various locations is called bir mani, buru sursu, bir sursu, ote mani, and med daḱ red
 
-burunda (g) daru a sturdy jungle tree, the leaves of which are *buru nai aḱ a creeping herb of used for sacrificial purposes bas
+burunda (g) daru a sturdy jungle tree, the leaves of which are *buru nai Aaḱ a creeping herb of used for sacrificial purposes bas
 
 which the stems are eaten as well as the tiny leaves *buru pandu nagu bin a large
 *buru rami a myna found esp. in the jungles. Some suggest the Brahminy or Blackheaded Myna *buru salu - a hill myna (bird)
