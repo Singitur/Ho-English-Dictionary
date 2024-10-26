@@ -1,20 +1,17 @@
 sá > an expression used in driving away chicken (eg. who are eating grain)
 
-
 sá > to crack (e.g. the earth, a wall); of a cobra, to have its head cupped up in a ladle shape; of paddy grains being boiled, to swell up to a stage where the grains are ready to be spread out to dry (tasi-rō) previous to husking
 *sá unḍu > a hole caused by a big crack in the earth
-
 
 saḱ ken > of an arrow, to enter a target making a noise (with verb ṭo: etc.)
 *saḱ-bangol > of an arrow, to enter a target quickly making a noise
 
-
 saṕ > to catch, take hold of; with-aka aspect marker:- to hold on to; of a spirit, to take hold of (possess) someone, inflicting harm on him (syn. of sarub in this sense); of a person, to 'get hold of (get the help of) a spirit; refl. to support oneself by holding on to something
-*saṕ-anjet́ > to care for someone as he dies, e.g. shutting his mouth and eyes, straightening his limbs (also chapu-anjeḍ)
+*saṕ-anjet́ > to care for someone as he dies, e.g. shutting his mouth and eyes, straightening his limbs (also chapu-anjet́)
 *saṕ-atom > to take away from
 *saṕ-beṭa > to reach in order to get a hold of
 *saṕ-chirgal > to ascertain by taking hold of (e.g. how sick a person is by taking hold of his hand)
-*saṕ-choṭeḱ > to just miss getting hold of; to just about get hold of and then lose hold again
+*saṕ-choṭeć > to just miss getting hold of; to just about get hold of and then lose hold again
 *saṕ-chulúić > to take hold of the lips (esp. the lower lip) and compress so that the central part juts out
 *saṕ-dai > to be able to catch; to hold on to so as to support or steady oneself, e.g. bugite saṕ-daikeno:me, 'Get a good hold on to something in order to support yourself
 *saṕ-darom > to take hold of someone coming (e.g. to prevent him from doing harm, fighting, etc.); to take hold of one's plate to prevent a host from giving more food
@@ -31,7 +28,7 @@ saṕ > to catch, take hold of; with-aka aspect marker:- to hold on to; of a spi
 *saṕ-japaḱ > to hold someone or something close; to plough close to someone else
 *saṕ-joka > to hold (something) in readiness
 *saṕ-juaḱ > to hold tenaciously to something
-*saṕ-keṛeḱ/keṭeḱ > to hold tightly
+*saṕ-keṛeć/keṭeć > to hold tightly
 *saṕ-kucha > to get hold of and curl up the legs or paws (of an animal)
 *saṕ-kurkur > to grab and make angry e.g. a fighting cock (more common for this is saṕ-rāgo)
 *saṕ-lenḍe-lenḍe > to catch hold of forcibly and with some difficulty so that part of the caught person, animal or thing bulges out (e.g, a frog caught in the hands, a person or animal caught in the arms)
@@ -55,7 +52,6 @@ saṕ > to catch, take hold of; with-aka aspect marker:- to hold on to; of a spi
 *saṕ-uraa ḍiyaṅ > rice beer in a maṭiya which one takes from the hands of a host who is about to pour for him in order to first pour it into a leaf cup for the host
 *saṕ-uruć > to take a tight hold of 
 
-
 sabaḱ > tasteless, flavourless; to frustrate (wear down or break the spirit of) someone: Pass. to be frustrated (e.g. by working hard and seemingly getting nowhere); with dūm, dūm-meḍ or meḍ-dūm to catch up on one's sleep; of an itching sensation, to abate
 *sabaḱ-gáraṅ > to catch up on one's sleep to one's satisfaction (with dūm, dūm-meḍ, meḍ-dūm)
 *sabaḱ maya > maya, q.v., after being strained (ropoe: maya or sometimes maya alone is used for this)
@@ -63,41 +59,31 @@ sabaḱ > tasteless, flavourless; to frustrate (wear down or break the spirit of
 *sabaḱ sabaḱ > tasteless (often said by a host of the food being served)
 *sabaḱ-subuḱ > same as saba: saba: 
 
-
 sabar > to clean, sleek up, esp. the hair after having washed it with soap
 
 saben > every, all (in some parts of Singhbhum the form soben is used)
 *saben muli > in all direction, everywhere
 *sabente > unanimously all together;
 
-
 sabenaḱ > everything 
-
 
 sabgol > a particular medicine which can be gotten in shops (not a village herb) and which is used e.g. for jaundice
 
-
 sabi > an alternate form of saben, all
 
-
 sabin > an alternate form of saben, all
-
 
 sabon > soap; to clean with soap
 *sabon-nil > to clean clothes with soap and bluing
 *sabon-sapa > to clean with soap 
 
-
 sabur > of tubers, to be very watery or pasty, of soil, to be loose and easy to break up
 
-
 sadana > a practice of ascetical or religious exercises; to practice devotions, e.g. dãṛiko dãṛi bongata:reko sadanaya, 'witches practice devotion to the witch-spirit
-
 
 saday, sadae . > ordinary, usual
 *sadayaḱ > ordinary, usual
 *saday ji saday homoo > in ordinary good health of mind and body
-
 
 sadom > horse
 *sadom ambari > a form of epilepsy in which the victim foams at the mouth like a horse. (The belief is that if this froth touches anyone he will also be attacked by this sickness)
@@ -106,138 +92,102 @@ sadom > horse
 *sadom paṭa dumbu > same as sadom dumbu
 *sadom tasat́ > same as sadom dumbu
 
-
 sat́-saḍtan > the sound of reaping (ir) and grazing (atiń)
-
 
 sad-sodtan > to do something very quickly or in a very short time 
 
-
 sadu g > a holy man
-
 
 Saeć > Seraikela
 
-
 sae, say > (to look at) from the corner of one's eyes; to look at someone with hostility
-*sae-met́te > same as sae-sae(te), also see kase meḍ)
+*sae-met́te > same as sae-sae(te), also see kase met́)
 *sae-saete > to repeatedly look at from the corner of the eyes 
-
 
 Sae Jaṅ > a rib
 
-
 saeká > see saykā 
 
-
 sagaḱ > a grass with barbed seeds which get caught in the clothes, Prob. Chrysopogon acicula tus, Trin., Gramineae, E.M., H.139/ 71/1; of such barbed seeds, to be caught in one's clothes; sometimes a barbed seed of another grass such as sayit is also referred to as saga:
-*sagaḱ saytú leka > growing close together as do the saga: and sayū grasses (used in prayers)
+*sagaḱ saytú leka > growing close together as do the saga: and Sayú grasses (used in prayers)
 *sagaḱ ut́ > a dark edible mushroom, broad but low
-
 
 sagaṛi > the wheel of a bullock car; the cart itself
 *sagaṛi hãl > the outer rim of a cart wheel
 
-
 sagen > to bloom, put out new leaves after the cold season
 *sagen-keset́ > used in prayers (when neutralizing inauspicious omens) parallel to nai-keseḍ q.v., in the general sense of 'to impede
 *sagen-ooḱl > to put out new leaves
-*sagen-ura > same as sagen; used in a prayer in the figurative sense of restoring to health. 
+*sagen-uraa > same as sagen; used in a prayer in the figurative sense of restoring to health. 
 
-
-sago-bago tan > a low rumbling noise, e.. of the breathing of a weak or dying person (with verb sayeḍ), of the sound of fermenting rice beer, of the sound made by a crowd of flying ants moving around in their hole (bunum) before coming out
-
+sago-bago tan > a low rumbling noise, e.. of the breathing of a weak or dying person (with verb sayet́), of the sound of fermenting rice beer, of the sound made by a crowd of flying ants moving around in their hole (bunum) before coming out
 
 sagom > to gather up e.g. leaves in an orderly heap; to put things in an orderly way
 *sagom-hunḍi > to gather together in an orderly way 
 
-
 ságom > of rain water, to flow so as to completely cover e.g. a whole field (used of early rains, not of the monsoon. (also haṛi-s1agom)
-
 
 sagor-bagor > the sound made by rice being cooked when the water is very little; the sound made by a cow eating straw with water; or by ploughing in a soaked but not flooded field
 
-
 saguwan > Daru the teak tree, Tectona grandis, L., Verben-aceae, B.105/20, H.105/9/1 
-
 
 sai > a tola, a separate section of a village
 *sai sai > from tola to tola (with verbs of going, etc.)
 
-
 saidi > to give trouble to; to persecute
 
-
 saikal > a cycle 
-
 
 sãil > a gaur or bison (from its horns are made the sakowa horns)
 *sãil ṭaṭi tasad2 > a variety of tall reed-like grass, prob. Cymbopogon martini, Stapf., Gramineae, B.139/13, H,139/78/2 (called in English Rusa-oil grass)
 
-
 sai-sui tan > a kind of swishing sound made by e.g. a kite sweeping down to pick up something
-
 
 saitiba > to preserve; to keep; to take care of; with era as obj, to keep a woman as though she is one's wife (erae: satibata:iya, he "keeps" a woman', but erae: saitibakiya, he fornicated with a woman', same as erae: iḍki:ya)
 *saitiba-hapa > to keep (something) quietly or secretly (so that others may not know)
 *saitiba-hunḍi > to store up
 *saitiba-hućoḱ > to traditionally preserve; to come down as something preserved
-*saitiba-ura > to keep back 
-
+*saitiba-uraa > to keep back 
 
 sáj, sájo, sajaw > to decorate; decoration
 *sáj-singar > to decorate; decoration
 
-
 saja > punishment; to punish
 *saja-muli > by punishing to straighten someone out (correct someone's behaviour), compare itu-muli 
-
 
 saja > extra, spare (usually in the form sajate); to have extra food, e.g. shares left over for expected people who have not yet arrived; pass. to be extra
 *saja-ooḱl > to put aside (e.g. food for expected guests)
 
 
 
-
 sajaw > decoration, to decorate decoration
 
-
 sájo > decoration, to decorate decoration
-
 
 sakaṕ > a rough feeling of the food in the mouth
 
 sakam > a leaf; a sheet of paper, page (sakam is used esp. of leaves used for eating and drinking purposes, i.e. from which kalgi, pu:, etc. are made; in other contexts the word patā is usually used for leaf); figur. when asking for a girl in marriage if there are two or more sisters suba sakam is used to refer to the older (oldest) (since the lower leaves come out first), sirma sakam is used of the younger (youngest), and should there be a sister between them in age she would be referred to as tala sakam) 
 
-
 saki > a namesake; to name after another
 *saki lijaḱ > a cloth with which the namesake of a child fits the child (usually done after the child has reached the age of reason)
 *saki sutam > a thread tied several times (often seven times) around a tree on the edge of a village at the time when a girl of the village is leaving the village to go to that of her husband-to-be for the marriage
 
-
 sakit́ > to congeal, coagulate, to form into thick drops e.g. of blood
 *sakit́ ḍuki > semen
-
 
 sakom > a bracelet
 *sakom biń > a ringed watersnake with alternately white and dark coloured broad rings encircling its body)
 *sakometeyaḱ > the wrist (where bracelets are worn)
 
-
 sako-sakotan > a sound of heavy breathing of e.g. a tiger or dog out of breath from running (can be used for men also)
-
 
 sakor-sakortan > same as sako-sako(tan)
 
-
 sakowa > a horn into which one blows (usually made from the horn of a jungle bison, the sãil) 
-
 
 sakú > to be bent down to the ground, e.g. low-lying branches so bent by the wind 
 
-
 sakuṕ > same as saktū
-
 
 sal > lowland fields 
 *sal baba > paddy grown in lowland fields 
@@ -245,64 +195,50 @@ sal > lowland fields
 *sal longor > good rice fields in very low land where water remains or through which water flows sal ote lowland fields
 *sal sóyaḱ > a collective noun for lowland fields
 
-
 sala > to choose, select; with ere (omen) and kumu (dream) to interpret; to take hold of one by one; refl. of a bird, chicken, etc. to pick lice, small dirt particles, etc. from its body
 *sala-aagu > to take down one by one (e.g. silkworms to be transferred from one tree to another)
 *sala-bage > to reject when selecting
-*sala-eḍaḱ > to select some to be excluded
+*sala-enḍaḱ > to select some to be excluded
 *sala-it́ > to continue to select; to select on the way (e.g. of one interpreting omens as he goes along)
 *sala-nam > to find or get by selecting or interpreting
 *sala-ooḱl > to select and take our
-*sala-pereḱ > to fill by selecting one by one
-*sala-sareḱ > to exclude, select some to be left behind
+*sala-pereć > to fill by selecting one by one
+*sala-sareć > to exclude, select some to be left behind
 *sala-hunḍi > to select and bring together; to select in large numbers
-*sala-ura > to select again; to take back (used in prayers asking a spirit to take back a punishment which he is inflicting)
-
+*sala-uraa > to select again; to take back (used in prayers asking a spirit to take back a punishment which he is inflicting)
 
 
 
 salae Bah diri > a smooth flat stone (about as big as can be held in one hand) into which certain dewas can supposedly call the special power of spirits (reference to salae bā not yet ascertained)
 *salae Bah dirite sala nam > to divine e.g. to find the whereabouts of a lost or stolen object by holding a salae bā diri (either the dewa himself or someone deputed by him holds the stone) while the dewa calls upon his guru spirits. Then the one holding the stone is led in s trance to the place where the lost or stolen object is. Some say that in some cases the stone if put down will even go by itself to the desired place
 
-
 salandi > poetic parallel for kundam, the back of a house 
-
 
 salangi > tall, high; to make something tall or hill; Pass. - to become tall or high
 *salangi ker-ker > stretching out tall and slender (as in ker-ker, q.v.)
 
-
 sala-ṭika > poetic parallel for bala-saka, prospective relations through marriage (used in songs and prayers)
-
 
 sal didi > an insect, the same as or closely resembling the hurtui:, q.v.
 
-
 salga-bulga > to be mixed together, e.g. animals or objects belonging to different people
 
-
 salgaw > pass. of something burning, eg. coal, to be fully consumed by fire, red hot but not flaming
-
 
 sali Daru > a kind of tree useful for providing the forked supports (tuwam) used in building fences, Morinda tinctoria, Roxb., Rubiaceae, B.77/19, H.77/5/1 (This is also called buru sali Daru)
 *sali Bah > the small white flower of the sali tree
 
-
 salom > the lungs
 sal-sel tan > of thorns, choga, etc., long and pointed 
 
-
 salu > a Hill Myna, also called buru salu (but see saro) 
 
-
-salukat́ > a lotus, Nymphaea lotus and related herbs of the nymphaea variety, Nymphaeaceae, H.7/1/1-3, B.7/1-4 (some white varieties are referred to as punḍi salukaḍ, other colours, e.g. red, are referred to merely as salukaḍ)
+salukat́ > a lotus, Nymphaea lotus and related herbs of the nymphaea variety, Nymphaeaceae, H.7/1/1-3, B.7/1-4 (some white varieties are referred to as punḍi salukaḍ, other colours, e.g. red, are referred to merely as salukat́)
 *salukat́ Bah > same as salukaḍ
 
 
 
-
 sam > the whole; all; along with; (sam often precedes a noun, e.g. sam honko, along with the children'
-
 
 sama > empty, useless; without special purpose; free of cost; pass. verb-to be left empty handed, to get nothing for one's efforts; to be in vain; note usage with re- postposition marker samariña, T am idle
 *samaaḱ > useless; ordinary (without special training, etc.)
@@ -322,126 +258,95 @@ sama > empty, useless; without special purpose; free of cost; pass. verb-to be l
 *sama sot́ḍoṅ > naked; very ordinary (without designs, ornament, etc.)
 *sama Tí > to empty handed
 
-
 samaḱ > to chop up into small pieces
 *samaḱ-gunḍa > to chop up into fine particles
 *sama luṭuḱ-luṭuḱ > to chop up into fine particles.
 
-
 samanaṅ > in front of (also sanaman); to face toward
 *samanaṅ-daparom > face to face (also amanan-samanan)
-
 
 samaṅ > forehead
 *samaṅ-achuḱ > to sneeze in front of someone
 
-
 samaṛaw > to support, sustain, control; to manage, get along (e.g. financially)
 *samaraw-uran > to control oneself (refl. form)
 
-
 samaṛom > gold (the form samōm is also used)
-
 
 sambe > the iron ring around the bottom of the husking pole (tuku)
 *sambe hasu > hemorrhoids, piles 
 
-
 sambir > to turn head over heels, to turn a somersault (used in a prayer. In ordinary conversation not used alone but used in compound verbs tombo:-sambir, iḍbuli sambir, In Mundari sambir is used with the meaning 'on the back for which sandan is used in Ho)
-
 
 samgiri > the materials used in a sacrifice; the objects (sasaṅ, sinduri) used in the rites of marriage
 
-
 samóm > gold (the form samarom is also used)
-
 
 sámpo > of a cobra, to spread its hood 
 
-
 sampoṛo > to get ready, e.g. one's attire for a journey 
 
-
 sampurt́, sampur > used in prayers in the phrase mera sampura apparently meaning let us (them) not suddenly come to any harm' (see sen-sampuro) 
-
 
 sampuṛu > a verbal affix with sen or nir- to suddenly come upon e.g. a large animal or a per son, with gur or jur of many peo- ple, to fall down or crowd around one person
 
 
 
-
 Samsundar Róto > the rath festival as celebrated in Samsunder village
 
-
 Samut́dor > a sea (sometimes used in prayers, more common is Dorea) 
-
 
 Sahn > wood, esp. firewood
 *Sahn-jaṭa > collective noun for all kinds of wood used for firewood and fencing
 *Sahn-sakam > collective noun for wood, leaves, etc. brought from the Jungle
 
-
 saṅ > of a mother's breast, to give milk; of nage era, to increase water, e.g. in some pond
-
 
 sanaṕ > a catching; a grasp (verbal noun of sab)
 
-
 sanaet́ > see sanayeḍ
-
 
 sanala > a selection, choice (verbal noun of sala)
 
 sanam > all, whole
 
-
 sanamaṅ > in front of (verbal noun of samaṅ, forehead') (Hos more commonly say samanaṅ).
-
 
 sanaṅ > desire; to desire (Les. 26)
 
-
 sanaraḱ > a curse; a cursing (verbal noun of sara:)
 
-sanareḱ o > what remains; the remanent; consequence; pass. verb of the consequence of some action, to fall upon someone, e.g. ini:re sanare:yo:wa, 'the consequences of the action will fall upon him' (verbal noun of sare:)
+sanareć o > what remains; the remanent; consequence; pass. verb of the consequence of some action, to fall upon someone, e.g. ini:re sanare:yo:wa, 'the consequences of the action will fall upon him' (verbal noun of sare:)
  
 sanari > truth (verbal noun of sari, 'true')
-
 
 sanayet́ > a breath (verbal noun of sayeḍ, to breathe")
 *misa sanayet́ > in one breath (the time one can hold his breath before breathing again)
 
 sanḍá > to open up forcibly (e.g. a closed snail's shell)
 
-
 sanḍaṕ siń > Daru the name of a tree, Schrebera swietenioides, Roxb., Oleaceae, H./87/3/1, Β.87/7
 
 sanḍaṅ > on the back; to fall or lie down on the back
 
-
 sanḍaṅ lese-lese > to lie on the back with hands or wings outstretched
-
 
 sanḍasum > large tongs made and used by the village blacksmiths
 
-
 sanḍi > male; a cock; pass. verb to develop into a (fighting) cock
-*sanḍi didi > the Black or King Vulture (also called bonga didi, rilaṅ didi)
+*sanḍi didi > the Black or King Vulture (also called Bonga didi, rilaṅ didi)
 *sanḍi ere > some give this for the Goldenback Woodpecker, a bird 
-
 
 sandir > used in prayers parallel to iḍ-buli apparently with the same meaning and usage as sambir. q.v. (not used in ordinary conversation)
 
-
 sanḍom > used in phrase siń sanḍom, q.v.
 
-saneḱ > a wart (also joke)
+saneć > a wart (also joke)
  
 sanga > sweet potatoes of the long variety, Ipomaea batatas, Lamk., Convolvulaceae, H.96/11/27, B.96/10 (called sakarkanda in Sadri) 
-*sanga aaḱ > the edible leaves of the sanga plant
+*sanga Aaḱ > the edible leaves of the sanga plant
 
 sangali > tall (an alternate form for the common salangi)
-
 
 sangar > a hunt; to hunt
 *sangar-beṭa > to reach some destination while hunting, e.g. of the beaters, to reach the position taken by the kepeseḍko (those toward whom they are driving the animals)
@@ -469,57 +374,43 @@ saniń > far, distant (also sangin)
 *sá-saniń > at a distance one from another (e.g. hunters)
 *saniń-saniń > at a distance one from another 
 
-
 sánjo > a half of the day
-
 
 sanka > a bracelet of more fancy material, prob. as given in E.M. a mother-of-pearl bracelet
 *sanka sakom > same as sanka
-
 
 sanko > Daru the kadam tree, Anthocephalus cadamba, Miq., Rubiaceae, B.77/2, H.77/1/1
 
 
 
-
 Santaṛa > a Santal
-*santaṛa Ipil aaḱ > a name given in some places to the ara: Ipil ā: (since reputedly many Santals cultivate this)
+*santaṛa Ipil Aaḱ > a name given in some places to the ara: Ipil ā: (since reputedly many Santals cultivate this)
 sante > until (Les. 33)
 
-
 saola > see sawla
-
 
 sao-sao > see saw-saw
 
 sapa > clean; to clean; of speech, clear
 *sapa-sapa > cleanly; clearly 
 
-
 sapaki > to mutually have the same name; one named after another (one's namesake); в ceremony held in connection with this (recip. of saki) 
-
 
 saparum > dew; of dew, to form
 *saparum daḱ > dew (also sisir da:) 
-
 
 saparum Daru > a particular tree or large shrub used for supporting creepers, Nyctanthes arbor-tristis, L. Oleaceae, H.87/2/1, B.87/6
 *saparum charić > a small pin for sewing leaves, etc. made from the saparum Daru
 *saparum jaṭa > saplings of offshoots of the saparum Daru. These can be up to 5 ft. long
 *saparum ránjo > branches fanning out from a central branch of the saparum Daru 
 
-
 sapaatiń > to regain consciousness
-
 
 sapaatiń > of two rivers, to join
 
-
 sapua > to swell up (also mó-sapua) 
 
-
 Sapua > a snake charmer
-
 
 sar > an arrowhead; an arrow; pass. verb to be hit with an arrow, e.g. bar sareyana, ‘it was hit by two arrows’
 *sar aḱ sar > bow and arrow
@@ -531,36 +422,27 @@ sar > an arrowhead; an arrow; pass. verb to be hit with an arrow, e.g. bar sarey
 *sar mail > a shaft used in an arrow
 *sar-ṭongaḱ > a bamboo recepticle for keeping arrows; a quiver
 
-
-sár > to increase of itself or with some preternatural or supernatural help; note the expression sār alokae: iḍe said of a dead person at the time of the baba tela-ura rite, meaning (we perform this rite) so that he may not take away (deprive us of) any superabundance (which we have been receiving)
+sár > to increase of itself or with some preternatural or supernatural help; note the expression sār alokae: iḍe said of a dead person at the time of the baba tela-uraa rite, meaning (we perform this rite) so that he may not take away (deprive us of) any superabundance (which we have been receiving)
 *sár baba > rice increased as given under sar, the rice which a sar bonga, q.v., provided to his or her devotees
 *sár-nam > to receive an increase (as given under sār) 
 
-
 sár > used with kaji means the main point or the essential matter of some discussion, etc. (mūṛ is sometimes used in the same way)
 
-
 sárge > of a liquid, to be sufficient quantity e.g. in rice beer (such that it is neither too watery nar too thick) or in a field (such as to have sufficient water for reploughing)
-
 
 saṛa > poetic parallel of seba, q.v., used in prayers
 *saṛa-pura > poetic parallel to seba-pura, 'to serve completely', 'to adore' 
 
-
 saṛa > used in prayers in terms baba-saṛa, kode saṛa meaning paddy seeds, kode seeds 
-
 
 saṛa > in counting one put aside for every so many (to facilitate counting), e.g. for every põ of cocoons
 
-
 saraḱ ve > a hanuman monkey
 *saraḱ put́ki > a winged and flying red ant, a little larger than the wingless red ant (hau), but smaller than the winged rawom ant. (These three are all found in the same nest)
-*saraḱ soṭkeḱ/soṭokeḱ > a tree. mouse which hides and makes its nest in the hole of a tree
+*saraḱ soṭkeć/soṭokeć > a tree. mouse which hides and makes its nest in the hole of a tree
 *saraḱ tiril > a tree resembling the tiril tree, but its fruits are not eaten, Diospyros montana, Roxb., Ebana-ceae, H.85/2/2, Β.85/2
 
-
 saraḱ > to curse; a curse 
-
 
 saṛagi > one's wife's sister's husband
 sarai > to pile up in bundles one over the other, e.g. wood, paddy sheaves in the kolom
@@ -572,44 +454,31 @@ saram > the sambur (deer)
 *saram chaḍlom > a bush said to be found in Orissa and to be useful as a medicine for long standing sicknesses
 *saram sãil > sambur deer and bison (used in jest when referring to cattle to be chosen as a bride price) 
 
-
 saram bomboć o > same as saram bumbui:
-
 
 saram bumbić > a civet type animal. Hoffman calls it the Indian Marten. (This is the same as or similar to the oe aṭa)
 
-
 saranga-dopali > in a prayer in a context where it seems to refer to some tribe or caste, meaning not known used
 
-
 sãṛasi > same as sãṛasum
-*sãṛasi maraṅ bonga > a title under which some people make offerings to maraṅ bonga; said by some to have originally been a servant spirit to maraṅ bonga 
-
+*sãṛasi maraṅ Bonga > a title under which some people make offerings to maraṅ bonga; said by some to have originally been a servant spirit to maraṅ Bonga 
 
 saṛa-soṛo > the sound of water rolling over rough land, stones, etc.
 
-
 sãṛasum > large tongs used by the village blacksmiths (also sandasum and sãṛasi)
-
 
 sarbis > a bus used for public transport (Eng. - service) 
 
-
-sarbut́ > of water, to be absorbed into a material or to boil off (isin-sarbuḍ)
-
+sarbut́ > of water, to be absorbed into a material or to boil off (isin-sarbut́)
 
 sardi > the harvest time of the low field paddy (sal baba); the harvest time of other crops (in which case the crop is mentioned e.g. pī baba sardi); of a crop, to be ready for harvest; of anything, to be in abundance, e.g. ḍiyaṅ sardiyakana, 'rice beer is in abundance'; of some action, to do it in great number or frequency, e.g. susunko sardita:, 'they do plenty of dancing’
 
-
-sareḱ > left over, to leave something over; pass. to be left over
-*sareḱ-ura > to leave some over 
-
+sareć > left over, to leave something over; pass. to be left over
+*sareć-uraa > to leave some over 
 
 sãṛe > the workshop of a kamar (a village iron-worker); the hammer action of a kamar, of a kamar, to do his proper work 
 
-
 sãṛe jaṅ > the poetic form of sae jaṅ, the rib 
-
 
 sari > true; pass. verb to become true, e.g. kaji-sara: misa misa sariyo:wa, 'A curse cast by word of mouth will sometimes become true pass. verb with personal sub- ject: to believe, e.g. ama: kaji(re) kań sariyowa, I do not believe what you say
 *sari banoten hoo > an unfaithful person
@@ -623,57 +492,42 @@ sari > true; pass. verb to become true, e.g. kaji-sara: misa misa sariyo:wa, 'A 
 *sari-sanari > truth)
 *sari-soćta > truths
 
-
 saṛi > a noise; to sound
 *sari sobodo > noise
 
-
 saṛi > a woman's sari (dress) 
-
 
 saril > when plastering (jalom) with wet mud to first level off high spots, etc.
 
-
 sarjom > Daru the sal tree, Shorea robusta, Gaertn., Diptero carpaceae, B.25/1, H.25/1/1
-
 
 sarlaḱ > shavings of wood chipped off with an adze, or planed off
 
-
 sarli Daru > a large shrub having edible fruit and long black thorns, Vangueria pubescens, Kurz., Syn. V. spinosa var. mollis, F.B.L., Rubiaceae, B,77/33, H.77/18/
-*sarli aaḱ > the edible young leaves of the sarli Daru
+*sarli Aaḱ > the edible young leaves of the sarli Daru
 *sarli janum > the thorns of the sarli bush, about 3 inch. long (these are also called burduḍ janum because used in the leaf bag (kokomba) used for catching flying ants)
-
 
 saro > a hill myna (several people have given this for the Hill Myna, and have expressed doubts that salu is the Hill Myna) 
 
-
 saroa > a term used in scolding and reviling, e.g. sarowa lekani:, 'that rascal 
 
-
 sarsanḍi > a porcupine's quill 
-
 
 sarsar > finger nail; toe nail (of people or animals, see rama)
 *mi sarsar > as a measure of length, one finger (same as mi ganḍa) 
 
-
 sartal > to stretch out, spread out, unfurl, expand
 
-
 saru > the taro plant. Both the tubers and leaves of this are eaten, prob. Colocasia antiquorum, Schott., Araceae (with its many variations), E.M., H.132/12/1, B.132/7
-*saru aaḱ > the edible leaves of the taro plant (These may not be eaten until after the hero: sacrifice has been performed)
+*saru Aaḱ > the edible leaves of the taro plant (These may not be eaten until after the hero: sacrifice has been performed)
 *saru gã > sideshoots or offshoots of the saru plant (used in a prayer in the phrase rasui gaṛa, adai gaṛa, sasaṅ gaṛa, saru gã referring to an imaginary dwelling place of a spirit)
 *saru sakam biń > a tree snake, the same colour as the leaf of the saru plant
 
-
-saruṕ > of an evil spirit, to take possession of someone (inflicting harm on him. This is used mostly in two constructions, 1) with the spirit as subj. and the one possessed as dir. obj., e.g. bonga sarubki:ya, 'the spirit possessed him, or 2) with the spirit as subj. with a refl, verb and are affixed to the one possessed, e.g. ini:re bonga sarubentana (or sarubakana) sarub bonga any spirit who takes possession of a person (also called sen sarub bonga, q.v.)
+saruṕ > of an evil spirit, to take possession of someone (inflicting harm on him. This is used mostly in two constructions, 1) with the spirit as subj. and the one possessed as dir. obj., e.g. Bonga sarubki:ya, 'the spirit possessed him, or 2) with the spirit as subj. with a refl, verb and are affixed to the one possessed, e.g. ini:re Bonga sarubentana (or sarubakana) sarub Bonga any spirit who takes possession of a person (also called sen sarub bonga, q.v.)
 *saruṕ churdu > a churdu bonga, q.v., who possesses someone
-
 
 sásá > cold (from cold water or contact with some cold object), Les. 26; in jest the passive could be used in the sense of 'to die', e.g. sāsāyanae:, "he died'
 *sásá daḱ > cold water; cold rain coming from the North
-
 
 sasan > a burial place; to use as a burial place or as a burial stone
 *sasan diri > a large stone put flat on the ground over a grave (as distinct from biḍ-diri, a standing memorial stone)
@@ -688,25 +542,20 @@ sasaṅ > a shrub, from the tuber-like roots (rhizomes) of which condiments are 
 *sasaṅ-masala > a collective noun for all kinds of spices
 *sasaṅ sunum > turmeric and oil mixed
 *sasaṅ ut́ > a kind of yellow coloured edible mushroom
-*sasań-ura > to keep back (a young woman who has come to visit) by putting sasaṅ on her (to claim her as one's wife)
-*sasaṅ-ura ándi > a form of marriage in which the sisters and friends of a boy hold back a girl visiting their village and put sasaṅ on the boy and girl as a sign that they are henceforth married 
-
+*sasań-uraa > to keep back (a young woman who has come to visit) by putting sasaṅ on her (to claim her as one's wife)
+*sasaṅ-uraa ándi > a form of marriage in which the sisters and friends of a boy hold back a girl visiting their village and put sasaṅ on the boy and girl as a sign that they are henceforth married 
 
 sasati > persecution; to persecute
 *sasati-jari > persecution
-
 
 sã-sũ > repeated deep breathing; to so breathe
 *sã-sũ biń > a very large tree snake. These snakes often lay their eggs in the hollow of a tree
 
 
 
-
 saṭa > a kind of thick whip made of metal
 
-
-satat́ > grass (an occasion- ally heard form for the common tasaḍ)
-
+satat́ > grass (an occasion- ally heard form for the common tasat́)
 
 satar > the planks, and the poles supporting these planks, on the side of a bullock cart; an inverted upper part of a broken chatu prepared as a place where hens can lay and hatch eggs
 
@@ -716,182 +565,138 @@ satar > the planks, and the poles supporting these planks, on the side of a bull
 *satar jangi > the planks or poles on the side of a bullock cart
 *satar kunṭu > the past supporting the horizontal poles or planks on the side of a bullock cart 
 
-
 saṭa-soṭo > a sound made by rice beer when fermenting; of certain grains, to be large and well-formed
-
 
 
 
 sati > poetic parallel of gonon, brideprice
 
-
 sati > to spread grains (used in S. Singhbhum for tasi, q.v.)
-
 
 sati > refl. to deliberately throw oneself on a fire (cf. the former Hindu custom of a widow throwing herself on the funeral pyre of her husband); with dir. anim. obj. to deliberately throw a living being into a fire
 *sati-gojen > to commit suicide by throwing oneself into a fire
 
-
 sátiń > to endure
 *sátiń-hapan > to endure in silence
 *sátiń jí > a patient enduring spirit
-*sátiń-keṛeḱ/keṭeḱ > to endure with fortitude; to persevere; perseverence
+*sátiń-keṛeć/keṭeć > to endure with fortitude; to persevere; perseverence
 *sátiń péḱ > strength of endurance 
 
-
 satobui > a variety of rice for low fields which ripens late 
-
 
 saṭoć-saṭoć ḱ > tasteless (often said by a host in depreciation of a meal which she is serving)
 
 
 
-
 saugi > to stir or mix up by bringing up from the bottom, e.g. rice being cooked, rice beer being strained 
-
 
 saul-baul > pass. of many people or bees, to become disturbed, moving around in an excited manner. Also used of one person moving about from one thing to another in a restless manner
 
-
 sãṛi > the colour of a hen, dark grey and white
 
-
 saur-saur tan > a sound made by grazing cattle; the sound made by water flowing into newly ploughed land or land being cut into with a kudali
-
 
 sauṭi > to turn or flip over, e.g. rice being cooked using a ladle, straw heaped up on a kolom using an ankai, of a horned animal, to flip something over or to tear into something with a side motion of the horns; pass. of water, to whirl about
 *sauṭi-pongá > to make a gaping hole with a side motion of the horns (of some horned animal)
 
-
 saola > a scale of the scaled ant-eater (Armu); a thin slab (e.g. of Sigit́ Diri)
 *saola-saola > in slab; one slab upon another
 
-
 sao-sao > the condition of ḍiyan which has sat for 1 or 2 hours after straining (it bubbles and gives off a bad smell); the condition of cooked rice with water in it which sits for 2 or 3 days; the slight noise given off by ḍiyan and manḍi in these conditions; a low noise made by the kalkal tuyu
-
 
 sayet́ > breath; to breathe
 *sayet́-ader > to inhale to rest
-*sayed-eḍaḱ > to catch one's breath;
-*sayet́-koṛoṅ/koṭon > to have mercy on 
+*sayet́-enḍaḱ > to catch one's breath;
+*sayet́-koṭon > to have mercy on 
 *sayet́-ooḱl > to exhale
 *sayet́-tunḍu > to die 
-*sayet́-ura > to breathe again, e.g. one who has apparently stopped breathing 
-
+*sayet́-uraa > to breathe again, e.g. one who has apparently stopped breathing 
 
 say jaṅ > a rib (also sae jaṅ)
 
 sayká > in the form of someone
 
+Sayoṕ > a European, an officer (e.g. D.C. sayob)
+*Sayoṕ Kaji > the English language
+*Sayoṕ Ṭupi > a broad rimmed hat 
 
-sayoṕ > a European, an officer (e.g. D.C. sayob)
-*sayoṕ kaji > the English language
-*sayoṕ ṭupi > a broad rimmed hat 
+Sayú > the grass used for thatching, the Spear Grass, Heteropogon contortus, Roem., Gramineae, E.Μ., Β.139/24, Η.139/ 73/1
+*Sayú dal > to thatch a roof
+*Sayú Joṭo > a matted cluster of thatching grass
+*Sayú Muṭi > a bundle (muṭi, q.v.) of thatching grass
+*Sayú Oaḱ > a house thatched with Sayú grass
+*Sayú raka > a section of field where much Sayú grass grows
+*Sayú Sarlaḱ > thatching grass wrapped around a shaving of wood (e.g. such as would be cut off when making a plough). This is used for the agom (q.v.) of the hero: feast
+*Sayú Ṭaṭi > a type of ṭaṭi (q.v.)
 
-
-sayú > the grass used for thatching, the Spear Grass, Hetero-pogon contortus, Roem., Gramineae, E.Μ., Β.139/24, Η.139/ 73/1
-*sayú dal > to thatch a roof
-*sayú joṭo > a matted cluster of thatching grass
-*sayú muṭi > a bundle (muṭi, q.v.) of thatching grass
-*sayú oaḱ > a house thatched with sayū grass
-*sayú raka > a section of field where much sayū grass grows
-*sayú sarlaḱ > thatching grass wrapped around a shaving of wood (e.g. such as would be cut off when making a plough). This is used for the agom (q.v.) of the hero: feast
-*sayú ṭaṭi > a type of ṭaṭi (q.v.)
-
-
-seḱ > of rain carried by the wind, to beat in
-*seḱ-ader > the same as se: 
-
+seć > of rain carried by the wind, to beat in
+*seć-ader > the same as se: 
 
 seba > to serve, be a devotee to (e.g. some spirit)
 *seba-joton > to take care of (e.g. a sick person)
-*seba-ooḱl > same as seba-onḍoṅ, q.v.
-*seba-onḍoṅ > to ceremoniously dismiss (used on the har mage day when dismissing the mageya spirits, - seba-onḍoṅ saṛa-onḍoṅkeḍpeyale)
+*seba-ooḱl > same as seba-oḍoṅ, q.v.
+*seba-oḍoṅ > to ceremoniously dismiss (used on the har mage day when dismissing the mageya spirits, - seba-oḍoṅ saṛa-oḍoṅ ket́peale)
 *seba-pura > to serve completely (used often in sacrificial prayers)
 *seba-saṛa > to serve; to worship, to adore
 *seba-saṛa-hućoḱ > to traditionally worship
 *seba-susaru/susuru > service; to serve (the form seba-susuru is more common)
 
-
 sebe > custom; to accustom to; pass. to be/become accustomed to
 *sebe-ichi > to accustom
 *sebe-sebe > each according to his accustomed way
 
-
 sebere > an exclamation of joy shouted out e.g. at the end of a verse of song of the mage feast 
 
-
-se-domchor oe > a name given in some places to the Hoopee bird, also called domchor or dochoḍ dumbi oe
-
+se-domchor Oe > a name given in some places to the Hoopee bird, also called domchor or dochoḍ dumbi oe
 
 sega > a brown squirrel
 
-
 sega > a small many legged insect about an inch long which comes out esp, at the start of the rainy season
-
 
 sega jaṭa > a large prickly shrub, prob. Mimosa himalayana, Gamble, Mimosaceae, H.55/8/2, B.55/19
 
-
 segel-begel > of small animals or insects (e.g. gegetereń) which usually group or swarm together, to scatter in disorder 
-
 
 segel-segel > of small animals or insects such as gegētereń, to move along together in great numbers
 
-
 segoe-segoe > a sound made by stirring grains, pebbles, etc. in a basket or plate or by rubbing sand (or a like substance) on a plate to scrub it; of many small objects, (small fish, gegētereń, small sprouting flowers, etc.), to be crowded close together
 
+sekaa > to complete, make ready; verbal affix completely, already (Les. 27) (the term sekāyana in certain contexts could mean, he is dead', 'he is finished off, e.g. when speaking of a robber. This would not be used in a context of respect.)
 
-seká > to complete, make ready; verbal affix completely, already (Les. 27) (the term sekāyana in certain contexts could mean, he is dead', 'he is finished off, e.g. when speaking of a robber. This would not be used in a context of respect.)
+Sekera > a member of a group of people who occasionally visit villages making aluminium or brass eating vessels (also called genteṛa)
 
-
-sekera > a member of a group of people who occasionally visit villages making aluminium or brass eating vessels (also called genteṛa)
-
-
-sekereḱ Daru > a small tree. Its wood is resistant to worms, etc. and is often used for making ploughs, for rafters in houses, etc.; apparently Lagerstroemia parviflora var. majuscula, Lythrceae, E.M., B.66/7, H.66/3/3 
-
+Sekereć Daru > a small tree. Its wood is resistant to worms, etc. and is often used for making ploughs, for rafters in houses, etc.; apparently Lagerstroemia parviflora var. majuscula, Lythrceae, E.M., B.66/7, H.66/3/3 
 
 sekeć-roloḱ > the sound of water running downhill in a small stream (esp. of jungle streams somewhat dried up in the summer)
 
-
 sekeć-sekeć > the clinking sound made by several bracelets or several coins hitting against one another or by an anklet (andu) being shaken when dancing; to make such a sound
-
 
 sekot́ > of e.g. a rope, to rub against something scraping or cutting into it
 
-
 sekor > to spin around (as does a top); a top; poetic parallel of biyur, to wind around
-*sekor-biyur > to spin around
-*sekor-ênôṅ > to play with tops
-*sekor-ura > to come back spinning
-
-
-
+*sekor-biur > to spin around
+*sekor-inuṅ > to play with tops
+*sekor-uraa > to come back spinning
 
 selt́ > to have an admixture of another variety in one predominating variety (used when referring to such things as different varieties of paddy growing together, different colours of the feathers of a chicken). Used as adj. and as a pass. verb
 *selt́ Baba > paddy of mixed varieties mixed together se:l misato mix together grains of different varieties 
 
+Sẽ́l > a hole cut into hard wood or stone for husking purposes
 
-sẽ́l > a hole cut into hard wood or stone for husking purposes
-
-
-selaṭi > a writing slate 
-
+Selaṭi > a writing slate 
 
 sele-lunḍić > to turn everything topsy-turvy, e.g. when looking for something
 
-
 seleć-soṭeć > the rapid and noisy way in which a mouse or rat nibbles his food 
-
 
 sen > to go; to walk (trans. see also seno:, which is intrans. Les.36) (see also usage as given under sēn-uri:)
 *sen-ayuṕ > to walk until evening
-*sen-bah > to go from place to place
+*sen-baa > to go from place to place
 *sen-bage > to go leaving behind; to go deserting (someone)
 *sen-beṭa > by going to reach
-sen-biyur > to go by a circuitous route
+*sen-biur > to go by a circuitous route
 *sen-chakat́ > to deceive someone into thinking that one is going (e.g. by going for some distance and then returning)
-*sen-chanalaḱ bonga > same as sen-sarub bonga, q.v. sen-darom to go to meet someone or to oppose someone
+*Sen-Chanalaḱ Bonga > same as sen-sarub bonga, q.v. sen-darom to go to meet someone or to oppose someone
 *sen-eser > by going or entering to appropriate for one's own purpose, e.g. an area in which to hunt
 *sen-etol > to imitate one's way of walking
 *senge seṛer/seṭer > immediately upon arrival
@@ -900,7 +705,7 @@ sen-biyur > to go by a circuitous route
 *sen-hot́ > to pass one coming from another direction (used esp in the recip. sepen-hopoḍ, to pass one another)
 *sen-holoṅ-lopoṅ > by walking to reduce to dust (e.g. a road by constantly walking on it)
 *sen-hora > to travel; make a journey
-*sen-hunḍin > to go and congregate (refl. form)
+*sen-hunḍinn > to go and congregate (refl. form)
 *sen-japaḱ > to go close to
 *sen-jati > to merely go; to go for no particular purpose
 *sen-jonór > to patrol the sides of an area covered by a hunt in order to shoot or drive back animals which try to escape by the side (during a hunt when a group of hunters are beating game toward those who are in a fixed position awaiting the arrival of the game in order to shoot or trap it) (sen-kuṭi is also used in this meaning)
@@ -911,7 +716,7 @@ sen-biyur > to go by a circuitous route
 *sen-kuṭi > to go along the edge or side; used in same meaning as sen-jonōr, q.v.
 *sen-leka > to go and try your luck (e.g. to see whether you can reach a place, get something)
 *sen-muli > to go straight
-*sen-náeḱ > to go close to
+*sen-naeć > to go close to
 *sen-nam > to go to fetch (i.e. someone whose whereabouts is known, not "to go to look for")
 *sen-panḍil > used in prayers as poetic parallel of sen-hora, 'to travel' (literally sen-panḍil means to go along rebounding)
 *sen-panti > to go in the same line (side by side); while going to reach the same line as someone else, e.g. sen-pantiki:yań, while going I came up side by side with him'
@@ -924,79 +729,67 @@ sen-biyur > to go by a circuitous route
 *sen-saja > to go along extra
 *sen-sampuṛu > to suddenly come upon, e.g. a wild animal, a person
 *sen-saruṕ > while walking to reach a place where a spirit possesses one (with effect often apparent only later)
-sen-saruṕ bonga > same as darom-sampū:r bonga, q.v.
-sen-sompoṛo > same as sen-sampuṛu
+*Sen-Saruṕ Bonga > same as Darom-Sampurt́ bonga, q.v.
+*sen-sompoṛo > same as sen-sampuṛu
 *sen-sut́buṅ > to suddenly appear before someone
-*sen-tãeḱ > to leave out; to bypass or miss some place as one goes along (e.g. while hunting to skip over a place where game is)
+*sen-tãeć > to leave out; to bypass or miss some place as one goes along (e.g. while hunting to skip over a place where game is)
 *sen-tala > to go among; to go into the centre of
 *sen-talom > to go so as to cover the whole of some surface
-sen-tebaḱ > to reach a destination; to take a person to a destination
+*sen-tebaḱ > to reach a destination; to take a person to a destination
 *sen-tumbut́ > to come right up upon suddenly
 *sen-hunḍi > to go and gather together; refl to go and congregate
-*san-urić > a bullock that works well following orders, turning as required, etc. (e.g. when ploughing or being driven around for baba tār)
-*sen-utaraṅ > to go by all means, to definitely go; sen-utaraṅ is used with the same meaning as sama sen or sama sen-utaraṅ in expressions such as (sama) sen-utaraṅ kam seneyana, You only had to go (no other work) and you did not go' 
+*san-Urić > a bullock that works well following orders, turning as required, etc. (e.g. when ploughing or being driven around for Baba tár)
+*sen-utaraṅ > to go by all means, to definitely go; sen-utaraṅ is used with the same meaning as sama sen or sama sen-utaraṅ in expressions such as (sama) sen-utaraṅ kam senê eana, You only had to go (no other work) and you did not go' 
 
+Senḍel > a store-bought buckle-type sandal 
 
-senḍel > a store-bought buckle-type sandal 
+Sendera > a hunt; to hunt (this form is rather rare in Ho, sangar is commonly used) 
 
+Senḍo > a young fully grown not yet castrated bull
 
-sendera > a hunt; to hunt (this form is rather rare in Ho, sangar is commonly used) 
-
-
-senḍo > a young fully grown not yet castrated bull
-
-
-seneyar > the rafters which support the jāyu (Hindi - bata') of a roof
-*seneyor jangi > the long beam resting on the kowalu and supporting the rafters (seneyor) of a roof
-
+Seneor > the rafters which support the Jáyu (Hindi - bata') of a roof
+*Seneor Jangi > the long beam resting on the Koalu and supporting the rafters (Seneor) of a roof
 
 Sengel > fire; to make fire (e.g. by spinning one piece of wood against another, sengeleyana, it caught fire'); a burning sensation in the shoulder from carrying a heavy load too long; to have such a sensation; note usages: sengel lekae: lolo:wa, he is burning hot (from a high fever); sengel-lekae: jeṭe-taḍa, 'it (the weather) is burning hot'; to flare up in anger; Note the usage, omba:ban hurin honko sengelo kako sengela:, 'small children crawling about on hands and knees have no experience of fire (and therefore might be burned). N.B. sengela: sengel + aspect markera + mood marker-a
 *sengel akir/á-kiya > the space about 5 or 6 feet above a fire where thinge are suspended to be preserved from moisture
 *sengel-bãṛ > fire inflicted upon someone by the use of mantras (see bãṛa)
-*sengel bóṛo > a piece of straw rope prepared to be lit as a source of fire (see bōṛ(o) sengel)
+*sengel Bóṛo > a piece of straw rope prepared to be lit as a source of fire (see bōṛ(o) sengel)
 *sengel Daru > wood rubbed one against another to make a fire (as in gurtui: Daru)
 *Sengel Gama > a rain of fire (which according to Ho legend took place in the early days of creation)
 *sengel guchaṅ > a piece of wood burning at one end without flame (also guchaṅ, guchaṅ sengel)
 *hangar sengel > burning without flame
 *sengel iṭult́/iṭulat́ > a stove (also embers without sengel)
 *Sengel Marmar > a red centipede with sting in its tail 
-*sengel met́ > red-eyed (from anger or sickness)
+*sengel Met́ > red-eyed (from anger or sickness)
 *Sengel Muć > a red ant whose bite is painful
-sengel oṭeḱ > a spark
-*sengel sali Daru > a small tree which Hoffman calls the Indian Satinwood, Chloroxylon swietenia, DC., Meliaceae, E.M., B.40/3, H.40/ 1/1
-sengel sukul > a collective noun for the things needed for a smoke, such as would be given to a guest (i.e. fire-guchaṅ sengel, bōṛ sengel or ī:r sengel, and tobacco - pika or biṛi)
-*sengel ṭope/ṭopo oe > another name for the maukal oe, the Crow Pheasant
-*sengel toroć > ashes (also merely toroe:)
+*Sengel Oṭeć > a spark
+*Sengel Sali Daru > a small tree which Hoffman calls the Indian Satinwood, Chloroxylon swietenia, DC., Meliaceae, E.M., B.40/3, H.40/ 1/1
+*Sengel Sukul > a collective noun for the things needed for a smoke, such as would be given to a guest (i.e. fire-guchaṅ sengel, bōṛ sengel or ī:r sengel, and tobacco - pika or biṛi)
+*Sengel Ṭope/Ṭopo Oe > another name for the Maukal Oe, the Crow Pheasant
+*Sengel Toroć > ashes (also merely Toroć)
 *sengel-utaraṅ > to cause a burning-like sensation, e.g. on the shoulder from carrying a load
-
 
 senger > straight, to make straight
 *senger-keṭe-keṭe > pass. to become straight and stiff (e.g. the body of someone sick with tetanus) 
 
-
 senoḱ > to go away; to go to a place (Les. 36)
 *senoḱ-at́ > to go away and get lost
-*senoḱ-atomen > to go out of the way (reflexive form)
-*senoḱ-bageyaú > to go and leave behind
+*senoḱ-atomenn > to go out of the way (reflexive form)
+*senoḱ-bageatú > to go and leave behind
 *senoḱ-chakat́ > to pretend to go away; to deceive someone else into thinking that one is going
-*senoḱ-eḍaḱ > to go away; depart
-*senoḱ-hhućoḱ > go and come, e.g. hōko barabari seno:-huju: hora, 'a road by which people always go and come
-*senoḱ-misa > to go along with
+*senoḱ-enḍaḱ > to go away; depart
+*senoḱ-hućoḱ > go and come, e.g. hōko barabari seno:-huju: hora, 'a road by which people always go and come
+*senoḱ-mesa > to go along with
 *senoḱ-muli > to go straight to some destination (e.g. without detouring) (sen-muli refers more to the direction in which one walks, straight, not crooked)
 
+Sepai > a policeman 
 
-sepai > a policeman 
-
-
-sepét́ > a young man
-
+Sepeet́ > a young man
 
 sepen > of the batted piece of wood in the tari game, to pass a certain determined place
 *sepen-hopot́ > to pass one another (two people going in opposite directions)
 
-
-ser > a seer (a measure of weight) section between the shoulders below this); note the expression serom seno:reyō. 'even if I die'
-
+ser > a seer (a measure of weight) 
 
 ser > to melt
 sér > to crush into small particles
@@ -1004,115 +797,90 @@ sér > to crush into small particles
 *sér jaṭi > a torn worn-out mat
 *sér lijaḱ > a rag
 
-
 sera > a small poyla for measuring rice
 *sera hon > same as sera 
 
-
 séṛa > poetic form of sẽya, wise, wisdom 
 
-
 seṛe-beṛe > same as seṛe- boṛo
-
 
 seṛe-boṛo > to mix together e.g. various foods; to mix water in some grains, etc.; of people, to be on easy talking terms one with another, to scatter e.g. chickens scattering about liquidy food when eating 
 
 
 
-
-seṛeḱ-buṛuḱtan > the quick motion and accompanying noise of nibbling of grains by rats (with verb ger, etc.)
-
+seṛeć-buṛuḱtan > the quick motion and accompanying noise of nibbling of grains by rats (with verb ger, etc.)
 
 seṛega tuyu > a kind of jackal with long and bushy tail
 
-
 sereń > a big flat rock sereń ḍonḍa a rock lizard
-
 
 seṛer > to arrive (a variant form of the commonly used seṭer) 
 
-
 sere-seṭe > a noice made by a porcupine's tail moving; a like noise (e.g. made by dancing witches) 
-
 
 seṛo > chicken and rice cooked together with sasaṅ. but with no water (also called leṭo)
 *seṛo manḍi > same as seṛo 
 *seṛo-beṛo > same as seṛe-boṛo
 
-
-serom > the nape of the neck (the back of the neck and the
+Serom > the nape of the neck (the back of the neck and the section between the shoulders below this); note the expression serom seno:reyō. 'even if I die'
 *serom daḱ > to partially bathe or cool oneself off by merely splashing water over one's shoulders on the upper part of the back (done especially by women but sometimes also by men)
-*serom jilu > the meat from the nape of the neck, e.g. of a goat
-*serom kanchi > a basket filled up to the bottom level of the reinforced rim (see also serom ṭunki)
-*serom poyla > a poyla filled almost to the top (such as used e.g. in the term serom kanchi, although a poyla does not have a rim)
-*serom ṭunki > a tunki basket filled up to the level where the "neck" (the upper rim) begins (therefore not completely full) 
-
+*Serom Jilu > the meat from the nape of the neck, e.g. of a goat
+*Serom Kanchi > a basket filled up to the bottom level of the reinforced rim (see also serom ṭunki)
+*Serom Poela > a poyla filled almost to the top (such as used e.g. in the term serom kanchi, although a poyla does not have a rim)
+*Serom Ṭunki > a tunki basket filled up to the level where the "neck" (the upper rim) begins (therefore not completely full) 
 
 ser-ser > of soil, to be dry and soft so that the plough cuts through it easily; of ploughing, to proceed cutting through the soil with ease; the sound of something being sown falling on leaves; of rice, cooked to the proper consistency for eating (compare lē, overcooked)
 
-
 sesa > a path made smooth by field rats, porcupines, etc. Used in prayers parallel to hora 
 
-
 sesen > a habitual way of going or behaviour (habitual form of sen); as a verb form this can take an animate direct object in the sense of 'to move along one's body, e.g. marmar sesenitanae:, 'the scorpion is moving along him' (his body)
-
 
 seta > a dog; there is a belief that if in a dream someone sicks (achu) a dog on the dreamer that a spirit would send a tiger to attack him
 *seta á > (literally dog's mouth) a baduṛi (flying fox) (a term used by someone watching over silkworm cultivation because of the taboo on saying the word baduṛi there)
 *seta ambari > a kind of epilepsy or convulsions where the sick person makes barking-type sounds seta āndi a nominal marriage to a dog of a child whose upper teeth appear first
 *seta botoć > a small herb also called seta-uṭi or linḍu dumbu seta daṭa 'dog teeth', a term used for the upper teeth of a baby which appear before the lower teeth
-*seta guchu bonga uru > a variety of bonga uru, q.v., more long and thin than the ordinary bonga uru
+*seta guchu Bonga uru > a variety of Bonga uru, q.v., more long and thin than the ordinary Bonga uru
 *seta karchuḱ > a flee
 *seta tilmiń > an annual with purple or rose coloured flowers. It grows wild and is common in waste places near villages, prob. Impatiens balsa-mina, L., Balsaminaceae, Β.35/1, H.35/1/1
 *seta uṭi > same as seta botoe: 
-
 
 setaḱ > morning; pass. verb to become morning 
 *setaḱ basiyam > betweem 8:00 A.M. and 10 A.M. (see basiyam)
 *setaḱ mír-mír > morning twilight before the sunrise
 *setaḱ paṅ > morning time 
 
-
 seṭe-beṭe > the noise made by silkworm when starting to build their cocoons; the noise made by chickens when picking at their feathers (e.g. when looking for lice); any such light noise
 
 seteń > a spring, fountain; of water, to spring up from the ground; of liquid matter (blood, puss), to ooze out of a wound
-*seteń daḱ > water springing up from the ground
-
+*Seteń Daḱ > water springing up from the ground
 
 seṭer > to reach; arrive at 
 
+saṭe-seṭe tan > the noise made by the rustling of the quills of a porcupine (with verb saṛi of the like)
 
-saṭe-seṭetan > the noise made by the rustling of the quills of a porcupine (with verb saṛi of the like)
+Sẽa > wisdom; wise; grown up, mature wisdom and
+*Sẽya-Budi > knowledge
+*Sẽya-sagom > wise; wisdom; (wise and orderly)
+*Sẽya-Somjao > wise; wisdom 
 
+Seai > ink
 
-sẽya > wisdom; wise; grown up, mature wisdom and
-*sẽya-budi > knowledge
-*sẽya-sagom > wise; wisdom; (wise and orderly)
-*sẽya-somjaw > wise; wisdom 
+Seaṛi Tuyu > a kind of jackal
 
+sẽoń leka > as in sẽoń sẽoń
+*sẽoń-sẽoń > of very many small objects, to be heaped up closely together, e.g. baby silkworms, gegetereń, tiny pebbles, sand (e.g. in one's rice)
+*seoń-seoń > same as sẽoń sẽoń
 
-seyai > ink
-
-
-seyaṛi tuyu > a kind of jackal
-
-
-sẽyoń leka > as in sẽyoń sẽyoń
-*sẽyoń-sẽyoń > of very many small objects, to be heaped up closely together, e.g. baby silkworms, gegetereń, tiny pebbles, sand (e.g. in one's rice)
-*seyoń-seyoń > same as sēyoń seyoń
-
-
-seyor-seyor > the sound made by sweeping
-
+seor-seor > the sound made by sweeping
 
 sí > to plough
 *sí-baṭi > to turn over (e.g. clods of earth) by ploughing
 *sí-bitar > to plough into the ground e.g. manure (so that it will not remain on the surface and be washed away)
-*sí-biyur > to plough around; to plough an already once ploughed field
+*sí-biur > to plough around; to plough an already once ploughed field
 *sí-busar > to loosen by ploughing
 *sí-chaṭaḱ > to once plough a field which has remained unploughed since the last crop
 *sí-danget́ > to plough with the plough only partly in the ground
-*sí-gaw > to cut open the earth with the plough; to merely scratch the surface when ploughing because the soil is too hard
+*sí-gao > to cut open the earth with the plough; to merely scratch the surface when ploughing because the soil is too hard
 *sí-goć > to destroy e.g. weeds by ploughing, by ploughing to kill, (e.g. cattle by overworking them)
 *sí-gunḍa > to pulverize by ploughing
 *sí-laṭum > to make fold over by ploughing (esp. in reference to reploughing)
@@ -1122,145 +890,109 @@ sí > to plough
 *sí-nam > to seek for or find by ploughing, to finish up the work of ploughing at-ota: the first ploughing of land which has not been ploughed for a long time; to do such a ploughing sī-parub to uproot e.g. weeds by ploughing
 *sí-pocha > to miss in ploughing
 *sí-ṭakara > pass. of soil, after being ploughed to again become compact
-*sítanić > a cultivator si-taso a general term for cultivation
+*Sítanić > a cultivator si-taso a general term for cultivation
 *sí-ṭoḱ > to reach (hit) by ploughing
-*sí-topa > to plough under (to bury by ploughing) si-uṭa - to raise by ploughing
-
+*sí-topa > to plough under (to bury by ploughing) 
+*sí-uṭa > to raise by ploughing
 
 sĩić > the foul smell of e.g. rotten fish or meat; foul, offensive (e.g. of language) sĩ: mangal offensive; immoral
 *sĩić-roṅ-roṅ > of dried fish, to give off a strong smell
-*sĩić-sowan > to give off an offensive smell; to defile (someone) 
-
+*sĩić-soan > to give off an offensive smell; to defile (someone) 
 
 sĩ́ć > to sharpen on a grindstone 
-
 
 siṕ > to smoke (e.g. a cigarette)
 *siṕ-bul > to intoxiente by giving to smoke (e.g. opium) 
 
-
 síṕ > to draw in the breath with a kind of sipping sound, e.g. after eating chillies
 *síṕ-síṕ > the same of a repeated action; the sound made by the stb
 
-
 síṕ Oe > the name of a small bird which makes a síṕ-síṕ sound, and is often found in Reaṛi patches 
-
 
 sibil > tasty; sweet
 *sibil-uraa > to regain flavour 
 
-
 Síb-Síṕ Oe > another name for the Síṕ Oe
 
-
 sit́ > to break a string, rope or chain; to pluck a herb (ā:); with kaji, to settle or come to an agree- ment, e.g. on a brideprice; with people as obj., to cause a family to die off with no male issue (pass. of a family, to so die off, used in prayers parallel to ad with this meaning); with animals or grains as obj. to finish off without having any left by which one can propagate more (pass. to be thus finished off); of a long standing sickness, to be permanently cured (pass, usage, e.g. ambari hasu siḍ-renāwo:wa, 'epilepsy will be permanently cured')
-*sit́-hasit́ > to die off e.g. of a family (same as goe:-siḍ)
+*sit́-hasit́ > to die off e.g. of a family (same as goe:-sit́)
 *sit́-tannga > to separate by an action as given under siḍ
-
 
 Síd Daru > a cactus-like plant, has long thorny arms protruding and no leaves, prob, at least Euphorbia antiquorum, L., Euphorbiaceae, see E.M. (which also indicates the difference between this and eṭeke: (E. neriifolia) in the Hasada dialect), H.29/40/4 (+2&17), Β. 29/10 (+147)
 
-
 Síd Guru > the name of a guru bonga
-
 
 sida > first; original
 *sidaaḱ Kaji > tales of olden days
 *sidaman > olden times.
 *sidare > formerly; at first
 
-
 sida-sada > simple, honest; straightforward
-
 
 sit́di > to succeed; to bring some work to a successful conclusion; with kaji, to fulfil one's word
 
-
-sidi > poetic parallel of ḍanḍe, to impose a fine or inflict a punishment 
-
+Sidi > poetic parallel of Danḍe, to impose a fine or inflict a punishment 
 
 Sídi Daru > same as Síd Daru
 
-
 siduṕ > to stand something upright, or practically straight leaning against something
-*sidub-biyur > to so make stand up on all sides (e.g. leafy branches around a place where a hunter wants to conceal himself)
+*sidub-biur > to so make stand up on all sides (e.g. leafy branches around a place where a hunter wants to conceal himself)
 *siduṕ danaṅ > to make something stand up (e.g. leafy branches) so as to hide (someone or something) sidub-kesed to make something stand so as to block off or prevent
 *sidub-sopoloṅ > to stand up several pieces of wood (or the like) in such a way that they fit (solo:) and mutually support one another
 *sidub-unḍu > to make a hole by repeatedly dropping an erect object (e.g. a soboṛo) 
 
-
-sigit́ > a white slate-like stone
+Sigit́ > a white slate-like stone
 
 sigit́-sigit́ > an itching sensation e.g. caused by being pricked with a cactus plant (itika) and then getting water on that place or by much perspiration staying on the body
 
-
 sigil-bigil > same as segel-begel, q.v.
 
-
-sigiríṭ > a cigarette 
-
+Sigiríṭ > a cigarette 
 
 sigli-bigli > same as segel-begel, q.v.
 
-
-sika > a 25 paise coin
-
+Sika > a 25 paise coin
 
 sikari > a hunter.
 
+Siki > a silver coin
+*Siki hisir > a necklace made of silver coins
+*Siki Poela > a Poela which holds 25 paise worth of Chauli
 
-siki > a silver coin
-*siki hisir > a necklace made of silver coins
-*siki poyla > a poyla which holds 25 paise worth of chauli
+Sikĩić > a mosquito (in some prayers sikĩić koa is used to mean sikĩić ko menaḱkoa, 'mosquitoes are present)
+*Sikĩić Jalom/Lijaḱ > a mosquito net 
 
-
-siki > a mosquito (in some prayers sikikowa is used to mean siktko mena:kowa, 'mosquitoes are present)
-*sikí jalom/lijaḱ > a mosquito net 
-
-
-sikí Bah Daru > a small tree, prob. Pavetta indica, L., Rubiaceae, Ε.Μ., Β.77/27, H.77/15/1
+Sikí Bah Daru > a small tree, prob. Pavetta indica, L., Rubiaceae, Ε.Μ., Β.77/27, H.77/15/1
 *sikí Bah > the flower of above 
-
 
 sĩkí > a chain (see sinki)
 
-
 Siku > a louse
-*siku jarom > a nit (the egg of a louse)
-
+*Siku Jarom > a nit (the egg of a louse)
 
 sikúm > a nauseous feeling after drinking or eating too much 
 
-
-sikuar > ropes arranged in a special net-like way for carrying loads; to arrange a rope in this way
+Sikuar > ropes arranged in a special net-like way for carrying loads; to arrange a rope in this way
 *Sikuar Aaḱ > another name for bindiram rēḍ, q.v.
 *Sikuar Bandi > a paddy bundle in which the outer ropes (over the boo) are arranged in a fashion resembling a sikuwar
 *Sikuar Baver > same as sikuwar 
 
-
 silgi-bilgi > same as segel-begel, q.v
 
-
 Silić > the white matter found in the corner of the eye
-
 
 Siliṕ > a gazelle (goat-like deer), the barking deer 
 
 silić-bitić > to be in disarray, in dirty disorder, topsy turvy, falling apart or disintegrating (used e.g. of a child getting food all over the floor, or of one's disturbed life or spirit)
 
-
 Silpiń > a door made of wood or bamboo (N.B. duwar refers rather to the opening)
-
 
 silsil > for the hairs to stand up e.g. of an angry fighting cock (compare chūṭiya, q.v.); of a porcupine, to raise up its quills. (takes an a aspect marker to indicate someone against whom the quills are raised)
 
-
-sĩlsiṭić Oe > a dark coloured bird with some white esp. in its long tail, perhaps the Pied Crested Cuckoo. Its sĩlsiṭi: cry is heard esp. about the time of the start of the monsoon
-*sĩlsiṭić siṭi siṭi > a cry of the sĩlsiṭi: bird. It is believed that when this bird comes swooping close to a village making this cry that rain will come within a day or two (see also ṭuyuḍ-ṭuyuḍ)
-
+Sĩlsiṭić Oe > a dark coloured bird with some white esp. in its long tail, perhaps the Pied Crested Cuckoo. Its sĩlsiṭi: cry is heard esp. about the time of the start of the monsoon
+*sĩlsiṭić siṭi siṭi > a cry of the sĩlsiṭić bird. It is believed that when this bird comes swooping close to a village making this cry that rain will come within a day or two (see also ṭuyut́-ṭuyut́)
 
 silṭaṕ > of the wind, to sweep up (i.e. to lift thatch from a roof); of the upper part of one's fingernail, to be turned back 
-
 
 Sim > a chicken
 *Sim Ḍali > a cock's comb
@@ -1271,68 +1003,55 @@ Sim > a chicken
 *Sim Jilu > chicken meat; goose flesh, goose pimples caused by cold, used in such expressions as: sim jilū:-tanae:, 'he is getting goose pimples, sim-jilu-chabawo:tanae: he is getting goose pimples all over'
 *Sim ko bolo singi > about 6:00PM. time when the chickens enter
 *Simko Raḱ > cockcrow (3-4 AM)
-*sim met́ > the eye of a chicken; pass. verb to be unable to see properly at night
-*sim paṛa > the site of a cock fight
+*Sim Met́ > the eye of a chicken; pass. verb to be unable to see properly at night
+*Sim Paṛa > the site of a cock fight
 *Sim Rasi Aaḱ > a vine with edible leaves found in the jungles
-*sim saṕ > to take hold of a chicken; the action of the family of a girl taking a chicken from the house of a boy with whom the girl has run away (see chinḍi sim)
-*sim samgiri > a cock offered in sacrifice (a term used in prayers, e.g. punḍi sim samgiri, ara: sim samgiri)
-*sim satar > an inverted upper part of a broken chaṭu prepared as a place where hens can lay and hatch eggs
-*sim Siku > a chicken louse (the ara: upi cockroach eats these lice which are found about chickens)
-*sim tol > a cock fight; to enter a cock in a fight (this term refers to the tying of the kati, 'small iron blade', to the leg of the fighting cock)
+*Sim saṕ > to take hold of a chicken; the action of the family of a girl taking a chicken from the house of a boy with whom the girl has run away (see chinḍi sim)
+*Sim Samgiri > a cock offered in sacrifice (a term used in prayers, e.g. punḍi Sim samgiri, araḱ Sim Samgiri)
+*Sim satar > an inverted upper part of a broken Chaṭu prepared as a place where hens can lay and hatch eggs
+*Sim Siku > a chicken louse (the ara: upi cockroach eats these lice which are found about chickens)
+*Sim tol > a cock fight; to enter a cock in a fight (this term refers to the tying of the kati, 'small iron blade', to the leg of the fighting cock)
 *Sim Tol Akaṛa > the place, sometimes fenced off, where cock-fights take place
-*Sim Uku Reht́ > a name given to a plant which is also called kuiḍ rama ruṛi, q.v. 
+*Sim Ukut́ Reht́ > a name given to a plant which is also called kuiḍ rama ruṛi, q.v. 
 
+Simana > a boundary; a territory within a certain boundary
 
-simana > a boundary; a territory within a certain boundary
-
-
-Simaṛa paaṛo > Simla Pahar (high mountains of Mayurbanj District) 
-
+Simaṛa Paaṛo > Simla Pahar (high mountains of Mayurbanj District) 
 
 sĩ meram sĩ ṭakurko > baṛam (q.v.) spirits 
 
+Simiṛi > a bean, also siṛimi, q.v.
 
-simiṛi > a bean, also siṛimi, q.v.
+Siń > a tree, esp. when used as poetic parallel with Daru (Singhbhum could possibly be derived from this, 'the land of trees'); a stalk e.g. as used in the term baba siń, 'straw'; pass. verb of a stalk, to develop
+*Siń Sakam > the leaves of any tree (so used in songs and prayers)
+*Siń Sanḍom > used in prayers parallel to Bir Daru, Bir Patá, "trees of the jungle', apparently with the same meaning (meaning of Sanḍom not known)
 
-
-siń > a tree, esp. when used as poetic parallel with Daru (Singhbhum could possibly be derived from this, 'the land of trees'); a stalk e.g. as used in the term baba siń, 'straw'; pass. verb of a stalk, to develop
-*siń sakam > the leaves of any tree (so used in songs and prayers)
-*siń sanḍom > used in prayers parallel to bir Daru, bir patā, "trees of the jungle', apparently with the same meaning (meaning of sanḍom not known)
-
-
-siń aaḱ > the edible leaves of the sin a Daru
-*siń aaḱ Daru > a tree whose young shoots are chopped up and eaten as curry (also called merely siń Daru), Bauhinia purpurea, L., Caesalpiniaceae, B.54/2, H.54/4/6
-*siń aaḱ sakam > a leaf of the siń ā: tree. These are sometimes used for sacrificial purposes e.g. to make the leaf cups (chukudi:) used for offering Rasi da: on the occasion of a sacrifice
-*siń Bah > the flower of the sin a tree
-*siń Daru > same as siń ā: Daru
-*siń jaṅ > the kernel of the fruit of the siń ā: tree
-
+Siń Aaḱ > the edible leaves of the sin a Daru
+*Siń Aaḱ Daru > a tree whose young shoots are chopped up and eaten as curry (also called merely siń Daru), Bauhinia purpurea, L., Caesalpiniaceae, B.54/2, H.54/4/6
+*Siń Aaḱ Sakam > a leaf of the siń ā: tree. These are sometimes used for sacrificial purposes e.g. to make the leaf cups (chukudi:) used for offering Rasi da: on the occasion of a sacrifice
+*Siń Bah > the flower of the sin a tree
+*Siń Daru > same as siń ā: Daru
+*Siń Jaṅ > the kernel of the fruit of the siń ā: tree
 
 Siṅgbonga > God
 
+Siṅbui > the Singhbhum Dt., (see siń, tree)
 
-Sinbui > the Singhbhum Dt., (see siń, tree)
+Sinduri > vermillion, red lead; to apply the same (e.g. in some action of divining or at time of marriage)
 
+Sinduri Daru > a plant, said to be about 2 to 5 ft. in height, and to have large edible leaves. Where found, many are found together, often in the shade of a tree
 
-sinduri > vermillion, red lead; to apply the same (e.g. in some action of divining or at time of marriage)
-
-
-sinduri Daru > a plant, said to be about 2 to 5 ft. in height, and to have large edible leaves. Where found, many are found together, often in the shade of a tree
-
-
-sinduri jaṅ > the spine, the back bone
-
+Sinduri Jaṅ > the spine, the back bone
 
 singar > decoration; to decorate; used in prayers parallel to chaṛon, ‘to cast a spell’ with that meaning
-*singar-eḍaḱ > to cast out a spell (used much like montor eṛa:, q.v.)
+*singar-enḍaḱ > to cast out a spell (used much like montor eṛa:, q.v.)
 *singar-ooḱlen > to go out wearing one's ornament (refl. form)
 *singar-ṭope > to cover with decorations 
 
-
 singi > the sun; daylight
 *singi Bah > the sunflower (more commonly called chanḍu: bā, q.v.)
-*singi bonga > the name of a small red bug (also called ote bonga). They say that these bugs once captured the sun, so that there was only night until they released it. They also say that these become roṭe uḍ, a kind of small mushroom. (apparently the same as bui bandi in Mundari)
-*singi ḍubić > sunset
+*singi Bonga > the name of a small red bug (also called ote bonga). They say that these bugs once captured the sun, so that there was only night until they released it. They also say that these become roṭe uḍ, a kind of small mushroom. (apparently the same as bui bandi in Mundari)
+*singi ḍubuć > sunset
 *singi garui > solar eclipse
 *singi hasur > sunset; the West
 *singi maskal > daylight
@@ -1340,243 +1059,172 @@ singi > the sun; daylight
 *singi rakaṕ > the sun rising above the horizon
 *singi saṭuṕ > the whole day
 *singi tur > sunrise; the East
-*mi singi > all day long (sunrise to sunset)
+*mit́ singi > all day long (sunrise to sunset)
 
+Sinima > cinema
 
-sinima > cinema
+Siniput́ > bellows (verbal noun of siput́)
 
+Sinioḱ > a ploughing (verbal noun of sioḱ)
 
-siniput́ > bellows (verbal noun of sipuḍ)
-
-
-siniyuḱ > a ploughing (verbal noun of siyu:)
-
-
-sinka soṛeḱ > rattling noise made by arrows falling one on another, by bracelets hitting together, figur. of 
-
+sinka soṛeć > rattling noise made by arrows falling one on another, by bracelets hitting together, figur. of 
 
 sinkí > a chain; handcuffs one's body, to become weak, slack
-*sinkí ikir maraṅ bonga > name given to a spirit who reputedly stole the manḍal sakam of maraṅ bonga and tied up with an iron chain (sinkī) dupub disum maraṅ bonga and threw him into deep water (ikir) (this spirit also called kumbū maraṅ bonga) 
+*sinkí ikir maraṅ Bonga > name given to a spirit who reputedly stole the manḍal sakam of maraṅ Bonga and tied up with an iron chain (sinkī) dupub disum maraṅ Bonga and threw him into deep water (ikir) (this spirit also called kumbū maraṅ bonga) 
 
+Sinkiṛi > a chain; handcuffs (also Sinkii) 
 
-sinkiṛi > a chain; handcuffs (also sinkī) 
+Siṅ Kula > a lion (also joṭo kula)
+*Siń Kula Hon ko, Kindar Kula Hon ko > terms used to refer to the Magea ko (q.v.) who supposedly sometimes come in the form of lions or panthers
 
+Siṅ Siraḱ Oe > the Tree Pipit (a bird much like the Indian Pipit (sira:) except that it is often found in trees and seeks its food in the shade of trees. It makes a siń siń sound)
 
-siṅ kula > a lion (also joṭo kula)
-*siń kula honko, kindar kula honko > terms used to refer to the mageyako (q.v.) who supposedly sometimes come in the form of lions or panthers
+sipać-sopoć > of some limb or limbs, to be swollen up with fluid
 
-
-siṅ siraḱ oe > the Tree Pipit (a bird much like the Indian Pipit (sira:) except that it is often found in trees and seeks its food in the shade of trees. It makes a siń siń sound)
-
-
-sipaeḱ-sopoć > of some limb or limbs, to be swollen up with fluid
-
-
-sipai > a policeman
-
+Sipai > a policeman
 
 sipi > to rinse out nāka hasa used for washing the hair
-*sipi-eḍaḱ > same as sipi given above
-
+*sipi-enḍaḱ > same as sipi given above
 
 sipi > used in prayers as poetic parallel with nutum, to call upon the name of God or of some spirit
 
-
 sipiń > to carry in both upturned hands
 
-
-sipirṭiyaḱ > of the feath ers of a chicken or bird, or of the hair of a person, to be wetted down somewhat, e.g. by a light rain 
-
+sipirṭiaḱ > of the feath ers of a chicken or bird, or of the hair of a person, to be wetted down somewhat, e.g. by a light rain 
 
 sípu > of e.g. a frog, to draw in its breath so as to swell up; of a snake, to hiss; this is used with a short i (sipu) in prayers parallel to mō, 'to swell'
 *sípu choke > a kind of frog, which comes out at night, and doesn't live in water, but is found often under stones, esp. under burial stones
 *sípu-síputan > to repeatedly breathe deeply with the chest expanding and contracting (with verb sayeḍ or the like)
 
-
 sĩpu > an alternate form of sīpu 
-
 
 siput́ > to blow the bellows
 
-
 sipić muṭa > having a very small nose (used in jest esp. of small children in term sipui: muṭa hō) (see also supi: muṭa) 
 
-
 stír > a vein
-
 
 sira > a protruding nerve on a leaf, a ridge on a fruit; a streak or line, e.g. made by designs made on a wall, or by too much whitewash; a thin crack; to make such a crack
 *sira-sira > having many protruding nerves, streaks, etc. (as under sira)
 *sira pãl > a ploughshare with lines on it (for design)
 
+siraḱ Oe > the Pipit, a bird usually found on the ground and hence also called pī sira:. Also of the same family are siń sira:, the Tree Pipit, da:/gaṛa sira:, the White Wagtail and liyaḍ/danḍeḍ sira:, the Grey Wagtail
 
-siraḱ oe > the Pipit, a bird usually found on the ground and hence also called pī sira:. Also of the same family are siń sira:, the Tree Pipit, da:/gaṛa sira:, the White Wagtail and liyaḍ/danḍeḍ sira:, the Grey Wagtail
-
-
-sira-honko sira-gãko > assistant spirits to buru bonga and desauli
+sira-honko sira-gãko > assistant spirits to buru Bonga and desauli
 *sira-honko gã-honko > same as the above 
 
-
-sirgiṭi aaḱ > a kind of edible herb having small comb shaped flowers white and violet toward the top, Celosia argentea, L., Amarantaceae, B.108/10, H.108/2/1 
-
+sirgiṭi Aaḱ > a kind of edible herb having small comb shaped flowers white and violet toward the top, Celosia argentea, L., Amarantaceae, B.108/10, H.108/2/1 
 
 sĩṛi > a ladder, stairs
 
-
 siríṕ > to take in the breath making a noise e.g. when putting dal, etc. into the mouth (louder than sīb) 
-
 
 siṛigir > a very steep slope; to slip and fall on a steep slope
 
+Sirima > sometimes used for sirma, 'sky', 'year' in songs and prayers
+*Sirima Sorog > heaven (in a prayer)
 
-sirima > sometimes used for sirma, 'sky', 'year' in songs and prayers
-*sirima sorog > heaven (in a prayer)
-
-
-siṛimi > a bean, Dolichos lablab, L., Papilionaceae, B.53/52. H.53/52/1 (form simiṛi also used) 
-
+Siṛimi > a bean, Dolichos lablab, L., Papilionaceae, B.53/52. H.53/52/1 (form simiṛi also used) 
 
 siris Daru > a tree, prob. cassia siamea, Lamk., Caesalpiniaceae, B.54/18, H.54/1/5 
 
-
 siṛi-siṛi > same as siṛigir
-
 
 sirisiṭi honko, sirisiṭirenko > benign spirits who are asked to pray to desauli on the occasion of the ote ili feast. In prayers they are referred to as ote sirisiṭi honko, bir/sirma sirisiṭi honko (the word is apparently from Hindi ‘srishti’, creation)
 
 siri ṭakur siri baṛamko > a term used in prayers when referring to baṛam spirits (also sĩ meram sĩ takurko, sirma ṭakur ote baṛamko) 
 
-
-siṛiya > a child (sometimes said in jest for siṭiya)
-
+siṛia > a child (sometimes said in jest for siṭiya)
 
 sirjon > creation, to create 
 
-
-sirma > sky, heaven; year; above; high
+Sirma > sky, heaven; year; above; high
 *sirma bichar > see sirma mã
-*sirma disum > heaven
-*sirma dút > an angel
-*sirma mã, sirma mata > the phrase sirma mã (or mata or saṛa), sirma bichar is used in prayers by a dẽwa apparently referring to a heavenly power or deity in an abstract way with meaning something like "the divine majesty"
-*sirma munḍi > the end of some yearly cycle (see bochor munḍi)
-*sirma sakam > a term used when asking for a girl in marriage if there are two or more sisters to refer to the younger or youngest sister (see sakam)
+*Sirma Disum > heaven
+*Sirma Dút > an angel
+*Sirma mã, sirma mata > the phrase sirma mã (or mata or saṛa), sirma bichar is used in prayers by a dẽwa apparently referring to a heavenly power or deity in an abstract way with meaning something like "the divine majesty"
+*sirma Munḍi > the end of some yearly cycle (see bochor munḍi)
+*Sirma Sakam > a term used when asking for a girl in marriage if there are two or more sisters to refer to the younger or youngest sister (see sakam)
 *sirma saṛa > see sirma mã
-
-
 *sirma-udubkenko ote-udubkenko > benign spirits whose intercession is sought e.g. on the occasion of bā porob. (This would seem to mean those who revealed the sky,...the earth' and is so used in the Ho Disum Ho Honko, book 2. However other Ho versions have been found using not sirma udubkenko but sirma undubkenko which would mean 'those who gave birth to the sky,..earth. Undub in Mundari means 'to give birth to' and is also known in parts of the Ho country)
-
-
 *sirma-utar > utterly high, highest
 
-
-sirmíṭi > cement 
-
+Sirmíṭi > cement 
 
 sír-sír > a nauseous feeling in the throat
 
-
 siruṅ dumbu > a kind of tall grass that grows in clusters on embankments. A belief is that witches use this to suck the blood out of men and animals. It is one of several plants which are combined and sometimes buried in a house in order to protect a house or a village from harm caused by a spirit, Vetiveria zizanioides, Stapf., Gramineae, H.139/69/1, B. 139/48 (in English sometimes called kus-kus) 
-
 
 sisa > the pedicel (gopoḍ, q.v.) of a cocoon
 *sisa topol > the formation of the pedicle of a cocoon
 
-
 sisa gaw > same as sisi gaw 
-
 
 sisa marmar > same as sisi marmar
 
-
 sĩ-sĩ > a sound made by women when husking
-
 
 sĩ-sĩ > the sound made by water when reaching the boiling point 
 
-
 sisi Daru > a tree which has yellow flowers and which gives very strong wood used for making furniture, etc., prob. Dalbergia sissoo, Roxb., Papilionaceae, H.53/ 54/1, Β.53/35 
-
 
 sisi gao > an infection found on the feet usually in the rainy season, and difficult to cure 
 
-
 sisi marmar > a centipede, much like a sengel marmar, but bigger
 
-
 sisingi há > a kind of fish which has a painful bite
-
 
 sisir > dew; of dew, to form
 *sisir daḱ > dew (also saparum da:) 
 
-
 sisirkat́ > an alternate form of the word sitirkaḍ, q.v.
-
 
 sić-soć > perfectly quiet (e.g a deserted place)
 *sić-soć nida > a quiet night
 
-
 siṭi > a whistle
-
 
 siṭić > of rain, to spatter mud, sand, etc. upon one's clothes, person
 
-
 sitika > a swollen or sore condition of the gum
 
-
 sitirkat́ > a weed with spikes which stick to one's person or clothes, and the leaves of which are edible when tender (cf.E.M., circiṭi) Achyranthes aspera, L., Amaranta ceae, B.108/1, H.108/8/2
-
 
 siṭiya > a child
 *siṭiya-biṭiyako > children
 *siṭiya hon > a child
 *siṭiya-jom > to give birth (this jom is a reflexive usage, not the root meaning 'eat')
 
-
 situṅ > great heat when there is also some cloudiness 
-
 
 situṅ > used joined with joroṅ or in poetic parallel with joroṅ meaning 'everlasting', not used alone 
 
-
 Situat́ > wax 
-
 
 sioḱ > to plough (also sī)
 *síić > a ploughman (also sí tanić)
 *sioḱ Keṛa > a buffalo used for ploughing
 *sioḱ Urić > cattle used for ploughing 
 
-
 só > one hundred 
-
 
 só > poetic parallel of bolo, 'to enter
 *so-nam > poetic parallel of bolo nam 'to enter and find/get') 
-
 
 soḱ > to husk clean (the third and final cleaning after the husk has come off)
 *soḱ-darom > to ward off by husking clean (used in a prayer to desauli at the mage time asking him to gum-darom (winnow away) and so:-darom (husk-clean away) all sicknesses
 *soḱ lupuḱ > the small remnants which fall off in the final husking
 
-
 soḱ > to fit the shaft (hīsi-danḍa:) of a plough or of a levelling plank (kara) into the yoke thong (nangali); to suspend an inverted plough or levelling plank from the yoke (with the shaft dragging on the ground) while on the bullock's neck (e.g. in going to or returning from the fields)
-
 
 sõken > of a man or animal, e.g. a buffalo, to make the sound of a deep sigh; of a snake, to hiss (for this põ is more common)
 *so-so > the same of a repeated act 
 
-
 sóṕ > to fit e.g. one thing inside another, figur to accept (fit in) someone, e.g. as member of one's family (see entry sonōb, also recip. sopōb, to get along (fit in) one with another')
-
 
 soba > to use a forked branch (tuwao) for some purpose e.g. for transferring a cut branch on which there are silkworms from one tree to another; pass. to fall and get caught in the fork formed by a branch and the trunk of a tree 
 
-
 soben > all (This form which is the form commonly used in Mundari is used in parts of the Ho country. In the Chaibasa area the form saben is used)
-
 
 soboḱ > to stab (e.g. with a sword or knife); to thrust into (e.g. a soboṛo into the ground); of the action of fast moving water, to thrust someone against something head first; refl. sobo:on - to jump up and down with a motion like that of one thrusting something into the ground (e.g. in drumming or dancing)
 *soboḱ-darom > to confront (hold off, oppose) hby stabbing
@@ -1586,23 +1234,17 @@ soboḱ > to stab (e.g. with a sword or knife); to thrust into (e.g. a soboṛo 
 *soboḱ-putú > to stab through
 *soboḱ-unḍu > to make a hole by piercing e.g. with a crowbar; of water, to make a hole by repeatedly dropping
 
-
 sobot́ > after wetting and soaping up clothes, to rub them against some slab, etc. (progressively adding water) as a means of cleaning them
 *sobot́-sapa > to clean as given under soboḍ
 
-
 sobodo > a noise, esp. one heard in the jungle
-
 
 sobaṛo > a crowbar
 soboḱ-sabaḱ > tasteless (more common is saba:-saba: or saba:-subu:) 
 
-
 sot́ > very quickly (usage same as soe:, q.v.)
 
-
 sot́ > of a shot arrow, etc., to remain in a target without falling to the ground; of a person, to be detained somewhere and not return home
-
 
 soda > of a cock, to peck, to strike out (e.g. when fighting); of a snake, to strike
 *soda-baṭi > to knock down by striking (e.g. in a cock-fight)
@@ -1610,193 +1252,138 @@ soda > of a cock, to peck, to strike out (e.g. when fighting); of a snake, to st
 *soda-goć > of e.g. a cock or snake, to kill by striking
 *soda-soda > to repeatedly strike (as given in soda)
 
-
 soḍa > washing soda 
-
 
 soḍḍoṅ > used in term sama soḍḍon, q.v., not used alone 
 
-
 sot́ka > partially deaf 
-
 
 sot́ka ‌ > to eat with a snapping action (e.g. of a dog, tiger, chicken) (also solka)
 
-
 sodor gaṛa > a river named in prayers (there is a river so named near Petapiti) 
-
 
 sodori > wise; understanding; to understand. 
 
-
 sót́-sót́ > to experience a buzzing sensation in the ear (e.g. due to some pain), in form lutur sōd-sōḍińtana or sōḍ-sōḍo:tanań
-
 
 soć > to do or finish off something quickly (used in terms soe: soe:ken and soe:-bangol)
 
-
 soć-soć > the sound made by an angry pig 
-
 
 soćta > esp. of a soka, to predict accurately some future event or to reveal the whereabouts of a lost object; used as an adj. of one who predicts accurately; reliable, trustworthy, truthful; trustworthiness
 
-
 sogot́ > a civet cat 
-
 
 sogor-bogor > same as sagor-bagor, q.v.
 
-
 soka > a kind of diviner sup- posed to have power to discern fu- ture or hidden events
-
 
 sokaṕ > of crows or chickens, but sometimes in jest of men, to snap up a lot of food together
 
-
 sõkai > used in the expression mii sõkai, 'very many (not used alone)
 
-
-sókeḱ > the flowering followed by the first early growth of certain vegetables (e.g. kakaru, juni, tayer) which grow on vines
-
+sókeć > the flowering followed by the first early growth of certain vegetables (e.g. kakaru, juni, tayer) which grow on vines
 
 sokéṭelaḱ > a small hole or tunnel in the ground or a wall; to make such a hole
 *sokéṭela unḍu > a small hole e.g. in the ground or a wall 
 
-
 sokoć > to shake up and down, e.g. water put in a bottle to clean it; to swing e.g. a baby playfully up and down in one's arms; to dance with the body gracefully swinging up and down; to sort out stalks of unthreshed paddy into smaller bundles and throw them to the ground to be threshed
 *sokoć-lagan > to tire oneself by some action (e.g. dancing) as given under sokoe:
-*sokoć pukuri bonga > a spirit, also called serengsia gaṭi bonga, believed to be from Serengsia Ghat and considered to be power and causing much harm. It is believed to come flying, sometimes making the keyo:-keyo: cry (of a chicken) or an ẽyoḍ-ẽyoḍ cry (of a frog)
-
+*sokoć pukuri Bonga > a spirit, also called serengsia gaṭi bonga, believed to be from Serengsia Ghat and considered to be power and causing much harm. It is believed to come flying, sometimes making the keyo:-keyo: cry (of a chicken) or an ẽyoḍ-ẽyoḍ cry (of a frog)
 
 sokoć siń ḱ > a name given to one or more shrubs of the same family (Crotalaria) as the jĩ plant. Some also give this name to the jĩ plant 
 
-
 soko-soko > excessively fat, e.g. soko-soko moṭākanae:, 'He is excessively fat’
 
-
 sokowa > a valley 
-
 
 sol > a cork e.g. for plugging up a bottle; soft matter found inside gangai siń (maize stalks) (also see sol dumbu below)
 *sol dumbu > a plant which grows in rice fields and has to be ploughed under at the kaṛae time, and which can be used for plugs for earring holes (a larger variety sal sol, a smaller variety - gaṛa soll) 
 
-
 sola > to reconcile
-*sola-ura > to reconcile
-
+*sola-uraa > to reconcile
 
 solba > of teeth, to protrude in a crooked way, to prong, to thrust something with a forked object; pass. to get caught in the fork (tuwam) of a branch or the horns of cattle solba a protruding mouth; a crow
 *solba daṭa > protruding crooked teeth; buck teeth 
 
-
 solka > of dogs, pigs, to snap at, to bite in a snapping way, to eat in such a way; of crows, to snap up (food); of men, in jest or scolding, to snap up one's food (also soḍka)
 *solka-goć > of e.g. a dog, to kill by snapping up
 
-
 solo > sixteen (from Uriya but sometimes used in Ho prayers referring to an indefinite large number, (See sat)
-
 
 solo-bolo > to mix together e.g. people of different castes eating together, animals belonging to different people, etc.
 
-
 solo-ḍongit́ > a small shelf made in a wall e.g. of a house for keeping small objects, or of a grave for putting in a maṭiya of ḍiaṅ for the rowa of the dead person 
-
 
 solo-ḍungit́ > same as solo-ḍongiḍ
 
-
 soloṅ > to put something through an aperture through which it passes easily; to put on e.g. shirt, pants (putting the arms or legs through the opening) (note usage - sadomrekiń soloṅena, they (two dancers) fit themselves into the horse-outfit (e.g. for a dance at the time of jaṅ topa)
 
-
 solsol > having protruding teeth (also solba) 
-
 
 solṭaṕ > of e.g. a pig or crow, to eat with an elongated mouth
 *solṭaṕ á > an elongated mouth (as in solṭab, sometimes used of men when scolding)
 
-
 soman > level; to make level 
-
 
 somay > time
 
-
 sombar > Monday
 
-
-sombot́ > to fall forward head first (same as tumbiḍ)
+sombot́ > to fall forward head first (same as tumbit́)
 *sombot́-hapa > to fall forward head first and remain still 
-
 
 sombond/sombondo > relationship (from Uriya, better Ho would be asora)
 
-
 somdi, somodi > the parent of one's child's husband or wife, used esp in the vocative (a form from Uriya sometimes heard in songs. Proper Ho would be balataḍi:) 
-
 
 somjaw > to make understand; to explain; pass, to understand
 *somjaw-muli > to correct someone's behaviour by making him understand (for the use of muli here see the entry itu-muli)
 
-
 somp > a herb cultivated for the seeds which are used as a condiment, Peucedanum sowa, Kurz., Umbelliferae, B.74/10
-
 
 sompaw > to deliver over to; to entrust to
 
-
 sompoṛo > ready; to make ready
-
 
 somsóḱr > a grasshopper 
 
-
 somtol > level (better Ho would be soman)
-
 
 són > rope formed from the sōṛo plant, q.v. This is used in the axles of carts
 
-
 soṅ > to measure out grains using a poyla; with rī, debt, to repay
-
 
 sons > gold; golden (also samōm) 
 *sona chiti kula > a kind of leopard
-*sona churdu bonga > a type of churdu bonga who entices men with gold (much like this is hira churdu bonga, q.v.)
+*sona churdu Bonga > a type of churdu Bonga who entices men with gold (much like this is hira churdu bonga, q.v.)
 *sona daḱ > helpful rain coming from the North (a term sometimes used in prayers)
 *sona didi > the White Scavenger Vulture (Pharaoh's Chicken)
 *sona gana/gãṛa > a collective noun for gold and other such precious metals
-*sona muni aaḱ > a herb with a solitary yellow flower on a long peduncle, another name for ḍora ā:, q.v. 
-
+*sona muni Aaḱ > a herb with a solitary yellow flower on a long peduncle, another name for ḍora ā:, q.v. 
 
 
 
 sanḍe > to stuff food into the mouth with one's hand
 
-
 sondoro > pus (in some places mata is used for this and the term sondoro is not known) 
-
 
 songa > a space between, e.g. the narrow space between two houses back to back. (See also ganḍa songa, Kaṭa songa, bōṛ(o) songa)
 *songa-songa > along the space between houses, or between rows of dancers, or between rows of sellers in a market (with verbs of going)
 
 
 
-
 songe > with, together with (accompaniment) (e.g. aya: songere, 'with him")
 *songe-songete > continuously with (with verb sen, etc.)
-
 
 songe > quickly
 *en songegete > right after that
 *songe-songe > quickly 
 
-
 sanjoko > to make properly ready (used alone or as verbal affix)
 
-
 sonóṕ > a fitting into (verbal noun of sōb); figur. of a person, to fit into e.g. a family e.g. a new wife to have her place properly established in her husband's family
-*sonób-ura > to fit in again, e.g. a married daughter coming back to her parent's house and regaining her position in the family 
-
+*sonób-uraa > to fit in again, e.g. a married daughter coming back to her parent's house and regaining her position in the family 
 
 sonoba > a long stick with a forked end used for transferring branches with silkworms from one tree to another (verbal noun of soba)
 *sonoba Daru > same as sonoba
@@ -1804,164 +1391,118 @@ sonoba > a long stick with a forked end used for transferring branches with silk
 
 ?sanoṛoḱ > sticks which pass through holes in the doorposts on both sides to bar in (e.g. cattle in a cattle shed); to bar in by passing sticks through holes in this way (verbal noun of soro:); another name for the goja, or bandi sonoṛo, a pointed stick used for beating down paddy when putting it in a bandi 
 
-
 sonotoḱ kaji > words conformable to current usage; idioms, idiomatic expressions (sonoto: is verbal noun of soto:, q.v.)
-
 
 soń-soń > standing straight, not bending over (used of stalks, esp. those of the paddy plant)
 
 sopaḱ > to scatter dust, chaff, or the like over some surface, e.g. manḍi: hoyo-sopa:keḍa, 'the wind scattered dust over the cooked rice 
 
-
 sopanṭu > blunt (also sopo) 
 
-
 sopo > blunt (e.g. a ploughshare)
-
 
 sopoda > pecking, strikiing at one another (esp. of the actions of cocks in a cock-fight) (recip. of soda)
 *sopoda sim > a fighting cock 
 
-
 sopola > reconciliation; to be reconciled with (recip. of sola) 
-
 
 sopoloṅ > of fallen paddy stalks, to be interspersed one with another (recip. of soloṅ)
 
-
 sopoṅ > of animals, esp cattle and men, to be breathing deeply out of exhaustion, to be out of breath
-
 
 sopor > used in the term muṭa sopor, q.v. 
 
-
 sopoteko > a sound at tributed to the obor oe (bird)
-
 
 sor > to soak or blot up some liquid; to dip something into a liquid causing it to soak up the liquid, (used e.g. of putting a kati into poison, also of a kamar putting red-hot iron into water); to sniffle, to suck up nasal mucus with a noise; see also sor-goe: and nū-sor)
 *sor-ader > to suck up nasal mucus with a noise
 *sor-goć > to die by drinking too much water too rapidly when very much overheated (esp. of animals)
 
-
-sõr > to throw a javelin or any long thin round object; to throw sheaves of sayū up to someone thatching a roof; refl. to soar through the air in a straight line without flapping the wings; of a snake, to dart forward; Note saying sõrki: lekae: seno:yana, ‘he darted straight ahead as though projected forward’
+sõr > to throw a javelin or any long thin round object; to throw sheaves of Sayú up to someone thatching a roof; refl. to soar through the air in a straight line without flapping the wings; of a snake, to dart forward; Note saying sõrki: lekae: seno:yana, ‘he darted straight ahead as though projected forward’
 *sõr-aagu > to swoop (soar) down through the air, e.g. a hawk
-*sõr-eḍaḱ > to throw away by an action as given under sõr
+*sõr-enḍaḱ > to throw away by an action as given under sõr
 *sõr-lokaṕ > to fall thrown forward
 *sor-tumbit́ > to plunge to the ground head first
 
-
 soṛa > to split a long thick object (e.g. a log) down the middle, or to cut off long sections of the same 
-
 
 soṛa > used in phrase jumbui-soṛa (gluttonous, a term used in scolding), not used alone 
 
-
 soraḱ > of a crow or chicken, to bite into food with a pecking action
 
-
 soraḱ ḍiyaṅ > another name for maḍkam ḍiyaṅ, q.v. 
-
 
 sórae > a feast celebrated by many other Adibasis of Chotanagpur but not by the Hos. Hos living in areas near where it is celebrated join in the dancing
 *sorae Bah > a name given to the nalgum bā (q.v.) because it blossoms about the time of the sorae feast
 *sórae chanḍuḱ > the month when the sōrae feast is celebrated (the second part of Oct. and the first part of Nov.)
 
-
 soṛan > poetic form of sowan, to smell' 
-
 
 
 
 sorgonti > to improperly finish off all the food, or take everything which should be shared by others
 
-
 soṛgor > of falling water, to dig out a hole e.g. in a field 
-
 
 sorkar > government 
 
-
 sorkari > governmental
 
-
 sorloḱ > a splinter which has entered into the flesh; of a splinter, to enter someone's flesh 
-
 
 soroḱ > to pass a stick through holes e.g. in the door of a cattle-shed; to put the inverted plough through the thong of the yoke (so that the cattle can carry this to the place of ploughing); to push a goja into a paddy bundle (bandi) being made, so that by shaking it back and forth the rice may settle down more compactly soro:-adu to push down paddy with a goja when making a bandi soro:-keṛe: to push paddy down tightly when making a bandi
 *soroḱ-keset́ > to block in by an action as given under soro:
 *soroḱ-lebet́ > to push paddy down compactly when making a bandi 
 *soroḱ-muli > to straighten out by an action as under soro: (e.g. paddy being made into a bandi by pushing a goja back and forth in it) 
 
-
 sõṛo > the trunk of an elephant
-
 
 sõṛo > a plant somewhat like the if plant used for making rope. Strands of the extracted rope (called sōn) are used in the axles of carts
 
-
 soṛo-boṛotan > mixing up different types of things together 
-
 
 sorog, sarogo > heaven (also sirma-disum) 
 
-
 soṛopo > a road, highway
 
-
 soṛo-soṛo > the sound of water flowing with much noise through fields or being poured loudly into other water
-
 
 sorosoṭo honko, sorosoṭorenko > benign spirits, apparently the same as sirisiṭi honko, q.v.
 
 
 
-
 Sõṛowa > Sonua village 
-
 
 sorpaḱ > of mucus, to gather below the nose 
 
-
 sorpot́ > to suck up noisily (used esp. of animals, e.g. of bears sucking up white ants. Can be used in jest or when scolding of people, The form surpuḍ is also used)
-
 
 sar-sor > the sound made by e.g. liquid particles bubbling up from meat being fried in a leaf or from green wood when burning 
 
-
 soso > the marking-nut tree (Hindi bhelua) Semecarpusanacardium, L. Anacardiaceae, Β.51/5, H.51/5/1; the oil which is pressed from its fruit; to apply this oil
-*soso-biyur > to put a pasty oil pressed from the fruit of the soso tree around e.g. a tree to prevent ants from climbing up
+*soso-biur > to put a pasty oil pressed from the fruit of the soso tree around e.g. a tree to prevent ants from climbing up
 *soso maṭiya > a matiya (small earthen vessel) in which soso is kept
 *soso sum > a branch paRasite believed to grow on the soso tree. It is believed that if one who has this on his body is given a leaf-cup of rice beer into which najom has been put, that the rice beer will turn black like the black juice from the shell of the soso nut
-
 
 sosoć > the sap of a tree; the sticky juice of an unripe mango, etc., an acid taste
 *sosoć dumbu > a name given to the herb also called konda dumbu, q.v.
 *sosoć kũyat́ > a name sometimes given to the kũyaḍ (q.v.) plant because of its milk-like sap (also sometimes called towa kũyaḍ for the same reason) 
 
-
 sosokeṛa > Daru a fig tree said by the villagers to be between the lowa and the ãi trees in its characteristics, prob. as given by Haines, Ficus hispida, L., Moraceae, H. 125/8/20
-
 
 sosta > cheap (in price) 
 
-
 soṭa > a staff, club (bigger than danḍa:)
-
 
 soṭaḱ > to flip up the earth lightly near something in order to remove it (e.g. a mushroom or e.g. a crow pecking at the ground to get a peanut out)
 
-
 soto júgu > a golden age of truthfulness 
-
 
 sotoḱ > of silkworms, to have more than one male attempting to couple with a female at the same time; when used with kaji as obj., soto: means 'to conform one's words and ideas to those of other people' 
 
-
 sotoroć > of one's clothes or person, to be dirty
 
-
 soṭo-soṭo > the sound made by ducks or geese when flapping their mouths in water in search of something to eat
-
 
 sowan > to smell; to defile. (same as bisi:-sowan)
 *sowan-maru > a person who gives off a bad odour (see maru)
@@ -1971,26 +1512,19 @@ sowan > to smell; to defile. (same as bisi:-sowan)
 *sowan ṭoḱ > to get the odour of (something) 
 *sowan urubah Daru > a variety of the urubā tree which gives off a scent and which is used for medicine, Acacia farnesiana, Willd., Mimisaceae, H.55/9/1, Β.55/5
 
-
 sõwari > a palanquin (in stories more common is koṛokoṛiya)
-
 
 soya > to rot, decay, decompose; figur. to keep something secret in one's heart, to conceal some information
 
-
 sóyaḱ > a type of lowland field (used mostly in the collective noun sal-sōya:)
 
-
 sõye-sõye > the sound of a vulture or a large bird sweeping down through the air
-
 
 soyoṅ > has two meanings, 1) of a snake, to kill (soyoṅ-goe:) by its breath; 2) steam rising from the ground when there is a light rain and the ground is very hot. In this sense you could say soyoṅ ō:ltana, 'steam is coming out (from the ground). Related to this second meaning you can also get the verbal form soyoṅ-goe: in the sense of slight moisture in excessively hot soil causing seeds to sprout slightly and then die (to "steam-kill them”)
 *soyoṅ-goć > both meanings as given under soyoṅ
 
-
 su > the sound made by a woman husking rice
 *su-su > the same of a repeated action
-
 
 suḱ > to sew together leaf plates and cups
 *suḱ-daṭoṕ > to sew down compactly (e.g. a kokomba, q.v., to a flying ants hole by pushing the thorns into the dirt)
@@ -1999,21 +1533,17 @@ suḱ > to sew together leaf plates and cups
 *suḱ-juwaḱ > to fasten close together by sewing
 *su-kokomba > to sew in the form of a leaf bag
 *suḱ-misa > to sew together
-*suḱ sakam oe > the Tailor Bird, which makes its nest by sewing leaves together 
-
+*suḱ sakam Oe > the Tailor Bird, which makes its nest by sewing leaves together 
 
 suḱ > to put the hand into a hole or crevice or into the opening of a muta, bela or any like container with an opening on the top (e.g. to put the hand into a bela of water in order to wash off rice particles after eating)
 *suḱ-ader > to put the hand into a hole
 *su-nam > to put the hand into a cavity in order to search for or to get something
 *suḱ-ooḱl > to extract by inserting the hand inside a cavity 
 
-
 sũken > a sigh (e.g. of relief); to breathe a sigh of relief (maran sayed is also used for this) 
-
 
 sũ > to hiss
 *sũ-sũ > to repeatedly audibly exhale (used of a hissing snake; an angry bull)
-
 
 suba > beneath, below, under; be subject to (note the expressions, hō suba, of a woman to be subject to a man, to be married; renge:-suba rabaṅ suba (used in prayers), to be subject to hunger and cold, i.e. to be poor); with verbs of scolding, under the pretense of scolding e.g. a child or a chicken (to whom the scolding is addressed) to in fact scold someone else (for whom the scolding is intended), e.g. honre subataḍte enga herele: gondeki:ya, 'Under the prsense of scolding the child the mother in fact scolded her husband
 *suba-aagu > to lower, hang low, subdue, subject
@@ -2022,79 +1552,56 @@ suba > beneath, below, under; be subject to (note the expressions, hō suba, of 
 *suba sakam > a term used when asking for a girl in marriage if there are two or more sisters to refer to the older or oldest sister (see sakam)
 *suba-suba > along beneath (with a verb of going)
 
-
 subedar > a military officer 
-
 
 subić > a small earthen cup in which oil is kept
 
-
 sut́ken > suddenly (same as miḍ torsa)
-
 
 sút́ > a roughly made well at a place where water is springing up near a village; to make such a well
 
-
 súd, sudu . > interest (e.g on a loan. Villagers sometimes use honko or posapā for this) 
-
 
 sut́buṅken > to reach suddenly or unexpectedly 
 
-
 sut́ṭu > to kick forward 
-
 
 sudugan > a type of grass, also called choṛa jono: dumbu, from which brooms are made, Amphilophis glabra, Staph., gramineae, B.189/1, H.139/68/1 
 
-
 sugaṛ, sugaṛa > beautiful, excellent, fine; beauty, e.g. enre sugaṛ bano:wa, there is no beauty in that'
-
 
 sui > a signature; to sign one's name
 
-
 sui es > an injection; a needle for giving injections; a small needle 
 
-
-sui oe > the Purple Sunbird, a bird which makes a sui-sui sound (in some places called chundi oe) 
-
+sui Oe > the Purple Sunbird, a bird which makes a sui-sui sound (in some places called chundi oe) 
 
 súić > to whistle by puckering the lower lip with the hand, or by putting one's finger(s) into the mouth; to pluck the upper petals from the maḍkam flower before cooking it as food 
 *súić-súić > the cry of the baṭa oе when breeding. When this is heard in fields after the sowing season then people say that it will not rain
 
-
 sũić > to blow one's nose (using the fingers)
 *sũić-ader > to snuff in nasal mucus
-*sũić-eḍaḱ > to clear away mucus from the nose 
-
+*sũić-enḍaḱ > to clear away mucus from the nose 
 
 suit́ > to mix
 *suit́-mit́ > to mix together 
 
-
-suit́-buit́ > to have a disturbed feeling in the stomach (also kaeḍ-baeḍ)
-
+suit́-buit́ > to have a disturbed feeling in the stomach (also kaeḍ-baet́)
 
 sũil > of a snake, fish, etc., to move forward with a springing motion
-
 
 sũir > same as sũr, q.v.
 *sũir aagu > same as sũr-ādu 
 
-
 suja > a large needle for sewing purposes
 *suja unḍu > the eye of a needle 
-
 
 suká > the colour of a fowl, a mixture of yellow and brown
 *suká kaluṭi > a yellow and brown hen which has not yet laid eggs (This is the traditional sacrifice offered to jayer buṛi and the dead ancestors of a family)
 
-
 sukae > an alternate form of sukā 
 
-
 suku > a large climber cultivated as a vegetable. Lagenaria vulgaris, Ser., Cucurbitaceae, B.71/ 10, H. 71/1/1. This gives a species of pumpkin, the bottle gourd. Hos distinguish 1) jome suku, the inner part of which is edible, and the outer part of which (when the shape is apt) can be used for a tumba for carrying water, etc, and 2) lundi: suku, the inner part of which is not edible, and the outer shell of which is particularly firm and is used for making ladles. Note expression:- kā hoṭo:wan suku lekań rikameya, 'I will make you like a neckless suku' (i.e. I will cut off your head)
-
 
 suku > joy, pleasure;to be pleased with (Les. 25, 26); verbal affix:- 1) with pleasure, 2) at will, without hindrance or opposition, e.g. of a cock, tega-jom-sukuwae:, he strikes with his feet at will (without opposition) Gospel
 *suku kaji > good news, the Gospel
@@ -2102,139 +1609,100 @@ suku > joy, pleasure;to be pleased with (Les. 25, 26); verbal affix:- 1) with pl
 *suku sumuki > joy and prosperity, abundance 
 *suku suwae > peace
 
-
 sukić > of the skin, to be wrinkled; of hair or a rope, to be curled up
-
 
 sukuilaḱ > a term used in the keya ader ceremony to inquire whether the rows of the dead person has entered the adiń
 
-
 sukul > tobacco; to smoke, to give off smoke (Les. 26) (In Ho sukul is usually used for tobacco, and mo: is used for smoke)
 
-
 sukurbar > Friday 
-
 
 sukuri > a pig
 *sukuri dumbu > a common grass which has small tubers which pigs like to eat
 *sukuri muṭi dumbu > same as sukuri dumbu 
 
-
 sul > dysentery containing blood and mucus (sului:)
 *sul-jaṛa > same as sul
 
-
 sulaṅ > to crowd out, suffocate (used of e.g. weeds cutting off the light, air, moisture, etc. from other plants)
-
 
 suli há > a fish which looks like the choṛa haku, but is bigger
 
-
 súḱl-súḱlte > accompanying, along with
-
 
 sulṭi, sulṭić > of an animal, esp. a pig, to push aside with the snout or mouth in order to get some edible underneath 
 *sulṭić nam > to search for or get by an action as described under sulṭi 
 
-
 sulić > mucus (from a running nose or from dysentery); pass. verb to have a running nose sului: eṛa: to clean away mucus from a running nose
 *sulić-sorpaḱ > of mucus, to gather below the nose 
-
 
 sum > a tree paracite; an orchid
 *sum dámchuḱ > a particular bird found often near tree paRasites (more commonly called sun-dānchu:, q.v.)
 
-
 sum > pass. of a wound, to be covered over again with new skin (also naya); of a cut in a tree, tree, to be covered over again; of land once ploughed, to become firm again
 *sum-keset́ > to cover up (as in sum)
-*sum-pereḱ > to fully cover up, fill in
-*sum-ura > to heal or become firm again (as in sum)
-
+*sum-pereć > to fully cover up, fill in
+*sum-uraa > to heal or become firm again (as in sum)
 
 sumat́ > only; when preceded by a negative - until (Les. 33)
 *sumat́ do bano/ka > not only (often followed by mendo, ‘but')
 
-
 sumal, sumaṅ > alternate forms for sumaḍ, only, until
-
 
 sumut́leka > to itch very much, e.g. because of some rash (with verb babata); of gegētereń, to swarm together in great numbers
 *sumut́-sumut́tan > same of a continuous action (of both meanings)
 
-
 sumuć-sumuć > of an animal, e.g. a dog or cow, to scent an object making a sniffing noise (could be used of a man, but this is not common)
-
 
 sumuki > prosperity, abundance; to be in abundance (op posite of ringa, q.v.). Transitive verb forms used (see also ringa) e.g. nen sirma-doe: sumukikeḍa, 'this year there is abundance'
 
-
 sun > to dance (the reduplicated form susun is usually used) 
-
 
 suna > of leaf cups, plates, etc. not previously used; of cooked rice, not left over; of the virginity of a woman, to be intact (not having had sexual relations with any man) 
 
-
 suna > poetic parallel of disum (used in prayers) 
-
 
 sunaṅ > only
 
-
-sun dánchuḱ oe > a green bird somewhat like a dānchu: (King Crow), villagers identify it as Jerdon's Chlorpsis
-
+sun dánchuḱ Oe > a green bird somewhat like a dānchu: (King Crow), villagers identify it as Jerdon's Chlorpsis
 
 sunḍić > the vulva (mage kaji) (see also ii: sunḍui:) used in reviling someone in such terms as ambari sunḍui, jaluwa sunḍui: 
 
-
 sungal > only
-
 
 suni > a weak cold state of a person in which he tenses his limbs, e.g. hō home: sāsākante sunite: tāui:yo:tana, 'When a man's body has become cold he tenses his limbs due to this weak cold condition'
 *suni-tauć > to tense one's limbs due to a weak cold condition of the body, used in the forms suni-taui:yo:tanae:, or suni-tauijitana (=taui:itana)
 
-
 sunibar > Saturday 
-
 
 suni kaṛo > a particularly severe long standing harm caused to a whole household through witchcraft (see also suni piṛa)
 
-
 suni piṛa > severe suffering inflicted through witchcraft (suni implies 'under the influence of Saturn', cf. sunibar, see also rui piṛa, rau piṛa)
-
 
 sunṭi > a shell, the whole mollusk including the shell 
 
-
 súnṭi > dried out ginger (ada) which is used for medicine
 
-
 sunturi > a sentry, a soldier (used in prayer as poetic parallel with sipae)
-
 
 sunum > oil; to rub with oil; in prayers sunum is used with the meaning 'to make well' (by anointing with oil)
 *sunum biń > a small harmless burrowing snake, a Blind Snake
 *sunum-isin > to cook in oil; cooked in oil, e.g. sunum isinko kae: joma, he doesn't eat things cooked in oil' 
-*sunum lebeḱ > to make soft by applying oil
-
+*sunum lebeć > to make soft by applying oil
 
 sunumpur > of the colour of one's skin, to be about the colour of wheat, not too fair nor too dark 
 
-
 sunutuḱ > the next one in birth (brother or sister, verbal noun of sutu:, q.v.) 
-
 
 supić > to cause the edge of a cutting instrument such as a ploughshare, a pickace, a crowbar, etc. to become somewhat bent over and less sharp; pass. of a ploughshare, etc., to thus become less sharp
 *supić muta > a small nose 
 
-
 supit́ > a kind of hair knot. a bit fancy and to one side
 *supit́ merom > same as chinḍi merom, q.v.
 *supit́ sim > same as chinḍi sim.q.v.
-*supit́-ura > to put up one's fallen hair again in a hair knot
-
+*supit́-uraa > to put up one's fallen hair again in a hair knot
 
 supu y > the upper part of the arm
-
 
 sur > to get water in the nose, etc. so as to drown
 *sur-goć > to drown
@@ -2242,181 +1710,130 @@ sur > to get water in the nose, etc. so as to drown
 
 *súr-an > having a tune, carrying a tune
 
-
 Surt́ > the heart (the body organ, not used in figur, sense. For 'heart' in the sense of one's spirit, jī or sometimes jibon is used in Ho)
 
-
 suru > to take shelter from the rain (often used in refl. form)
-
 
 sũr > to dive down through the air (esp. of a bird, but could also be used of a man diving)(also suir)
 *súr-aagu > to dive down
 
-
 sura > used in hero: prayers as poetic parallel with maṭa, see maṭa sura
-
 
 suṛa > of branches, to start to put out new leaves (prior to sagen)
 *suṛa-sagen > to put out new leaves (poetic doublet)
 
-
 surai chaṭu > a small mouthed earthen vessel used esp. to keep drinking water (not common in Ho villages)
-
 
 surbut́ > to tuck in, e.g. the end of a cloth in the waist; refl of a man, to squeeze himself into some small place; Kaṭare surbuḍ to hold between the foot and the ground
 *surbut́-ader > to tuck in 
 
-
 sur-daṅ-daṅ - > a drum beat used when drumming before cattle on certain feasts (not by Hos). The words sur-daṅ-daṅ are also said while doing this
-
 
 suṛi > blind
 
-
 suṛi > narrow (used esp. of narrow paths)
-
 
 suṛić > to put one's finger into a cavity, e.g. into the ear
 *suṛić-ader > same as suṛi:
 
-
-sũṛi > an agom type of promise made to kera bonga to perform a sacrifice upon receiving some help (e.g. in finding runaway persons or in inflicting harm on someone. This promise is made by uttering sacrificial prayers while pouring water out of a muta) 
-
+sũṛi > an agom type of promise made to kera Bonga to perform a sacrifice upon receiving some help (e.g. in finding runaway persons or in inflicting harm on someone. This promise is made by uttering sacrificial prayers while pouring water out of a muta) 
 
 suṛir-suṛir > a cry of the hẽ: bird (swallow, swift) when playfully diving. This is considered a sign that rain is imminent 
 
-
 suṛi-suṛi > a whistling type of noise made by the gunri: oe the noise made by simply blowing into a flute without playing a tune 
-
 
 suṛite > a cloth put into mani sunum or ḍola sunum held in a beola and burned for sacrificial purposes 
 
-
 surmi-durmiko > an original race of men or man-like creatures believed to have existed previous to the present race of men. Referred to in stories, also in the expression surmi-durmiko baitaḍ urtaḍ banda a tank made/dug by the surmi-durmiko (said of an ancient tank which always has water)
-
 
 surpaṅ > a wasp; pass. verb, - of wasps, to be generated or bred 
 
-
 surput́ > to suck up noisily (same as sorpoḍ, q.v.)
-
 
 sursa > same as mani, q.v.
 *sursa jaṅ > same as mani jaṅ, q.v. 
 
-
 sursa > a kind of hair pin to keep a woman's hair in place; to put or wear such a hair pin 
 
-
 sursa > pass. of cattle, to have the nose blocked up, e.g. due to a head cold or some sickness 
-
 
 sursiń > prob. as in B., a shrub up to 15 ft. high strongly scented with purple (H. white or lavender) flowers, Vitex negundo, L., Verbenacene, B.105/21, H.105/10/2 (at least near Chaibasa more commonly called begena)
 *sursiń Bah > the flower of the sursiń shrub
 
-
 sursu > same as mani, q.v. 
-
 
 surúṕ > same as sorpoḍ, q.v. 
 
-
 surui > a small bug which attacks stored grains
-
 
 surić > of a hole in the earlobe (such as is made for putting an ear ring) to fill in with flesh again (if no plug has been kept in)
 
-
 surić-burić tan > to weep with tears flowing, nose running, sniffling, etc. (esp. of babies and young girls) (with verb ra:) 
-
 
 suṛuki > of the artificial spur of a cock, to be of a common straight variety 
 
-
 suṛuki > pounded bricks (brick dust) sometimes mixed with mortar for building purposes 
-
 
 suruṅ > very steep, sloping very much; refl. to sweep downwards; to sweep down a steep slope
 
-
 suru-puṭu > esp. of birds, to bathe quickly noisily splashing water about 
 
-
 susam > the hind of the nilgai (murum) 
-
 
 susi > the first needle like point of something growing out of the ground or growing out of a germinating seed; of such needle like projections, to come out; sharply pointed (as is a needle); a sharply pointed object
 *susi-ooḱl > to jut out (as in susi)
 
-
 susu > another name for the weaver (chaṛu) bird (used in a riddle)
 
-
 sú-sú > the steaming sound made by boiling paddy after the excess water is poured out until it is properly dried out and starts to crack (sā)
-
 
 susun > to dance (see also sun); with animate obj., to make dance, e.g. a snake-charmer making a snake dance
 *susun-aṅg > to dance until dawn susun-darom to dance out to meet; to meet dancing
 *susun-rau > to break open by dancing (see churui susun-rau)
 *susun-topa > to dance on top of 
 
-
 susuṅpar > a wasp (so used near Noamundi, more common form is surpaṅ)
 
 susuru > service (usually used joined to or parallel to seba)
 
-
 súta > an open handful (cf. chipuḍ, a fistful, and anjuli, two joined hands full)
-
 
 suta > to lie on one's side
 *sútate > on one's side
-
 
 sutam > a thread; a strand of a spider's web; silkworm thread
 *sutam binda > a coil or bundle of thread (like guli sutam, but bigger)
 *sutam láć > the inner part of silkworms from which they spin cocoons
 
-
 suti > to come back to one's senses, e.g. after being drunk, in a trance, or in a deep sleep (to regain consciousness after being unconscious is sapātiń); figur. to come to one's senses (after foolish acting)
 *sutite > in a sober state
 
-
 suṭić > to dig or scoop out with a stick or with one's finger(s), e.g. taben out of a husking hole, the inner part out of fruit, the soil around an ant hill
 *suṭić ḍaka > to flip up making a tiny crevice, see ḍaka
-*suṭić-eḍaḱ > to dig or scoop out (as given under suṭi:)
+*suṭić-enḍaḱ > to dig or scoop out (as given under suṭi:)
 *suṭić-suṭić > same as suṭi: of a repeated action
-
 
 sutú > to start to grow out of the ground (earlier than omon), used as poetic parallel with omon, to grow out of the ground
 *sutú-parom > to start to grow passing through the ground
 
-
 sutú > another name for the hurum suku bee
-
 
 sutuḱ > to follow after (when walking one after another); to follow after guiding or assisting e.g. cattle which one is herding, to have someone as next brother or sister, (see sunutu:)
 *sutuḱ-agu > to have a continuous line or successors from some time in the past until the present; to follow behind bringing
 
-
 sut́ṭu > to kick (the form suḍṭu is more common)
-
 
 sutui > a shirt, frock, dress
 *sutui-kuchu > a shirt pocket
 *sutui-pinda > collective noun for a man's clothes; of a man, to dress 
 
-
 suat́ > only (also sumat́, q.v.)
 
-
 sual, sualt́ > same as suat́)
-
 
 suae > rest; to rest
 *suae-suaete > slowly, peacefully
 
 suam > an orchid, a tree paracite (used in a song. The form sum is more common)
-
 
 súyam Oe > a small bird. Many of these flock together in paddy or gangai patches
