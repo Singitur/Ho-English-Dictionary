@@ -1,24 +1,25 @@
--ka > an affix, mood marker meaning ‘let’, ‘may’ (Les. 34) (Normally the -ka mood marker is at the end of the verb form in the position which would be held by an -a marker, however -ka is sometimes moved up to the end of the previous word, e.g. anjāe: maraṅo:ka or anjākae: maraṅo:, ‘may he grow quickly’
+-ka > an affix, mood marker meaning ‘let’, ‘may’ (Les. 34) (Normally the -ka mood marker is at the end of the verb form in the position which would be held by an -a marker, however -ka is sometimes moved up to the end of the previous word, e.g. anjaać maraṅoḱkâ or anjaakâć maraṅoḱ, ‘may he grow quickly’
 
-ka, kā > no, not; to refuse (Les.36) (When used alone or with an emphatic enclitic in terms such as kāge, kājati, kā usually takes a long vowel ā. When used with pronouns, e.g. kako seno:wa, ‘they will not go’, ka takes a short vowel a); ka, or the emphatic kage, is often used as an interjection with no negative meaning at all when preceding some statement or proposal (Perhaps the implication is ‘we will not do anything else, we will do this’)
-*ka angal > very much excessive (esp. of eating or drinking, e.g. ka angale: nukeda, said esp. when scolding or in disapproval)
-*ka aṭkar > unexpectedly, suddenly
-*ka chi > isn’t it?, aren't you?, won't you? etc. (with any pronoun), used in cases where the speaker hopes for a positive reply but he has doubts that he will get it, e.g. ka chim seno:wa?, ‘won't you go?’
-*kachiya > is it true or not? (used colloquially , e.g. marte kachiya jome lekāme, ‘come on now, eat it and see whether what I said is true not)
-*kā choṭe: > not a little, very much
-*kā jati > absolutely not
-*kā jome owa:renko > those from houses (families) with whom one does not eat and drink; outcastes
-*kāredo > otherwise (also banredo)
-*kāreyō > even if not; often used followed by ka with the meaning ‘might not even’ e.g. en hd kareyo kae: seno:wa, ‘that man might not even go’
-*kā sariyo: leka > not worthy of belief; incredible
-*kā ṭīki > improper, unjust
-*kā: > a crow
+ka, ká > no, not; to refuse (Les.36) (When used alone or with an emphatic enclitic in terms such as káge, kájati, ká usually takes a long vowel á. When used with pronouns, e.g. kako senoḱwa, ‘they will not go’, ka takes a short vowel a); ka, or the emphatic kage, is often used as an interjection with no negative meaning at all when preceding some statement or proposal (Perhaps the implication is ‘we will not do anything else, we will do this’)
+*ká angal > very much excessive (esp. of eating or drinking, e.g. ka angale: nukeda, said esp. when scolding or in disapproval)
+*ká aṭkar > unexpectedly, suddenly
+*ka chi > isn’t it?, aren't you?, won't you? etc. (with any pronoun), used in cases where the speaker hopes for a positive reply but he has doubts that he will get it, e.g. ka chim senoḱa?, ‘won't you go?’
+*kachiya > is it true or not? (used colloquially , e.g. marte kachia jom lekaà me, ‘come on now, eat it and see whether what I said is true not)
+*ká choṭe: > not a little, very much
+*ká jati > absolutely not
+*ká jome owa:renko > those from houses (families) with whom one does not eat and drink; outcastes
+*káredo > otherwise (also banredo)
+*káreyō > even if not; often used followed by ka with the meaning ‘might not even’ e.g. en hd kareyo kae: senoḱa, ‘that man might not even go’
+*ká sarioḱ leka > not worthy of belief; incredible
+*ká ṭīki > improper, unjust
+
+Káḱ > a crow
 
 kã > the two lower ends of a triangular shaped arrow-head
 
 kã > of the eye, to be inflamed and red; conjuntivitis (also kãṛa)
-*kāba > the handle of a plough, a kara or an atāgom
-*kāba nail > a plough and its handle made together from the same piece of wood
+*kába > the handle of a plough, a kara or an atágom
+*kába nail > a plough and its handle made together from the same piece of wood
 
 kaba: > to lift the feet as when dancing
 
@@ -32,7 +33,7 @@ kabara > pied, white and another colour (used of dogs, goats etc.); a sickness i
 
 kacha > lopsided (e.g. a bandi bulging out on one side); to hang over the side; to be near the edge of something in such a way that part hangs over the side (e.g. a rice bandi on a tantara)
 
-kacha-macha tan > a jingle on kacha with the same meaning (used e.g. with the verb bandiyo:, ‘to be made into a rice-bundle’)
+kacha-macha tan > a jingle on kacha with the same meaning (used e.g. with the verb bandioḱ, ‘to be made into a rice-bundle’)
 *kacha hada: > a type of hada:, q.v., found in the jungle. It is said to have only 2-3 leaves and to be used as medicine for cattle and goats having stomach trouble
 
 kacha: > to jump on one foot; to hop
@@ -56,12 +57,12 @@ kãḍ-kãh > the quack of a duck
 
 kãh-kõt́ > the call of a goose or of a crane (agomari)
 
-kaḍsom > cotton
-*kaḍsom daru > a cotton plant; prob. Gossypium arboreum, var. neglecta (syn. G. herbaceum, F.B.I.) B.26/5, H.26/10/1 and perhaps also G. hirsutum, H.26/10/3
+Kat́som > cotton
+*Kat́som Daru > a cotton plant; prob. Gossypium arboreum, var. neglecta (syn. G. herbaceum, F.B.I.) B.26/5, H.26/10/1 and perhaps also G. hirsutum, H.26/10/3
 
 kae > the part remaining after squeezing oil out of seeds
 
-kāe: > phlegm; to clear the throat of phlegm
+káe: > phlegm; to clear the throat of phlegm
 *kae:-topa > to clear the throat of phlegm all over (someone) (used in prayers parallel to be:-topa (‘to spit all over’) with the figur. meaning of ‘to show strong disrespect to’
 
 kaet́, kayet́ > -a ‘twining slender shrub with pods containing brilliant red seeds with a black spot. This is very pretty when the pods open showing the seeds. Abrus precatorius, L ., Papilionaceae, E.M. H.53/12/2, B.53/1
@@ -70,7 +71,7 @@ kaet́, kayet́ > -a ‘twining slender shrub with pods containing brilliant red
 kaeḍ-baet́ > to have a disturbed feeling in the stomach (also suiḍ-buiḍ)
 
 kaeta > a cultivated climber with long edible fruit, Trichosanthes cucumerina, var. anguina, L., Cucurbitaceae, B.71/18, H.71/2/2
-*kaeta patā biń > a name given in some areas to a banded poisonous snake, prob. the banded krait (reference is to the varicoloured leaves of the kaeta plant)
+*kaeta patá biń > a name given in some areas to a banded poisonous snake, prob. the banded krait (reference is to the varicoloured leaves of the kaeta plant)
 
 kagajo > paper (ol-sakam is sometimes used for writing paper)
 
@@ -78,7 +79,7 @@ kai > to chase (same as kakii)
 
 kãil > -to suffer extreme hunger or thirst
 
-kail-bail > to stagger from weakness (also kāla-bāli)
+kail-bail > to stagger from weakness (also kála-báli)
 
 kairi jambū biń > a rat snake having a yellow-green colour and narrow criss-crossing stipes on the back
 
@@ -87,11 +88,11 @@ kaji > to say, speak, language; matter; word (Les. 35); used with dir. animate o
 *kajl-angara > to say (e.g. a prayer) in the evening in anticipation or preparation for some action of the next day, e.g. a sacrificial offering to be made
 *kaji-asora > to give hope by one’s words
 *kaji-ayer > to tell beforehand; to prophesy
-*kaji-āyerni: > a prophet
+*kaji-aáyerni: > a prophet
 *kaji-bai > to plan; to plot
-*kaji-bakaw > to incite by one’s words
+*kaji-bakao > to incite by one’s words
 *kaji-banai > a plan, a plot (verbal noun of kaji-bai)
-*kaji-biyur > to tell around; spread the news
+*kaji-biur > to tell around; spread the news
 *kaji-boro > by word to scare (someone); to intimidate by verbal threats
 *kaji-chanal-kaji > a rumour
 *kaji-chenṭa > to verbally harass
@@ -103,7 +104,7 @@ kaji > to say, speak, language; matter; word (Les. 35); used with dir. animate o
 *kaji-etol > to imitate (mimic) the way of speech or the words of another
 *kaji-giyu: > by one’s words to shame or embarrass (another) ‘(to say something that causes shame either to the one addressed or to one about whom one speaks)
 *kaji-hal > to speak back; repay (e.g. abusive language) by words
-*kaji hankā:r > to inflict harm on someone (as under hankā:r, q.v.) by one’s words; an infliction of harm by one’s words
+*kaji hankart́ > to inflict harm on someone (as under hankat́, q.v.) by one’s words; an infliction of harm by one’s words
 *kaji-hila > to express hatred (of someone); when the hatred is against God, to blaspheme
 *kaji-juṛi > to include someone or something in a category about which one is speaking; a saying
 *kaji-juṛi-kaji > words which are aptly joined together; a proverb
@@ -116,7 +117,7 @@ kaji > to say, speak, language; matter; word (Les. 35); used with dir. animate o
 *kaji-kul > to send word
 *kaji-mangal > to cause defilement or disgrace (to someone) by one’s words, e.g. by excessive praise (4 data), or by making advance arrangements for a marriage with a girl and then breaking it off, thereby hurting her chances
 *kaji-maskal > to bring to light, reveal, by ones wor ds
-*kaji-labui: > to entice by words (flattery, etc.)
+*kaji-labuć > to entice by words (flattery, etc.)
 *kaji-misa > when speaking to include in some category; to include someone among those addressed
 *kaji-nam > by speaking to get; to try to engage Someone in conversation
 *kaji-nitir > to spread a message; to proclaim
@@ -124,16 +125,16 @@ kaji > to say, speak, language; matter; word (Les. 35); used with dir. animate o
 *kaji-parka > to speak out clearly, not concealing
 *kaji-pē: > to strengthen, encourage (someone) by one’s words
 *kaji-putaṕ > to put up some matter for discussion
-*kaji-rāe/rāy > to give advice, advise
+*kaji-ráe/ráy > to give advice, advise
 *kaji-rãsa > to bring joy by one’s words; (sama kaji rasa would mean a mere promise to give joy without doing so); refl. -to take delight in talking
 *kaji-sapa > to speak clearly
 *kaji-sara: > to call a curse (upon someone) by one’s words (e.g. by @ data); a calling of a curse by one’s words
-*kaji-sekā > to complete what one is saying; past -to have already said
+*kaji-sekaa > to complete what one is saying; past -to have already said
 *kaji-sit́ > to finalize an agreement; to settle a price (e.g. a bride-price)
 *kaji-somjaw > to explain
 *kajitat́ ulaṅ > the fixed day; the day decided upon
 *kaji-tela > used in recip. kapajitepela -to pass word back and forth one to another
-*kaji-ṭo: > to make (someone) feel (to touch to the quick) by one’s words
+*kaji-ṭoḱ > to make (someone) feel (to touch to the quick) by one’s words
 *kaji-ṭokor > to point out one’s defects, etc., in a scolding way
 *kaji-topa > to try to cover up (one’s mistakes or defects) by ones words
 *kaji-hućoḱ > to tell from one generation to the next (some oral tradition); to come telling
@@ -145,26 +146,26 @@ kajoṛa > -lamp black; to put on lamp-black (e.g. around the eyes)
 kaka > one’s father’s younger brother; the husband of one’s mother’s younger sister; step-father
 *kaka honyar > one’s father-inlaw’s younger brother; the husband of one’s mother-in-law’s younger sister
 
-kāka Daru > a large forest tree having long strong thorns, somewhat like the anko:l tree, and no edible fruit. Bridelia retusa, Spreng., Euphorbiaceae, E.M., B.29/6, H.29/22/1
+káka Daru > a large forest tree having long strong thorns, somewhat like the Ankolt́ tree, and no edible fruit. Bridelia retusa, Spreng., Euphorbiaceae, E.M., B.29/6, H.29/22/1
 
 kakala > to shout
 
-kakā:r > the cackle made by a hen before giving eggs: a like cackle by a hen when reaching the egggiving stage; of a hen, to be of a age to start to give eggs (since she now cackles) (for this one could say kakā:rakanae: or kakārtanae:)
+kakart́ > the cackle made by a hen before giving eggs: a like cackle by a hen when reaching the egggiving stage; of a hen, to be of a age to start to give eggs (since she now cackles) (for this one could say kakart́ akanać or kakart́ tanać)
 
-kakā/kāka rambat́ > same as kaka ram bad kaka/kaka rambad (ear, aay wg) -the praying mantis; in some places this is used for a large jungle lizard whose bite is believed to be poisonous
+kaká/káka rambat́ > same as kaka ram bad kaka/kaka rambad (ear, aay wg) -the praying mantis; in some places this is used for a large jungle lizard whose bite is believed to be poisonous
 
 kakaṛi > to chase alternate form of kakii, q.v.)
 
-kakaru > the pumpkin and the creeper on which it grows, -Cucurbita pepo, DC., Cucurbitaceae B.71/8, H.71/13/1 (E.M. gives three varieties, the above + H.71/13/2 + H.71/10/1)
-*kakaru bā > the large yellow flower of the kakaru creeper. (These are edible)
+Kakaru > the pumpkin and the creeper on which it grows, -Cucurbita pepo, DC., Cucurbitaceae B.71/8, H.71/13/1 (E.M. gives three varieties, the above + H.71/13/2 + H.71/10/1)
+*Kakaru Bah > the large yellow flower of the Kakaru creeper. (These are edible)
 
 kaki > father’s younger brother’s wife; mother’s younger sister (vocative of gauń)
 
 kakii > to chase, pursue; of one riding a horse, to make the horse run fast, to race
 *kakii-at́ > of one chasing, to lose the one being chased
-*kakii-biyur > to chase around; of one riding a horse, to make it nde around
-*kakii-chomkaw > to make panic by chasing
-*kakii-laaḱ > to chase or race farther; (of one riding a horse); recip. kapakīlap: -of people riding horses, to race
+*kakii-biur > to chase around; of one riding a horse, to make it nde around
+*kakii-chomkao > to make panic by chasing
+*kakii-láḱ > to chase or race farther; (of one riding a horse); recip. kapakīlap: -of people riding horses, to race
 *kakii-laga > to chase unto exhaustion
 *kakii-nir > to chase making the chased one run; to run in pursuit
 
@@ -172,15 +173,15 @@ kakla > to shout; a loud shouting (also kakala)
 *kakla-darom > to meet or confront with shouting (e.g. by crying so loudly as to discourage the spirit of a dead person from entering the adiń at the time of keya-ader)
 *kakla-topa > to fill (bury) (some area) with shouting
 
-kākom > a crab (also kāṛob)
+kákom > a crab (also káṛob)
 
 kala > deaf
 
-kāla-bāli > to stagger from weakness
+kála-báli > to stagger from weakness
 
 kalae > a grain of a dal-type, prob. as in E.M. (kalare) -Pisum arvense, L ., Papilionaceae, the Field Pea, B.53/94, H.53/17/1
 
-kāla-kōlo > to be completely exhausted from hunger or sickness; to be in a mental stupor
+kála-kōlo > to be completely exhausted from hunger or sickness; to be in a mental stupor
 
 kalgi > a large curved-up leaf-plate (cf. chiṭiki for a flat one); to make the same
 *kalgi jilu > a kalgi full of meat (meat is often divided out in a kalgi)
@@ -202,7 +203,7 @@ kalom > next year
 
 kaluṭi > a hen that has not yet laid eggs (the form kaṭuli is also sometimes used)
 
-kamākom > the stem of a leaf
+kamákom > the stem of a leaf
 
 kama-kuru > to work in excited haste
 
@@ -222,13 +223,13 @@ kampu Daru > the wooden pieces supporting the iron axle of a cart (also called �
 
 kamurdes bongako, kamurdes paṭko > very powerful guru spirits who inspire sorcerers in their art and who live in kamurdes (also called kãwordes in Ho) in Assam. (Bodding says that this is possibly the Kamrup District)
 
-kān > twenty põ or 1600 cocoons
+kán > twenty põ or 1600 cocoons
 
 kanaji > something told or related; a relating (verbal noun of kaji)
 
 kanaṛae > the act of reploughing or the time suitable for reploughing (verbal noun of kaṛae)
 
-kanarcha > expense;. to incur expense (for which kanarcha ṭo: can also be used in the passive)
+kanarcha > expense;. to incur expense (for which kanarcha ṭoḱ can also be used in the passive)
 
 kanchi, kanchi: > a basket
 
@@ -237,18 +238,18 @@ kanda > to set aside separate portions of rice, dal, meat, a place to cook, and 
 kanḍa > same as kanḍa chaṭu
 *kanḍa chaṭu > a narrow-necked earthen pot, much like a tum chaṭu but bigger
 
-kānḍa > a cut off piece esp. of meat or fish; to cut off such a piece
+kánḍa > a cut off piece esp. of meat or fish; to cut off such a piece
 
 kanḍeyor Daru > a tree which has good wood usable for rafters and which is sometimes used for silkworm breeding, Prob. Bursera serrata, Colebr., Burseraceae, E.M., B.39/2, H.39/2/1
 *kanḍeyor lungam > a variety of silkworm which feed on the kanḍeyor tree
 
 kanḍi > blunt, e.g. of a knife, a ploughshare
 
-kangil bā > a beautiful well-known shrub (oleander) with rose or white fragrant flowers, Nerium odorum, Soland., Apocynaceae, H.89/11/1, B.89/8
+kangil Bah > a beautiful well-known shrub (oleander) with rose or white fragrant flowers, Nerium odorum, Soland., Apocynaceae, H.89/11/1, B.89/8
 
-kanjir bā > a name given in some places to the kanḍil ba, q.v.
+kanjir Bah > a name given in some places to the kanḍil ba, q.v.
 
-kanho > a sensation in the teeth from eating something too moroe: (acid, sour) e.g. a not yet ripe mango; to feel such a sensation
+kanho > a sensation in the teeth from eating something too moroć (acid, sour) e.g. a not yet ripe mango; to feel such a sensation
 
 kanḍom > the rim e.g. of an earthen vessel (N.B. meḍ-kanḍom -the eyebrows)
 
@@ -260,7 +261,7 @@ kangsa > brass
 
 kani > a pointed edge e.g. of a table-top, of an arrow head; the corner of a tul jalom (where it is fastened to a jalom kaṭi)
 
-kāni > a story (also bankuṛi)
+káni > a story (also bankuṛi)
 *kani-beṭa > to recall some story (see jagar-beṭa)
 
 kani-anguṛi > the little finger (also called hon ganḍa)
@@ -277,29 +278,29 @@ kanka-kunki > the same as kanka-konko, but referring to a woman
 
 kanka-manka > same as kanka-konko
 
-kāṅ-kāṅ tan > a painful sensation in the ear caused e.g. by a sudden very loud noise or by a blow to the head (with verb hasu, or in such expressions as kāṅ-kāṅeyanan or kāṅ-kāṅkeḍińa, ‘I have an ear-ache’)
+káṅ-káṅ tan > a painful sensation in the ear caused e.g. by a sudden very loud noise or by a blow to the head (with verb hasu, or in such expressions as káṅ-káṅeyanan or káṅ-káṅkeḍińa, ‘I have an ear-ache’)
 
-kankaṭuwa > the praying mantis (a local name, more common is hisir-nini:, q.v. or kāka-ramba:)
+Kankaṭua > the praying mantis (a local name, more common is hisir-nini:, q.v. or káka-ramba:)
 
-kankusi > the bow of a banam (a village fiddle)
+Kankusi > the bow of a Banam (a village fiddle)
 
-kanpul > an earring of a certain variety
+Kanpul > an earring of a certain variety
 
-kansa > brass used for making eating vessels, bells, etc. (also spelled kangsa, kãsa)
+Kansa > brass used for making eating vessels, bells, etc. (also spelled kangsa, Kãsa)
 
-kansari > a cultivated pulse crop, Lathyrus sativus, L ., Papilionaceae, B.53/73, H.53/16/1
+Kansari > a cultivated pulse crop, Lathyrus sativus, L ., Papilionaceae, B.53/73, H.53/16/1
 
-kanta > a quilt, made of old clothes, etc. patched together
+Kanta > a quilt, made of old clothes, etc. patched together
 
 kanta > same as kanṭat́, q.v.
 
-kanṭat́, kanṭet́ > poetic parallel of ringa, ‘famine’, (not used alone)
+Kanṭat́, Kanṭet́ > poetic parallel of Ringa, ‘famine’, (not used alone)
 
-kantar, kantār > same as kantad, q.v.; kantar hon is used in prayers parallel to munḍa hon prob. with the meaning of ‘poor’ (therefore munda hon kantar honko would mean ‘the rich and the poor’ Porja hon and ganḍa hon are also used in prayers parallel to munḍa hon)
+kantar, kantart́ > same as kantad, q.v.; kantar hon is used in prayers parallel to munḍa hon prob. with the meaning of ‘poor’ (therefore munda hon kantar honko would mean ‘the rich and the poor’ Porja hon and ganḍa hon are also used in prayers parallel to munḍa hon)
 
-kanṭi > a nail
+Kanṭi > a nail
 
-kanto > see kãto
+kanto > see kã́to
 
 kanṭu:, kanṭur > of birds, e.g. egrets, the lower part of the neck and the part of the body adjoining that; of men, the part of the neck beneath the adam’s apple and the bones right below that
 
@@ -308,7 +309,7 @@ kanun, kanūn > law
 kapa: > to fan; refl. to throw into one’s mouth, e.g. puffed rice
 
 kapaji > to converse; to quarrel (recip. of kaji)
-*kapaji-tapāui: > a general term for quarrelling and dissension
+*kapaji-tapauć > a general term for quarrelling and dissension
 
 kapara > ringworm
 
@@ -320,13 +321,13 @@ kapi > a battle or hunting axe
 
 kar > verbal affix with udub, to reveal someone’s faults N.B. ker is used independently in the sense of ‘to slander’ (see udub-kar )
 
-kāṛ, kāṛo > from very ancient times; sometimes used in the same meaning as jūg, q.v. (used often in the phrase munu kāṛ, q.v.)
-*kāṛ banai > a long standing banai (harm inflicted through witchcraft)
-*kāṛ bonga > a spirit who inflicts long standing harm on a whole household, people, cattle and stored grains
-*kāṛ churdu bonga > a churdu bonga (qa.v.) who inflicts long standing harm on a whole household (considered worse than karo bonga)
-*kāṛ piṛa > suffering caused due to a kāṛo banai
+káṛ, káṛo > from very ancient times; sometimes used in the same meaning as jūg, q.v. (used often in the phrase munu káṛ, q.v.)
+*káṛ banai > a long standing banai (harm inflicted through witchcraft)
+*káṛ bonga > a spirit who inflicts long standing harm on a whole household, people, cattle and stored grains
+*káṛ churdu bonga > a churdu bonga (qa.v.) who inflicts long standing harm on a whole household (considered worse than karo bonga)
+*káṛ piṛa > suffering caused due to a káṛo banai
 
-kara > a levelling plank; to level earth or mud with a levelling plank (this is a big broad curved plank used to pick up dirt from a higher level and deposit it in a lower level, cf. atāgom, which is a straight plank used as a clod crusher or to level off the ground after reploughing)
+kara > a levelling plank; to level earth or mud with a levelling plank (this is a big broad curved plank used to pick up dirt from a higher level and deposit it in a lower level, cf. Ataagom, which is a straight plank used as a clod crusher or to level off the ground after reploughing)
 *kara-muli > to level the land evenly with a kara
 *kara-nam > to receive e.g. a crop by levelling with a Kara; to finish off the work of levelling
 *kara-ō:l > - to take out (earth) with a levelling plant
@@ -344,9 +345,9 @@ kaṛae > to replough
 *kaṛae-losot́ > a general term to describe different ploughing operations (reploughing and making the fields into soft liquidy mud for transplanting) which take place about the same time of the year (hēḍ-rowa is used in this same way)
 *kaṛae ut́ > an edible mushroom which comes out at the reploughing time
 
-karae:-koroe: tan > a noise made when clearing the throat
+karae:-koroć tan > a noise made when clearing the throat
 
-kayae:-kurui: tan > of firm moist soil, to form large clods which do not break down properly when ploughing (with verb SI, etc.)
+kayae:-kuruć tan > of firm moist soil, to form large clods which do not break down properly when ploughing (with verb SI, etc.)
 
 karaela > a climber with fruits and yellow flowers, the leaves and fruits can be used for curry, Momordica charantia, L ., Cucur bitaceae, E.M., B.71/15, H.71/9/1
 
@@ -363,11 +364,11 @@ kayrasa > brass (a form used in songs, cf. kAsa)
 
 karcha > to spend (money, etc.); provisions of food for a journey or for a stay somewhere away from home
 
-karchad-kurchud > provisions of food (a jingle on karcha, used in stories but not in ordinary speech)
+karchad-kurchut́ > provisions of food (a jingle on karcha, used in stories but not in ordinary speech)
 
 karchu: > a flea (usually in the form seta karchu:)
 
-karchud > same as karchu:
+karchut́ > same as karchu:
 
 karedo > otherwise (also banredo)
 
@@ -376,7 +377,7 @@ karemate > same as karedo
 kayeya > black (used as an adjective with seta, ‘dog’)
 
 kari > to borrow without paying interest, also kolowad; borrowed (in prayer one sometimes promises to a spirit e.g. kari sasan, ‘borrowed tumeric’, to indicate that he is very poor and has to get the required offering from someone else)
-*kayi1-kolowad > a collective noun for loans without interest
+*kayi1-kolowat́ > a collective noun for loans without interest
 *karite em > to lend; to give on loan without interest
 
 kayika > the sorhae feast (sometimes kayika-sorae is used)
@@ -426,7 +427,7 @@ kdsa > brass for eating vessels, bells, etc., (also kangsa)
 kasae > the colour of a goat, _ reddish brown
 *kasae Daḱ > vaginal discharge of bloody mucous material which precedes delivery (in women and animals)
 
-kase/kase-med > -of a person with only one good eye, turning the head to look at something and squinting or looking through the corner of one’s eye (used in expression sae-med kasemedte nel with the figurative meaning ‘to look at with hostility’. In prayers sae-med kase-medtenko is used to refer to those who harm others by @ data, nojor)
+kase/kase-met́ > -of a person with only one good eye, turning the head to look at something and squinting or looking through the corner of one’s eye (used in expression sae-med kasemedte nel with the figurative meaning ‘to look at with hostility’. In prayers sae-med kase-medtenko is used to refer to those who harm others by Á Daṭa, nojor)
 
 kasmar, kasomar Daru > a tree with strong wood which can be used for furniture, etc., Gmelina arborea, Roxb., Verbenaceae, B.105/11, H.105/12/1
 
@@ -479,8 +480,8 @@ kati > a sharp blade attached to the natural spur of a cock for fighting
 
 kati > to put something usually horizontal, e.g. a bed, on a side position
 *kati adu > to take down something (e.g. a bandi from a cart) by turning it on the side
-*kati nun > a game in which each member of one team puts an object on the ground on its side (kati). In local villages a kecho: (a piece of a broken earthen pot) is used supported by a stick. The members of the attacking team try to knock this down by sending an object (also a kecho:) flying by putting it on the ground, standing a stick against it, and hitting the lower part of the stick
-*kati kesed > to block by putting something, e.g. a flat rock, on its side
+*kati nun > a game in which each member of one team puts an object on the ground on its side (kati). In local villages a kechoḱ (a piece of a broken earthen pot) is used supported by a stick. The members of the attacking team try to knock this down by sending an object (also a kechoḱ) flying by putting it on the ground, standing a stick against it, and hitting the lower part of the stick
+*kati keset́ > to block by putting something, e.g. a flat rock, on its side
 *kati-tender > to put something on its side leaning against something else
 
 kati:, kati > sometimes used for jalomkati(:), q.v.
@@ -490,13 +491,13 @@ katikar > one who ties an artificial spur to a cock for a cockfight
 katkom > a crab (see katakom)
 
 kato > to enclose with an earthen or brick wall; a wall build up part way within a house to partition a room, etc.
-*kato-biyur > to surround with an earthen or brick wall
-*kato-kesed > to block off with a wall
+*kato-biur > to surround with an earthen or brick wall
+*kato-keset́ > to block off with a wall
 
 katoṕ > a crab (see katakom)
 
 katon > by the use of ‘mantras’ to prevent the evil work of some spirit
-*katon-kesed > to keep out (evil spirits) by mantras and such means as scattering mani jan
+*katon-keset́ > to keep out (evil spirits) by mantras and such means as scattering mani jan
 
 katu > a knife
 *katu marah bonga > a hunting spirit (sangar bonga) said by some to be a servant spirit to maran bonga katub (<4 ) -a finger (around Chaibasa ganda is commonly used)
@@ -509,9 +510,9 @@ kaubau > to be in a hurry: to do an action in a hurry (often used with -tan affi
 
 kauri > a cowrie (a small shell once used for money); figur. -the eye, e.g. kauy1-kauriko Ge:peya, “They will tear out your (pl.) eyes’
 
-kawor > a stork type bird, prob. the White Ibis (cf. rdo -the Black Ibis)
+kaoor > a stork type bird, prob. the White Ibis (cf. rdo -the Black Ibis)
 
-kawordes > see kamurdes
+kaoordes > see kamurdes
 
 kay > see kae
 
@@ -527,7 +528,7 @@ ké: > a swallow, a swift (bird) kapi a swallow, a swift (bird) ke: bata (#: 41)
 
 ké: > (a variation of the more commonly used form hé; )
 
-ke: berlo: > a large bird which eats lizards. Many identify it as the Sirkeer Cuckoo (also called ke: berle:, balu gota: and bagolo in different places)
+ke: berloḱ > a large bird which eats lizards. Many identify it as the Sirkeer Cuckoo (also called ke: berle:, balu gota: and bagolo in different places)
 
 kecha: > to tear or break off a small piece, e.g. from a loaf of bread or from an earthen pot
 
@@ -537,20 +538,20 @@ kecher > to swerve (e.g. an object curving through the air, a turning airplane);
 
 kechera > the colour of a chicken, some white mixed with black or sometimes with red
 
-kecho: > a tile; a piece of broken chatu ; to tile a roof
-*kecho: Aaḱ > an edible herb found in water in the monsoon season, prob. Boerhavia diffusa, L., Nyctaginaceae, (E.M., B.107/1, H.107/4/1)
-*kecho:ren sim hon > a baby chick still with the mother in the broken chatu (kecho:) in which hatched
-*kecho: tapin inuh > another name for kati inun, q.v.
+kechoḱ > a tile; a piece of broken chatu ; to tile a roof
+*kechoḱ Aaḱ > an edible herb found in water in the monsoon season, prob. Boerhavia diffusa, L., Nyctaginaceae, (E.M., B.107/1, H.107/4/1)
+*kechoḱren sim hon > a baby chick still with the mother in the broken chatu (kechoḱ) in which hatched
+*kechoḱ tapin inuh > another name for kati inun, q.v.
 
 kecho-kecho > the cry of the kokor, small owl
 
 kechoro > of a horse, bullock, etc., difficult to control, recalcitrant; of a person, unruly, i]l-mannered
 
-kéd > a sheaf of grass as much as is held in one hand holding the thinner upper part of the grass (this is normally formed of many towab (see mi towab) each separately tied and then all tied together to form m1 kéq)
+két́ > a sheaf of grass as much as is held in one hand holding the thinner upper part of the grass (this is normally formed of many towab (see mi towab) each separately tied and then all tied together to form m1 kéq)
 
-kéd > to hit against someone, e.g. when passing; to rub elbows with someone in a crowd
+két́ > to hit against someone, e.g. when passing; to rub elbows with someone in a crowd
 
--k&d > affixed to a verb form is the aspect marker ké (Les. 17B) + ed (Les. 33)
+-k&t́ > affixed to a verb form is the aspect marker ké (Les. 17B) + ed (Les. 33)
 
 kedba > to walk on the fore-part of the foot with the heel raised (because of some deformity)
 *kedba kata > a deformed foot such that one walks with the heel raised
@@ -561,7 +562,7 @@ ke: dulbi: > another name for the dulbi: (q.v.) bird, the Sandpiper
 
 keja > to count off bundles for selling, e.g. karkad, vegetables, etc.; poetic parallel of akarizi, ‘to sell’
 
-ké:-ké: tan > a high pitched repeated cry of a bear cub (with verb ra: or the like)
+ké:-ké: tan > a high pitched repeated cry of a bear cub (with verb raḱ or the like)
 
 ké-ké > the cry of a kite (kuid) a cry said to be made by big owls (dunduko) in years when rain will be poor (it is said that they cry hii-hii-hi in years when rain will be good)
 
@@ -569,7 +570,7 @@ ké-k6 tan > made by drawing a bow back and forth over a banam (with verb banam)
 
 kelas, keliso > class (i.e. in school)
 
-kele-koted > to search for something from place to place in excited haste; used esp. of a hen the sound, looking for a place to lay her eggs; figur. -kele-koted-banam would be said in scolding to a girl who runs around bazars, feasts, etc. looking for a man to marry her
+kele-kotet́ > to search for something from place to place in excited haste; used esp. of a hen the sound, looking for a place to lay her eggs; figur. -kele-koted-banam would be said in scolding to a girl who runs around bazars, feasts, etc. looking for a man to marry her
 *kele-koted-lagan > to exhaust oneself running around (as above)
 
 kelkel > pointed
@@ -582,7 +583,7 @@ kendowah > same as kendo
 
 kenereć > strength, firmness; importance, e.g. andire kumakowa: kenereć mena:, ‘in a marriage the maternal uncles have an important role’ (verbal noun of kereć)
 
-kenesed > an obstacle (verbal noun of kesed)
+keneset́ > an obstacle (verbal noun of kesed)
 
 keneteć > same as kenereć (verbal noun of kete-)
 
@@ -590,11 +591,11 @@ kenke seyari > a small variety of jackal
 
 kensel > to cancel (from English)
 
-kented > quarrelsomeness; quarrelsome, troublesome
+kentet́ > quarrelsomeness; quarrelsome, troublesome
 
 kepa > cruel; quarrelsome (much like peton in usage)
 
-kepesed > same as epesed, q.v. (recip. of kesed)
+kepeset́ > same as epesed, q.v. (recip. of kesed)
 
 kepeya > to call or invite one-another; of a man and woman, to arrange a marriage by mutual consent (a ‘love-marriage’); to elope (recip. of keya, ‘to call’)
 
@@ -613,8 +614,8 @@ kerai > a concave iron pan used for frying curry; a bigger variety used for carr
 
 kereć > strong, firm; difficult, financially strong, well-to-do; to make strong, to strengthen; pass. to become strong
 *keyreć A > to scold
-*kereć-lebeć tan > of something being eaten, somewhat hard yet somewhat soft (with verb jomo:)
-*kereć-tabui: > of a bow (fastened for shooting arrows), properly tight and properly loose, just right for shooting
+*kereć-lebeć tan > of something being eaten, somewhat hard yet somewhat soft (with verb jomoḱ)
+*kereć-tabuć > of a bow (fastened for shooting arrows), properly tight and properly loose, just right for shooting
 
 kere-bore > a sound made by kereyad (parrots); a joyful sound of many birds or of conversing people (same as chere bere)
 
@@ -628,7 +629,7 @@ keremuru > -same as keremutu
 
 keremutu > (to do something) quickly, in a rush
 
-kereyad > a parrot
+kereyat́ > a parrot
 
 ker-ker > of e.g. a branchless upper part of a tree, OF a branch with no leaves, etc., to extend long; figur. -long, of the neck of a tall thin man
 
@@ -638,8 +639,8 @@ kesari > a kind of weed, the leaves of which are eaten by cattle. Children somet
 
 kése > a case, law-suit; to fight a case. The recip. kepéseis also used.
 
-kesed > to check; to block; to prevent; to block in; to enclose; with owa: or hatu as obj., to block off the intrusion of any harmful spirit e.g. by planting strongly scented herbs such as sirun dumbu, rotesela, bir sirimi, gaya sur, soso and mani jan mixed together
-*kesed-biyur > to block on all sides
+keset́ > to check; to block; to prevent; to block in; to enclose; with Oaḱ or hatu as obj., to block off the intrusion of any harmful spirit e.g. by planting strongly scented herbs such as sirun dumbu, rotesela, bir sirimi, gaya sur, soso and mani jan mixed together
+*kesed-biur > to block on all sides
 *kesed-koton > to block
 
 keteć > strong, firm (same as keyeć, q.v.)
@@ -659,25 +660,25 @@ keto > naked; to strip naked; (also tota); of a chicken, very thinly feathered
 
 keya > to call, to invite to one’s house; to bring a girl home intending to make her one’s wife (see kepeya)
 *keya-ader > to call inside (used esp. of the ceremony of calling the shades (rowa) of a dead member of a family into the adin)
-*keya-chakad > to deceive by calling (used of a man who deceives a girl into thinking that he is calling her to be his wife whereas his intention is only to sexually exploit her)
+*keya-chakat́ > to deceive by calling (used of a man who deceives a girl into thinking that he is calling her to be his wife whereas his intention is only to sexually exploit her)
 *keya-juyi > to call (invite) as a companion (e.g. when going visiting)
 *keya-hućoḱ > to call someone to come; to summon
 *keya-ura > to call back (see also rowa keya-ura)
 
-kéya Bah > a sweet-smelling flower which looks something like tepoe: gangai (maize)
+kéya Bah > a sweet-smelling flower which looks something like Ṭepoć gangai (maize)
 
 kéya > to swing the arms when walking; for cattle, to swing the head to one side; to hit with a side-swing of the head; of birds, bats, etc., to fly swerving under or around some obstacle
 *kéya-ader > to fly into with a swerving motion (as under kéya)
 
-keyad > a parrot (more commonly called kereyad)
+keyat́ > a parrot (more commonly called kereyad)
 *keyad chadlom > a parrot’s tai]
 *keyad chadlom daru > a tree, prob. Albizzia odoratissima, Benth. , Mimosaceae, B.55/14, H.55/10/4, and/or Dalbergia lanceolaria, L.,f., Papilionaceae, B.53/33, H.53/54/8
 *keyad chadlom marchi > a variety of chillis, also called chundul marchi, q.v.
 
 keyo > to row a boat
 
-keyo: > the frightened cry of a chicken e.g. when caught by a man; of a chicken, to cry in fright
-*keyo:-keyo: > the same of a repeated or continued cry
+keoḱ > the frightened cry of a chicken e.g. when caught by a man; of a chicken, to cry in fright
+*keoḱ-keoḱ > the same of a repeated or continued cry
 
 keyonto > a rower of a boat
 
@@ -687,11 +688,11 @@ kichil > to shake something in a winnowing basket in order to separate lighter m
 
 kichiri > to cook rice together with some meat, sasan, etc., but without water (see also leto); rice and meat cooked in this fashion
 
-kichud > to hold the ears erect and attentive, e.g. of an animal alerted by some sound, or of a person listening attentively
+kichut́ > to hold the ears erect and attentive, e.g. of an animal alerted by some sound, or of a person listening attentively
 
-kid > to make effort to void excrement, to urinate or to pass wind
+kit́ > to make effort to void excrement, to urinate or to pass wind
 
--kid > affixed to a verb form = -kt (the ké aspect marker with a 3rd pers. sg. animate obj.) + -ed, q.v.
+-kit́ > affixed to a verb form = -kt (the ké aspect marker with a 3rd pers. sg. animate obj.) + -ed, q.v.
 
 kidar-kodor > of the tail of a cock or the plume of a small egret, to be long and wavy; of grain stalks, to grow long and wavy
 
@@ -712,7 +713,7 @@ kilum > a nail; to nail
 *kilum-ipinAfin > to nail tightly
 *kilum-jé:r > to nail tightly against
 *kilum-koton > to block off by nailing
-*kilum-mid > to nail (crucify) together (with someone)
+*kilum-mit́ > to nail (crucify) together (with someone)
 
 kimin > daughter-in-law; one’s younger brother’s wife; the wife on one’s homon, q.v., or of one’s honsed, q.v.; to make one one’s kimin
 *kimineya-hanareya > of a daughter -in-law and her mother-inlaw to take up some activity together
@@ -721,7 +722,7 @@ kimin > daughter-in-law; one’s younger brother’s wife; the wife on one’s h
 
 -kin > bound form of the 3rd pers. dual personal pronoun, ‘the two of them’; affixed to nouns or pronouns it forms the dual number (which is sometimes used to refer to one person with respect); in verb forms it indicates a dual animate subj. and/or ob).
 
-kindad > of paddy stalks, to not form ears (gele) proper ly (e.8. because eaten by stem-borers) (piiyalis also used in this sense)
+kindat́ > of paddy stalks, to not form ears (gele) proper ly (e.8. because eaten by stem-borers) (piiyalis also used in this sense)
 
 kindad Daru > a bush or small tree, prob. Glochidium lanceolarium, Dalz., Euphorbiaceae, H.29/31/4 B.29/20
 
@@ -754,7 +755,7 @@ kiriń > to buy
 *kirih-jom > to buy one’s food (as distinct from growing it); to buy for oneself
 *kirii-muli > to buy directly (e.g. seedlings without buying seeds)
 *korifi-sare: > to save or leave over when purchasing (e.g. some money for further purchases)
-*kirin-sid > to finalize a buying transaction
+*kirin-sit́ > to finalize a buying transaction
 *kirin-hućoḱ > to buy and bring
 
 kiriya > an oath; to take an oath; to promise; used in prayers parallel to niyam meaning ‘ to impose an obligation on oneself’ (e.g. to perform some sacrifice)
@@ -762,7 +763,7 @@ kiriya > an oath; to take an oath; to promise; used in prayers parallel to niyam
 
 kirsi > a crop, cultivation (also taso)
 
-kirtun-med > -to squint (in the phrase kirtunge: medetana); kirtun-med hod or sometimes just kirtun-med would mean ‘one who squints’
+kirtun-met́ > -to squint (in the phrase kirtunge: medetana); kirtun-med hod or sometimes just kirtun-med would mean ‘one who squints’
 
 kiru: > the Grey Partridge (named after the cry of the female) see also chitiri
 
@@ -788,10 +789,10 @@ kiya > a chin (also @ kiya)
 -ko > the bound form of the 3rd pers. pl. personal pronoun, ‘they’ ‘them’; affixed to a noun or pronoun it forms the pl. number. (in a few expressions -ko is used of one person to show respect, e.g. héyarko, ‘father-in-law’ said by his daughter-in-law); in verb forms it indicates a pl. animate sub. and/or obj. A -ko marker is often added to a noun to include other like objects and to verbs to include other lke actions (Les 37). In some cases -ko or -kote affixed to a word connoting time means approximately, e.g. gapakote, ‘about tomorrow’, ‘one of these days’
 *ko > an exclamation of wonder or surprise
 
-ko: > an egret (bird)
-*ko: haku > a slender fish with a long snout resembling that of an egret
+koḱ > an egret (bird)
+*koḱ haku > a slender fish with a long snout resembling that of an egret
 
-kobo: > to stretch one’s head (up, down sideways) in order to see something (esp. from inside looking out, e.g. through a window)
+koboḱ > to stretch one’s head (up, down sideways) in order to see something (esp. from inside looking out, e.g. through a window)
 
 kobor > news
 
@@ -810,7 +811,7 @@ koche > to bend something so that it tilts to the side from a vertical position,
 *koche-moche > same as koche rore
 *koche-rore > crooked; bent
 *koche singi > the early afternoon when the sun is bent down at an angle (see also diii: singi)
-koche-supid > a hair knot hanging over to one side
+koche-supit́ > a hair knot hanging over to one side
 
 koche jan > the seed of the ipil plant (both ara: ipil and pora ipil). This can be used for making curry
 
@@ -818,11 +819,11 @@ kochomba > a leaf roughly made asa receptacle, e.g. by putting only one chari: i
 
 kode > a variety of grain or millet. In sacrificial prayers kode is ofter used parallel to baba, ‘paddy’. Eleusine coracana, Gaertn., Gramineae, B.139/20, H.139/22/2
 *kode dumbu > a grass much like bulun dumbu, q.v., but the latter has 4-5 grained sections practically parallel to the ground, whereas the former has 3 or more grained sections branching upwards, prob. Eleusine indica, Gaertn., Gramineae’ H.139/22/1, B.139/21
-*kode lad > a bread made of kode grains
+*kode lat́ > a bread made of kode grains
 *kode sara > kode grains (used in prayers paralle to baba-saya)
 
-kodo: > of a plant, paddy stalk, etc., to grow tall and supple
-*kodo:-kodo: tan > the same as kodo:(leka), used with verbs of growing
+kodoḱ > of a plant, paddy stalk, etc., to grow tall and supple
+*kodoḱ-kodoḱ tan > the same as kodoḱ(leka), used with verbs of growing
 
 kodom Daru > the tree called kadam in Hindi. In Ho more properly called sanko daru, q.v.
 
@@ -830,25 +831,25 @@ kodompur sdrae > the sohrae feast celebrated annually at village Kodompur near
 
 Kharsawan kodor > of the tail feathers of a cock, to be long
 
-koe: > a gulp; to gulp
-*koe:-ader > to gulp down
-*mi koe: > as much as one can swallow in one gulp
+koć > a gulp; to gulp
+*koć-ader > to gulp down
+*mi koć > as much as one can swallow in one gulp
 
-k6e > to beg; a beggar^
-*k6e-jugi > a collective noun for beggars
+kõe > to beg; a beggar
+*Kõe-Jugi > a collective noun for beggars
 
-koe:-koe: tan > of one laughing, to chuckle (with verb landa)
-*koe:-kojo: > same as koe:koe:-(tan) (e.g. koe:-kojo:ge: landatana)
+koć-koć tan > of one laughing, to chuckle (with verb landa)
+*koć-koćoḱ > same as koć-koć (tan) (e.g. koć-koćoḱ geć landa tana)
 
 koel-moel > a disturbed feeling in the stomach, e.g. when very hungry, drinking much water on an empty stomach
 
 ko-ko > the cry made by a tied-up cock when disturbed
 
-ko:-ko: > the sound made by a hen calling her young chickens; a like noise (supposedly?) made by a bunum engaas she calls out to the young white ants within a bunum, (an ant hill)
+koḱ-koḱ > the sound made by a hen calling her young chickens; a like noise (supposedly?) made by a bunum engaas she calls out to the young white ants within a bunum, (an ant hill)
 
-kokocho: > of a cock, to crow (also kokorin and kokotéd )
+kokochoḱ > of a cock, to crow (also kokorin and kokotéd )
 
-kokod > to be miserly in giving; with kaji, to keep back some information
+kokot́ > to be miserly in giving; with kaji, to keep back some information
 
 kokodon > -of a snake, to stretch its head upward; of a man, to make a like motion stretching his neck to see something; of a tree, etc., to be shaped in this way
 *kokodon-rakaṕ > same as kokodon
@@ -856,16 +857,16 @@ kokodon > -of a snake, to stretch its head upward; of a man, to make a like moti
 koko-koko > a cry made by an excited chicken
 
 kokomba > a leaf-bag or funnel (e.g. to entrap flying ants); to make such a leaf-bag or funnel; to catch e.g. flying ants with a leafbag
-*kokomba sar > the part of an arrowhead folded so as to make a hole into which the shaft is fit kokor, koko:r (#Yenr, ofar'x ) -a small owl
+*kokomba sar > the part of an arrowhead folded so as to make a hole into which the shaft is fit Kokor, Kokort́ (#Yenr, ofar'x ) -a small owl
 
 kokorin > of a cock,to crow; a cock’s crow (also kokotéqd)
 
 kokoro > hollow
-*kokoro med > the sunken eyes of a sick person
+*kokoro met́ > the sunken eyes of a sick person
 
 kokota: > of a chicken, to start, be startled
 
-kokotéd > of a cock, to crow; a cock’s crow (also kokorii)
+kokotét́ > of a cock, to crow; a cock’s crow (also kokorii)
 
 kolkol > to sulk, show one’s displeasure by the cast of one’s mouth and by silence (close to dwa in meaning)
 
@@ -883,7 +884,7 @@ kolom karsa > another name for kolom utari, q.v. (called karsa in reference to t
 
 kolongi > to incline and rest the head against something (compare otongi, ‘to lean the head against’)
 
-kolowad > a loan (without interest), to give a loan (see also kari)
+kolowat́ > a loan (without interest), to give a loan (see also kari)
 
 kom > a little; less; to decrease; to become only a little
 
@@ -915,13 +916,13 @@ kon, kona > a corner
 *kona reya: dunub diri > a corner stone
 
 konda > to tattoo; a tattoo
-*konda dumbu > 2 or 3 varieties of herbs with milky juice in the stems. Children break these and make tattoo-like marks on their skin. Also called sosoe: dumbu, konda sosoe: dumbu, Prob. Kuphorbia hirta, L ., H.29/40/17, B.29/12 and/or Euphorbia hypericifolia, L., H.29/40/16, B.29/13, and/or Euphorbia prostrata, B.29/15
-*konda sosoe: dumbu > same as konda dumbu, q.v.
+*konda dumbu > 2 or 3 varieties of herbs with milky juice in the stems. Children break these and make tattoo-like marks on their skin. Also called sosoć dumbu, konda sosoć dumbu, Prob. Kuphorbia hirta, L ., H.29/40/17, B.29/12 and/or Euphorbia hypericifolia, L., H.29/40/16, B.29/13, and/or Euphorbia prostrata, B.29/15
+*konda sosoć dumbu > same as konda dumbu, q.v.
 
 konda > -dumb (unable to speak)
 *konda-kundi > of a man and woman (husband and wife), to be unable to speak, or to be very quiet like dumb people
 
-kondaid > to bend several Jata (branches such as are used for fencing) e.g. around a tree to protect it, or into an earthen pot to support something being steamed (e.g. ho of wrapped in run leaves)
+kondait́ > to bend several Jata (branches such as are used for fencing) e.g. around a tree to protect it, or into an earthen pot to support something being steamed (e.g. ho of wrapped in run leaves)
 
 konde: hake > a small axe
 
@@ -937,12 +938,12 @@ konja > a joint e.g. of bones in the body
 
 konka > of a man, tempermentally very quiet, esp. due to mental dullness (see also kunki of a woman); of a spirit, to cause someone to be konka
 
-kono:ge, kond:ge > repeatedly (with verbs of asking or requesting)
+konoḱge, kond:ge > repeatedly (with verbs of asking or requesting)
 
 konoton > an obstacle, impediment (verbal noun of koton)
 
 konta > to jerk one’s head upward, esp. of cattle when driving off insects; of cattle, to butt with a side swing of the head; of man, to shake off with one’s hands, e.g. someone taking a hold of him
-*konta-era: > to shake off (as under konta)
+*konta-enḍaḱ > to shake off (as under konta)
 
 kopa > to swing the open hand in order to strike something (sometimes with the back of the hand) or to grab something or to drive away (e.g. flies from before the eyes) or to gesture to someone to stop |
 *kopa-bati > to knock over by . swinging one’s open hand
@@ -970,13 +971,13 @@ koram > to hammer, strike with a hammer or a blunt object
 *koram-lutu:-lutu: > to hammer into tiny particles
 *koram-pocha > to miss when trying to hit with a blunt object
 *koram-sert́ > to hammer into small particles |
-*koram-sombogd > to club with a heavy blunt object making the one hit fall head first
+*koram-sombogt́ > to club with a heavy blunt object making the one hit fall head first
 *koram-tumbit́ > same as koramsombod
 
 korau > a wooden mallet
 *korau Bohḱ > a big head
 
-korche: med > same as korsel med, q.v.
+korche: met́ > same as korsel med, q.v.
 
 kore > -used in prayers parallel to Joke of one with open leg wounds which do not heal (prob. refers to leprosy)
 *kore rogo > tundubandia)
@@ -996,9 +997,9 @@ koro, kéro > a special basket used for carrying fish (it is wider at the bottom
 
 koro > same as korokoriya
 
-koroe: > a gulp; a gurgling sound
+koroć > a gulp; a gurgling sound
 
-koroe:-motoe: > to grumble (e.g. when given a task which one does not want to do)
+koroć-motoć > to grumble (e.g. when given a task which one does not want to do)
 
 korokoriya > an enclosed seat carried by bearers, a palanquin
 
@@ -1006,16 +1007,16 @@ koro-koro > the sound made by water flowing into a hole; the sound made by the o
 
 korom > wooden sandals
 
-koro:-moto: > of chillies, excessive dust, etc., to cause leprosy (also a painful congested sensation in the nose
+koroḱ-motoḱ > of chillies, excessive dust, etc., to cause leprosy (also a painful congested sensation in the nose
 
-koroh > of a small child, when not well to cry; to ask for something in a whining way (with -o:ge affixed and a verb asi)
+koroh > of a small child, when not well to cry; to ask for something in a whining way (with -oḱge affixed and a verb asi)
 *koron-koron tan > the same of a repeated action (with -tan or -ge and asi, or sometimes independently, e.g. koron-korontanae., ‘he keeps crying’, or ‘he repeatedly requests in a whining voice’
 
 koron > to block; keep from passing (also koton)
 *koron-ura > of one herding cattle, to get the herd back into a compact group (after they have spread out)
 
 koronda > to put a cloth, muffler, an arm, etc. around someone’s neck; to put wood or straw around the neck of cattle; to carry something on the back suspended by a rope around the neck; to carry an animal, e.g. a sheep, around the neck
-*koronda-biyur > to put around the neck (as in koronda)
+*koronda-biur > to put around the neck (as in koronda)
 
 koronjo Daru > a large forest tree, from the kernels of which an oilis extracted, Pongamia glabra, Vent., Papilionaceae, B.53/ 95, H.53/57/1
 *koronjo ba > the bluish white flower of the koronjo tree. These are very numerous and are a useful fertilizer
@@ -1029,17 +1030,17 @@ koroto > a saw
 
 korpa: > a hole in a tree (not very big)
 
-korsed med > same as korsel med
+korsed met́ > same as korsel med
 
-Korse] med > eyes half shut because of some defect or on purpose; to look at someone with such eyes; to squint
+Korse] met́ > eyes half shut because of some defect or on purpose; to look at someone with such eyes; to squint
 
-Korsole: med > to squint (see korsel med)
+Korsole: met́ > to squint (see korsel med)
 
 kortal > cymbals
 
 korto > a saw (also koroto)
 
-kose med > see kase med
+kose met́ > see kase med
 
 kdso ) > to apply colour to something; colour so applied
 
@@ -1057,7 +1058,7 @@ kosowa > of rice, to be boiled and ready for rice-beer brewing
 kosto > hardship, distress
 
 kota > to shake off, e.g. dust from one’s clothes; to lift and then drop paddy sheaves in order to separate the paddy from the straw; with hauko as obj., to shake out a nest of red ants
-*kota-era: > to shake off
+*kota-enḍaḱ > to shake off
 
 kotaṕ > to strike e.g. a branch against the ground in order to shake off dead leaves, a stick against cattle in order to drive them on (this imphes a less strong striking than tam would)
 
@@ -1069,7 +1070,7 @@ kotasi > a hammer
 
 kote: > to hammer or break into small pieces with a smal] hammer, a stone, an axe, etc.
 
-kote-kote > to shake the head, e.g. cattle shaking flies off their heads; to shake the head in refusal (for ‘to shake the head in agreement doyo: is usually used)
+kote-kote > to shake the head, e.g. cattle shaking flies off their heads; to shake the head in refusal (for ‘to shake the head in agreement doyoḱ is usually used)
 
 koto > a branch; to form branches; used in prayers qualifying Im and salom, meaning uncertain
 *koto-bara > of a branch, to divide forming two branches (used in a prayer)
@@ -1093,10 +1094,10 @@ koyan > of an object moving through the air, to deflect from a straight line bec
 
 *koyan-leka > -very light considering its bulk
 
-koyo: > to bend or stretch the neck in order to look at something
-*koyo:-datoṕ > to look into, craning one’s neck very much, e.g. in looking down a well
-*koyo:-nam > to look for or find by bending or stretching one’s neck
-*koyo:-parom > to look (as in koyo:) across
+koyoḱ > to bend or stretch the neck in order to look at something
+*koyoḱ-datoṕ > to look into, craning one’s neck very much, e.g. in looking down a well
+*koyoḱ-nam > to look for or find by bending or stretching one’s neck
+*koyoḱ-parom > to look (as in koyoḱ) across
 
 koyon > lap; to hold on one’s lap or in one’s arms
 *koyoh-hućoḱ > to come holding in one’s arms
@@ -1127,8 +1128,8 @@ kuburu > a hump (as found esp. on camels, but also as on some cattle); to have a
 kuburu > hunch backed or bent over
 *kuburu doya > hunch backed
 
-kucha > to coil or curl something up, e.g. the bor rope at the base of a bandi; refl. -of a snake, a centipede, etc., to coil up; of a person, to curl up (note the saying, era-jomme banredo kuchatem gojo:wa, ‘get yourself a wife otherwise you will die curled up ’i.e. there will be no one on hand to straighten out your body for burial)
-*kucha-biyur > to coil or curl around
+kucha > to coil or curl something up, e.g. the bor rope at the base of a bandi; refl. -of a snake, a centipede, etc., to coil up; of a person, to curl up (note the saying, era-joṅ me banredo kuchatem goćoḱa, ‘get yourself a wife otherwise you will die curled up ’i.e. there will be no one on hand to straighten out your body for burial)
+*kucha-biur > to coil or curl around
 *kucha-hapan > to remain still in a coiled or curled up position (refl. form)
 *kucha-liru > to bend vigorously up and down (as branches in a heavy wind)
 *kucha-urgumen > to curl up so as to warm oneself (refl. form) kucha:-kucha:-kucha:-kucha: -a beat of the dulki drum ????
@@ -1148,7 +1149,7 @@ kuchuni > one who buys and sells again trying to make a profit
 Kuchura > change (i.e. money of a given value in smaller denominations)
 
 kut́ > to carry on the back
-*kud-kesed > to cover up something carried on the back, e.g. a baby with a cloth
+*kud-keset́ > to cover up something carried on the back, e.g. a baby with a cloth
 
 kut́ > the Crimson-breasted Barbet (a bird, also called the Coppersmith); prob. also the Bluethroated Barbet as given by Tickell (cf. donga)
 *kud-kut́ > the sound made by the kut́ bird; a like sound made by the queen white ant (bunum enga)
@@ -1186,9 +1187,9 @@ kudura > same as kudra
 Kui > a woman
 *Kuihon > daughter, girl child
 
-kui: > to bend something (used esp. of iron)
+kuć > to bend something (used esp. of iron)
 
-kui:-kui: tan > to be bent (over), e.g. of a bow about to release an arrow, of a person bent over in laughing or in running (refl. -kuz:kujen, pass. ku1:-kuyjo:)
+kuć-kuć tan > to be bent (over), e.g. of a bow about to release an arrow, of a person bent over in laughing or in running (refl. -kuz:kujen, pass. ku1:-kuyjo:)
 
 Kuit́ > the Common Pariah Kite (also called pora kuid)
 *Kuit́ Rama rurt/Reht́ > the local name for a plant which has numerous small round pods about 1 inch long, resembling somewhat akite’s claw. This plant is also called sim uku and bin kayur and has various medical usages.
@@ -1201,40 +1202,40 @@ kuil > extreme hunger or thirst (same as kal)
 kuila > coal
 *kuila gunda > finely broken down particles of coal, coal dust
 
-kui:-tupi Oe > a bird whose cry, kiii:-tupi, is sometimes heard at night, esp. on a moonlit night, prob. the Stone Curlew
+kuć-tupi Oe > a bird whose cry, kiii:-tupi, is sometimes heard at night, esp. on a moonlit night, prob. the Stone Curlew
 
-kuiyad > same as kuid, a kite (bird)
+kuiyat́ > same as kuid, a kite (bird)
 
 kujuri Daru > a shrub from which red seeds are gotten which give an oil, Celastrus paniculata, Willd., Celastraceae, H.44/3/1, B.44/1
 
 kuku > vocative for gungu, q.v. Anyone whom one would refer to as gungu can be addressed kuku
 
-kukui: > to bend; bent in the middle (of a branch, stick, carrying pole, etc.)
-*kukui: sanga > a large climber common in most moist forests and having large tubers with potato-like auxiliary bulbils 1-2 in. across, Dioscorea anguina, Roxb., Dios-coreaceae, H. 152/1/1, B.152/5
+kukuć > to bend; bent in the middle (of a branch, stick, carrying pole, etc.)
+*kukuć sanga > a large climber common in most moist forests and having large tubers with potato-like auxiliary bulbils 1-2 in. across, Dioscorea anguina, Roxb., Dios-coreaceae, H. 152/1/1, B.152/5
 
 kukuru > of a tree, hollow; a small culvert or hollow log used to pass water through e.g. an embankemnt (dudi is more commonly used for this)
 *kukuru dumbu > a kind of wild tufted grass, grows about 1.5 ft. high, prob. Setaria glauca, Beauv., Gramineae, B.139/39, H.139/40/4
 
 kul > to send
-*kulakanko > the ones sent, the apostles
-*kuJ]-atom > to send away, send out of the way
+*kul akan ko > the ones sent, the apostles
+*kul-atom > to send away, send out of the way
 *kul-ayer > to send ahead
-*kul-era: > to send away
+*kul-enḍaḱ > to send away
 *kul-hućoḱ > to send to someone to come
 
-kula > a tiger, leopard, panther; to be attacked by a tiger
-*kula-balu > tiger and bear, used as a collective noun for all dangerous jungle animals; pass. verb -to be attacked by a wild jungle animal
-*kula bindiram > a spider of a very large variety
-*kula marsa > a shrub 4 6 ft. high with white and pink or pink-spotted flowers. It has large red calyces which first enclose the fruit (bluish-black drupe) but which later open up, Clerodendron infortunatum , Gaertn., Verbenaceae, H.105/13/3, B.105/4
-*kula ra: > the roar of a tiger
+Kula > a tiger, leopard, panther; to be attacked by a tiger
+*Kula-Balu > tiger and bear, used as a collective noun for all dangerous jungle animals; pass. verb -to be attacked by a wild jungle animal
+*Kula Bindiram > a spider of a very large variety
+*Kula Marsa > a shrub 4 6 ft. high with white and pink or pink-spotted flowers. It has large red calyces which first enclose the fruit (bluish-black drupe) but which later open up, Clerodendron infortunatum , Gaertn., Verbenaceae, H.105/13/3, B.105/4
+*kula raḱ > the roar of a tiger
 *kula sarsar > a local name for the plant more commonly called bilae sarsar, q.V.
 *kula towa > tiger’s milk, the real or supposed milk of a tiger found in a congealed state at the place where tigers tend their young and used for medical purposes; a plant with milky juice which is given to mothers to drink and also rubbed on their breasts to cause their milk to flow, Sarcostemma brevistigma, Wight., Asclepiadaceae, E.M., H.90/ 13/1, B.90/10 and/or Calotropis procera, Br. Asclepiadaceae, E.M., B.90/2 H.90/5/2
 *kula towa daru > as in kula towa, last meaning
-*kula ud > a variety of mushroom, inedible, growing as much as 8 in. above the ground
+*kula ut́ > a variety of mushroom, inedible, growing as much as 8 in. above the ground
 
-kulae > a rabbit, hare
+Kulae > a rabbit, hare
 *kulae béto: > a plant growing close to the ground with roots much like those of the onion plant but very small. The leaves are about 4-5 in. long and resemble bamboo leaves
-*kulae ii: > hare excrement (rubbed over the feet of a child who is slow to walk)
+*Kulae Ić > hare excrement (rubbed over the feet of a child who is slow to walk)
 
 kulgiya > husband and wife
 
@@ -1256,14 +1257,14 @@ kuli > to ask, inquire (to ask in the sense of request is asi)
 *kuli-sala > to select by making inquiries (e.g. a prospective bride)
 
 kulpu > a lock; to lock
-*kulpu-kesed > to lock shut
+*kulpu-keset́ > to lock shut
 
 kulsu > to kick forward, e.g. a football; to push forward with the foot; to push grains being husked back into the sé] with the foot
 *kulsu-kul > to send flying forward with a kick
 *kulsu-mwi: > to kick against e.g. some pointed object so that it sinks into the foot
 *kulsu-paruṕ > to kick something up by the roots
 *kulsu-pidla > to kick away (to some distance)
-*kulsu-fo: > to strike with forward kicking motion; tg accidentally hit the foot againgt something, e.g. a thorn
+*kulsu-ṭoḱ > to strike with forward kicking motion; tg accidentally hit the foot againgt something, e.g. a thorn
 
 kulu sanga > a wild yam which has to be repeatedly boiled or kept long in water before eating, otherwise it causes intoxication or dizziness, prob. Dioscorea daemona, Roxb., Dioscoreaceae, H.152/1/9, B.152/10
 
@@ -1276,7 +1277,7 @@ kumba > to curve a bamboo stick or sticks in order to make a hut, trap, etc.; a 
 
 kumba Daru > the karam tree, Adina cordifolia, Hook., Rubiaceae, H.77/2/1, B.77/1 (B. gives trade name -haldu”) ????.
 
-kumbad > a cylindical or sometimes slightly conical shaped bamboo trap blocked up at one end and put into flowing water for catching fish
+kumbat́ > a cylindical or sometimes slightly conical shaped bamboo trap blocked up at one end and put into flowing water for catching fish
 
 kum bata Oe > the Painted Snipe (a bird)
 
@@ -1321,7 +1322,7 @@ kunki > to bend (cause to bend) e.g. an arrow (same as Junki, q.v.)
 kunkulu > to droop over, e.g. a vine, a bush, a paddy stalk, a sick chicken
 
 kunt-kafi > of land, to belong to the family of an original settler of a village
-*kunt-kati hod > a descendant of the original settler of a village
+*kunt-kati hot́ > a descendant of the original settler of a village
 
 kuntu > a wooden post used e.g. In house building
 
@@ -1335,12 +1336,12 @@ kunutam > something used for hammering (verbal noun of kutam)
 
 kunyad daru > see kiiyad daru
 
-Kupi > with owa: as obj., to build a house so that the roof slopes down on four sides
-*kupi owa: > a house with the roof sloping down on four sides (compare mail owa: and chatom owa:)
+Kupi > with Oaḱ as obj., to build a house so that the roof slopes down on four sides
+*Kupi Oaḱ > a house with the roof sloping down on four sides (compare mail Oaḱ and chatom owa:)
 
-kupul > a guest; a person with whom one is on visiting terms; to visit
+Kupul > a guest; a person with whom one is on visiting terms; to visit
 
-kupusur > mutual enmity; (recip. of kusur)
+Kupusur > mutual enmity; (recip. of kusur)
 
 kur > used in prayers as poetic parallel of hd, ‘to be displeased with’ (apparently with the same meaning, or perhaps with the meaning of kurkur, ‘to be angry with’)
 
@@ -1381,14 +1382,14 @@ kuru > a wild boar (also called basa kuru)
 
 kuruṕ > to add fuel to a burning fire
 
-kuruid > to be displeased with, angry at (milder than kurkur would imply)
+kuruit́ > to be displeased with, angry at (milder than kurkur would imply)
 
 kurumbi > a member of a particular non-adibasi community of cultivators
-*kurumbi Z: > a name given to the plant also called tan ton @:, q.v.
+*kurumbi Aaḱ > a name given to the plant also called tan ton Aaḱ, q.v.
 
 kurum-durum tan > indistinctly, not properly audible, (with verbs of hearing, etc.)
 
-kuru-mutu > to do something in excited haste
+kuru-muṭu > to do something in excited haste
 
 kurur-gi > the sound made by a dove or pigeon
 
@@ -1396,13 +1397,13 @@ kuruti > same as kurt, q.v.
 
 kusa > used as poetic parallel with basa, ‘to reside’, with the same meaning
 
-kusud > to sob (usually with affix. -leka and verb ra:)
-*kusud-kusud tan > the same of a continued action (with verb ra:)
+kusut́ > to sob (usually with affix. -leka and verb raḱ)
+*kusud-kusud tan > the same of a continued action (with verb raḱ)
 
 kusumbi > a prostitute
 
 kusur > to be at enmity with someone; to offend someone; fault
-*kusur hod > an enemy
+*kusur hot́ > an enemy
 
 kuta > to castrate bulls, buffaloes, etc. by crushing (see bayda which would mean to castrate by cutting)
 
@@ -1410,18 +1411,18 @@ kutam_ > to hammer or hit with a blunt object (same as koram)
 
 ka-tapa: tan > to do some work with very strenuous exertion and in excited haste (with verb paiti, etc.) |
 
-kuti > edge; side; bank of a river; adj. -bordering, near-by, e.g. kuti desauli, ‘the near-by sacred grove’; verb -to put on or near the edge
-*kufi-era: > to push off to the side; marginalize; reject
-*kuti-kani > used (probably at least partly in jest) of one patrolling the sides of an area in which a hunt is taking place (see sen-kutiand kani)
-*kuti-machi > edge
-*kuti-mochon > (to) the farthest extremities
-*kuti-muli > in all directions; on all sides
-*kufi-ooḱl > to put out on or near the edge
+Kuṭi > edge; side; bank of a river; adj. -bordering, near-by, e.g. kuti desauli, ‘the near-by sacred grove’; verb -to put on or near the edge
+*kuṭi-enḍaḱ > to push off to the side; marginalize; reject
+*kuṭi-kani > used (probably at least partly in jest) of one patrolling the sides of an area in which a hunt is taking place (see sen-kutiand kani)
+*kuṭi-machi > edge
+*kuṭi-mochon > (to) the farthest extremities
+*kuṭi-muli > in all directions; on all sides
+*kuṭi-ooḱl > to put out on or near the edge
 
-kuti: > of land, to be elevated but in an irregular way with ups and downs
-*kufi:-mufi: > -a jingle on kuti with the same meaning
+kuṭi: > of land, to be elevated but in an irregular way with ups and downs
+*kuṭi:-muṭi: > -a jingle on kuti with the same meaning
 
-kutid > to fasten the atowal (bow-string) to the bow so that it is ready for shooting
+kutit́ > to fasten the Atoal (bow-string) to the bow so that it is ready for shooting
 
 kutil > to squirm, stir
 
@@ -1429,15 +1430,15 @@ kutra > a bowl
 
 kutri, kuturi > a room
 
-kutu > a miser; miserly (kutu is used of not sharing one’s wealth; for not sharing smaller things, e.g. one’s rice-beer, oyol, ‘stingy, would be used)
+Kuṭu > a miser; miserly (kutu is used of not sharing one’s wealth; for not sharing smaller things, e.g. one’s rice-beer, oyol, ‘stingy, would be used)
 
 kutuil > a portion of land to be ploughed (an area not so big as to discourage the cattle, about 25 ft. by 25 ft.)
 *kutuil-bara > to divide off a section of land into two approximately equal kutuil
 
-kutum > relationship by marriage; a relation by marriage; In prayers used parallel to go., ‘carry with that meaning
-*kutum-kupulko > -_ relations through marriage
+kuṭum > relationship by marriage; a relation by marriage; In prayers used parallel to go., ‘carry with that meaning
+*kutum-kupulko > relations through marriage
 
-kufun > same as kutum
+kuṭun > same as kutum
 
 kutura > same as kutra, q.v.
 
@@ -1445,17 +1446,17 @@ kuturi > window (also kutri)
 
 kutusa > small particles of adowa chauli which when husked are not yet sufficiently pulverized for making holon and which will have to be husked again
 
-kuwa > to roll up, e.g. a mat
-*kuwa-esed > to roll up something inside e.g. a mat
+kua > to roll up, e.g. a mat
+*kua-eset́ > to roll up something inside e.g. a mat
 
-kiiwa > a properly constructed well (compare std)
+Kũa > a properly constructed well (compare Sút́)
 
-Kuwae > joined to nala to form a collective noum for ‘work for wages’, not used alone
+Kuae > joined to nala to form a collective noum for ‘work for wages’, not used alone
 
-kuwam > a breast, chest
+Kuam > a breast, chest
 
 kiwari > same as kowani, qv.
 
-Kiiyad Daru > a large bush or small tree. When its leaves are torn off sap comes out. These leaves are used for making leaf-cups. Its white flowers are sweet-smelling, Holarrhena anti-dysenterica, Wall., Apocynaceae, B.89/6, H.89/8/1 (This is also sometimes called towa kiiyad or sosoe: kiyad )
+Kiiyad Daru > a large bush or small tree. When its leaves are torn off sap comes out. These leaves are used for making leaf-cups. Its white flowers are sweet-smelling, Holarrhena anti-dysenterica, Wall., Apocynaceae, B.89/6, H.89/8/1 (This is also sometimes called towa kiiyad or sosoć kiyad )
 
-kuyud > of a chicken, to swallow (gulp down) with difficulty with a jerking motion of the head and neck
+kuyut́ > of a chicken, to swallow (gulp down) with difficulty with a jerking motion of the head and neck
