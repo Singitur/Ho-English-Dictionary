@@ -1,5 +1,6 @@
 {
-  "train": [
+	"encoding": "utf-8",
+	"train": [
 		{ "eng": "Tom can't come in.", "hoc": "Tom kać bolo daea." },
 		{ "eng": "Is that difficult to do?", "hoc": "Ena difficult gea chi?" },
 		{ "eng": "Morphology.", "hoc": "Morphology." },
