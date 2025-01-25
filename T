@@ -2,9 +2,9 @@
 
 -taḱ  > a suffix indicating an exact place (cf. -pā, which indicates an approximate place)
 
-ṭáken er > of a stick hitting against wood, someone's head, etc., to make a loud noise (with verbs of stricking)
+ṭá ken > of a stick hitting against wood, someone's head, etc., to make a loud noise (with verbs of stricking)
 
-ṭaḱ e > doubt
+ṭaḱ > doubt
 
 taṕ  > verbal affix, quickly (Les. 27)
 
@@ -12,7 +12,7 @@ taṕ  > to pass through something (e.g. an arrow through a target); to hang ver
 *tab-láć > to be starved, famished 
 *tab-parom > to pass through 
 *taṕ sutui > a very loose hanging shirt
-*tab-tab > to pass through quickly
+*tab-taṕ > to pass through quickly
 *tab-tú > to make a hole through 
 *tab-ṭuṭi > an arrow of which the shaft penetrates through the top of the ṭuṭi (a blunted arrowhead) since the ṭuṭi was made defectively
 
@@ -50,7 +50,7 @@ tãeḱ are > to skip or leave out a part (e.g. of a field when sowing or reapin
 
 tãeḱ-mãeḱ  >  now at one place, now at another, e.g. a rain falling in scattered showers
 
-ṭãeḱ ' > of a place, to be sufficient; to have sufficient place; open space
+ṭãeḱ > of a place, to be sufficient; to have sufficient place; open space
 
 ṭaeḱ-ṭoćtan   > of many men or animals, to die off quickly one after another
 
@@ -58,7 +58,7 @@ tae-tuka  >  same as ṭaṅṭuka
 
 tagal  > to pull out the flesh of an animal or man with a plucking action, e.g. as a vulture does to a carcass
 *tagal-bangol > to pull the skin (as in tagal) suddenly or unexpectedly
-*tagalken tauć-ooḱl > to pull out plucking the skin out (e.g. in removing a thorn from one's flesh)
+*tagalken tauć-olt́ > to pull out plucking the skin out (e.g. in removing a thorn from one's flesh)
 *tagal-magaltan > to walk rapidly in a springy or jumpy manner (reminiscent of the plucking action as in tagal), used e.g. of a person with a pull or deformity in his leg or of a young child who has just learned to walk (with verb sen, etc., see also tamka-tagal)
 *tagal-tagal > same as tagal of a repeated or continued action
 
@@ -70,7 +70,7 @@ tagoć  > to chew; very hard to chew;, e.g. sunṭi jilu tagoe:ge jomo:wa, 'the 
 tagul  > to vibrate; to rebound several times after hitting the ground (of a falling object); to bounce up and down several times 
 *tagul-tagul > to repeatedly bounce up and down (e.g. in a car going over rough roads)
 
-tae ,  > to remain, to stay (around Chaibasa the form ṭai seems more common, in some areas, esp. to the North, tai is used, which is the common form. in Mundari); to have sexual intercourse (a mild inoffensive expression which will be understood in certain contexts, e.g. en musińkiń ṭaikena, 'they were together that day', ṭaiyana-kiń, ' they had relations' (over some period of time)
+tae > to remain, to stay (around Chaibasa the form ṭai seems more common, in some areas, esp. to the North, tai is used, which is the common form. in Mundari); to have sexual intercourse (a mild inoffensive expression which will be understood in certain contexts, e.g. en musińkiń ṭaikena, 'they were together that day', ṭaiyana-kiń, ' they had relations' (over some period of time)
 *tae-aṅg > to stay until dawn; to spend the night
 *tae-angara > to spend the night 
 *tae-antá > to stay in the meanwhile
@@ -81,7 +81,7 @@ tae ,  > to remain, to stay (around Chaibasa the form ṭai seems more common, i
 *tae-suku > to be pleased to stay
 *tae-uraa > to stay behind, stay back
 
-taenn ,  > to remain, stay (refl. form); to continue in some activity, e.g. jom-nūreko ṭaina, "They keep eating and drinking', dubakangeko ṭaina, they remain sitting
+taenn   > to remain, stay (refl. form); to continue in some activity, e.g. jom-nūreko ṭaina, "They keep eating and drinking', dubakangeko ṭaina, they remain sitting
 
 ṭaka  > a rupee; nickel (a metal); verb form with a aspect marker, to gain money for someone, e.g. ṭakāḍkowae: 'he gained money for them'
 *taka andu > an anklet made of nickel
@@ -158,7 +158,7 @@ tala  > among; between; the centre or middle; to put or go in among/between; to 
 ṭali  > to collect esp. from the jungle and bring in great quantity (e.g. leaves, wood)
 
 ṭali  > to be embedded e.g. in mud
-*tali-múić > to become embedded (e.g. in mud)
+*tali-múć > to become embedded (e.g. in mud)
 
 talka  > the palm of the hand: the sole of the foot
 
@@ -188,7 +188,7 @@ tam  > to hit with an object held in the hand, e.g. with a stick
 *tam-lasur > to make settle down by beating
 *tam lenjer > to beat making the body cave in (a figurative use of lenjer, q.v.)
 *tam-logor-pogor > same as tam-lugur-pugur
-*tam-lokab > to beat someone making him fall down
+*tam-lokaṕ > to beat someone making him fall down
 *tam-lugur-pugur > to make someone's skin swell up by beating 
 *tam-mo > to make swell by beating 
 *tam-nir > to drive away (make run away) by beating 
@@ -198,7 +198,7 @@ tam  > to hit with an object held in the hand, e.g. with a stick
 *tam-raba-rubu > to beat someone so that his waist is injured. and he cannot straighten up
 *tam-raput́ > to hit so as to break 
 *tam-rubu-rubu > to beat someone causing him to be bent over
-*tam-sakú/sakub > to beat so as to bend down, e.g. a big broken branch of a tree beating against smaller lower branches making
+*tam-sakú/sakuṕ > to beat so as to bend down, e.g. a big broken branch of a tree beating against smaller lower branches making
 them bend down > 
 *tam-saraḱ > to put a curse on someone by symbolically beating against an ant-hill, the ground, etc. 
 *tam-tam > to repeatedly hit, e.g. a long tail of a cat or tiger hitting against the ground as he goes along 
@@ -262,7 +262,7 @@ tanḍa  > to spread the legs apart, e.g. tanḍākadae:, 'he is standing with l
 *tanḍa-manDaṭan > to walk with legs spread far apart (with verb seп, etc.)
 
 tanḍi  > a level open stretch of land; to clear land making such a place; figur. - of an epidemic - to clear the land of people 
-*tandi porob > a feast celebrated in an open field (not traditional or a village feast of the Hos, but a feast of some other community which the Hos attend in order to dance, etc.)
+*tandi poroṕ > a feast celebrated in an open field (not traditional or a village feast of the Hos, but a feast of some other community which the Hos attend in order to dance, etc.)
 
 tánt́-tónt́  >  of one going along in the dark, to move one's feet along the ground feeling one's way (see ṭōnḍ)
 
@@ -281,7 +281,7 @@ tángaaḱr  > an earthen pot, slightly larger than a chelan, and smaller than a
 *tángaaḱr ḍiaṅ > a tāngā:r in which there is rice-beer
 
 tangi  > to wait for, await
-*tangi ooḱl > to wait for someone to come out (also in recip. tapangi- opō:l, 'to wait for one another to come out
+*tangi olt́ > to wait for someone to come out (also in recip. tapangi- opō:l, 'to wait for one another to come out
 *tangi-unḍi > to wait for others to congregate (used also in recip. tapangi-upunḍi 'to wait for one another')
 
 tani  > a wild dog
@@ -340,9 +340,9 @@ tapiń  > to hit with the open hand, e.g. in beating a duman drum, in clapping h
 *tapiń-saraḱ > to call a curse on someone by striking oneself with one's open hand (see also gil-sara:, tam-sara:)
 *tapiń-tapiń > same as tapiń of a repeated action (e.g. a mother patting a baby to quiet him)
 
-ṭapu zy > an island
+ṭapu > an island
 
-ṭapu cy > of wet mud, etc., to stick in thick quantity e.g. to one's foot or to a plough
+ṭapu > of wet mud, etc., to stick in thick quantity e.g. to one's foot or to a plough
 
 tapuḱ  > pregnant; pass. to be/become pregnant (not a polite term, better is homōpā tain)
 *tapuḱ ḍuki > human semen (also podo ḍuki)
@@ -395,7 +395,7 @@ tarbúj  > a watermelon, Citrullus vulgaris, Schrad., Cucurbitaceae, B.71/4, H.7
 
 tare  > at the time of (only used affixed to certain words, e.g. gama-tare, jete-taro, tete:-tare)
 
-tãṛe, tãṛi ,  > a plate
+tãṛe, tãṛi   > a plate
 
 targat́ ढ > to partially burn
 
@@ -494,7 +494,7 @@ tauć > to stretch, pull; to pull up, e.g. plants from the ground; to milk; to d
 *tauć-muli > to pull straight, to straigthen by pulling
 *tauć-ot́ > to break by pulling 
 *tauć-ojá > to pull and break off, e.g. a branch of a tree by pulling it with the hand (see hojā)
-*tauć-ooḱl > to pull out, e.g. fish with a line
+*tauć-olt́ > to pull out, e.g. fish with a line
 *tauć-paṛuṕ > to pull up by the roots as to make 
 *tauć-pongá > to pull so as to an opening
 *tauć-ruṕ > to pull up by the roots 
@@ -553,7 +553,7 @@ tega  > to tread on; to pedal (a cycle); of an animal (e.g. a cock, a cat, a tig
 *tega-dabura > to tread down so as to make sink (e.g. of treading into soft mud of a swamp a najom which is left unburnt when a dead person is burned)
 *tega-dai-ura > to get leverage by pushing one's foot against something (e.g. a bandi when pulling taut the straw rope (bōṛ) encircling it, see also sab-ura)
 *tega-daṭoṕ . > to press down tightly under one's foot; figur. to oppress (people)
-*tega-dub > to make settle by treading on
+*tega-duṕ > to make settle by treading on
 *tega-ḍulit́ > to trample down into dust
 *tega-eḍaḱ > to remove by treading on (e.g. weeds entwined around a plough)
 *tega-gasar > to cause to fall (e.g. grains from a stalk) by treading on 
@@ -584,7 +584,7 @@ tega-tambaruṕ > to push down into water with the feet (some inanimate object)
 *tega-topa > to trample all over
 *tega-tuluć > to press out (e.g. the inners of a frog) by stepping upon; (the expression tega-tului:meyań is used when reviling someone)
 
-téj, téje ', ' > effective, potent, e.g. of a kati (artificial spur of a cock) which so cuts as to cause much blood to flow; pass. verb to become thus effective
+téj, téje  > effective, potent, e.g. of a kati (artificial spur of a cock) which so cuts as to cause much blood to flow; pass. verb to become thus effective
 
 tekat́  > to put some small object in order to prop something up so that it might not fall; refl. to support oneself by leaning somewhat against something (tender implies leaning one's full weight against something)
 *tekat́-darom > to prevent something (e.g. from falling) by interposing some object
@@ -618,9 +618,9 @@ teleḱ Daru > a tree with thin bark which appears to be white, and edible fruit
 
 telenga  > a soldier (used in stories) (E.M. refers to Mahratta raiders)
 
-tembeḱ, tembet́ ,  > shallow
+tembeḱ, tembet́   > shallow
 
-tembet́ ै > of a man or animal, to be solidly built (not necessarily big but sturdy. Opposed to this would be po:sa, i.e. one appearing to be strong but actually weak)
+tembet́ > of a man or animal, to be solidly built (not necessarily big but sturdy. Opposed to this would be po:sa, i.e. one appearing to be strong but actually weak)
 
 ṭempa aaḱ > herb 1-3 ft. high with a pair of erect tails at the base of the leaves, Corchorus olitorius, L., Tiliaceae, B.28/3, H.28/ 3/2 (see also maraṅ ṭempa ā:)
 
@@ -724,13 +724,13 @@ teregenje  > with much running around and importunity, trying now here and now t
 ṭeroe-reṭoe  >  a sound made by small frog during heavy monsoon weather
 *ṭeroe-ṭeroe > same as teroe-retoe
 
-tersa, tersat́ ,  > to move to one side
+tersa, tersat́   > to move to one side
 
 terteḱ  > a dim light, e.g. moonlight through the crack of a roof in a dark house
 
 ṭéḱr-ṭéḱr  > a sound made by the ṭerka bird
 
-ṭésa ' > to grab and fly away with (e.g. the action of a hawk)
+ṭésa  > to grab and fly away with (e.g. the action of a hawk)
 
 ṭesa  > to press, push upon someone, e.g. in a crowd
 
@@ -738,7 +738,7 @@ terteḱ  > a dim light, e.g. moonlight through the crack of a roof in a dark ho
 
 ṭeḱ-sali  >  Daru a tree, some say that this is another name for sengel sali Daru, others doubt this
 
-tesé ' > the noise made by loose paddy moving around in a bandi, e.g. when it is tilted; the sound of paddy (or the like)  falling on the floor
+tesé > the noise made by loose paddy moving around in a bandi, e.g. when it is tilted; the sound of paddy (or the like)  falling on the floor
 
 teson  > a railway station
 
@@ -763,14 +763,14 @@ tẽya  > the husband of one's older sister, the younger brother of one's wife
 *tẽyaṅ > vocative form of teya
 *tẽyaṅ-tepẽyaṅ > the relationship of an older sister's husband and her younger sister or brother (on each side they address the other as tẽyaṅ)
 
-ṭẽyo  > to mix some powder with water so as to make a paste
+ṭẽo  > to mix some powder with water so as to make a paste
 
-ṭẽyoḱ ै > a wolf
-*ṭẽyoḱ kula > same as ṭẽyo:, a wolf
+ṭẽoḱ > a wolf
+*ṭẽoḱ kula > same as ṭẽyo:, a wolf
 
-ṭẽyoḱ-ṭekoltan ॅḱ >  to go along quickly in a bouncing way (with verb sen, etc.); a disturbed condition of the stomach of a small child (such as can cause vomiting) e.g. from being playfully thrown up and down too much esp. shortly after taking the mother's milk or some liquid
+ṭẽoḱ-ṭekol tan >  to go along quickly in a bouncing way (with verb sen, etc.); a disturbed condition of the stomach of a small child (such as can cause vomiting) e.g. from being playfully thrown up and down too much esp. shortly after taking the mother's milk or some liquid
 
-ṭẽyo-t~ẽyo ॅ >  wearing no clothing on the upper part of the body (usually preceded by sama)
+ṭẽo-tẽo >  wearing no clothing on the upper part of the body (usually preceded by sama)
 
 tí  > the hand; the arm (supu is also used for the part of the arm above the elbow); to put one's hand on; to put one's hand to some work; to take into one's hand, to take possession of, e.g. rajā: dolane: aya:-tī-keda, ‘he took the royal palace into his own hand' 
 *tí-anguṛia > finger
@@ -791,12 +791,12 @@ tić  > to take or lead by the hand
 *tić-chakada-mandaṅ > to lead by the hand a baby who is still very unsteady on his feet
 *ti-it́ > to take by the hand 
 *ti-kuiko > another name for the or-erako, q.v.
-*tić-ooḱl > to take out by the hand
-*tić-rakab > to lift up by the hand ti:-uju: to come bringing by the hand
+*tić-olt́ > to take out by the hand
+*tić-rakaṕ > to lift up by the hand ti:-uju: to come bringing by the hand
 *tić-ura > to lead back by the hand (one who is going away)
 *tḱi-uṭa > to lift up by the hand
 
-ṭib-ṭiṕ - oe > a bird, also called tasaḍ oe, q.v.
+ṭib-ṭiṕ  oe > a bird, also called tasaḍ oe, q.v.
 
 ṭib-ṭoṕ  > of some liquid matter, to be thick
 
@@ -864,8 +864,8 @@ tilae  gangai > an edible grain (Hindi bajara), Sorghum vulgare, Pers., Graminea
 
 ṭila-ṭolo  > to hold a snake, worm, caterpillar, etc., suspended by the tail
 
-tilay  > Daru a tree, prob. Wendlandia exserta, DC., Rubiaceae, H.77/8/1, B.77/34 
-*tilay Bah > the flower of the tilay tree
+tilae Daru> a tree, prob. Wendlandia exserta, DC., Rubiaceae, H.77/8/1, B.77/34 
+*tilae Bah > the flower of the tilay tree
 
 tili  > a very small mouse
 
@@ -882,11 +882,11 @@ tiń  > to set fire to firewood; to start a fire
 tiń-honḍoć > to boil paddy to the point where water is poured off prior to husking. The sequence of actions here would be: 1) tiń honḍoe:, 2) tenḍa:, 3) tiń-sā, 4) tasi- rō, 5) ruṅ
 *tiń-isin > to make a fire and cook something
 *tiń-sá > to put e.g. paddy being boiled for husking back on the fire after pouring off water
-*tiń-sab > to light a fire by first igniting some combustible material such as straw
+*tiń-saṕ > to light a fire by first igniting some combustible material such as straw
 *tiń-ura > to rekindle a fire which has gone out
 
 tíń  > to lift, hold, carry suspended in the hand (e.g. a lantern, sandals held by the strap, etc.)
-*tíń-óḱl > to carry something out suspended
+*tíń-olt́ > to carry something out suspended
 
 ṭińken  > the sound of something hitting against metal (also ṭeń(ken))
 *tin-tintan > the same of a repeated action
@@ -897,12 +897,12 @@ tinḍim  > to lift up
 
 ṭínt́-ṭínt́  > a sound of a horn (e.g. of a motorcycle, also pīnḍ-pīnḍ, q.v.)
 
-tiń gaṛo-goṛo -  > a sound made by a kuiḍ (kite) when sitting on a tree or flying upwards
+tiń gaṛo-goṛo  > a sound made by a kuiḍ (kite) when sitting on a tree or flying upwards
 
 tingu  > to stand something up; to bring to a stand (e.g. a moving vehicle); refl. - to stand up
 *tingu-beṭa > having reached a place to stand there (e.g. of those awaiting game to be driven toward them in a hunt, to 'cover' the area)
 *tingu-biyur > to stand around (some person, thing or place)
-*tingu-cháb > to stand with mouth wide open (e.g. in awe, stunned)
+*tingu-cháṕ > to stand with mouth wide open (e.g. in awe, stunned)
 *tingu-darom > to stand against; to resist; to stand to welcome someone
 *tingu-eḍaḱ > to stand still for a long time
 *tingu-hapa > to stand quietly; to stand still
@@ -918,7 +918,7 @@ tingu  > to stand something up; to bring to a stand (e.g. a moving vehicle); ref
 
 tiníń  > a handle or strap by which something is suspended (verbal noun of tīń)
 
-tinjar-banjar -ॉ > to wear a garment of good material covering the body down to the feet (used esp. of a sari); of a woman's hair, to hang far down the back
+tinjar-banjar > to wear a garment of good material covering the body down to the feet (used esp. of a sari); of a woman's hair, to hang far down the back
 
 ṭinka-ṭabaltan  >  to run with the male organ swinging ( used esp. of very young children, with the verb nir, etc.)
 
@@ -956,8 +956,7 @@ tipsi  > a taxi (also ṭikisi)
 
 tíra-mirae  >  a feeling of weakness (esp. from hunger, but sometimes from a wound, e.g. a hard hit on the head)
 
- > 
- > 
+
 tirić  > that one (animate) over there (see ter), used after nior ini: to indicate one after another
 
 tiṛi  > poetic form for tī, 'hand'
@@ -969,14 +968,14 @@ tiṛigit́  > to hold the ears erect, e.g. of a rabbit the ebony
 tiril  > Daru (keond) Diospyros tree, melanoxylon, Roxb., Inc. D. tomentosa, Roxb., Ebenaceae, H.85/ 2/8, B.85/4. B. writes "fruit is very palatable; the leaves are used to make bidis. When burned the wood emits showers of sparks" 
 *tiril chaṭakam > used in prayers with the meaning of tiril danḍa:, 'a staff of the tiril tree'. Exact meaning of chaṭakam is not certain; sometimes a tiril branch is split and a white stone is put into the crevise, and then this is planted to ward off ā daṭa. There may be some reference to this in the term tiril chaṭakam
 *tiril guchaṅ > a section of a tiril tree burning at one end without flame
-*tiril tarob > a collective noun for various fruit-trees
+*tiril taroṕ > a collective noun for various fruit-trees
 
 tiri-miri  >  a word imitative of a cry of the hon oe, q.v. 
 *tiri-miri oe > the hon oe, q.v.
 
-tiriń স > to put on top of something, e.g. one book on top of another (recip. tipirin is used of objects overlapping one another).
+tiriń > to put on top of something, e.g. one book on top of another (recip. tipirin is used of objects overlapping one another).
 *tirin-keset́ > to block inside by piling something upon (e.g. stones on the entrance to an animal's burrow)
-*tiriń-rakab > to pile up one on top of another
+*tiriń-rakaṕ > to pile up one on top of another
 *tiriń-sereń > a smaller stone resting on a large flat stone
 
 ṭiṛiń  > a bell hung around the neck of cattle when grazing
@@ -985,7 +984,7 @@ tiriń স > to put on top of something, e.g. one book on top of another (recip.
 
 tirka-tonḍoć  >  weakness from hunger or thirst, also as sometimes experienced after eat ing something, e.g. a cucumber, which is quickly digested still leaving one hungry
 
-tír-mír -ौ > to shake, e.g. from fear or hunger
+tír-mír> to shake, e.g. from fear or hunger
 
 tirpi  > to sprinkle a liquid with a side or outward movement of the hand or of some object held in the hand (compare kurmu and hirchi); Note the saying: gama samae: tirpibākeḍa, 'It rained just a few drops here and there'
 *tirpi-eraḱ > to springle away (used parallel to jate-eṛa: in the sense of to remove any impurities by sprinkling)
@@ -993,10 +992,10 @@ tirpi  > to sprinkle a liquid with a side or outward movement of the hand or of 
 
 tirsi-bisić  >  of cows, to have numerous small spots of some colour; of flowers, to be small, many and separated one from another (not clustered together)
 
-tír-tír -ौ > to shake with fear, cold, etc.
+tír-tír > to shake with fear, cold, etc.
 
 tiruṕ  > to bow the head down; to look downwards; to cause the front part of a cart to dip down
-*tirub-mirub > to go along with the head bent down
+*tirub-miruṕ > to go along with the head bent down
 
 ṭiruṅ oe > a green and yellow bird which makes a tirun- tirun sound, seems to travel in flocks, sits mostly on dried branches of trees and drinks water on the fly. Villagers identify it as the Green Bee-Eater
 *ṭirun-ṭiruṅ > the cry of the ṭiruṅ bird
@@ -1046,7 +1045,7 @@ tobora  > leaves, soil, etc. heaped up as fertilizer by rain water; alluvial dep
 
 ṭot́ > in pulling up something underground e.g. onions, to get only the stem; naked; bald 
 
-tot́-mot́-ौ > to stutter
+tot́-mot́> to stutter
 
 ṭoć  > a kind of home-made cap-gun, made of bamboo, about 8 inches long with a hollow section no more than 1 inch in diameter. One end is blocked up with pusuṭu fruit and is rammed out with a piece of bamboo making a noise
 
@@ -1057,11 +1056,11 @@ tot́-mot́-ौ > to stutter
 
 toeṛa > knock-kneed 
 
-ṭoe-ṭoe, tõe-ṭõe - -ॉ > the cry of the toya bird (the Blue Jay)
+ṭoe-ṭoe, tõe-ṭõe > the cry of the toya bird (the Blue Jay)
 
 togo  > a kind of civet
 
-ṭokeḱ ḱ > to hit the foot or leg against some object; to stub one's toe; sometimes used in the sense of ṭulki, 'to hit against the head with a bent finger'; to crush hair-lice or nits between the thumbnails or between a thumbnail and some other solid object
+ṭokeḱ > to hit the foot or leg against some object; to stub one's toe; sometimes used in the sense of ṭulki, 'to hit against the head with a bent finger'; to crush hair-lice or nits between the thumbnails or between a thumbnail and some other solid object
 *tokeḱ-gur > to trip over something and fall
 
 ṭóko  > of men, cattle, etc., to be very indolent (very lazy and slow to move)
@@ -1101,8 +1100,8 @@ tombaḱ  > to touch for a moment a swollen or inflamed part of the body with th
 tomboḱ  > to strike the forehead upon the ground in falling, esp. of children and drunkards 
 *tomboḱ-sambir > to fall head first and then turn head over heels 
 
-tómon ' > doubt, suspicion; to have a suspicion about someone (sometimes used with postposition -re following the person suspected, cf. the same construction for sari, 'to believe', e.g. ini:reko tomono:wa, they will suspect him')
-ṭompe, ṭope ,  > a growth or excrescence e.g. such as caused in a twig of a merel tree by an insect
+tómon  > doubt, suspicion; to have a suspicion about someone (sometimes used with postposition -re following the person suspected, cf. the same construction for sari, 'to believe', e.g. ini:reko tomono:wa, they will suspect him')
+ṭompe, ṭope   > a growth or excrescence e.g. such as caused in a twig of a merel tree by an insect
 
 ṭom-ṭom  >  to keep one's mouth tightly shut (when sulking, in anger, etc.)
 
@@ -1118,7 +1117,7 @@ tómon ' > doubt, suspicion; to have a suspicion about someone (sometimes used w
 tonḍaṅ  > a scrub jungle 
 
 tonḍom  > a knot; to tie in a knot; to wrap something in a cloth which is knotted
-*tonḍom rét́ > a creeper which has medicinal usages (also called tape: rēḍ and honor rēḍ)
+*tonḍom reht́ > a creeper which has medicinal usages (also called tape: rēḍ and honor rēḍ)
 
 tondora  > to do something in a great haste 
 
@@ -1137,7 +1136,7 @@ tanopor  > of clothes, reach- ing to the ground (verbal noun of topor)
 ṭonṭo  > a large black ant
 *ṭonṭo bóḱ > the head of a ṭonṭo, figur, usage, see hau bō: 
 
-tóp, tópo , ' > a cannon
+tóp, tópo > a cannon
 
 topa ष > to bury; to drown out (other sounds); to cover over some defect
 *topa-eraḱ > to dispose of by burial topa huwaṅ a grave
@@ -1154,11 +1153,11 @@ topan  > same as toban, q.v.
 *ṭope kõṛo > a big black duck, the Nukta, the male of which has a black fleshy knob (the comb) on the top of the beak
 *ṭope-ṭope > same as ṭope(tan)
 
-topo ' > a cannon (also tōp)
+topo > a cannon (also tōp)
 
 ṭopoḱ  > to hit against each other (recip. of to:); used of the action of pushing two cocks against each other before a fight; also used of two houses which touch one another 
 
-topol ौ > a bond; the formation of a cocoon by a silkworm (recip. of tol, 'to tie')
+topol  > a bond; the formation of a cocoon by a silkworm (recip. of tol, 'to tie')
 
 topor  > of clothes, to reach to the ground
 
@@ -1171,7 +1170,7 @@ tor  > that distant
 *tor-te > to that distant place; with verb jagar, to speak on (developing one's subject)
 *tor-torte > off to the side (used of one going along, etc.); with sī, 'to plough, this implies cutting into other people's fields
 
--tor, -tór ,  > verbal affix always followed by tab (quickly) with the combination meaning 'very quickly', in a flash', 'in an instant' (more emphatic than -tab alone), e.g. sadomkoko har tōrtabkeḍkowa, They drove off the horses in a flash
+-tor, -tór   > verbal affix always followed by tab (quickly) with the combination meaning 'very quickly', in a flash', 'in an instant' (more emphatic than -tab alone), e.g. sadomkoko har tōrtabkeḍkowa, They drove off the horses in a flash
 
 tóḱr  > an iguana (a big lizard)
 
@@ -1185,7 +1184,7 @@ torai  > a sword
 
 toraṅ  > perhaps (usually follows a word to which it refers)
 
-ṭorch, ṭorcho e,  > a torch (flashlight); with anim. obj., to flash a torch upon someone
+ṭorch, ṭorcho  > a torch (flashlight); with anim. obj., to flash a torch upon someone
 *ṭorch bati > a torch (flashlight)
 *torcho-nam > to look for or find with a torch
 
@@ -1239,18 +1238,18 @@ tõset́  > same as tōnḍ
 tosor tan  > of a sari, dhoti, etc., to reach far down on the legs 
 
 ṭoṭa  > naked; to take off (a dhoti, sari, loin-cloth); of an arrow, to be without any feathers
-*ṭoṭa banguwa > naked 
+*ṭoṭa bangua > naked 
 
 ṭoṭaḱ  > to break e.g. a flower or leaf from a branch (also tote:); to break one's promise
 
-toṭe, toṭe ,  > to shoot (also toṛe)
+toṭe, toṭe   > to shoot (also toṛe)
 
 ṭoṭeḱ ḱ > to break off, e.g. flowers or leaves from a branch (also ṭoṭa:)
 *ṭoṭeḱ-goso > to make wither or fade by breaking off
 
 ṭoṭka bindi Daru > a large shrub or small tree, the Physic Nut. From its seeds oil is extracted; Jatropha curcas, L., Euphorbiaceae, H.29/2/1, Β.29/23
 
-tótó '' > a small shrub (called dhattura in Hindi)  with leaves somewhat like those of the bindi tree, prob. Datura stramonium, L., var. tatula, Dunal, Solanaceae, B.97/7, H.97/7/1
+tótó  > a small shrub (called dhattura in Hindi)  with leaves somewhat like those of the bindi tree, prob. Datura stramonium, L., var. tatula, Dunal, Solanaceae, B.97/7, H.97/7/1
 
 totot́  > of a fruit, still raw and inedible (not yet bada, 'partially ripe'). sometimes used in the term berel-totoḍ
 
@@ -1270,8 +1269,8 @@ toa  > milk; the female breast, the milk-like juice filling a grain (e.g. of pad
 *toaḱ-buḱ > through by pecking to make a hole
 
 toaṕ  > to close the hand at least partially around something 
-*toab-oḱl > to take out closing the hand at least partially around something
-*mi toab > the amount (e.g. of sabai grass)  which can be held in one hand
+*toab-olt́ > to take out closing the hand at least partially around something
+*mi toaṕ > the amount (e.g. of sabai grass)  which can be held in one hand
 
 ṭowaṅ  > to remove the soil opening up (used esp. of opening up an ant hill, but sometimes also opening up a hole in the ground)
 
@@ -1288,7 +1287,7 @@ tú  > of e.g. a bee or scorpion, to sting
 
 tú  > a squirrel having whitish and dark stripes
 
-túken 1 > a sound of spitting out saliva; sometimes tū is used as an exclamation of disgust (without actually spitting)
+tú ken > a sound of spitting out saliva; sometimes tū is used as an exclamation of disgust (without actually spitting)
 
 ṭúken  > the sound of hammering e.g. wood or an animal or person on the head 
 
@@ -1297,18 +1296,18 @@ tubit́  > to plug e.g. a cork, a rolled up leaf, etc. in a bottle
 
 ṭubila muṭa > to have a sunken in (poorly developed) nose (used in ridiculing someone)
 
-ṭubuḱ 3 > to make a worm suspended on a string (usually attached to a rod)  bob up and down in water making a noise (so as to attract and catch fish); the sound of a small object (e.g. a small stone) falling into water 
+ṭubuḱ > to make a worm suspended on a string (usually attached to a rod)  bob up and down in water making a noise (so as to attract and catch fish); the sound of a small object (e.g. a small stone) falling into water 
 *ṭubuḱ-ṭubuḱ > the same of a continued or repeated action 
 
 tut́  > to take out e.g. an arrow from a target, a thorn from a foot, saga: from the clothes, the handle from a kudali or axe (in some of these usages the passive can mean 'to fall out, e.g. sar tuḍeyana, the arrow fell out (of the target)); to take up something planted in the ground, e.g a trap (bale) for catching birds; to take off e.g. shoes, a bracelet, a shirt 
 *tud-átu > to take off and leave behind
-*tud-ooḱl > to take out
+*tud-olt́ > to take out
 
 tut́ka  > the back of the head above the neck
 
 tui  > not properly aligned, lopsided (same meaning as kacha, q.v.)
 
-ṭić gs > small but strong enough, e.g. of one who grows slowly ṭui:lekani: one who is small but strong enough
+ṭić > small but strong enough, e.g. of one who grows slowly ṭui:lekani: one who is small but strong enough
 
 ṭićken  > a noise of an overripe fruit splitting open; a noise made by someone passing wind
 
@@ -1334,8 +1333,8 @@ tuku  > a husking pole
 *ṭukuṕ danḍaḱ > the staff used by an old or sick person or by one who in a trance (rum) is assisting a dewa, refl. verb - to go along using a staff; verb form with -aka aspect marker - to regularly walk with a staff (e.g. due to old age)
 *ṭukub-hapa > of one going along using a staff, to stand still (e.g. of one in a trance, to stop to indicate the presence of some spirit)
 *ṭukub-nam > to seek for or find by going along with a staff
-*ṭukub-ooḱl > to expel by walking along with a stick (e.g. as is done by one in a trance)
-*ṭukub-ṭukub > the same as ṭukub of a continued or repeated action
+*ṭukub-olt́ > to expel by walking along with a stick (e.g. as is done by one in a trance)
+*ṭukub-ṭukuṕ > the same as ṭukub of a continued or repeated action
 
 tukić  > to push down or into with the fingers, e.g. a seedling being transplanted, a needle being pushed straight down into something; to press down with a thumb or finger, to push lightly with a stick
 *tukić ader > to push into (as under tukui:)
@@ -1352,7 +1351,7 @@ tul  > to lift up; to carry something lifted up
 *tul-biyur > to carry around (used of carrying the corpse of a dead person counterclockwise an uneven number of times, usually seven, around a grave in which it is to be buried)
 *tul-it́ > to lift up and take to 
 *tul-jalom > a fishing net which is lifted straight up after fish have entered 
-*tul-rakab > to lift up
+*tul-rakaṕ > to lift up
 *tul-sala > to select by lifting up, .g. to see which one is the heaviest
 *tul-uṭa > to lift up 
 
@@ -1364,7 +1363,7 @@ tuli  > round
 *tuli chanḍuḱ > a full moon (more commonly used is ponai)
 
 ṭulki  > to hit with a bent finger, e.g. someone's head, or a chaṭu (in order to judge its quality by the sound)
-*ṭulki-ooḱl > to drive out flying ants by hitting as in ṭulki (addressed to the bunum enga)
+*ṭulki-olt́ > to drive out flying ants by hitting as in ṭulki (addressed to the bunum enga)
 
 ṭulsa guru tulsa paaṭ > a guru bonga also called tulsa mā
 
@@ -1406,12 +1405,12 @@ tumuṛu  > one who remains very quiet
 
 tú-muṭu  > the ceremony taking place on the night of the ote ili, (q.v.) feast, when the men of the village go from house to house collecting logs (muṭu) from which they make a communal fire 
 
-tuń झ > to shoot with an arrow (Note the expression, tuńki: lekae:seno yana, 'He went off as though shot by an arrow' (i.e. with a burst of speed)
+tuń > to shoot with an arrow (Note the expression, tuńki: lekae:seno yana, 'He went off as though shot by an arrow' (i.e. with a burst of speed)
 *tuń benḍekar bonga > a spirit served by those who hunt
 *tuń-dopol > to make shake e.g. a bird sitting on a light branch by hitting the branch with a blunted arrowhead (ṭuṭi)
 *tuń jilu benḍekar > same as tun bendekar bonga
 *tuń-munḍu > to shoot with an arrow in such wise that the entire arrow sinks into the target (with sar expressed)
-*tuń-tab > to shoot something right through with an arrow; to shoot quickly
+*tuń-taṕ > to shoot something right through with an arrow; to shoot quickly
 *mit́ tuń > with on shot (of an arrow), e.g. mid tuńteń goe:ki:ya, I killed him with one shot'
 
 ṭúń  > to give a light rap on the head with the hand or with a stick tuń-etol to lift the hand as though to rap on the head
@@ -1446,7 +1445,7 @@ tunjur-bunjur tan  >  to be loaded with many articles be- ing carried on or hang
 ṭunki  > a medium size basket such as is used for sowing 
 *ṭunki baba > a ṭunki containing paddy
 
-ṭunṭa g > partly cut or eaten off; maimed; to partly cut or eat off, to maim 
+ṭunṭa > partly cut or eaten off; maimed; to partly cut or eat off, to maim 
 
 ṭunṭiya  > a sickness of cattle 
 
@@ -1477,11 +1476,11 @@ tuput́  > the part of a wasp, etc. with which it stings
 
 ṭupuṅ  > a small insect which attacks plants and grains, found esp. on rambā plants; of such insects, to attack grain
 
-tupunḍu ष > extremity; ending part (recip. of tunḍu)
+tupunḍu  > extremity; ending part (recip. of tunḍu)
 
 ṭupuri muṭa > a small nose of a very young child (used in jest, also ṭupi muṭa, ṭubila muṭa)
 
-tupu-tupu -ष > of chickens, doves, etc., to be fat with big stomach and short legs
+tupu-tupu  > of chickens, doves, etc., to be fat with big stomach and short legs
 
 tur  > of the sun, moon, stars, to rise
 *tur-nam > to reach a new day
@@ -1502,7 +1501,7 @@ tuṛaḱ  > to make a spot, e.g. of sindur, soot, with one's finger, a twig, et
 
 ṭurkut́  > putam the name given some places to the ṭurka putam
 
-turpu ख > to cover up with leaves on all sides; sometimes used in jest of one, esp. a child, fully dressed or wearing long pants
+turpu > to cover up with leaves on all sides; sometimes used in jest of one, esp. a child, fully dressed or wearing long pants
 *turpu gangai > maize (also tepoe: gangai)
 *turpu-keset́ > to block off by covering with leaves on all sides (e.g. the exit of a flying ant's hole)
 *turpu sakam > a tied together heap of leaves (to be sold for plates, etc.)
@@ -1511,7 +1510,7 @@ tursaṅ  > the stinging sensation caused by the bite of a scorpion or snake; of
 turtũć, turtũć  > the first early shoot of new leaves 
 
 turtuṅ  > of the sun, to give off light, to shine upon; to feel the sun's glare in one's eyes (Les. 26); to shine
-*turtun-ooḱl to shine out  > 
+*turtun-olt́ to shine out  > 
 
 ṭur-ṭur  >  the sound made by a bear when going about looking for food, etc.
 
@@ -1528,7 +1527,7 @@ turui  > six (short form)
 
 turuiya  > six (long form)
 
-tuṛusa, tuṛusi ,  > the "tulsi" plant, Ocimum sanctum, L., Labiatae, B.106/19, H.106/1/4
+tuṛusa, tuṛusi   > the "tulsi" plant, Ocimum sanctum, L., Labiatae, B.106/19, H.106/1/4
 *turusi patá > leaves of the "tulsi" plant (used in owa: āndi and other ceremonies for sprinkling water)
 
 ṭusa  > of people or cattle, quite short in stature 
@@ -1551,19 +1550,19 @@ tút  > Daru the mulberry tree, Morus indica, L., Moraceae, 125/3/ 1 and perhaps
 
 tuta  > to be epileptic; used in terms baya tuta, and tuta ambari in reviling someone
 
-ṭuṭi ft > to block up a small hole; pass. of the nose, to be blocked up e.g. beause of a head cold 
+ṭuṭi > to block up a small hole; pass. of the nose, to be blocked up e.g. beause of a head cold 
 *tuti-eset́ > to block up (as under
 
-ṭuṭi, tuṭi ृष,  > a blunted arrowhead (usually made of bamboo, but see guli ṭuṭi and diriń ṭuṭi)
+ṭuṭi, tuṭi > a blunted arrowhead (usually made of bamboo, but see guli ṭuṭi and diriń ṭuṭi)
 *ṭuṭi > badi a strip of cocoon used to tie a ṭuṭi to the shaft of an arrow
 
 ṭuṭi  > small but strong enough (e.g. of one who grows slowly, also ṭui:)
 *ṭuṭi-lekanć > one who is small but sturdy enough
 
-ṭuṭka, ṭuṭuka ,  > brief, briefly (also ṭukũṛa, which is more common); to cast a spell by mantras (as given under ṭuṭka-montor)
+ṭuṭka, ṭuṭuka   > brief, briefly (also ṭukũṛa, which is more common); to cast a spell by mantras (as given under ṭuṭka-montor)
 *ṭuṭka-montor > to cast a spell on something by a brief mantra, e.g. to so cause a cock to lose a fight (sometimes ṭuṭka alone is used for this)
 
-tutkun, tutukun ,  > cold (from frost or ice); to feel cold (see Les. 26)
+tutkun, tutukun   > cold (from frost or ice); to feel cold (see Les. 26)
 
 ṭúṭú  > a big roundish stone or boulder
 
