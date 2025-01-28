@@ -34543,8 +34543,8 @@
 ]
 },
 {
-"word":"rapaeḱ-ropoć",
-"word_simple":"rapaek",
+"word":"rapać-ropoć",
+"word_simple":"rapac",
 "fone":"RAP4",
 "definition":"an uneasy feeling at the time of the onset of some sickness; to have such a feeling"
 },
@@ -35090,32 +35090,32 @@
 },
 {
 "word":"rengeć",
-"word_simple":"rengek",
+"word_simple":"rengec",
 "fone":"REN4",
 "definition":"hunger; to be hungry (Les. 26); to be poor (esp. when used with a personal subject and the tan verb form, e.g. rengećtanako, 'they are poor', compare rengećkotans, 'they are hungry'",
 "subwords": [
 {
-"subword":"*rengeḱ banam daru",
+"subword":"*rengeć banam daru",
 "sub_definition":"a tree which has long flat pods, 1-3 ft. long, Oxoxylum indicum, Vent., Bignoniaceae, H.102/1/1, B.102/4, and perhaps also Heteropanax fragrans, Seem., Araliaceae, H.75/ 5/1, B.75/2"
 },
 {
-"subword":"*rengeḱ kangaṛa",
+"subword":"*rengeć kangaṛa",
 "sub_definition":"destitute (often used in ridicule)"
 },
 {
-"subword":"*rengeḱ malgeḱ",
+"subword":"*rengeć malgeć",
 "sub_definition":"to be as hungry as one can stand, (to have one's full of hunger)"
 },
 {
-"subword":"*rengeḱ-rabaṅ",
+"subword":"*rengeć-rabaṅ",
 "sub_definition":"poor"
 },
 {
-"subword":"*rengeḱ suba",
+"subword":"*rengeć suba",
 "sub_definition":"used in prayers (rengeć-suba rabaṅ-suba) meaning 'poor'"
 },
 {
-"subword":"*rengeḱtan",
+"subword":"*rengeć tan",
 "sub_definition":"poor"
 }
 ]
@@ -35164,7 +35164,7 @@
 },
 {
 "word":"rẽot́",
-"word_simple":"renyot",
+"word_simple":"reot",
 "fone":"RENOT",
 "definition":"see rẽyot́",
 "subwords": [
