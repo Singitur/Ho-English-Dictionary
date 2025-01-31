@@ -39,7 +39,7 @@
             },
             {
                 "subword": "*Á Gao",
-                "sub_definition": "sores around the mouth (considered a sign that a person is recovering from sickness). Of these sores people sometimes say 'Siṅgbonga atarkićya' (see atar)"
+                "sub_definition": "sores around the mouth (considered a sign that a person is recovering from sickness). Of these sores people sometimes say 'Siṅgbonga atar ket́ića' (see atar)"
             },
             {
                 "subword": "*Á Jagar",
@@ -75,7 +75,7 @@
             },
             {
                 "subword": "*mit́ Á",
-                "sub_definition": "a word, a few words (e.g. in the expression mi ā reyō kajīm, 'say at least something'); (when followed by a noun) a mouthful, e.g. mi ā jilu, a mouthful of meat."
+                "sub_definition": "a word, a few words (e.g. in the expression mit́ á reó kajièm, 'say at least something'); (when followed by a noun) a mouthful, e.g. mit́ á jilu, a mouthful of meat."
             },
             {
                 "subword": "*mit́ Á taṕ",
@@ -323,7 +323,7 @@
         "word": "achuḱ",
         "word_simple": "ACHUK",
         "fone": "ACU",
-        "definition": "to sneeze, (there is a belief that sneezing on the part of a sick person who does not have a cold can be a sign or omen that he will recover from his sickness, therefore in a prayer achuḱ kenoḱkać/achuḱ kenkać would mean 'may he recover'",
+        "definition": "to sneeze, (there is a belief that sneezing on the part of a sick person who does not have a cold can be a sign or omen that he will recover from his sickness, therefore in a prayer achuḱ kenoḱkâć/achuḱ kenkâć would mean 'may he recover'",
         "subwords": [
             {
                 "subword": "*Achuḱ Siń",
@@ -1966,8 +1966,8 @@
         ]
     },
     {
-        "word": "areya",
-        "word_simple": "AREYA",
+        "word": "areà",
+        "word_simple": "AREA",
         "fone": "AR4",
         "definition": "nine (long form)"
     },
@@ -2928,7 +2928,7 @@
                 "sub_definition": "to be utterly open mouthed (e.g. listening to something with amazement)"
             },
             {
-                "subword": "*chahṕ-hapann",
+                "subword": "*chahṕ-hapannn",
                 "sub_definition": "to be still with one's mouth open (ref. form)"
             },
             {
@@ -3185,7 +3185,7 @@
         "word": "chaka-chaka",
         "word_simple": "CHAKA",
         "fone": "CAK4",
-        "definition": "to squat down supporting oneself only on one's feet (see also chuchungūr)"
+        "definition": "to squat down supporting oneself only on one's feet (see also chuchungurt́)"
     },
     {
         "word": "chakat́",
@@ -3781,7 +3781,7 @@
         "word": "Cháoḱ",
         "word_simple": "CHAOK",
         "fone": "CAO",
-        "definition": "see Cháoḱ"
+        "definition": "see Chaoḱ"
     },
     {
         "word": "chaom",
@@ -3832,26 +3832,26 @@
         "definition": "the splashing sound made by walking through several inches of water; chapal-chopol tan Daḱ menaḱa 'water is of such depth as to make a splashing sound' (as above)"
     },
     {
-        "word": "chapan",
-        "word_simple": "CHAPAN",
+        "word": "chapann",
+        "word_simple": "Chapann",
         "fone": "CAP4N",
         "definition": "to cut off a branch with silkworms, which have practically finished eating the leaves of one tree, and transfer them to another tree",
         "subwords": [
             {
-                "subword": "*chapan daru",
-                "sub_definition": "a branch used for chapan"
+                "subword": "*chapann daru",
+                "sub_definition": "a branch used for chapann"
             }
         ]
     },
     {
         "word": "chapaṅ",
-        "word_simple": "CHAPANG",
+        "word_simple": "ChapannG",
         "fone": "CAP4N",
         "definition": "verbal affix with an, 'to dawn', or tur, 'to rise' (of the sun) indicating that dawn or sunrise has just taken place"
     },
     {
-        "word": "chapanḍa, chapanṭa",
-        "word_simple": "CHAPANDA",
+        "word": "chapannḍa, chapannṭa",
+        "word_simple": "ChapannDA",
         "fone": "CAP4ND4",
         "definition": "flat"
     },
@@ -3877,7 +3877,7 @@
         "word": "chapaṭa",
         "word_simple": "CHAPATA",
         "fone": "CAP4T4",
-        "definition": "flat (same as chapanṭa)",
+        "definition": "flat (same as chapannṭa)",
         "subwords": [
             {
                 "subword": "*Chapaṭa Muć",
@@ -4280,14 +4280,14 @@
         ]
     },
     {
-        "word": "cháuḱ",
+        "word": "chauḱ",
         "word_simple": "CHAUK",
         "fone": "CAU",
         "definition": "to catch hold of someone playfully merely letting the fingers slide off him (more than juṭit́ and less than saṕ)",
         "subwords": [
             {
-                "subword": "*cháuḱ-beṭeṅ",
-                "sub_definition": "to startle someone by catching hold of him playfully (as under cháuḱ)"
+                "subword": "*chauḱ-beṭeṅ",
+                "sub_definition": "to startle someone by catching hold of him playfully (as under chauḱ)"
             }
         ]
     },
@@ -4356,7 +4356,7 @@
         "definition": "a small worm which comes out of a silkworm cocoon and is eaten by villagers"
     },
     {
-        "word": "Cháoḱ",
+        "word": "Chaoḱ",
         "word_simple": "CHAOK",
         "fone": "CAO",
         "definition": "a tribe of people like the Birhors living in the jungle"
@@ -5501,7 +5501,7 @@
         "word": "chot́-chot́",
         "word_simple": "CHOT",
         "fone": "COT",
-        "definition": "the pinnacle e.g. of a pointed steeple chod-chod oaḱ a house with a high pointed steeple"
+        "definition": "the pinnacle e.g. of a pointed steeple chot́-chot́ oaḱ a house with a high pointed steeple"
     },
     {
         "word": "choć",
@@ -6334,7 +6334,7 @@
         "definition": "to surround so as to prevent escape (of animals or men)",
         "subwords": [
             {
-                "subword": "*chur-biyur",
+                "subword": "*chur-biur",
                 "sub_definition": "same as chur"
             },
             {
@@ -7092,11 +7092,11 @@
         "definition": "like that, to do like that (short form of enleka); sometimes it means just like that' i.e. somehow or other, without proper preparation, etc.",
         "subwords": [
             {
-                "subword": "*enka jón",
+                "subword": "*enka jóṅ",
                 "sub_definition": "so so (a little less than desired, but not too bad)"
             },
             {
-                "subword": "*enka-lagan",
+                "subword": "*enka-lagann",
                 "sub_definition": "to tire oneself out doing such a thing (refl. form)"
             },
             {
@@ -7626,7 +7626,7 @@
                 "sub_definition": "the juice of the flower of the ichaḱ bush"
             },
             {
-                "subword": "*ichaḱ há",
+                "subword": "*ichaḱ Haku",
                 "sub_definition": "a shrimp"
             },
             {
@@ -7803,7 +7803,7 @@
         "word": "Ić-Jae",
         "word_simple": "IC",
         "fone": "I",
-        "definition": "of a woman,to have someone as a great grandchild (her son’s son’s child) e.g. en hatureko iić-jaitaḍleya, ‘in that village they have us as great grandchildren’ (i.e. our paternal grandfather’s mother is from that village) (iić in this word does not refer to iić, excrement)"
+        "definition": "of a woman,to have someone as a great grandchild (her son’s son’s child) e.g. en haturekó ić jae tat́lea, ‘in that village they have us as great grandchildren’ (i.e. our paternal grandfather’s mother is from that village) (ić in this word does not refer to ić, excrement)"
     },
     {
         "word": "Ić Toar",
@@ -7889,7 +7889,7 @@
             },
             {
                 "subword": "*imin reó",
-                "sub_definition": "in spite of that; nevertheless (more common for this in Ho is enreyō)"
+                "sub_definition": "in spite of that; nevertheless (more common for this in Ho is enreó)"
             }
         ]
     },
@@ -7939,7 +7939,7 @@
         "word": "impír",
         "word_simple": "IMPIR",
         "fone": "IMPIR",
-        "definition": "of two or more individuals, each as big as, each of that size,e.g. boda impirt́ chidukiń, ‘two caterpillars each as big as a ram’; reaching so high (of water) e.g. daḱ impićrte menaḱ, ‘the water comes this high’",
+        "definition": "of two or more individuals, each as big as, each of that size,e.g. boda impirt́ chidu kin, ‘two caterpillars each as big as a ram’; reaching so high (of water) e.g. daḱ impirt́ te menaḱ, ‘the water comes this high’",
         "subwords": [
             {
                 "subword": "*impír ge",
@@ -7963,7 +7963,7 @@
         "word": "Imu Oe",
         "word_simple": "IMU",
         "fone": "IMU",
-        "definition": "the Indian. or Yellow-legged Button Quail, which is much like the ḍur oe, but has yellow legs. Its cry is ūnḍūnt́"
+        "definition": "the Indian. or Yellow-legged Button Quail, which is much like the ḍur oe, but has yellow legs. Its cry is ṹt́-ṹt́"
     },
     {
         "word": "Íń",
@@ -8552,8 +8552,8 @@
                 "sub_definition": "in any place at all"
             },
             {
-                "subword": "*jah reyo",
-                "sub_definition": "at least to some extent; somewhat well, e.g. jareyobu nala-hućoḱa, ‘we will at least to some extent work for wages and return’ (at least we won’t come back empty-handed)"
+                "subword": "*jah reó",
+                "sub_definition": "at least to some extent; somewhat well, e.g. jah reóbu nala-hućoḱa, ‘we will at least to some extent work for wages and return’ (at least we won’t come back empty-handed)"
             },
             {
                 "subword": "*jahtaḱ",
@@ -8665,7 +8665,7 @@
         "word": "jagar",
         "word_simple": "JAGAR",
         "fone": "JAG4R",
-        "definition": "intrans. -to converse, speak; trans. -to discuss some matter; to engage someone in conversation, used esp. of a young man or woman talking to someone of the opposite sex; pass. of a discussion, to take place (N.B. the recip. form japagar is sometimes used with an -oḱ marker apparently in an inchoative sense, e.g. sepéd hapanumko japagaroḱa, ‘young boys and girls strike up conversations’ but sepéd hapanumko japagara, ‘young boys and girls converse’)",
+        "definition": "intrans. -to converse, speak; trans. -to discuss some matter; to engage someone in conversation, used esp. of a young man or woman talking to someone of the opposite sex; pass. of a discussion, to take place (N.B. the recip. form japagar is sometimes used with an -oḱ marker apparently in an inchoative sense, e.g. sepéd hapannumko japagaroḱa, ‘young boys and girls strike up conversations’ but sepéd hapannumko japagara, ‘young boys and girls converse’)",
         "subwords": [
             {
                 "subword": "*jagar-beṭa",
@@ -10271,7 +10271,7 @@
         "subwords": [
             {
                 "subword": "*Jiluko Ipilt́",
-                "sub_definition": "a bright star low in the horizon in the evening, prob. esp. Venus when low over the horizon (there is a belief that deer (silibko) graze when this is up because it protects them)"
+                "sub_definition": "a bright star low in the horizon in the evening, prob. esp. Venus when low over the horizon (there is a belief that deer (siliṕ ko) graze when this is up because it protects them)"
             },
             {
                 "subword": "*Jilu-Manḍi",
@@ -10813,7 +10813,7 @@
             },
             {
                 "subword": "*Jomè Uṭu",
-                "sub_definition": "a big variety of utu, q.v., a vegetable creeper ."
+                "sub_definition": "a big variety of Uṭu, q.v., a vegetable creeper ."
             },
             {
                 "subword": "*jom-enḍel",
@@ -10864,7 +10864,7 @@
                 "sub_definition": "of silkworms, to eat branches clean of leaves"
             },
             {
-                "subword": "*jom-ket́o",
+                "subword": "*jom-keṭo",
                 "sub_definition": "to eat bare (e.g. silkworms eating leaves)"
             },
             {
@@ -11201,7 +11201,7 @@
         "word": "jorom, joróm",
         "word_simple": "JOROM",
         "fone": "JOROM",
-        "definition": "to bring the mouth of a victim toward the Punji (q.v.) prepared for it to eat during a sacrifice (so that by eatihg, it may show that the spirit is pleased with the victim and/or that the victim is willing. If the victim refuses to eat, the prayers and actions are repeated until the victim willeat)"
+        "definition": "to bring the mouth of a victim toward the Punji (q.v.) prepared for it to eat during a sacrifice (so that by eating, it may show that the spirit is pleased with the victim and/or that the victim is willing. If the victim refuses to eat, the prayers and actions are repeated until the victim will eat)"
     },
     {
         "word": "joroṅ",
@@ -11786,7 +11786,7 @@
         "definition": "to stick; to stick to",
         "subwords": [
             {
-                "subword": "*juaḱ-hapan",
+                "subword": "*juaḱ-hapann",
                 "sub_definition": "to remain sticking (e.g. a sick person confined to his bed, -refl. form)"
             }
         ]
@@ -11945,7 +11945,7 @@
         "subwords": [
             {
                 "subword": "*má buru",
-                "sub_definition": "sometimes used for the more common form mā buru , q.v."
+                "sub_definition": "sometimes used for the more common form má buru , q.v."
             },
             {
                 "subword": "*Má Lukin",
@@ -11969,7 +11969,7 @@
         "word": "macha-muchu",
         "word_simple": "MACHA",
         "fone": "MAC4",
-        "definition": "used in the expression macha-muchu ātenko to describe the mouth of Spirits (prob. connoting ‘pointed’)"
+        "definition": "used in the expression macha-muchu átenko to describe the mouth of Spirits (prob. connoting ‘pointed’)"
     },
     {
         "word": "machi",
@@ -12026,7 +12026,7 @@
                 "sub_definition": "arrow shafts made of branches of buru mat́"
             },
             {
-                "subword": "*Mat́sae Há",
+                "subword": "*Mat́sae Haku",
                 "sub_definition": "same as mat́ sakam haku , q.v."
             },
             {
@@ -12034,7 +12034,7 @@
                 "sub_definition": "a diffusely branched, rooting or ascending herb with slender leaves and small blue or violet flowers, Aneilema nudiflorum, Br., Commelinaceae, H.143/2/4, B.143/1 (This looks like bamboo leaves, hence the name)"
             },
             {
-                "subword": "*Mat́ Sakam Há",
+                "subword": "*Mat́ Sakam Haku",
                 "sub_definition": "a flat thin fish resembling a bamboo blade"
             },
             {
@@ -12108,7 +12108,7 @@
         "definition": "a loud shrill noise made by cats"
     },
     {
-        "word": "magura há",
+        "word": "magura Haku",
         "word_simple": "MAGURA",
         "fone": "MAGUR4",
         "definition": "a fish 4-5 inches long and full bodies, tasty to eat, a cat fish"
@@ -12221,7 +12221,7 @@
         "subwords": [
             {
                 "subword": "*malan chidu",
-                "sub_definition": "a variety of caterpillar prob. same as mār chidu , q,v, (used in prayers as poetic parallel of dubi chidu )"
+                "sub_definition": "a variety of caterpillar prob. same as maar chidu , q,v, (used in prayers as poetic parallel of dubi chidu )"
             },
             {
                 "subword": "*malan uru",
@@ -12267,7 +12267,7 @@
         "word": "mali Bah",
         "word_simple": "MALI",
         "fone": "MALI",
-        "definition": "a white sweet-smelling flower, found in abundance, prob. Jasminum sambac, Ait, Oleaceae, B.87/4, H.87/ 1/1 (see also aṭal bā )"
+        "definition": "a white sweet-smelling flower, found in abundance, prob. Jasminum sambac, Ait, Oleaceae, B.87/4, H.87/ 1/1 (see also aṭal Bah )"
     },
     {
         "word": "máli",
@@ -12567,13 +12567,13 @@
         "word": "már",
         "word_simple": "MAR",
         "fone": "MAR",
-        "definition": "same as māra, q.v."
+        "definition": "same as mára, q.v."
     },
     {
         "word": "mára",
         "word_simple": "MARA",
         "fone": "MAR4",
-        "definition": "a cowherder (a term used in prayers and in the term gau mara , q.v.)"
+        "definition": "a cowherder (a term used in prayers and in the term gau mára , q.v.)"
     },
     {
         "word": "maraḱ",
@@ -12599,7 +12599,7 @@
         "subwords": [
             {
                 "subword": "*maraṅ á",
-                "sub_definition": "to scold (implies a certain intimacy, e.g. a parent to a child) (can be used as a verb with a dir. animate obj., or can be used with a -te affix and the verb kaji , e.g. jahić ó maraṅ āte kako kajiakoa , ‘No one will scold them’"
+                "sub_definition": "to scold (implies a certain intimacy, e.g. a parent to a child) (can be used as a verb with a dir. animate obj., or can be used with a -te affix and the verb kaji , e.g. jahić ó maraṅ Á te kako kajiakoa , ‘No one will scold them’"
             },
             {
                 "subword": "*maraṅ ãṛa",
@@ -12614,7 +12614,7 @@
                 "sub_definition": "one of the more prominent spirits, also called duku disum maraṅ bonga , q.v."
             },
             {
-                "subword": "*maranṅ dánchuḱ",
+                "subword": "*maraṅ Dã́chuḱ",
                 "sub_definition": "the Rackettailed Drongo (a bird, so called in some places, see also buru dãachut́)"
             },
             {
@@ -12691,7 +12691,7 @@
         "word": "marchi",
         "word_simple": "MARCHI",
         "fone": "MARCI",
-        "definition": "a chilli, an underbush with small purple flowers, cultivated, Capsicum annuum, var. nigra, Prain Solanaceae, B.97/2, H.97/4/1 (note expression used in a story - marchi matalekać hapanumakana , ‘She has developed into a young woman as a chilli ripens (prob. refers to smooth glossy appearance and rich full colour)",
+        "definition": "a chilli, an underbush with small purple flowers, cultivated, Capsicum annuum, var. nigra, Prain Solanaceae, B.97/2, H.97/4/1 (note expression used in a story - marchi matalekać hapannumakana , ‘She has developed into a young woman as a chilli ripens (prob. refers to smooth glossy appearance and rich full colour)",
         "subwords": [
             {
                 "subword": "*marchi Aaḱ",
@@ -12704,7 +12704,7 @@
         ]
     },
     {
-        "word": "már chidu",
+        "word": "maar chidu",
         "word_simple": "MAR",
         "fone": "MAR",
         "definition": "an insect which makes a long crying sound in the hot season (Santali maraṛ tejo suggests that this is named after the Indian Coral tree, called marāṛ or maraṛ in Santali. Malan chidu is probably an alternate name for this caterpillar called malaṛa/malãṛã/marãṛa tiju in Mundari)"
@@ -13161,7 +13161,7 @@
         "word": "mele-gule",
         "word_simple": "MELE",
         "fone": "MEL4",
-        "definition": "of leaves, etc., to have a rich dark green colour; with verb form bākana, of flowers, to be growing among such leaves"
+        "definition": "of leaves, etc., to have a rich dark green colour; with verb form bah akana, of flowers, to be growing among such leaves"
     },
     {
         "word": "mele-mele",
@@ -13209,7 +13209,7 @@
             },
             {
                 "subword": "*men-uraa",
-                "sub_definition": "to reply (unlike the simple men form this can take an -a aspect marker, e.g. men-urākoać, ‘he will reply to them’)"
+                "sub_definition": "to reply (unlike the simple men form this can take an -a aspect marker, e.g. men-uraaàkoać, ‘he will reply to them’)"
             }
         ]
     },
@@ -13345,7 +13345,7 @@
         "word": "mera",
         "word_simple": "MERA",
         "fone": "MER4",
-        "definition": "let not (same meaning as aloka, but used only in prayers) (usually used in expressions such as merale lāić hasuoḱ, merale boḱ hasuoḱ, merale kulawoḱ, merale bińoḱ, ‘May we suffer no stomach ache nor head ache, may we not be attacked by a tiger nor a snake’, however sometimes the phrase is expressed in an abbreviated way, e.g. mera kula, mera bińa, mera dirl, mera sampura, ‘may we suffer no harm from a tiger, a snake, a stone, may we not suddenly come to harm’; sometimes used for kage, ‘no’, in stories"
+        "definition": "let not (same meaning as aloka, but used only in prayers) (usually used in expressions such as merale Láć hasuoḱ, merale boḱ hasuoḱ, merale kulawoḱ, merale bińoḱ, ‘May we suffer no stomach ache nor head ache, may we not be attacked by a tiger nor a snake’, however sometimes the phrase is expressed in an abbreviated way, e.g. mera kula, mera bińa, mera dirl, mera sampura, ‘may we suffer no harm from a tiger, a snake, a stone, may we not suddenly come to harm’; sometimes used for kage, ‘no’, in stories"
     },
     {
         "word": "merche miluṅ",
@@ -13457,7 +13457,7 @@
         "word": "mi",
         "word_simple": "MI",
         "fone": "MI",
-        "definition": "one (short form); in many expressions mi means ‘full’ e.g. mi ā ‘a mouthful’, mi chiput́, ‘a fistful’; sometimes it means ‘one stroke with’ something, e.g. mi ḍanḍa ‘one stroke with a stick’; also mi can mean the whole of some period, e.g. mi nida, ‘the whole night’, mi setaḱete ayub joka, ‘the whole time from morning until night, mi huṛińēte hapanum ean jaket́, ‘the whole period from the time when she was small until she had become a young woman’",
+        "definition": "one (short form); in many expressions mi means ‘full’ e.g. mi Á ‘a mouthful’, mi chiput́, ‘a fistful’; sometimes it means ‘one stroke with’ something, e.g. mi ḍanḍa ‘one stroke with a stick’; also mi can mean the whole of some period, e.g. mi nida, ‘the whole night’, mi setaḱete ayub joka, ‘the whole time from morning until night, mi huṛińēte hapannum ean jaket́, ‘the whole period from the time when she was small until she had become a young woman’",
         "subwords": [
             {
                 "subword": "*mi evn",
@@ -13553,7 +13553,7 @@
         "word": "milgat́",
         "word_simple": "MILGAT",
         "fone": "MILG4T",
-        "definition": "of fat (itil ) e.g. of a pig, to remain on one’s hands after efforts to clean it; esp. of a woman, to have oil too thick on the head, e.g. en kui boḱ-bale milgaḍakanać (this is best removed by nāka hasa)"
+        "definition": "of fat (itil ) e.g. of a pig, to remain on one’s hands after efforts to clean it; esp. of a woman, to have oil too thick on the head, e.g. en kui boḱ-bale milgaḍakanać (this is best removed by naaka hasa)"
     },
     {
         "word": "minḍi",
@@ -13674,17 +13674,17 @@
         ]
     },
     {
-        "word": "mêsa",
+        "word": "misa",
         "word_simple": "MESA",
         "fone": "MES4",
         "definition": "to unite with, include with, mix; verbal affix - to do something together with",
         "subwords": [
             {
-                "subword": "*mêsa te",
+                "subword": "*misa te",
                 "sub_definition": "together with; at the same time"
             },
             {
-                "subword": "*mêsa-mêsa te",
+                "subword": "*misa-misa te",
                 "sub_definition": "at the same time (of many individuals)"
             }
         ]
@@ -13710,7 +13710,7 @@
                 "sub_definition": "younger sister, younger female cousin"
             },
             {
-                "subword": "*misia-bareya",
+                "subword": "*misià-bareà",
                 "sub_definition": "of a girl and her brother, to do some activity together"
             }
         ]
@@ -13783,11 +13783,11 @@
         "word": "Mocha",
         "word_simple": "MOCHA",
         "fone": "MOC4",
-        "definition": "the front part of the mouth (lips, etc., the whole mouth is ā)",
+        "definition": "the front part of the mouth (lips, etc., the whole mouth is Á)",
         "subwords": [
             {
                 "subword": "*Mocha Daṭa",
-                "sub_definition": "used in prayers parallel to and taking on the meaning of ā daṭa, q.v"
+                "sub_definition": "used in prayers parallel to and taking on the meaning of Á daṭa, q.v"
             },
             {
                 "subword": "*Mocha-Parchi",
@@ -13905,7 +13905,7 @@
         "word": "Moncho",
         "word_simple": "MONCHO",
         "fone": "MONCO",
-        "definition": "a place where spirits of the dead stay (considered lower than sorog and higher than patāl)"
+        "definition": "a place where spirits of the dead stay (considered lower than sorog and higher than patál)"
     },
     {
         "word": "mondol",
@@ -14017,7 +14017,7 @@
         "word": "moṛondo",
         "word_simple": "MODONDO",
         "fone": "MODONDO",
-        "definition": "fully matured, in full adult strength (also maru, moṛondo implies a slightly stronger state than maru. Both words are also sometimes used preceded by the word hām)"
+        "definition": "fully matured, in full adult strength (also maru, moṛondo implies a slightly stronger state than maru. Both words are also sometimes used preceded by the word haam)"
     },
     {
         "word": "morso, moroso, moros",
@@ -14074,7 +14074,7 @@
         "definition": "a kind of fish trap made of bamboo strips tied together in a conical shape with an opening at the top and a wider opening at the bottom through which fish enter and cannot swim out. They are then taken out by hand; to trap fish in this way",
         "subwords": [
             {
-                "subword": "*muchu-biyur",
+                "subword": "*muchu-biur",
                 "sub_definition": "to move a muchu around in water in order to catch fish"
             }
         ]
@@ -14083,7 +14083,7 @@
         "word": "muchuria paaṭ kantaṛa-jantaṛa",
         "word_simple": "MUCHURIA",
         "fone": "MUCURI4",
-        "definition": "a jantaṛa q.v. rite, performed before reaping grasses used for thatching (sayū) and making brooms (jonoḱko)"
+        "definition": "a jantaṛa q.v. rite, performed before reaping grasses used for thatching (sayú) and making brooms (jonoḱko)"
     },
     {
         "word": "mudam",
@@ -14395,7 +14395,7 @@
         "subwords": [
             {
                 "subword": "*múṛ kaji",
-                "sub_definition": "the main point under discussion (also sār kajl)"
+                "sub_definition": "the main point under discussion (also sár kajl)"
             }
         ]
     },
@@ -14433,7 +14433,7 @@
         "word": "murgat́",
         "word_simple": "MURGAT",
         "fone": "MURG4T",
-        "definition": "by cutting, breaking or eating off the top part, to leave a section of a stalk or of a thin tree trunk standing; a section of a stalk or of a thin tree trunk so left standing (nara has the same meaning but is used only of paddy or wheat whereas murgat́ can be used of anything, e.g. reyaṛi)"
+        "definition": "by cutting, breaking or eating off the top part, to leave a section of a stalk or of a thin tree trunk standing; a section of a stalk or of a thin tree trunk so left standing (nara has the same meaning but is used only of paddy or wheat whereas murgat́ can be used of anything, e.g. Reaḍi)"
     },
     {
         "word": "murki",
@@ -14445,11 +14445,11 @@
         "word": "murluṅ",
         "word_simple": "MURLUNG",
         "fone": "MURLUN",
-        "definition": "of a man, e.g. when speaking, to move his lips in a quick way resembling that of a muskrat (cf. lumur-lumur). This is normally used with the word ā, mouth, e.g. āeć murluṅetana",
+        "definition": "of a man, e.g. when speaking, to move his lips in a quick way resembling that of a muskrat (cf. lumur-lumur). This is normally used with the word á, mouth, e.g. áć murluṅè tana",
         "subwords": [
             {
                 "subword": "*murluṅ-á",
-                "sub_definition": "used as a verb with meaning given above, e.g. murluṅ-ā-baetanać, ‘He moves his mouth about as a muskrat does’"
+                "sub_definition": "used as a verb with meaning given above, e.g. murluṅ-á-baaè tanać, ‘He moves his mouth about as a muskrat does’"
             }
         ]
     },
@@ -14490,7 +14490,7 @@
         "definition": "of cattle, to be of a deep greyish colour (probably referring to the colour of the nilgat)",
         "subwords": [
             {
-                "subword": "*murum ôt́",
+                "subword": "*murum Ut́",
                 "sub_definition": "an edible mushroom, blackish in colour"
             }
         ]
@@ -14541,11 +14541,11 @@
         "word": "múṭ, múṭu",
         "word_simple": "MUT",
         "fone": "MUT",
-        "definition": "verbal affix used with her, to make a start (at sowing); refl. mūṭun to observe the her mūṭ (q.v.) rites",
+        "definition": "verbal affix used with her, to make a start (at sowing); refl. múṭunn to observe the her múṭ (q.v.) rites",
         "subwords": [
             {
                 "subword": "*múṭu poroṕ",
-                "sub_definition": "the her mūṭ (q.v.) feast; refl. mūṭu poroben, ‘to observe the her mūṭ feast"
+                "sub_definition": "the her múṭ (q.v.) feast; refl. múṭu poroben, ‘to observe the her múṭ feast"
             }
         ]
     },
@@ -14643,7 +14643,7 @@
         "word": "múṭu",
         "word_simple": "MUTU",
         "fone": "MUTU",
-        "definition": "same as mūṭ, q.v."
+        "definition": "same as múṭ, q.v."
     },
     {
         "word": "mutut́",
@@ -14655,7 +14655,7 @@
         "word": "mutukul",
         "word_simple": "MUTUKUL",
         "fone": "MUTUKUL",
-        "definition": "first born (also ḍinḍa lāić hon, pũṛuwa (lāić) hon)"
+        "definition": "first born (also ḍinḍa Láć hon, pũṛuwa (Láć) hon)"
     },
     {
         "word": "Mutul",
@@ -14766,7 +14766,7 @@
         "definition": "to lie face down (on one's stomach); of a bird, to sit (rest) flat against the ground",
         "subwords": [
             {
-                "subword": "*obor-hapan",
+                "subword": "*obor-hapann",
                 "sub_definition": "to stay quietly on one's stomach; of a bird, to sit still on the ground"
             },
             {
@@ -15041,7 +15041,7 @@
         "word": "okorè",
         "word_simple": "OKORE",
         "fone": "OKOR4",
-        "definition": "where is it! used in an ironical sense of something supposed to be there which is not there, not when we want to know where it is (that would be okonreya) but when we want to comment on its absence"
+        "definition": "where is it! used in an ironical sense of something supposed to be there which is not there, not when we want to know where it is (that would be okonrea) but when we want to comment on its absence"
     },
     {
         "word": "okoreko",
@@ -15982,7 +15982,7 @@
         "word": "-p-",
         "word_simple": "P",
         "fone": "P",
-        "definition": "The reciprocal infix (the reciprocal of any verb can be formed by infixing the reciprocal marker -p- after the first vowel of a verb root and then repeating that vowel after the -p-. If this first vowel is long, it retains its long quality only after the -p- infix (Les 23); a -p- infix is also used in a few superlatives, e.g. māparaṅ, hupuḍiń, jipiliń; also a -p- infix is used in a few terms implying relationship, e.g. eperate, 'his wife', hopon, sepēt́ (prob. from sēt́ as in hon sēt́)"
+        "definition": "The reciprocal infix (the reciprocal of any verb can be formed by infixing the reciprocal marker -p- after the first vowel of a verb root and then repeating that vowel after the -p-. If this first vowel is long, it retains its long quality only after the -p- infix (Les 23); a -p- infix is also used in a few superlatives, e.g. máparaṅ, hupuḍiń, jipiliń; also a -p- infix is used in a few terms implying relationship, e.g. eperate, 'his wife', hopon, sepēt́ (prob. from sēt́ as in hon sēt́)"
     },
     {
         "word": "-paa",
@@ -16107,8 +16107,8 @@
         "definition": "a large poyla giving a measure of grain of about 2 seers",
         "subwords": [
             {
-                "subword": "*paḍki biyur-nam",
-                "sub_definition": "to divine by having someone spin around sitting on a paḍki (often referred to merely as biyur-nam)"
+                "subword": "*paḍki biur-nam",
+                "sub_definition": "to divine by having someone spin around sitting on a paḍki (often referred to merely as biur-nam)"
             }
         ]
     },
@@ -16435,7 +16435,7 @@
         "definition": "the part in the hair; a fork in a road",
         "subwords": [
             {
-                "subword": "*hora panā",
+                "subword": "*hora panaa",
                 "sub_definition": "a place where a road divides into two roads"
             }
         ]
@@ -16533,7 +16533,7 @@
                 "sub_definition": "grey haired"
             },
             {
-                "subword": "*panḍu būḱr-būḱr",
+                "subword": "*panḍu burt́-burt́",
                 "sub_definition": "completely grey haired to be"
             },
             {
@@ -16672,7 +16672,7 @@
         "word": "papari",
         "word_simple": "PAPARI",
         "fone": "PAP4RI",
-        "definition": "old (when used of persons, it is used in the sense of one who has been in some place or some occupation for a long time. See hām, old in age (of men); to become old",
+        "definition": "old (when used of persons, it is used in the sense of one who has been in some place or some occupation for a long time. See haam, old in age (of men); to become old",
         "subwords": [
             {
                 "subword": "*papari tonol-kaji",
@@ -16690,10 +16690,10 @@
         "word": "papaṭet́",
         "word_simple": "PAPATET",
         "fone": "PAP4T4T",
-        "definition": "The reciprocal infix (the reciprocal of any verb can be formed by infixing the reciprocal marker -p- after the first vowel of a verb root and then repeating that vowel after the -p-. If this first vowel is long, it retains its long quality only after the -p- infix (Les 23); a -p- infix is also used in a few superlatives, e.g. māparaṅ, hupuḍiń, jipiliń; also a -p- infix is used in a few terms implying relationship, e.g. eperate, 'his wife', hopon, sepēt́ (prob. from sēt́ as in hon sēt́)"
+        "definition": "The reciprocal infix (the reciprocal of any verb can be formed by infixing the reciprocal marker -p- after the first vowel of a verb root and then repeating that vowel after the -p-. If this first vowel is long, it retains its long quality only after the -p- infix (Les 23); a -p- infix is also used in a few superlatives, e.g. máparaṅ, hupuḍiń, jipiliń; also a -p- infix is used in a few terms implying relationship, e.g. eperate, 'his wife', hopon, sepēt́ (prob. from sēt́ as in hon sēt́)"
     },
     {
-        "word": "pã-pẽ",
+        "word": "pã́-pã́",
         "word_simple": "PA",
         "fone": "PA",
         "definition": "a sound made by a large number of bees or wasps coming quickly toward someone"
@@ -16768,7 +16768,7 @@
         "word": "pará-purú",
         "word_simple": "PARA",
         "fone": "PAR4",
-        "definition": "of the eyes, to be only half open, e.g. of someone just awakening; of the eyes, to smart and water e.g. due to smoke (for this also moḱ-parā-purū)"
+        "definition": "of the eyes, to be only half open, e.g. of someone just awakening; of the eyes, to smart and water e.g. due to smoke (for this also moḱ-pará-purú)"
     },
     {
         "word": "pará-puṭu",
@@ -16979,7 +16979,7 @@
         "definition": "to pass an examination"
     },
     {
-        "word": "pasā",
+        "word": "pasá",
         "word_simple": "PASA",
         "fone": "PAS4",
         "definition": "a kind of paddy plant which when grown wildly produces very little, and which when in a field is hard to recognize, and if not removed smothers other cultivated varieties, the wild variety of Oryza sativa, L., Gramineae, B.139/27, H.139/33/1"
@@ -17012,7 +17012,7 @@
         "word": "pasit́",
         "word_simple": "PASIT",
         "fone": "PASIT",
-        "definition": "to cut out and offer in sacrifice some uncooked (berel) part (e.g. the liver) of an animal; sometimes used in prayers as parallel to rā, 'to untie', 'to release'",
+        "definition": "to cut out and offer in sacrifice some uncooked (berel) part (e.g. the liver) of an animal; sometimes used in prayers as parallel to raa, 'to untie', 'to release'",
         "subwords": [
             {
                 "subword": "*pasit́-enḍaḱ",
@@ -17045,14 +17045,14 @@
         ]
     },
     {
-        "word": "paasu Daru",
+        "word": "pásu Daru",
         "word_simple": "PASU",
         "fone": "PASU",
         "definition": "a tree with strong wood, Cleistanthus collinus, Benth., Euphorbiaceae, B.29/7, H.29/23/1",
         "subwords": [
             {
-                "subword": "*paasu jaṭa",
-                "sub_definition": "saplings of the pāsu tree (when about 2 or 3 yrs. old) which are used for seneyor"
+                "subword": "*pásu jaṭa",
+                "sub_definition": "saplings of the pásu tree (when about 2 or 3 yrs. old) which are used for seneor"
             }
         ]
     },
@@ -17066,7 +17066,7 @@
         "word": "paṭ",
         "word_simple": "PAT",
         "fone": "PAT",
-        "definition": "a guru bonga type of spirit, usually found in mountains and called upon by shamans (dẽwako, sokako) for help in bonga nam (discerning what spirit is causing some sickness, etc.)",
+        "definition": "a guru bonga type of spirit, usually found in mountains and called upon by shamans (Dẽoa ko, Soka ko) for help in bonga nam (discerning what spirit is causing some sickness, etc.)",
         "subwords": [
             {
                 "subword": "*paṭ chela kin",
@@ -17081,11 +17081,11 @@
         "definition": "a leaf (see also sakam, which however is used esp. of leaves from which puḱ, kalgi, etc. are made); to put out leaves; a leafy branch; as poetic parallel used in the sense of leaf, but also used as poetic parallel with bir in the sense of 'scrub jungle', (see also pataṛa)",
         "subwords": [
             {
-                "subword": "*patā pandu Oe",
+                "subword": "*pataa panḍu Oe",
                 "sub_definition": "a bird having the colour of leaves which have turned yellow"
             },
             {
-                "subword": "*patā ôt́",
+                "subword": "*pataa Ut́",
                 "sub_definition": "a species of edible mushroom which grows where fallen leaves are rotting"
             }
         ]
@@ -17251,7 +17251,7 @@
         "definition": "to wrap around",
         "subwords": [
             {
-                "subword": "*paṭu-biyur",
+                "subword": "*paṭu-biur",
                 "sub_definition": "to wrap around"
             },
             {
@@ -17361,10 +17361,10 @@
         "definition": "to clear up, e.g. the sky after rain; a clearing or open space; to clear up a space e.g. of shrubs"
     },
     {
-        "word": "pãyar",
+        "word": "pã́yar",
         "word_simple": "PAYAR",
         "fone": "PAR",
-        "definition": "see pānyar"
+        "definition": "see pã́yar"
     },
     {
         "word": "peć ken",
@@ -17571,10 +17571,10 @@
         "definition": "the trumpet used by Gasis; of an elephant, to make a loud shrill sound; to make a long shrill sound with a flute"
     },
     {
-        "word": "peṛepiyuṅ",
-        "word_simple": "PEDEPIYUNG",
+        "word": "peṛepiuṅ",
+        "word_simple": "PEDEPIUNG",
         "fone": "PED4PIUN",
-        "definition": "the Grey headed Myna bird (a local name. In some areas called baṛipiyuṅ)"
+        "definition": "the Grey headed Myna bird (a local name. In some areas called baṛipiuṅ)"
     },
     {
         "word": "peréṭe",
@@ -17616,10 +17616,10 @@
         "word": "peso",
         "word_simple": "PESO",
         "fone": "PESO",
-        "definition": "of the beard, moustache, to be very thick, e.g. peso tan geć daṛia akana 'he has a heavy beard'; to put too much salt, sasaṅ, marchi in some food; of grass, weeds, etc., to be very thick in a field,e.g. ote dumbute peso-wakana, peso is sometimes used to refer to the pubic hairs",
+        "definition": "of the beard, moustache, to be very thick, e.g. peso tan geć daṛia akana 'he has a heavy beard'; to put too much salt, sasaṅ, marchi in some food; of grass, weeds, etc., to be very thick in a field,e.g. Ote Dumbu te peso akana, peso is sometimes used to refer to the pubic hairs",
         "subwords": [
             {
-                "subword": "*peso ā",
+                "subword": "*peso Á",
                 "sub_definition": "a mouth surrounded by a thick beard"
             }
         ]
@@ -17691,7 +17691,7 @@
         "definition": "of the mouth, to be covered with some edible, milk, ḍiaṅ, etc.",
         "subwords": [
             {
-                "subword": "*peto ā",
+                "subword": "*peto Á",
                 "sub_definition": "mouth covered as given under peto"
             }
         ]
@@ -17895,7 +17895,7 @@
         "definition": "a small veranda- type elevation built in the front of a house",
         "subwords": [
             {
-                "subword": "*pindigi-biyur",
+                "subword": "*pinḍigi-biur",
                 "sub_definition": "to build the lower part of the wall of a house so that it juts out at least a few inches all around the house (so as to strengthen the lower part of the wall from erosion due to rain water, etc.)"
             }
         ]
@@ -17952,7 +17952,7 @@
         "word": "pipaa chugúyut́",
         "word_simple": "PIPA",
         "fone": "PIP4",
-        "definition": "a sound made by a bird, perhaps by the sun dānchuḱ"
+        "definition": "a sound made by a bird, perhaps by the sun Dã́chuḱ"
     },
     {
         "word": "pipi",
@@ -17982,15 +17982,15 @@
         "word": "piṛa",
         "word_simple": "PIDA",
         "fone": "PID4",
-        "definition": "affliction, suffering ( from Hindi, not used in ordinary conversation, but used in term kāṛo piṛa (q.v.) and piṛa-panḍa and mā piṛa as given below)",
+        "definition": "affliction, suffering ( from Hindi, not used in ordinary conversation, but used in term káṛo piṛa (q.v.) and piṛa-panḍa and má piṛa as given below)",
         "subwords": [
             {
                 "subword": "*pira-panda",
-                "sub_definition": "severe suffering caused through witchcraft (kāṛo banai, etc.) (a term used in prayers in connection with kāṛo piṛa, panḍa is not used independently)"
+                "sub_definition": "severe suffering caused through witchcraft (káṛo banai, etc.) (a term used in prayers in connection with káṛo piṛa, panḍa is not used independently)"
             },
             {
                 "subword": "*ma pira",
-                "sub_definition": "a term used in prayers for great affliction caused by witchcraft (mā perhaps from Hindi maha, 'great'); to cause such affliction"
+                "sub_definition": "a term used in prayers for great affliction caused by witchcraft (má perhaps from Hindi maha, 'great'); to cause such affliction"
             }
         ]
     },
@@ -18482,7 +18482,7 @@
         "word": "pṍt́-pṍt́",
         "word_simple": "POT",
         "fone": "POT",
-        "definition": "a deep sound of a horn of a car; to blow a horn of a car making a loud sound (see also pínd-pínd)"
+        "definition": "a deep sound of a horn of a car; to blow a horn of a car making a loud sound (see also pĩ́t́-pĩ́t́)"
     },
     {
         "word": "pondro",
@@ -18497,7 +18497,7 @@
         "definition": "to burst or cut open",
         "subwords": [
             {
-                "subword": "*pongā-bara",
+                "subword": "*pongá-bara",
                 "sub_definition": "to burst or split into two approximately equal parts"
             }
         ]
@@ -18611,7 +18611,7 @@
         "definition": "to be badly wounded e.g. by a fall, esp on the forehead, elbow, knees and nose (implies more serious wounds than poro would)",
         "subwords": [
             {
-                "subword": "*poraṅ sūt́",
+                "subword": "*poraṅ sút́",
                 "sub_definition": "a waterhole outside the village used only by women not yet purified after childbirth"
             }
         ]
@@ -19018,11 +19018,11 @@
         "word": "pú",
         "word_simple": "PU",
         "fone": "PU",
-        "definition": "to uproot by hitting the stump of a shrub (e.g. a pāsu jaṭa) with the blunt part of an axe",
+        "definition": "to uproot by hitting the stump of a shrub (e.g. a pásu jaṭa) with the blunt part of an axe",
         "subwords": [
             {
-                "subword": "*pū-nam",
-                "sub_definition": "to find or acquire by uprooting (as under pū) (used in parallel with amin-nam to refer to the original clearing of the jungles to start cultivation"
+                "subword": "*pú-nam",
+                "sub_definition": "to find or acquire by uprooting (as under pú) (used in parallel with amin-nam to refer to the original clearing of the jungles to start cultivation"
             }
         ]
     },
@@ -19033,12 +19033,12 @@
         "definition": "to regain one's physical strength after a sickness which has caused one to waste away",
         "subwords": [
             {
-                "subword": "*pu-nam",
-                "sub_definition": "same as pū"
+                "subword": "*pú-nam",
+                "sub_definition": "same as pú"
             },
             {
-                "subword": "*pū-uraa",
-                "sub_definition": "same as pū"
+                "subword": "*pú-uraa",
+                "sub_definition": "same as pú"
             }
         ]
     },
@@ -19049,7 +19049,7 @@
         "definition": "a sound of something falling or hitting against something with a thud",
         "subwords": [
             {
-                "subword": "*pū-pūtan",
+                "subword": "*pú-pútan",
                 "sub_definition": "the same of a repeated action"
             }
         ]
@@ -19058,7 +19058,7 @@
         "word": "puḱ ken",
         "word_simple": "PUK",
         "fone": "PU",
-        "definition": "of some object falling or hitting against another object, to make a dull thud sound (a lighter sound than pū(ken) implies) (with verb sari, etc.)",
+        "definition": "of some object falling or hitting against another object, to make a dull thud sound (a lighter sound than pú(ken) implies) (with verb sari, etc.)",
         "subwords": [
             {
                 "subword": "*puḱ-puḱtan",
@@ -19163,7 +19163,7 @@
         "definition": "of one ploughing, to cut easily through soft soil (with verb si)",
         "subwords": [
             {
-                "subword": "*pukud-pukudtan",
+                "subword": "*pukud-pukut́ tan",
                 "sub_definition": "the same of a continued action"
             }
         ]
@@ -19202,7 +19202,7 @@
         "word": "pulo, pulu",
         "word_simple": "PULO",
         "fone": "PULO",
-        "definition": "used in prayers as poetic parallel of bā, 'a flower'"
+        "definition": "used in prayers as poetic parallel of Bah, 'a flower'"
     },
     {
         "word": "pulú",
@@ -19211,15 +19211,15 @@
         "definition": "a vegetable something like a small cucumber growing on a vine, Luffa aegyptiaca, Hill., Cucur bitaceae, B.71/12, H, 71/11/3",
         "subwords": [
             {
-                "subword": "*pulū bah",
-                "sub_definition": "the flower of the pulū creeper, large opened eyes are sometimes compared to this."
+                "subword": "*pulú bah",
+                "sub_definition": "the flower of the pulú creeper, large opened eyes are sometimes compared to this."
             },
             {
-                "subword": "*pulū chopa",
-                "sub_definition": "the inner part of a pulū which is thread-like and can be used for washing"
+                "subword": "*pulú chopa",
+                "sub_definition": "the inner part of a pulú which is thread-like and can be used for washing"
             },
             {
-                "subword": "*pulū med",
+                "subword": "*pulú met́",
                 "sub_definition": "big wide-opened eyes (sometimes used in scolding)"
             }
         ]
@@ -19281,8 +19281,8 @@
                 "sub_definition": "completely white, thoroughly white"
             },
             {
-                "subword": "*punḍi rambah",
-                "sub_definition": "a cultivated pulse of the rambā type, has pods with white seeds, Vigna catjang, Endl., Papilionaceae, H.53/50/3, B.53/115"
+                "subword": "*punḍi rambaa",
+                "sub_definition": "a cultivated pulse of the rambaa type, has pods with white seeds, Vigna catjang, Endl., Papilionaceae, H.53/50/3, B.53/115"
             },
             {
                 "subword": "*pundi salukat́",
@@ -19457,7 +19457,7 @@
         "definition": "a month corresponding to late Dec. and early Jan.",
         "subwords": [
             {
-                "subword": "*pūs betaraṅ",
+                "subword": "*pús betaraṅ",
                 "sub_definition": "the day of the mokor porob, q.v."
             }
         ]
@@ -19518,10 +19518,10 @@
         "subwords": [
             {
                 "subword": "*púṭu babasiń",
-                "sub_definition": "stacked straw (same as plūṭu akan babasiń)"
+                "sub_definition": "stacked straw (same as púṭu akan babasiń)"
             },
             {
-                "subword": "*pūṭu",
+                "subword": "*púṭu",
                 "sub_definition": "rakab to put up in a hay stack (with babasiń, straw, as object)"
             }
         ]
@@ -19627,7 +19627,7 @@
         "definition": "the pin in the centre of a yoke to which the rope is fastened"
     },
     {
-        "word": "putū",
+        "word": "putú",
         "word_simple": "PUTU",
         "fone": "PUTU",
         "definition": "to pierce through"
@@ -19636,7 +19636,7 @@
         "word": "Púṭu",
         "word_simple": "PUTU",
         "fone": "PUTU",
-        "definition": "a hay stack (see pūṭ)"
+        "definition": "a hay stack (see púṭ)"
     },
     {
         "word": "puṭubol",
@@ -20550,7 +20550,7 @@
             },
             {
                 "subword": "*háḱ-paṭaḱ",
-                "sub_definition": "of a rope, to be inter- twined; with tan and verbs of motion, to trip over oneself, e.g. pataḱtaneć senetana, 'He is walking along tripping over himself'"
+                "sub_definition": "of a rope, to be inter- twined; with tan and verbs of motion, to trip over oneself, e.g. pataḱ taneć senè tana, 'He is walking along tripping over himself' $"
             }
         ]
     },
@@ -21401,8 +21401,8 @@
         "definition": "a leech"
     },
     {
-        "word": "Hapanum",
-        "word_simple": "HAPANUM",
+        "word": "hapannum",
+        "word_simple": "hapannUM",
         "fone": "HAP4NUM",
         "definition": "a young woman"
     },
@@ -21877,7 +21877,7 @@
         "definition": "to put a hollow object mouth turned down; to close a book; to cover with a mat paddy spread out to dry; to cover something with a hollow object mouth turned downward; in jest, to drink the contents of some container, e.g. Puuḱm haruṕ ket́a chi?, 'Did you drink the contents of the leaf-cup? (literally - Did you overturn the leaf-cup?)",
         "subwords": [
             {
-                "subword": "*haruṕ-esed/keset́",
+                "subword": "*haruṕ-eset́/keset́",
                 "sub_definition": "to cover something with a hollow object, mouth turned down"
             }
         ]
@@ -21931,19 +21931,19 @@
         "definition": "to whip; a whip; to cut with a whipping motion (e.g. thin branches using a banki); to thresh by beating down paddy stalks against bamboo rods tied together to make a platform",
         "subwords": [
             {
-                "subword": "*hasa-enḍaḱ",
+                "subword": "*haasa-enḍaḱ",
                 "sub_definition": "to drive away with a whipping action (e.g. with a whip or of cattle driving flies away with their tails)."
             },
             {
-                "subword": "*hasa-gasar",
+                "subword": "*haasa-gasar",
                 "sub_definition": "to make grains fall off a stalk by beating the stalk against something"
             },
             {
-                "subword": "*hasa-kata",
+                "subword": "*haasa-kaṭa",
                 "sub_definition": "to strip a stalk of grains by beating it against something"
             },
             {
-                "subword": "*hasa-toḱ",
+                "subword": "*haasa-ṭoḱ",
                 "sub_definition": "to strike with a whipping motion"
             }
         ]
@@ -22389,7 +22389,7 @@
                 "sub_definition": "to gather things together quickly (with verbs such as sah, halaṅ-hunḍi)"
             },
             {
-                "subword": "*haur-toḱ",
+                "subword": "*haur-ṭoḱ",
                 "sub_definition": "with reference to the cheeks, to run one's cupped fingers along the cheeks (e.g. of a baby to amuse him)"
             },
             {
@@ -22417,7 +22417,7 @@
         "definition": "to covet, covetousness (see Les.26)",
         "subwords": [
             {
-                "subword": "*haya hitā-hoto",
+                "subword": "*haya hitá-hotó",
                 "sub_definition": "to covet so much as to water at the mouth"
             },
             {
@@ -23189,7 +23189,7 @@
                 "sub_definition": "to make run by sprinkling"
             },
             {
-                "subword": "*hirchi-toḱ",
+                "subword": "*hirchi-ṭoḱ",
                 "sub_definition": "to sprinkle upon"
             }
         ]
@@ -23400,7 +23400,7 @@
         "subwords": [
             {
                 "subword": "*hial-rakaṕ",
-                "sub_definition": "used in prayers parallel to būwal-rakab meaning 'to cause water to come up"
+                "sub_definition": "used in prayers parallel to bũal-rakaṕ meaning 'to cause water to come up"
             },
             {
                 "subword": "*hial-hućoḱ",
@@ -23498,7 +23498,7 @@
         "word": "hochaḱ",
         "word_simple": "HOCHAK",
         "fone": "HOC4",
-        "definition": "to break off a large branch of a tree (e.g. by the action of a man pulling, of a heavy wind, of the weight of the fruit) (samage hochaḱyana would indicate that the branch was torn, but is still not completely severed from the tree)"
+        "definition": "to break off a large branch of a tree (e.g. by the action of a man pulling, of a heavy wind, of the weight of the fruit) (samage hochaḱ eana would indicate that the branch was torn, but is still not completely severed from the tree)"
     },
     {
         "word": "hot́",
@@ -23759,7 +23759,7 @@
         ]
     },
     {
-        "word": "hon",
+        "word": "hóń",
         "word_simple": "HON",
         "fone": "HON",
         "definition": "to grapple or wrestle with someone (the recip. hopoń is often used)"
@@ -23771,34 +23771,34 @@
         "definition": "a word added to conditional or implied conditional sentences to indicate that the condition has not been realized or is not realizable or probable (Les. 33)"
     },
     {
-        "word": "honda",
+        "word": "honḍa",
         "word_simple": "HONDA",
         "fone": "HOND4",
         "definition": "to push something with a stick, e.g. to push a dead snake out of the way, to stir or mix with a stick or ladle",
         "subwords": [
             {
-                "subword": "*honda-biur",
+                "subword": "*honḍa-biur",
                 "sub_definition": "to stir around (e.g. food in a pot)"
             },
             {
-                "subword": "*honda-enḍaḱ",
+                "subword": "*honḍa-enḍaḱ",
                 "sub_definition": "to push out of the way with a stick"
             },
             {
-                "subword": "*honda-isin",
+                "subword": "*honḍa-isin",
                 "sub_definition": "to fry honda-nam to seek or find by pushing or stirring with a stick"
             },
             {
-                "subword": "*honda-olt́",
+                "subword": "*honḍa-olt́",
                 "sub_definition": "to push out with a stick"
             }
         ]
     },
     {
-        "word": "hondan-gandiń",
+        "word": "honḍaṅ-ganḍiń",
         "word_simple": "HONDAN",
         "fone": "HOND4N",
-        "definition": "of a road, to twist and turn, e.g. hondan- gandiń hortikana, 'the road twists and turns'; of a person moving along a road, to weave back and forth from one side of the road to the other (e.g. because intoxicated), (used with-tan and verbs of motion) $"
+        "definition": "of a road, to twist and turn, e.g. hondlaṅ- ganḍiń hora akana, 'the road twists and turns'; of a person moving along a road, to weave back and forth from one side of the road to the other (e.g. because intoxicated), (used with-tan and verbs of motion) $"
     },
     {
         "word": "honder",
@@ -23813,7 +23813,7 @@
         ]
     },
     {
-        "word": "hondoć",
+        "word": "honḍoć",
         "word_simple": "HONDOC",
         "fone": "HONDO",
         "definition": "to boil paddy for husking to the point at which excess water is poured off; of leaves e.g. when rotting in water, to change the colour of water, so as to daze fish; to put leaves into water so as to daze fish"
@@ -23839,15 +23839,15 @@
                 "sub_definition": "to wander around"
             },
             {
-                "subword": "*honor churdu bongaa",
+                "subword": "*honor churdu bonga",
                 "sub_definition": "dari or dain churdu (q.v.) spirit who roams about at night time"
             },
             {
-                "subword": "*honor-mutu",
-                "sub_definition": "a large male jungle bison (called by some heyor mutu, q.v.); a spirit believed to have a long tail reaching to the ground"
+                "subword": "*honor-muṭu",
+                "sub_definition": "a large male jungle bison (called by some hẽor muṭu, q.v.); a spirit believed to have a long tail reaching to the ground"
             },
             {
-                "subword": "*honor ret́",
+                "subword": "*honor reht́",
                 "sub_definition": "a wild plant found in the jungles from the roots of which medicine is made (also called tondom red and tapeć red)"
             },
             {
@@ -23857,7 +23857,7 @@
         ]
     },
     {
-        "word": "honoyad Oe",
+        "word": "Honóyad Oe",
         "word_simple": "HONOYAT",
         "fone": "HONO4T",
         "definition": "probably the Large Grey Babbler (a bird)"
@@ -24179,17 +24179,17 @@
         ]
     },
     {
-        "word": "hotoḱ",
+        "word": "Hoṭoḱ",
         "word_simple": "HOTOK",
         "fone": "HOTO",
-        "definition": "the neck; note the saying - hotoḱ senoḱreyo, 'even if I die",
+        "definition": "the neck; note the saying - hoṭoḱ senoḱ reó, 'even if I die",
         "subwords": [
             {
-                "subword": "*hotoḱ ker-ker",
+                "subword": "*hoṭoḱ ker-ker",
                 "sub_definition": "a long slender neck esp. of a tall thin person"
             },
             {
-                "subword": "*hotoḱ serom",
+                "subword": "*hoṭoḱ serom",
                 "sub_definition": "the nape of the neck (also merely serom)"
             }
         ]
@@ -24211,17 +24211,17 @@
         ]
     },
     {
-        "word": "hotor",
+        "word": "hoṭor",
         "word_simple": "HOTOR",
         "fone": "HOTOR",
         "definition": "to prod; poke",
         "subwords": [
             {
-                "subword": "*hotor-olt́",
+                "subword": "*hoṭor-olt́",
                 "sub_definition": "to drive out by prodding"
             },
             {
-                "subword": "*hotar-ṭoḱ",
+                "subword": "*hoṭor-ṭoḱ",
                 "sub_definition": "to hit by poking"
             }
         ]
@@ -24251,12 +24251,6 @@
         "definition": "see honyad oe"
     },
     {
-        "word": "hoyar",
-        "word_simple": "HOYAR",
-        "fone": "HO4R",
-        "definition": "see honyar"
-    },
-    {
         "word": "hoyo",
         "word_simple": "HOYO",
         "fone": "HO",
@@ -24267,7 +24261,7 @@
                 "sub_definition": "of the wind, to knock down, to make fall, e.g. growing paddy stalks"
             },
             {
-                "subword": "*hoyo-chara",
+                "subword": "*hoyo-chaḍa",
                 "sub_definition": "to shave bald (one's head)"
             },
             {
@@ -24331,7 +24325,7 @@
                 "sub_definition": "of the wind, to toss or drive about some person. or objects (e.g. trees);"
             },
             {
-                "subword": "*hoyo-undal- pandalakan",
+                "subword": "*hoyo-unḍal-panḍal akan",
                 "sub_definition": "storm tossed'"
             }
         ]
@@ -24646,7 +24640,7 @@
         "subwords": [
             {
                 "subword": "*huḍiń ara",
-                "sub_definition": "same as dūriya ära, q.v."
+                "sub_definition": "same as dūriya ära, q.v. $"
             },
             {
                 "subword": "*huḍiń Ere",
@@ -24708,7 +24702,7 @@
         "word": "hurtuć",
         "word_simple": "HURTUC",
         "fone": "HURTU",
-        "definition": "an insect found in wet places, e.g. near where people regularly wash dishes, or near a dubi (dungheap); these are about 2 in. long, run along the ground and also fly and sometimes bite (sal didi and gurgūra are terms used for the same or similar insects)"
+        "definition": "an insect found in wet places, e.g. near where people regularly wash dishes, or near a dubi (dungheap); these are about 2 in. long, run along the ground and also fly and sometimes bite (sal didi and gurgúra are terms used for the same or similar insects)"
     },
     {
         "word": "huru ken",
@@ -24735,7 +24729,7 @@
         "definition": "a wooden bar used to bolt a door, a bolt; to bolt",
         "subwords": [
             {
-                "subword": "*huruka-kesed",
+                "subword": "*huruka-keset́",
                 "sub_definition": " to bolt inside (with a wooden bar)"
             }
         ]
@@ -24947,7 +24941,7 @@
                 "sub_definition": "absolutely not"
             },
             {
-                "subword": "*ká jomê oaḱrenko",
+                "subword": "*ká jomè oaḱ renko",
                 "sub_definition": "those from houses (families) with whom one does not eat and drink; outcastes"
             },
             {
@@ -24955,8 +24949,8 @@
                 "sub_definition": "otherwise (also banredo)"
             },
             {
-                "subword": "*káreyō",
-                "sub_definition": "even if not; often used followed by ka with the meaning ‘might not even’ e.g. en hd kareyo kać senoḱa, ‘that man might not even go’"
+                "subword": "*káreó",
+                "sub_definition": "even if not; often used followed by ka with the meaning ‘might not even’ e.g. en hoo ká reó kać senoḱa, ‘that man might not even go’"
             },
             {
                 "subword": "*ká sarioḱ leka",
@@ -24975,20 +24969,20 @@
         "definition": "a crow"
     },
     {
-        "word": "kã",
+        "word": "Kã́",
         "word_simple": "KA",
         "fone": "KA",
         "definition": "the two lower ends of a triangular shaped arrow-head"
     },
     {
-        "word": "kã",
+        "word": "kãa",
         "word_simple": "KA",
         "fone": "KA",
         "definition": "of the eye, to be inflamed and red; conjuntivitis (also kãṛa)",
         "subwords": [
             {
                 "subword": "*kába",
-                "sub_definition": "the handle of a plough, a kara or an atágom"
+                "sub_definition": "the handle of a plough, a kara or an ataagom $"
             },
             {
                 "subword": "*kába nail",
@@ -25113,9 +25107,9 @@
         "definition": "the quack of a duck"
     },
     {
-        "word": "kãh-kõt́",
-        "word_simple": "KAH",
-        "fone": "KA",
+        "word": "kã́t́-kṍt́",
+        "word_simple": "KAT",
+        "fone": "KAT",
         "definition": "the call of a goose or of a crane (agomari)"
     },
     {
@@ -25777,14 +25771,14 @@
         "definition": "a cut off piece esp. of meat or fish; to cut off such a piece"
     },
     {
-        "word": "kanḍeyor Daru",
+        "word": "Kanḍeor Daru",
         "word_simple": "KANDEYOR",
         "fone": "KAND4OR",
         "definition": "a tree which has good wood usable for rafters and which is sometimes used for silkworm breeding, Prob. Bursera serrata, Colebr., Burseraceae, E.M., B.39/2, H.39/2/1",
         "subwords": [
             {
-                "subword": "*kanḍeyor lungam",
-                "sub_definition": "a variety of silkworm which feed on the kanḍeyor tree"
+                "subword": "*Kanḍeor Lungam",
+                "sub_definition": "a variety of silkworm which feed on the Kanḍeor tree"
             }
         ]
     },
@@ -26032,7 +26026,7 @@
         "word": "káṛ, káṛo",
         "word_simple": "KAD",
         "fone": "KAT",
-        "definition": "from very ancient times; sometimes used in the same meaning as jūg, q.v. (used often in the phrase munu káṛ, q.v.)",
+        "definition": "from very ancient times; sometimes used in the same meaning as júg, q.v. (used often in the phrase munu káṛ, q.v.)",
         "subwords": [
             {
                 "subword": "*káṛ banai",
@@ -26144,7 +26138,7 @@
         "word": "karaga",
         "word_simple": "KARAGA",
         "fone": "KAR4G4",
-        "definition": "used in prayers parallel with déwa, meaning uncertain (perhaps from Hindi ‘karigar’, an artisan)"
+        "definition": "used in prayers parallel with Dẽoa, meaning uncertain (perhaps from Hindi ‘karigar’, an artisan)"
     },
     {
         "word": "Karam bonga",
@@ -26278,7 +26272,7 @@
         "subwords": [
             {
                 "subword": "*karkaṭa tapaḍar",
-                "sub_definition": "used in prayers to refer to the place where hunters (the kepesedko) wait for the beaters to drive game toward them (reference obscure, the word taparar is used with the same meaning as hopon, ‘to wrestle’)"
+                "sub_definition": "used in prayers to refer to the place where hunters (the kepeset́ko) wait for the beaters to drive game toward them (reference obscure, the word taparar is used with the same meaning as hopon, ‘to wrestle’)"
             }
         ]
     },
@@ -26352,7 +26346,7 @@
         "word": "karsa",
         "word_simple": "KARSA",
         "fone": "KARS4",
-        "definition": "to slit the throat for sacrificial purposes (see also kolom karsa and ote karsa); sometimes used merely in the meaning of ‘to sacrifice’, esp. of a sacrifice without previous agom to desaulior nage era; to cut one’s foot e.g. against a sharp stone (had-karsa can also be used for this) ."
+        "definition": "to slit the throat for sacrificial purposes (see also kolom karsa and ote karsa); sometimes used merely in the meaning of ‘to sacrifice’, esp. of a sacrifice without previous agom to desaulior nage era; to cut one’s foot e.g. against a sharp stone (hat́-karsa can also be used for this) ."
     },
     {
         "word": "karsi",
@@ -26436,7 +26430,7 @@
             },
             {
                 "subword": "*Kaṭa biden",
-                "sub_definition": "to stand or walk on tiptoes (refl. form, see bid, bid-bid)"
+                "sub_definition": "to stand or walk on tiptoes (refl. form, see bid, bit́-bit́)"
             },
             {
                 "subword": "*Kaṭa-chambara",
@@ -26888,10 +26882,10 @@
         "word": "kele-kotet́",
         "word_simple": "KELE",
         "fone": "KEL4",
-        "definition": "to search for something from place to place in excited haste; used esp. of a hen the sound, looking for a place to lay her eggs; figur. -kele-koted-banam would be said in scolding to a girl who runs around bazars, feasts, etc. looking for a man to marry her",
+        "definition": "to search for something from place to place in excited haste; used esp. of a hen the sound, looking for a place to lay her eggs; figur. -kele-koṭet́-banam would be said in scolding to a girl who runs around bazars, feasts, etc. looking for a man to marry her",
         "subwords": [
             {
-                "subword": "*kele-koted-lagan",
+                "subword": "*kele-koṭet́-lagan",
                 "sub_definition": "to exhaust oneself running around (as above)"
             }
         ]
@@ -26930,7 +26924,7 @@
         "word": "keneset́",
         "word_simple": "KENESET",
         "fone": "KEN4S4T",
-        "definition": "an obstacle (verbal noun of kesed)"
+        "definition": "an obstacle (verbal noun of keset́)"
     },
     {
         "word": "keneteć",
@@ -26966,7 +26960,7 @@
         "word": "kepeset́",
         "word_simple": "KEPESET",
         "fone": "KEP4S4T",
-        "definition": "same as epesed, q.v. (recip. of kesed)"
+        "definition": "same as epeset́, q.v. (recip. of keset́)"
     },
     {
         "word": "kepeya",
@@ -27048,7 +27042,7 @@
         "word": "kere-bore",
         "word_simple": "KERE",
         "fone": "KER4",
-        "definition": "a sound made by kereyad (parrots); a joyful sound of many birds or of conversing people (same as chere bere)"
+        "definition": "a sound made by Kereat́ (parrots); a joyful sound of many birds or of conversing people (same as chere bere)"
     },
     {
         "word": "kere-kere",
@@ -27081,8 +27075,8 @@
         "definition": "(to do something) quickly, in a rush"
     },
     {
-        "word": "kereyat́",
-        "word_simple": "KEREYAT",
+        "word": "kereat́",
+        "word_simple": "KEREAT",
         "fone": "KER4T",
         "definition": "a parrot"
     },
@@ -27117,20 +27111,20 @@
         "definition": "to check; to block; to prevent; to block in; to enclose; with Oaḱ or hatu as obj., to block off the intrusion of any harmful spirit e.g. by planting strongly scented herbs such as sirun dumbu, rotesela, bir sirimi, gaya sur, soso and mani jan mixed together",
         "subwords": [
             {
-                "subword": "*kesed-biur",
+                "subword": "*keset́-biur",
                 "sub_definition": "to block on all sides"
             },
             {
-                "subword": "*kesed-koton",
+                "subword": "*keset́-koṭoṅ",
                 "sub_definition": "to block"
             }
         ]
     },
     {
-        "word": "keteć",
+        "word": "keṭeć",
         "word_simple": "KETEC",
         "fone": "KET4",
-        "definition": "strong, firm (same as keyeć, q.v.)"
+        "definition": "strong, firm (same as keṭeć, q.v.)"
     },
     {
         "word": "kete-kete",
@@ -27139,7 +27133,7 @@
         "definition": "the sound of loud laughter (with verb landa)"
     },
     {
-        "word": "kete-kete",
+        "word": "keṭe-keṭe",
         "word_simple": "KETE",
         "fone": "KET4",
         "definition": "to shiver from the cold, with the teeth hitting together"
@@ -27223,10 +27217,10 @@
         ]
     },
     {
-        "word": "keyat́",
+        "word": "keat́",
         "word_simple": "KEYAT",
         "fone": "KE4T",
-        "definition": "a parrot (more commonly called kereyad)",
+        "definition": "a parrot (more commonly called kereat́)",
         "subwords": [
             {
                 "subword": "*keyad chadlom",
@@ -27309,10 +27303,10 @@
         "definition": "of the tail of a cock or the plume of a small egret, to be long and wavy; of grain stalks, to grow long and wavy"
     },
     {
-        "word": "kid-koron",
+        "word": "kit́-koṛoṅ",
         "word_simple": "KID",
         "fone": "KIT",
-        "definition": "the sound of the chep@-r bird, q.v.; sometimes used of the bird itself (also pid-poron)"
+        "definition": "the sound of the cheport́ bird, q.v.; sometimes used of the bird itself (also pit́-poṛoṅ)"
     },
     {
         "word": "kikir",
@@ -27356,7 +27350,7 @@
             },
             {
                 "subword": "*kilum-goć",
-                "sub_definition": "to kill by nailing, e.g. kurusreko kilum-goćkićya, ‘they crucified him’"
+                "sub_definition": "to kill by nailing, e.g. kurusreko kilum-goć ket́ića, ‘they crucified him’"
             },
             {
                 "subword": "*kilum-ipinAfin",
@@ -27380,14 +27374,14 @@
         "word": "kimin",
         "word_simple": "KIMIN",
         "fone": "KIMIN",
-        "definition": "daughter-in-law; one’s younger brother’s wife; the wife on one’s homon, q.v., or of one’s honsed, q.v.; to make one one’s kimin",
+        "definition": "daughter-in-law; one’s younger brother’s wife; the wife on one’s homon, q.v., or of one’s honseet́, q.v.; to make one one’s kimin",
         "subwords": [
             {
-                "subword": "*kimineya-hanareya",
+                "subword": "*kimineà-hanareà",
                 "sub_definition": "of a daughter -in-law and her mother-inlaw to take up some activity together"
             },
             {
-                "subword": "*kimineya-héyareya",
+                "subword": "*kimineà-héyareà",
                 "sub_definition": "of a woman and her father-in-law, to take up some activity together"
             },
             {
@@ -28381,7 +28375,7 @@
         "definition": "wooden sandals"
     },
     {
-        "word": "koroḱ-motoḱ",
+        "word": "koroḱ-moṭoḱ",
         "word_simple": "KOROK",
         "fone": "KORO",
         "definition": "of chillies, excessive dust, etc., to cause leprosy (also a painful congested sensation in the nose"
@@ -28805,7 +28799,7 @@
                 "sub_definition": "to coil or curl around"
             },
             {
-                "subword": "*kucha-hapan",
+                "subword": "*kucha-hapannn",
                 "sub_definition": "to remain still in a coiled or curled up position (refl. form)"
             },
             {
@@ -28813,7 +28807,7 @@
                 "sub_definition": "to bend vigorously up and down (as branches in a heavy wind)"
             },
             {
-                "subword": "*kucha-urgumen",
+                "subword": "*kucha-urgumenn",
                 "sub_definition": "to curl up so as to warm oneself (refl. form)"
             }
         ]
@@ -28873,7 +28867,7 @@
         "definition": "to carry on the back",
         "subwords": [
             {
-                "subword": "*kud-keset́",
+                "subword": "*kut́-keset́",
                 "sub_definition": "to cover up something carried on the back, e.g. a baby with a cloth"
             }
         ]
@@ -28885,7 +28879,7 @@
         "definition": "the Crimson-breasted Barbet (a bird, also called the Coppersmith); prob. also the Bluethroated Barbet as given by Tickell (cf. donga)",
         "subwords": [
             {
-                "subword": "*kud-kut́",
+                "subword": "*kut́-kut́",
                 "sub_definition": "the sound made by the kut́ bird; a like sound made by the queen white ant (bunum enga)"
             }
         ]
@@ -29174,7 +29168,7 @@
         "subwords": [
             {
                 "subword": "*kulae bétoḱ",
-                "sub_definition": "a plant growing close to the ground with roots much like those of the onion plant but very small. The leaves are about 4-5 in. long and resemble bamboo leaves"
+                "sub_definition": "a plant growing close to the ground with roots much like those of the onion plant but very small. The leaves are about 4-5 in. long and resemble bamboo leaves $"
             },
             {
                 "subword": "*Kulae Ić",
@@ -29395,21 +29389,21 @@
         "definition": "a dream, to dream"
     },
     {
-        "word": "kundam",
+        "word": "kunḍam",
         "word_simple": "KUNDAM",
         "fone": "KUND4M",
         "definition": "the back of a house, behind",
         "subwords": [
             {
-                "subword": "*kundam-kundam te",
+                "subword": "*kunḍam-kunḍam te",
                 "sub_definition": "along the backs of houses (with verbs of motion)"
             },
             {
-                "subword": "*kundam-pa sen",
+                "subword": "*kunḍam-paa sen",
                 "sub_definition": "to go to the back of a house; figur. -to go to urinate"
             },
             {
-                "subword": "*kundam salandi",
+                "subword": "*kunḍam salandi",
                 "sub_definition": "the back of a house"
             }
         ]
@@ -29509,7 +29503,7 @@
         ]
     },
     {
-        "word": "kuntu",
+        "word": "kunṭu",
         "word_simple": "KUNTU",
         "fone": "KUNTU",
         "definition": "a wooden post used e.g. In house building"
@@ -29743,7 +29737,7 @@
         "definition": "to sob (usually with affix. -leka and verb raḱ)",
         "subwords": [
             {
-                "subword": "*kusud-kusud tan",
+                "subword": "*kusut́-kusut́ tan",
                 "sub_definition": "the same of a continued action (with verb raḱ)"
             }
         ]
@@ -29782,7 +29776,7 @@
         "word": "ka-tapaḱ tan",
         "word_simple": "KA",
         "fone": "KA",
-        "definition": "to do some work with very strenuous exertion and in excited haste (with verb paiti, etc.) |"
+        "definition": "to do some work with very strenuous exertion and in excited haste (with verb paeṭi, etc.) |"
     },
     {
         "word": "Kuṭi",
@@ -30047,11 +30041,11 @@
                 "sub_definition": "a jingle on labar with the same meanings"
             },
             {
-                "subword": "*labar jí labar homoo",
+                "subword": "*labar jiv labar homoo",
                 "sub_definition": "at ease, at pence, in heart and body"
             },
             {
-                "subword": "*labar jí te/jibon te",
+                "subword": "*labar jiv te/jibon te",
                 "sub_definition": "with a relieved, peaceful heart, humbly"
             }
         ]
@@ -30190,7 +30184,7 @@
             },
             {
                 "subword": "*láć dul",
-                "sub_definition": "cholera (note usage - - desauli lāićkoć dulkoa, 'Desauli will cause them to have cholera and such sicknesses"
+                "sub_definition": "cholera (note usage - - desauli Láć koć dulkoa, 'Desauli will cause them to have cholera and such sicknesses"
             },
             {
                 "subword": "*láć-karcha",
@@ -30198,7 +30192,7 @@
             },
             {
                 "subword": "*láć rengeć",
-                "sub_definition": "hunger (used in expression daḱ tetaṅ onḍoḱ lāić rengećre, 'at time of thirst and hunger')"
+                "sub_definition": "hunger (used in expression Daḱ tetaṅ anḍoḱ Láć rengeć re, 'at time of thirst and hunger')"
             }
         ]
     },
@@ -30281,7 +30275,7 @@
         "definition": "born out of wedlock; to give birth to a child out of wedlock; adultery",
         "subwords": [
             {
-                "subword": "*lambi êra",
+                "subword": "*lambi Êra",
                 "sub_definition": "a woman of loose sexual morals; a prostitute"
             },
             {
@@ -30337,8 +30331,8 @@
         "definition": "the Paradise Fly-catcher (a bird)",
         "subwords": [
             {
-                "subword": "*láṅ dánchuḱ oe",
-                "sub_definition": "a term used in some places for the Racket Tailed Drongo (a bird in appearance much like a King Crow but with a very long tail, elsewhere called buru dānchuḱ, maraṅ dānchuḱ or binḍu dānchuḱ)"
+                "subword": "*láṅ Dã́chuḱ oe",
+                "sub_definition": "a term used in some places for the Racket Tailed Drongo (a bird in appearance much like a King Crow but with a very long tail, elsewhere called buru Dã́chuḱ, maraṅ Dã́chuḱ or binḍu dã́chuḱ)"
             }
         ]
     },
@@ -30375,11 +30369,11 @@
                 "sub_definition": "to ridicule causing shame or embarrassment"
             },
             {
-                "subword": "*landa-goćen",
+                "subword": "*landa-goćenn",
                 "sub_definition": "to die laughing, ie. to laugh very much (refl. form)"
             },
             {
-                "subword": "*landa-ênôṅ",
+                "subword": "*landa-inuṅ",
                 "sub_definition": "to pass the time pleasantly laughing and joking; with -te affix, to make fun of, e.g. landa-inuṅtīyako, they are making fun of him'"
             },
             {
@@ -30387,7 +30381,7 @@
                 "sub_definition": "to laugh and joke"
             },
             {
-                "subword": "*landa-saḍê",
+                "subword": "*landa-saḍi",
                 "sub_definition": "to make a laughing sound"
             },
             {
@@ -30458,7 +30452,7 @@
         "subwords": [
             {
                 "subword": "*langaḍa óṭ",
-                "sub_definition": "a name given by some to langaḍa pāṭ"
+                "sub_definition": "a name given by some to langaḍa páṭ"
             },
             {
                 "subword": "*langaḍa paaṭ",
@@ -30563,10 +30557,10 @@
         "definition": "a type of kite (bird)"
     },
     {
-        "word": "lár",
+        "word": "lavr",
         "word_simple": "LAR",
         "fone": "LAR",
-        "definition": "light in weight; easy; of crops quick to ripen, early; of one's spirit (Rva, Jiv, Jibon), to be easily given to fear, (in all the above lār is oppposite to hambal); of work, light; pass. to ‘have light work, to have it easy', e.g. koatanko esuko lavroḱa, ‘men have it very easy’ (see also labar)",
+        "definition": "light in weight; easy; of crops quick to ripen, early; of one's spirit (Rva, Jiv, Jibon), to be easily given to fear, (in all the above lavr is oppposite to hambal); of work, light; pass. to ‘have light work, to have it easy', e.g. koatanko esuko lavroḱa, ‘men have it very easy’ (see also labar)",
         "subwords": [
             {
                 "subword": "*Lavr Baba",
@@ -30620,7 +30614,7 @@
         "word": "láṛuḱ",
         "word_simple": "LADUK",
         "fone": "LADU",
-        "definition": "of fruit, to grow big. e.g. lāṛuge jōwakana, 'the fruit has grown big’",
+        "definition": "of fruit, to grow big. e.g. láṛu ge jó akana, 'the fruit has grown big’",
         "subwords": [
             {
                 "subword": "*láṛuḱ Hesaḱ Daru",
@@ -30665,7 +30659,7 @@
         "definition": "of leaves, very broad and big (see also laṭuḱ)",
         "subwords": [
             {
-                "subword": "*laṭaḱ há",
+                "subword": "*laṭaḱ Haku",
                 "sub_definition": "a kind of fish which is broad and flat."
             },
             {
@@ -30869,7 +30863,7 @@
         "definition": "soft; mild; to soothe e.g. an angry person",
         "subwords": [
             {
-                "subword": "*lebeć boa há",
+                "subword": "*lebeć boa Haku",
                 "sub_definition": "a variety of boa fish"
             }
         ]
@@ -30956,7 +30950,7 @@
         "word": "leka",
         "word_simple": "LEKA",
         "fone": "LEK4",
-        "definition": "like, as; approximately; worthy. As verbal affix to try, (i.e. to do something experimentally to see what it is like, Les. 27, 33); as verbal affix followed by-redo, if one is disposed or inclined, e.g. jomtai-lekaredoko merom miat́ko jomīya, ‘if they are so disposed they will eat a goat'; Note usage - - ka sātiń-daeoḱ leka, ‘unbearable' (not such as can be endured)"
+        "definition": "like, as; approximately; worthy. As verbal affix to try, (i.e. to do something experimentally to see what it is like, Les. 27, 33); as verbal affix followed by-redo, if one is disposed or inclined, e.g. jomtai-lekaredoko merom miat́ko jomīya, ‘if they are so disposed they will eat a goat'; Note usage - - ka sátiń-daeoḱ leka, ‘unbearable' (not such as can be endured)"
     },
     {
         "word": "leka",
@@ -31019,8 +31013,8 @@
         "definition": "of a snake or a long animal, to slink along the ground (esp. of a snake, but could be used e.g. of a tiger crouching down stalking some prey)"
     },
     {
-        "word": "leleḱ",
-        "word_simple": "LELEK",
+        "word": "leleć",
+        "word_simple": "LELEC",
         "fone": "LEL4",
         "definition": "to spit out food, seeds,etc (to spit out saliva beć)"
     },
@@ -31172,7 +31166,7 @@
         "word": "lépa",
         "word_simple": "LEPA",
         "fone": "LEP4",
-        "definition": "of the stomach, to be big, e.g. lēpa lāić, 'a big stomach, lēpageć lāićyana, he has a big stomach', lēpawoḱgeko dubakana, 'they sit down with big stomachs"
+        "definition": "of the stomach, to be big, e.g. lépa Láć, 'a big stomach, lépa geć láć eana, he has a big stomach', lépaoḱ gekó duṕ akana, 'they sit down with big stomachs"
     },
     {
         "word": "lepa-laṛi",
@@ -31474,7 +31468,7 @@
         "word": "lika",
         "word_simple": "LIKA",
         "fone": "LIK4",
-        "definition": "after a little while. (referring to a future action in expressions like auri lika, likanoḱ, see also nace which implies a time slightly later than lika would); almost (e.g. likae; ṭoḱkićya, ‘He almost hit him' used in the same way as choṭeć, q.v.; in this usage lika can refer to a past action"
+        "definition": "after a little while. (referring to a future action in expressions like auri lika, likanoḱ, see also nace which implies a time slightly later than lika would); almost (e.g. likae; ṭoḱ ket́ića, ‘He almost hit him' used in the same way as choṭeć, q.v.; in this usage lika can refer to a past action"
     },
     {
         "word": "likić-likić",
@@ -31579,7 +31573,7 @@
         ]
     },
     {
-        "word": "linḍa há",
+        "word": "linḍa Haku",
         "word_simple": "LINDA",
         "fone": "LIND4",
         "definition": "a small variety of fish"
@@ -31718,7 +31712,7 @@
         "word": "lisi-lisi",
         "word_simple": "LISI",
         "fone": "LISI",
-        "definition": "of a mother hen, to have the feathers standing up all over the body; of a person, to have his hair in disarray (cf. silsil and chūṭia of a fighting cock, to have feathers sticking up on the neck)"
+        "definition": "of a mother hen, to have the feathers standing up all over the body; of a person, to have his hair in disarray (cf. silsil and chúṭia of a fighting cock, to have feathers sticking up on the neck)"
     },
     {
         "word": "lisić-lisić tan",
@@ -32280,7 +32274,7 @@
         "word": "loa Bah",
         "word_simple": "LOA",
         "fone": "LO4",
-        "definition": "a plant about 2 ft. high whose deep coloured leaves give off a pleasant odour, prob. Ocimum basilicum, L., Labiatae, B.106/16, H.106/1/2, (This is called ḍimbu bā (q.v.) in the Sonua area)"
+        "definition": "a plant about 2 ft. high whose deep coloured leaves give off a pleasant odour, prob. Ocimum basilicum, L., Labiatae, B.106/16, H.106/1/2, (This is called ḍimbu Bah (q.v.) in the Sonua area)"
     },
     {
         "word": "loa Daru",
@@ -32524,7 +32518,7 @@
         "word": "lulu-puchu tan",
         "word_simple": "LULU",
         "fone": "LULU",
-        "definition": "same as lulu-lulu(tan), figur. to be scared stiff, e.g. (borote) lulu-puchu-chabayanae, He was completely scared stiff"
+        "definition": "same as lulu-lulu(tan), figur. to be scared stiff, e.g. (borote) lulu-puchu-chaba eanae, He was completely scared stiff"
     },
     {
         "word": "lum",
@@ -32686,7 +32680,7 @@
         "word": "lunṭi, lunuṭi",
         "word_simple": "LUNTI",
         "fone": "LUNTI",
-        "definition": "the lips (usually preceded by ā)"
+        "definition": "the lips (usually preceded by á)"
     },
     {
         "word": "luṉukić",
@@ -32800,7 +32794,7 @@
         "word": "luṭić",
         "word_simple": "LUTIC",
         "fone": "LUTI",
-        "definition": "to roll back the eyelid (met́ luṭić); to roll down the lower lip (ā luṭi); to roll back the outer surface of certain plants in order to make rope from the central part; to pull the stem (kamākom) from a leaf (as is done with certain leaves in order to make leaf cups)"
+        "definition": "to roll back the eyelid (met́ luṭić); to roll down the lower lip (á luṭi); to roll back the outer surface of certain plants in order to make rope from the central part; to pull the stem (kamákom) from a leaf (as is done with certain leaves in order to make leaf cups)"
     },
     {
         "word": "Luṭkum",
@@ -32830,7 +32824,7 @@
         "word": "Luṭukum Haam, Luṭukum buṛi",
         "word_simple": "LUTUKUM",
         "fone": "LUTUKUM",
-        "definition": "the names given by some Hos and by the Mundas to the first man and woman. (See Luku hām and Luku buṛi)"
+        "definition": "the names given by some Hos and by the Mundas to the first man and woman. (See Luku haam and Luku buḍi)"
     },
     {
         "word": "luṭuḱ-luṭuḱ",
@@ -33074,7 +33068,7 @@
         "word": "loa Bah",
         "word_simple": "LOA",
         "fone": "LO4",
-        "definition": "a plant about 2 ft. high whose deep coloured leaves give off a pleasant odour, prob. Ocimum basilicum, L., Labiatae, B.106/16, H.106/1/2, (This is called ḍimbu bā (q.v.) in the Sonua area)"
+        "definition": "a plant about 2 ft. high whose deep coloured leaves give off a pleasant odour, prob. Ocimum basilicum, L., Labiatae, B.106/16, H.106/1/2, (This is called ḍimbu Bah (q.v.) in the Sonua area)"
     },
     {
         "word": "loa Daru",
@@ -33318,7 +33312,7 @@
         "word": "lulu-puchu tan",
         "word_simple": "LULU",
         "fone": "LULU",
-        "definition": "same as lulu-lulu(tan), figur. to be scared stiff, e.g. (borote) lulu-puchu-chabayanae, He was completely scared stiff"
+        "definition": "same as lulu-lulu(tan), figur. to be scared stiff, e.g. (borote) lulu-puchu-chaba eanae, He was completely scared stiff"
     },
     {
         "word": "lum",
@@ -33480,7 +33474,7 @@
         "word": "lunṭi, lunuṭi",
         "word_simple": "LUNTI",
         "fone": "LUNTI",
-        "definition": "the lips (usually preceded by ā)"
+        "definition": "the lips (usually preceded by á)"
     },
     {
         "word": "luṉukić",
@@ -33594,7 +33588,7 @@
         "word": "luṭić",
         "word_simple": "LUTIC",
         "fone": "LUTI",
-        "definition": "to roll back the eyelid (met́ luṭić); to roll down the lower lip (ā luṭi); to roll back the outer surface of certain plants in order to make rope from the central part; to pull the stem (kamākom) from a leaf (as is done with certain leaves in order to make leaf cups)"
+        "definition": "to roll back the eyelid (met́ luṭić); to roll down the lower lip (á luṭi); to roll back the outer surface of certain plants in order to make rope from the central part; to pull the stem (kamákom) from a leaf (as is done with certain leaves in order to make leaf cups)"
     },
     {
         "word": "Luṭkum",
@@ -33621,10 +33615,10 @@
         "definition": "a kind of slate which can be easily cut, whitish in colour"
     },
     {
-        "word": "Luṭukum hám, Luṭukum buṛi",
+        "word": "Luṭukum Haam, Luṭukum Buḍi",
         "word_simple": "LUTUKUM",
         "fone": "LUTUKUM",
-        "definition": "the names given by some Hos and by the Mundas to the first man and woman. (See Luku hām and Luku buṛi)"
+        "definition": "the names given by some Hos and by the Mundas to the first man and woman. (See Luku haam and Luku buḍi)"
     },
     {
         "word": "luṭuḱ-luṭuḱ",
@@ -33685,7 +33679,7 @@
                 "sub_definition": "to wail someone in (to induce someone to enter by wailing, used in connection with keya-ader ceremony)"
             },
             {
-                "subword": "*raḱ-biyur",
+                "subword": "*raḱ-biur",
                 "sub_definition": "to wander about crying (e.g. a witch)"
             },
             {
@@ -33744,7 +33738,7 @@
         "subwords": [
             {
                 "subword": "*raba daṭa",
-                "sub_definition": "same as raba ā"
+                "sub_definition": "same as raba á"
             }
         ]
     },
@@ -33934,7 +33928,7 @@
         "word": "raga-choga",
         "word_simple": "RAGA",
         "fone": "RAG4",
-        "definition": "to be very rough and uneven, used of hard- ened clods of soil, thick and furrowed bark of a tree, the tough skin of an elephant's leg, rough suface of e.g. a wall or a stone"
+        "definition": "to be very rough and uneven, used of hardened clods of soil, thick and furrowed bark of a tree, the tough skin of an elephant's leg, rough suface of e.g. a wall or a stone"
     },
     {
         "word": "ragat́ ken",
@@ -34040,7 +34034,7 @@
         "word": "rai",
         "word_simple": "RAI",
         "fone": "RAI",
-        "definition": "daru a tree more commonly called rayū daru, q.v."
+        "definition": "daru a tree more commonly called rayú daru, q.v."
     },
     {
         "word": "raisi",
@@ -34071,7 +34065,7 @@
                 "sub_definition": "daru the Gul Mohur tree, Poinciana regia, Boj., Caesal piniaceae, B.54/21, H.54/9/1"
             },
             {
-                "subword": "*raja bajāṛa",
+                "subword": "*raja bajáṛa",
                 "sub_definition": "music made esp. by Gansis using their traditional instruments"
             },
             {
@@ -34109,19 +34103,19 @@
         "definition": "kingdom; royal; to rule",
         "subwords": [
             {
-                "subword": "*rājo danḍaḱ",
+                "subword": "*rájo danḍaḱ",
                 "sub_definition": "a royal scepter"
             },
             {
-                "subword": "*rājo dolan",
+                "subword": "*rájo dolan",
                 "sub_definition": "a royal palace"
             },
             {
-                "subword": "*rājo ganḍu",
+                "subword": "*rájo ganḍu",
                 "sub_definition": "a royal throne"
             },
             {
-                "subword": "*rājo mukuṭu",
+                "subword": "*rájo mukuṭu",
                 "sub_definition": "a royal crown"
             }
         ]
@@ -34176,7 +34170,7 @@
         "word": "raká-raká tan",
         "word_simple": "RAKA",
         "fone": "RAK4",
-        "definition": "to become very weak and thin from a long sickness, although one can still move around (used with verbs rikawoḱ etc., also in expressions such as rakā-rakā-chabayanać)"
+        "definition": "to become very weak and thin from a long sickness, although one can still move around (used with verbs rikawoḱ etc., also in expressions such as raká-raká-chaba eanać)"
     },
     {
         "word": "raká-rambat́",
@@ -34227,7 +34221,7 @@
         "definition": "brushwood or thorny branches used to protect a tree or to shut a path; to put the same; of a silkworm, to build the cocoon enclosing itself",
         "subwords": [
             {
-                "subword": "*ram-biyur",
+                "subword": "*ram-biur",
                 "sub_definition": "to surround with brushwood, etc. (as above)"
             },
             {
@@ -34270,7 +34264,7 @@
         "word": "rambah",
         "word_simple": "RAMBAH",
         "fone": "RAMB4",
-        "definition": "a green gram, a cultivated pulse, when the term is used alone it usually refers to a smooth-seed variety called urid in Hindi (see under bōr ramba). For other varieties of rambā see also under nangali rambā (also called jiliń rambā because of its long pods), and gangara rambā (also called goṛa rambā)"
+        "definition": "a green gram, a cultivated pulse, when the term is used alone it usually refers to a smooth-seed variety called urid in Hindi (see under bōr ramba). For other varieties of rambaa see also under nangali rambaa (also called jiliń rambaa because of its long pods), and gangara rambaa (also called goḍa rambaa)"
     },
     {
         "word": "rambut́",
@@ -34604,19 +34598,19 @@
         "word": "raṛa",
         "word_simple": "RADA",
         "fone": "RAD4",
-        "definition": "poetic form of rā, to untie"
+        "definition": "poetic form of raa, to untie"
     },
     {
         "word": "raṛa-ruṛu tan",
         "word_simple": "RADA",
         "fone": "RAD4",
-        "definition": "of large stones, to be numerous in some places, e.g. an upland; of large stones, trees, etc., to fall with a heavy thud (for this second meaning also rā-rū(tan)"
+        "definition": "of large stones, to be numerous in some places, e.g. an upland; of large stones, trees, etc., to fall with a heavy thud (for this second meaning also rá-rú (tan)"
     },
     {
         "word": "raṛeć",
         "word_simple": "RADEC",
         "fone": "RAD4",
-        "definition": "poetic form for rāeć, to cool, to console"
+        "definition": "poetic form for raeć, to cool, to console"
     },
     {
         "word": "rú-rútan",
@@ -34640,7 +34634,7 @@
         "word": "rãasa",
         "word_simple": "RASA",
         "fone": "RAS4",
-        "definition": "joy; to rejoice; pass. to become joyful (Les. 25,26); with -te affix, to take delight in, to love, e.g. enga ayaḱ honkoć rãasatekoa, a mother loves her children'; often used as a verbal affix meaning to enjoy the action expressed in the first root, e.g. rū-rãasawo; sepeḍko, ‘young men who enjoy beating the drums",
+        "definition": "joy; to rejoice; pass. to become joyful (Les. 25,26); with -te affix, to take delight in, to love, e.g. enga ayaḱ honkoć rãasatekoa, a mother loves her children'; often used as a verbal affix meaning to enjoy the action expressed in the first root, e.g. rú-rãasaoḱ sepeet́ ko, ‘young men who enjoy beating the drums",
         "subwords": [
             {
                 "subword": "*rãasa-aṅ",
@@ -34768,11 +34762,11 @@
         "word": "raić",
         "word_simple": "RAIC",
         "fone": "RAI",
-        "definition": "to stretch something out long and thin, e.g. a rubber; of e.g. a cat, to stretch one's body out; of a dẽwa, to call upon the help of his guru spirits (in this last sense ḍāko, q.v. is also used)",
+        "definition": "to stretch something out long and thin, e.g. a rubber; of e.g. a cat, to stretch one's body out; of a Dẽoa, to call upon the help of his guru spirits (in this last sense ḍáko, q.v. is also used)",
         "subwords": [
             {
-                "subword": "*rāić-hućoḱ",
-                "sub_definition": "to call to come (used esp. in prayers e.g. by a dẽwa calling upon some spirit to come)"
+                "subword": "*raić-hućoḱ",
+                "sub_definition": "to call to come (used esp. in prayers e.g. by a Dẽoa calling upon some spirit to come)"
             }
         ]
     },
@@ -34810,10 +34804,10 @@
         "word": "ráe",
         "word_simple": "RAE",
         "fone": "RA",
-        "definition": "advice (also rāe)",
+        "definition": "advice (also ráe)",
         "subwords": [
             {
-                "subword": "*rāy-sala",
+                "subword": "*ráe-sala",
                 "sub_definition": "advice"
             }
         ]
@@ -34828,7 +34822,7 @@
         "word": "raećoḱ",
         "word_simple": "RAECOK",
         "fone": "RAO",
-        "definition": "passive form of rāeć, to cool off; to cool one's anger"
+        "definition": "passive form of raeć, to cool off; to cool one's anger"
     },
     {
         "word": "rayú daru",
@@ -34930,7 +34924,7 @@
         "word": "reṕ-reṕ tan",
         "word_simple": "REP",
         "fone": "REP",
-        "definition": "a sound made by pulling up weeds, stalks, etc (with verb tāuć)"
+        "definition": "a sound made by pulling up weeds, stalks, etc (with verb tauć)"
     },
     {
         "word": "recheḱ ken",
@@ -34951,32 +34945,26 @@
         "definition": "the root e.g. of a tree, medicine; to use as a medicine; with anim. obj. to treat with medicine; pass. to take root",
         "subwords": [
             {
-                "subword": "*rēt́-bayer",
+                "subword": "*reht́-bayer",
                 "sub_definition": "a collective noun for objects (roots for poison and a rope for hanging) used for committing suicide"
             },
             {
-                "subword": "*rēt́-bugin",
+                "subword": "*reht́-bugin",
                 "sub_definition": "to cure by medicine"
             },
             {
-                "subword": "*rēt́-ranu",
+                "subword": "*reht́-ranu",
                 "sub_definition": "medicine; to treat with medicine"
             },
             {
-                "subword": "*rēt́-sunum",
+                "subword": "*reht́-sunum",
                 "sub_definition": "roots/medicine and oil mixed (cooked) together for medicinal purposes"
             },
             {
-                "subword": "*rēt́ urubah",
-                "sub_definition": "a variety of the uruba tree, also called soan urubā, q.v."
+                "subword": "*reht́ urubah",
+                "sub_definition": "a variety of the uruba tree, also called soan urubah, q.v."
             }
         ]
-    },
-    {
-        "word": "reḍio",
-        "word_simple": "REDIO",
-        "fone": "REDIO",
-        "definition": "a radio"
     },
     {
         "word": "ret́-ret́",
@@ -35024,7 +35012,7 @@
         "word": "rel daru",
         "word_simple": "REL",
         "fone": "REL",
-        "definition": "a palm (tāṛ) tree (see tāṛ daru)"
+        "definition": "a palm (táṛ) tree (see táṛ daru)"
     },
     {
         "word": "rela",
@@ -35042,13 +35030,13 @@
         "word": "relage",
         "word_simple": "RELAGE",
         "fone": "REL4G4",
-        "definition": "of reyaṛi, chana etc., to develop very small pods due to the lack of rain"
+        "definition": "of reaṛi, chana etc., to develop very small pods due to the lack of rain"
     },
     {
         "word": "remé-reṭeć",
         "word_simple": "REME",
         "fone": "REM4",
-        "definition": "undersized; very small remë-reteć kuda a type of kuda tree with very small fruit (see lā-lū kuda, a kuda tree with very large fruit)"
+        "definition": "undersized; very small remë-reteć kuda a type of kuda tree with very small fruit (see lá-lú kuda, a kuda tree with very large fruit)"
     },
     {
         "word": "remke-reṭeć",
@@ -35066,10 +35054,10 @@
         "word": "rená",
         "word_simple": "RENA",
         "fone": "REN4",
-        "definition": "verbal affix or affixed to adjectives absolutely, exceedingly (Les. 27); sometimes affixed to nouns, e.g. gusia-renā, 'the very owner himself",
+        "definition": "verbal affix or affixed to adjectives absolutely, exceedingly (Les. 27); sometimes affixed to nouns, e.g. gusia-rená, 'the very owner himself",
         "subwords": [
             {
-                "subword": "*esu-renā",
+                "subword": "*esu-rená",
                 "sub_definition": "very much indeed"
             }
         ]
@@ -35078,7 +35066,7 @@
         "word": "renḍe",
         "word_simple": "RENDE",
         "fone": "REND4",
-        "definition": "of a fruit, to be small or undersized e.g. due to a lack of rain, e.g. Jó renḍe eana or renḍe ge jó akana (the opposite to this is lāmbuḱ)"
+        "definition": "of a fruit, to be small or undersized e.g. due to a lack of rain, e.g. Jó renḍe eana or renḍe ge jó akana (the opposite to this is lámbuḱ)"
     },
     {
         "word": "renebet́",
@@ -35090,7 +35078,7 @@
         "word": "rengá",
         "word_simple": "RENGA",
         "fone": "REN4",
-        "definition": "same as -renā, q.v."
+        "definition": "same as -rená, q.v."
     },
     {
         "word": "rengeć",
@@ -35234,7 +35222,7 @@
         "word": "rẽ́rẽ́",
         "word_simple": "RERE",
         "fone": "RER4",
-        "definition": "a cricket found in trees which makes very loud noises, (note expression, rẽrẽ ḍukilekać gama-bāya, it is raining as though a cricket is urinating' ie. just a few drops here and there)"
+        "definition": "a cricket found in trees which makes very loud noises, (note expression, rẽrẽ ḍukilekać gama-baaèa, it is raining as though a cricket is urinating' ie. just a few drops here and there)"
     },
     {
         "word": "reset́",
@@ -35244,7 +35232,7 @@
         "subwords": [
             {
                 "subword": "*reset́-reset́",
-                "sub_definition": "tightly crowded, packed closely together resed-sob to fit tightly"
+                "sub_definition": "tightly crowded, packed closely together reset́-sóṕ to fit tightly"
             }
         ]
     },
@@ -35333,26 +35321,26 @@
         "definition": "coolness; cool; to cool off; to give birth (in reflexive form)",
         "subwords": [
             {
-                "subword": "*reyā-reyā",
+                "subword": "*reaa-reaa",
                 "sub_definition": "in coolness e.g. of the evening"
             }
         ]
     },
     {
-        "word": "reaṭa",
-        "word_simple": "REATA",
-        "fone": "RE4T4",
-        "definition": "poetic form for reyā, to cool"
+        "word": "reaṛa",
+        "word_simple": "READA",
+        "fone": "RE4D4",
+        "definition": "poetic form for reaa, to cool"
     },
     {
-        "word": "reaṛi",
+        "word": "reaḍi",
         "word_simple": "READI",
         "fone": "RE4DI",
         "definition": "rahar dal, Cajanus indicus, Spreng.. Papilionaceae, H.53/37/1, Β.53/14",
         "subwords": [
             {
-                "subword": "*reyaṛi jaṭa",
-                "sub_definition": "a stalk of the reyaṛi plant, useful for fencing"
+                "subword": "*reaḍi jaṭa",
+                "sub_definition": "a stalk of the reaḍi plant, useful for fencing"
             }
         ]
     },
@@ -35364,7 +35352,7 @@
         "subwords": [
             {
                 "subword": "*rẽyo-chẽyo",
-                "sub_definition": "a repeated creaking sound e.g. of a carrying stick (mār) bouncing up and down as one moves along or of a bullock car wheel which is not well oiled"
+                "sub_definition": "a repeated creaking sound e.g. of a carrying stick (már) bouncing up and down as one moves along or of a bullock car wheel which is not well oiled"
             }
         ]
     },
@@ -35432,7 +35420,7 @@
         "word": "rit́",
         "word_simple": "RIT",
         "fone": "RIT",
-        "definition": "to grind; refl. riḍen toḱ scrub oneself clean",
+        "definition": "to grind; refl. rit́enn to scrub oneself clean",
         "subwords": [
             {
                 "subword": "*rit́-amiṅ",
@@ -35440,10 +35428,10 @@
             },
             {
                 "subword": "*rit́ diri",
-                "sub_definition": "a grinding stone, ie, a flat stone on which one grinds (see gūgu)"
+                "sub_definition": "a grinding stone, ie, a flat stone on which one grinds (see gúgu)"
             },
             {
-                "subword": "*riḍen diri",
+                "subword": "*rit́enn diri",
                 "sub_definition": "a small stone used to scrub oneself when bathing"
             },
             {
@@ -35451,7 +35439,7 @@
                 "sub_definition": "to grind into powder"
             },
             {
-                "subword": "*ridt́-jego",
+                "subword": "*rit́-jego",
                 "sub_definition": "to squash by grinding"
             }
         ]
@@ -35652,7 +35640,7 @@
         "word": "rĩṛi-rĩṛi-rĩṛi",
         "word_simple": "RIDI",
         "fone": "RIDI",
-        "definition": "a cry of the mār chidu, q.v."
+        "definition": "a cry of the maar chidu, q.v."
     },
     {
         "word": "risa",
@@ -35676,7 +35664,7 @@
         "word": "rita",
         "word_simple": "RITA",
         "fone": "RIT4",
-        "definition": "not drunk, sober; e.g. rita reića, he is sober'; rita rebu jagareya, 'We will discuss when sober'"
+        "definition": "not drunk, sober; e.g. rita reića, he is sober'; rita rebu jagarèa, 'We will discuss when sober'"
     },
     {
         "word": "riṭiṅ",
@@ -35709,8 +35697,8 @@
         "definition": "of a tree, leafless; of a market place, etc., deserted (after all the people have gone)"
     },
     {
-        "word": "riyu-riyutan",
-        "word_simple": "RIYU",
+        "word": "riu-riutan",
+        "word_simple": "RIU",
         "fone": "RIU",
         "definition": "of rain, falling copiously in big drops (with verb gama)"
     },
@@ -35718,7 +35706,7 @@
         "word": "rō",
         "word_simple": "RO",
         "fone": "RO",
-        "definition": "an alternate form of reyō, even if, although"
+        "definition": "an alternate form of reó, even if, although"
     },
     {
         "word": "rō",
@@ -35733,7 +35721,7 @@
         "definition": "to dry; dried (note the usage haku rō, to dry fish' i.e. in order to preserve it for future eating); of the body, lean, emaciated; pass. verb to become dry or emaciated; noun a dried condition or state (e.g. of land)",
         "subwords": [
             {
-                "subword": "*rooh ā",
+                "subword": "*rooh á",
                 "sub_definition": "dry mouthed (from hunger or thirst), to become dry mouthed; disappointed due to some fruitless effort; to be thus disappointed"
             },
             {
@@ -35971,7 +35959,7 @@
                 "sub_definition": "freshly cooked rice (also called lolo manḍi)"
             },
             {
-                "subword": "*roka reyāntan era",
+                "subword": "*roka reaann tan era",
                 "sub_definition": "a woman giving birth for the first time"
             },
             {
@@ -35979,7 +35967,7 @@
                 "sub_definition": "sudden; suddenly, to do some action suddenly (sometimes used with tan affix followed by a verb form indicating the action done)"
             },
             {
-                "subword": "*roka toka",
+                "subword": "*roka ṭoka",
                 "sub_definition": "sarne as roka roka"
             }
         ]
@@ -36043,7 +36031,7 @@
         "definition": "of a swelling, wound, etc., to clear up; of the level of water, to become less (flood water abating)",
         "subwords": [
             {
-                "subword": "*rombot́-ādu",
+                "subword": "*rombot́-aagu",
                 "sub_definition": "of a swelling or the level of water, to go down"
             }
         ]
@@ -36076,7 +36064,7 @@
         "word": "rondo-rondo tan",
         "word_simple": "RONDO",
         "fone": "RONDO",
-        "definition": "of crabs, of the kāṛob marmar (a big scorpion), with claws extended (with verb of going, etc.)"
+        "definition": "of crabs, of the kaaṭoṕ marmar (a big scorpion), with claws extended (with verb of going, etc.)"
     },
     {
         "word": "ronga, rongam, rongate",
@@ -36302,26 +36290,26 @@
         "word": "rú",
         "word_simple": "RU",
         "fone": "RU",
-        "definition": "to beat e.g. drums; to beat up a person or an animal; see also rū(ken)",
+        "definition": "to beat e.g. drums; to beat up a person or an animal; see also rú(ken)",
         "subwords": [
             {
-                "subword": "*rū-ādu",
+                "subword": "*rú-aagu",
                 "sub_definition": "to come down (e.g. from a hill) beating (drums)"
             },
             {
-                "subword": "*rū-aṅ",
+                "subword": "*rú-aṅg",
                 "sub_definition": "to drum until dawn"
             },
             {
-                "subword": "*rū-baṭi",
+                "subword": "*rú-baṭi",
                 "sub_definition": "to beat (e.g. a person) making (him) fall over from a stand ing position"
             },
             {
-                "subword": "*rū-beṭa",
+                "subword": "*rú-beṭa",
                 "sub_definition": "to arrive at or bring to a destination while beating (drums)"
             },
             {
-                "subword": "*rú-goćen/gojen",
+                "subword": "*rú-goćenn",
                 "sub_definition": "to exert one's full energy ('kill oneself) in beating a drum (refl. form)"
             },
             {
@@ -36333,16 +36321,16 @@
                 "sub_definition": "to beat someone so that his waist is injured and he cannot straighten up"
             },
             {
-                "subword": "*rú-rāsaoḱ",
+                "subword": "*rú-rãasaoḱ",
                 "sub_definition": "to enjoy beating a drum (pass, form)"
             },
             {
                 "subword": "*rú-sala",
-                "sub_definition": "to select by beating (e.g. which of several drums one will buy) ru(ken) (5) of many people shout ing together, to make a loud noise (with verb iyu, etc.); of many birds or bees, to take flight with a noise of flapping wings or of buzzing (with verb uṭa, etc., e.g. oeko rūkenko uṭayana)"
+                "sub_definition": "to select by beating (e.g. which of several drums one will buy) ru(ken) (5) of many people shout ing together, to make a loud noise (with verb iu, etc.); of many birds or bees, to take flight with a noise of flapping wings or of buzzing (with verb uṭa, etc., e.g. oe ko rú kenkó uṭa eana)"
             },
             {
-                "subword": "*ru-rutan",
-                "sub_definition": "the same of continued shouting (with verb iyu, etc.) or of flying birds or bees making noise of flapping of wings or of buzzing (with verb saṛi, etc.); often used merely to indicate a large number, esp. of birds, e.g. oeko rū-rūtanako or oeko rū-rūtan menaḱkoa, 'the birds are numerous'; of water in a stream, to flow along making a noise (with verb haṛi, saṛi, etc.)"
+                "subword": "*rú-rú tan",
+                "sub_definition": "the same of continued shouting (with verb iu, etc.) or of flying birds or bees making noise of flapping of wings or of buzzing (with verb saṛi, etc.); often used merely to indicate a large number, esp. of birds, e.g. oe ko rú-rú tanako or oe ko rú-rú tan menaḱkoa, 'the birds are numerous'; of water in a stream, to flow along making a noise (with verb haḍi, saḍi, etc.)"
             }
         ]
     },
@@ -36500,7 +36488,7 @@
         "word": "rui piṛa",
         "word_simple": "RUI",
         "fone": "RUI",
-        "definition": "severe suffering afflicted through witchcraft (used in prayers with kāṛo piṛa, suni pir.a, rau pir.a, prob. implies 'under the influence of the sun' (cf. ruibar) as suni piṛa implies 'under the influence of Saturn' (cf. sunibar)"
+        "definition": "severe suffering afflicted through witchcraft (used in prayers with káṛo piṛa, suni pir.a, rau pir.a, prob. implies 'under the influence of the sun' (cf. ruibar) as suni piṛa implies 'under the influence of Saturn' (cf. sunibar)"
     },
     {
         "word": "ruji",
@@ -36600,7 +36588,7 @@
             },
             {
                 "subword": "*rumpa janum",
-                "sub_definition": "a local name for a bush elsewhere called būṭ janum, q.v."
+                "sub_definition": "a local name for a bush elsewhere called búṭ janum, q.v."
             },
             {
                 "subword": "*rumpa kode",
@@ -36699,17 +36687,17 @@
         ]
     },
     {
-        "word": "rūṅ",
+        "word": "ruuṅ",
         "word_simple": "RUNG",
         "fone": "RUN",
         "definition": "to poke, prod",
         "subwords": [
             {
-                "subword": "*rūṅ-aba",
+                "subword": "*ruuṅ-aba",
                 "sub_definition": "to poke causing a weakness in the waist"
             },
             {
-                "subword": "*rūṅ-darom",
+                "subword": "*ruuṅ-darom",
                 "sub_definition": "to confront or hold off by poking with a stick"
             }
         ]
@@ -36742,7 +36730,7 @@
         "word": "runuaa",
         "word_simple": "RUNUA",
         "fone": "RUNU4",
-        "definition": "a returning (verbal noun of ruwā)",
+        "definition": "a returning (verbal noun of ruaa)",
         "subwords": [
             {
                 "subword": "*runuaa hora",
@@ -36788,7 +36776,7 @@
         "word": "ruṛaa",
         "word_simple": "RUDA",
         "fone": "RUD4",
-        "definition": "poetic form of ruwā to return; verbal affix - back"
+        "definition": "poetic form of ruaa to return; verbal affix - back"
     },
     {
         "word": "ruṛi-ruṛi",
@@ -37028,7 +37016,7 @@
             },
             {
                 "subword": "*saṕ-kurkur",
-                "sub_definition": "to grab and make angry e.g. a fighting cock (more common for this is saṕ-rāgo)"
+                "sub_definition": "to grab and make angry e.g. a fighting cock (more common for this is saṕ-rágo)"
             },
             {
                 "subword": "*saṕ-lenḍe-lenḍe",
@@ -37265,7 +37253,7 @@
         "definition": "the sound of reaping (ir) and grazing (atiń)"
     },
     {
-        "word": "sad-sod tan",
+        "word": "sat́-sot́ tan",
         "word_simple": "SAD",
         "fone": "SAT",
         "definition": "to do something very quickly or in a very short time"
@@ -37308,7 +37296,7 @@
         "word": "saeká",
         "word_simple": "SAEKA",
         "fone": "SAK4",
-        "definition": "see saykā"
+        "definition": "see sayká"
     },
     {
         "word": "sagaḱ",
@@ -37440,7 +37428,7 @@
         "word": "saitiba",
         "word_simple": "SAITIBA",
         "fone": "SAITIB4",
-        "definition": "to preserve; to keep; to take care of; with era as obj, to keep a woman as though she is one's wife (erać satiba tat́ića, he 'keeps' a woman', but erać saitiba ket́ića, he fornicated with a woman', same as erać iḍkićya)",
+        "definition": "to preserve; to keep; to take care of; with era as obj, to keep a woman as though she is one's wife (erać satiba tat́ića, he 'keeps' a woman', but erać saitiba ket́ića, he fornicated with a woman', same as Êrać idi ket́ića)",
         "subwords": [
             {
                 "subword": "*saitiba-hapa",
@@ -37518,7 +37506,7 @@
         "word": "sakam",
         "word_simple": "SAKAM",
         "fone": "SAK4M",
-        "definition": "a leaf; a sheet of paper, page (sakam is used esp. of leaves used for eating and drinking purposes, i.e. from which kalgi, puḱ, etc. are made; in other contexts the word patā is usually used for leaf); figur. when asking for a girl in marriage if there are two or more sisters suba sakam is used to refer to the older (oldest) (since the lower leaves come out first), sirma sakam is used of the younger (youngest), and should there be a sister between them in age she would be referred to as tala sakam)"
+        "definition": "a leaf; a sheet of paper, page (sakam is used esp. of leaves used for eating and drinking purposes, i.e. from which kalgi, puḱ, etc. are made; in other contexts the word pataa is usually used for leaf); figur. when asking for a girl in marriage if there are two or more sisters suba sakam is used to refer to the older (oldest) (since the lower leaves come out first), sirma sakam is used of the younger (youngest), and should there be a sister between them in age she would be referred to as tala sakam)"
     },
     {
         "word": "saki",
@@ -37592,7 +37580,7 @@
         "word": "sakuṕ",
         "word_simple": "SAKUP",
         "fone": "SAKUP",
-        "definition": "same as saktū"
+        "definition": "same as sakú"
     },
     {
         "word": "sal",
@@ -37670,11 +37658,11 @@
         "word": "salae Bah diri",
         "word_simple": "SALAE",
         "fone": "SAL4",
-        "definition": "a smooth flat stone (about as big as can be held in one hand) into which certain dewas can supposedly call the special power of spirits (reference to salae bā not yet ascertained)",
+        "definition": "a smooth flat stone (about as big as can be held in one hand) into which certain dewas can supposedly call the special power of spirits (reference to salae Bah not yet ascertained)",
         "subwords": [
             {
                 "subword": "*salae Bah dirite sala nam",
-                "sub_definition": "to divine e.g. to find the whereabouts of a lost or stolen object by holding a salae bā diri (either the dewa himself or someone deputed by him holds the stone) while the dewa calls upon his guru spirits. Then the one holding the stone is led in s trance to the place where the lost or stolen object is. Some say that in some cases the stone if put down will even go by itself to the desired place"
+                "sub_definition": "to divine e.g. to find the whereabouts of a lost or stolen object by holding a salae Bah diri (either the dewa himself or someone deputed by him holds the stone) while the dewa calls upon his guru spirits. Then the one holding the stone is led in s trance to the place where the lost or stolen object is. Some say that in some cases the stone if put down will even go by itself to the desired place"
             }
         ]
     },
@@ -37682,7 +37670,7 @@
         "word": "salandi",
         "word_simple": "SALANDI",
         "fone": "SAL4NDI",
-        "definition": "poetic parallel for kundam, the back of a house"
+        "definition": "poetic parallel for kunḍam, the back of a house"
     },
     {
         "word": "salangi",
@@ -38410,7 +38398,7 @@
         "word": "sár",
         "word_simple": "SAR",
         "fone": "SAR",
-        "definition": "to increase of itself or with some preternatural or supernatural help; note the expression sār alokać iḍe said of a dead person at the time of the baba tela-uraa rite, meaning (we perform this rite) so that he may not take away (deprive us of) any superabundance (which we have been receiving)",
+        "definition": "to increase of itself or with some preternatural or supernatural help; note the expression sár alokać idiè said of a dead person at the time of the baba tela-uraa rite, meaning (we perform this rite) so that he may not take away (deprive us of) any superabundance (which we have been receiving)",
         "subwords": [
             {
                 "subword": "*sár baba",
@@ -38418,7 +38406,7 @@
             },
             {
                 "subword": "*sár-nam",
-                "sub_definition": "to receive an increase (as given under sār)"
+                "sub_definition": "to receive an increase (as given under sár)"
             }
         ]
     },
@@ -38426,7 +38414,7 @@
         "word": "sár",
         "word_simple": "SAR",
         "fone": "SAR",
-        "definition": "used with kaji means the main point or the essential matter of some discussion, etc. (mūṛ is sometimes used in the same way)"
+        "definition": "used with kaji means the main point or the essential matter of some discussion, etc. (múṛ is sometimes used in the same way)"
     },
     {
         "word": "sárge",
@@ -38501,7 +38489,7 @@
                 "sub_definition": "paddy sheaves heaped up on the threshing floor to be threshed"
             },
             {
-                "subword": "*sarai biyur",
+                "subword": "*sarai biur",
                 "sub_definition": "to make a sarai in a winding or circular shape (i.e. a binda sarai)"
             },
             {
@@ -38633,7 +38621,7 @@
                 "sub_definition": "to convince, make someone believe (that something is true)"
             },
             {
-                "subword": "*sari-jí",
+                "subword": "*sari-jiv",
                 "sub_definition": "a true heart, an honest, sincere spirit"
             },
             {
@@ -38641,7 +38629,7 @@
                 "sub_definition": "honestly, sincerely"
             },
             {
-                "subword": "*sari-jíten hoo",
+                "subword": "*sari-jivten hoo",
                 "sub_definition": "an honest, sincere person"
             },
             {
@@ -38770,7 +38758,7 @@
         "word": "saruṕ",
         "word_simple": "SARUP",
         "fone": "SARUP",
-        "definition": "of an evil spirit, to take possession of someone (inflicting harm on him. This is used mostly in two constructions, 1) with the spirit as subj. and the one possessed as dir. obj., e.g. Bonga sarubkićya, 'the spirit possessed him, or 2) with the spirit as subj. with a refl, verb and are affixed to the one possessed, e.g. inićre Bonga sarubentana (or sarubakana) sarub Bonga any spirit who takes possession of a person (also called sen sarub bonga, q.v.)",
+        "definition": "of an evil spirit, to take possession of someone (inflicting harm on him. This is used mostly in two constructions, 1) with the spirit as subj. and the one possessed as dir. obj., e.g. Bonga saruṕ ket́ića, 'the spirit possessed him, or 2) with the spirit as subj. with a refl, verb and are affixed to the one possessed, e.g. inićre Bonga sarubentana (or sarubakana) sarub Bonga any spirit who takes possession of a person (also called sen sarub bonga, q.v.)",
         "subwords": [
             {
                 "subword": "*saruṕ churdu",
@@ -38782,7 +38770,7 @@
         "word": "sásá",
         "word_simple": "SASA",
         "fone": "SAS4",
-        "definition": "cold (from cold water or contact with some cold object), Les. 26; in jest the passive could be used in the sense of 'to die', e.g. sāsāyanać, 'he died'",
+        "definition": "cold (from cold water or contact with some cold object), Les. 26; in jest the passive could be used in the sense of 'to die', e.g. sásá eanać, 'he died'",
         "subwords": [
             {
                 "subword": "*sásá daḱ",
@@ -38939,7 +38927,7 @@
         "definition": "refl. to deliberately throw oneself on a fire (cf. the former Hindu custom of a widow throwing herself on the funeral pyre of her husband); with dir. anim. obj. to deliberately throw a living being into a fire",
         "subwords": [
             {
-                "subword": "*sati-gojen",
+                "subword": "*sati-goćen",
                 "sub_definition": "to commit suicide by throwing oneself into a fire"
             }
         ]
@@ -38951,11 +38939,11 @@
         "definition": "to endure",
         "subwords": [
             {
-                "subword": "*sátiń-hapan",
+                "subword": "*sátiń-hapannn",
                 "sub_definition": "to endure in silence"
             },
             {
-                "subword": "*sátiń jí",
+                "subword": "*sátiń jiv",
                 "sub_definition": "a patient enduring spirit"
             },
             {
@@ -39246,7 +39234,7 @@
         "word": "sekaa",
         "word_simple": "SEKA",
         "fone": "SEK4",
-        "definition": "to complete, make ready; verbal affix completely, already (Les. 27) (the term sekāyana in certain contexts could mean, he is dead', 'he is finished off, e.g. when speaking of a robber. This would not be used in a context of respect.)"
+        "definition": "to complete, make ready; verbal affix completely, already (Les. 27) (the term sekaa eana in certain contexts could mean, he is dead', 'he is finished off, e.g. when speaking of a robber. This would not be used in a context of respect.)"
     },
     {
         "word": "Sekera",
@@ -39282,7 +39270,7 @@
         "word": "sekor",
         "word_simple": "SEKOR",
         "fone": "SEKOR",
-        "definition": "to spin around (as does a top); a top; poetic parallel of biyur, to wind around",
+        "definition": "to spin around (as does a top); a top; poetic parallel of biur, to wind around",
         "subwords": [
             {
                 "subword": "*sekor-biur",
@@ -39458,7 +39446,7 @@
             },
             {
                 "subword": "*sen-panti",
-                "sub_definition": "to go in the same line (side by side); while going to reach the same line as someone else, e.g. sen-pantikićyań, while going I came up side by side with him'"
+                "sub_definition": "to go in the same line (side by side); while going to reach the same line as someone else, e.g. sen-panti ket́ićań, while going I came up side by side with him'"
             },
             {
                 "subword": "*sen-paṛi/paṛil",
@@ -39538,7 +39526,7 @@
             },
             {
                 "subword": "*sen-utaraṅ",
-                "sub_definition": "to go by all means, to definitely go; sen-utaraṅ is used with the same meaning as sama sen or sama sen-utaraṅ in expressions such as (sama) sen-utaraṅ kam senê eana, You only had to go (no other work) and you did not go'"
+                "sub_definition": "to go by all means, to definitely go; sen-utaraṅ is used with the same meaning as sama sen or sama sen-utaraṅ in expressions such as (sama) sen-utaraṅ kam senè eana, You only had to go (no other work) and you did not go'"
             }
         ]
     },
@@ -39836,7 +39824,7 @@
         "word": "Serom",
         "word_simple": "SEROM",
         "fone": "SEROM",
-        "definition": "the nape of the neck (the back of the neck and the section between the shoulders below this); note the expression serom senoḱreyō. 'even if I die'",
+        "definition": "the nape of the neck (the back of the neck and the section between the shoulders below this); note the expression serom senoḱ reó. 'even if I die'",
         "subwords": [
             {
                 "subword": "*serom daḱ",
@@ -39890,7 +39878,7 @@
             },
             {
                 "subword": "*seta ambari",
-                "sub_definition": "a kind of epilepsy or convulsions where the sick person makes barking-type sounds seta āndi a nominal marriage to a dog of a child whose upper teeth appear first"
+                "sub_definition": "a kind of epilepsy or convulsions where the sick person makes barking-type sounds seta Aandi a nominal marriage to a dog of a child whose upper teeth appear first"
             },
             {
                 "subword": "*seta botoć",
@@ -40260,7 +40248,7 @@
             },
             {
                 "subword": "*siduṕ danaṅ",
-                "sub_definition": "to make something stand up (e.g. leafy branches) so as to hide (someone or something) siduṕ-kesed to make something stand so as to block off or prevent"
+                "sub_definition": "to make something stand up (e.g. leafy branches) so as to hide (someone or something) siduṕ-keset́ to make something stand so as to block off or prevent"
             },
             {
                 "subword": "*siduṕ-sopoloṅ",
@@ -40432,7 +40420,7 @@
         "word": "silsil",
         "word_simple": "SILSIL",
         "fone": "SILSIL",
-        "definition": "for the hairs to stand up e.g. of an angry fighting cock (compare chūṭia, q.v.); of a porcupine, to raise up its quills. (takes an a aspect marker to indicate someone against whom the quills are raised)"
+        "definition": "for the hairs to stand up e.g. of an angry fighting cock (compare chúṭia, q.v.); of a porcupine, to raise up its quills. (takes an a aspect marker to indicate someone against whom the quills are raised)"
     },
     {
         "word": "Sĩlsiṭić Oe",
@@ -40476,11 +40464,11 @@
             },
             {
                 "subword": "*Sim Jarom",
-                "sub_definition": "chicken's egg - figur. - a cock (used when making little of its value), e.g. miat́ sim-jarom senoḱyana, 'a mere cock went' (was lost in a fight)"
+                "sub_definition": "chicken's egg - figur. - a cock (used when making little of its value), e.g. miat́ sim-jarom senoḱ eana, 'a mere cock went' (was lost in a fight)"
             },
             {
                 "subword": "*Sim Jilu",
-                "sub_definition": "chicken meat; goose flesh, goose pimples caused by cold, used in such expressions as - sim jilū - tanać, 'he is getting goose pimples, sim-jilu-chabawoḱtanać he is getting goose pimples all over'"
+                "sub_definition": "chicken meat; goose flesh, goose pimples caused by cold, used in such expressions as - sim jiluoḱ tanać, 'he is getting goose pimples, sim-jilu-chabawoḱtanać he is getting goose pimples all over'"
             },
             {
                 "subword": "*Sim ko bolo singi",
@@ -40495,7 +40483,7 @@
                 "sub_definition": "the eye of a chicken; pass. verb to be unable to see properly at night"
             },
             {
-                "subword": "*Sim Paṛa",
+                "subword": "*Sim Paḍa",
                 "sub_definition": "the site of a cock fight"
             },
             {
@@ -40658,7 +40646,7 @@
         "subwords": [
             {
                 "subword": "*singi Bah",
-                "sub_definition": "the sunflower (more commonly called chanḍuḱ bā, q.v.)"
+                "sub_definition": "the sunflower (more commonly called Chanḍuḱ Bah, q.v.)"
             },
             {
                 "subword": "*Singi Bonga",
@@ -40734,7 +40722,7 @@
         "subwords": [
             {
                 "subword": "*sinkí ikir maraṅ Bonga",
-                "sub_definition": "name given to a spirit who reputedly stole the manḍal sakam of maraṅ Bonga and tied up with an iron chain (sinkī) dupub disum maraṅ Bonga and threw him into deep water (ikir) (this spirit also called kumbū maraṅ bonga)"
+                "sub_definition": "name given to a spirit who reputedly stole the manḍal sakam of maraṅ Bonga and tied up with an iron chain (sinkī) dupub disum maraṅ Bonga and threw him into deep water (ikir) (this spirit also called kumbuu maraṅ bonga)"
             }
         ]
     },
@@ -40778,7 +40766,7 @@
         "word": "sipi",
         "word_simple": "SIPI",
         "fone": "SIPI",
-        "definition": "to rinse out nāka hasa used for washing the hair",
+        "definition": "to rinse out naaka hasa used for washing the hair",
         "subwords": [
             {
                 "subword": "*sipi-enḍaḱ",
@@ -40976,7 +40964,7 @@
             },
             {
                 "subword": "*Sirma mã, sirma mata",
-                "sub_definition": "the phrase sirma mã (or mata or saṛa), sirma bichar is used in prayers by a dẽwa apparently referring to a heavenly power or deity in an abstract way with meaning something like 'the divine majesty'"
+                "sub_definition": "the phrase sirma mã (or mata or saṛa), sirma bichar is used in prayers by a Dẽoa apparently referring to a heavenly power or deity in an abstract way with meaning something like 'the divine majesty'"
             },
             {
                 "subword": "*sirma Munḍi",
@@ -40992,7 +40980,7 @@
             },
             {
                 "subword": "*sirma-udubkenko ote-udubkenko",
-                "sub_definition": "benign spirits whose intercession is sought e.g. on the occasion of bā porob. (This would seem to mean those who revealed the sky,...the earth' and is so used in the Ho Disum Ho Honko, book 2. However other Ho versions have been found using not sirma udubkenko but sirma undubkenko which would mean 'those who gave birth to the sky,..earth. Undub in Mundari means 'to give birth to' and is also known in parts of the Ho country)"
+                "sub_definition": "benign spirits whose intercession is sought e.g. on the occasion of Bah porob. (This would seem to mean those who revealed the sky,...the earth' and is so used in the Ho Disum Ho Honko, book 2. However other Ho versions have been found using not sirma udubkenko but sirma undubkenko which would mean 'those who gave birth to the sky,..earth. Undub in Mundari means 'to give birth to' and is also known in parts of the Ho country)"
             },
             {
                 "subword": "*sirma-utar",
@@ -41073,7 +41061,7 @@
         "definition": "a centipede, much like a sengel marmar, but bigger"
     },
     {
-        "word": "sisingi há",
+        "word": "sisingi Haku",
         "word_simple": "SISINGI",
         "fone": "SISINI",
         "definition": "a kind of fish which has a painful bite"
@@ -41492,7 +41480,7 @@
         "word": "soko-soko",
         "word_simple": "SOKO",
         "fone": "SOKO",
-        "definition": "excessively fat, e.g. soko-soko moṭākanać, 'He is excessively fat’"
+        "definition": "excessively fat, e.g. soko-soko moṭa akanać, 'He is excessively fat’"
     },
     {
         "word": "sokoa",
@@ -41636,7 +41624,7 @@
         "word": "somdi, somodi",
         "word_simple": "SOMDI",
         "fone": "SOMDI",
-        "definition": "the parent of one's child's husband or wife, used esp in the vocative (a form from Odia sometimes heard in songs. Proper Ho would be balataḍić)"
+        "definition": "the parent of one's child's husband or wife, used esp in the vocative (a form from Odia sometimes heard in songs. Proper Ho would be balatat́ić)"
     },
     {
         "word": "somjaw",
@@ -41807,9 +41795,9 @@
         ]
     },
     {
-        "word": "?sanoṛoḱ",
-        "word_simple": "?SANODOK",
-        "fone": "?S4NODO",
+        "word": "sonoroḱ",
+        "word_simple": "SONOROK",
+        "fone": "SONORO",
         "definition": "sticks which pass through holes in the doorposts on both sides to bar in (e.g. cattle in a cattle shed); to bar in by passing sticks through holes in this way (verbal noun of soroḱ); another name for the goja, or bandi sonoṛo, a pointed stick used for beating down paddy when putting it in a bandi"
     },
     {
@@ -41888,7 +41876,7 @@
         "word": "sor",
         "word_simple": "SOR",
         "fone": "SOR",
-        "definition": "to soak or blot up some liquid; to dip something into a liquid causing it to soak up the liquid, (used e.g. of putting a kati into poison, also of a kamar putting red-hot iron into water); to sniffle, to suck up nasal mucus with a noise; see also sor-goć and nū-sor)",
+        "definition": "to soak or blot up some liquid; to dip something into a liquid causing it to soak up the liquid, (used e.g. of putting a kati into poison, also of a kamar putting red-hot iron into water); to sniffle, to suck up nasal mucus with a noise; see also sor-goć and nú-sor)",
         "subwords": [
             {
                 "subword": "*sor-ader",
@@ -41904,7 +41892,7 @@
         "word": "sõr",
         "word_simple": "SOR",
         "fone": "SOR",
-        "definition": "to throw a javelin or any long thin round object; to throw sheaves of Sayú up to someone thatching a roof; refl. to soar through the air in a straight line without flapping the wings; of a snake, to dart forward; Note saying sõrkić lekać senoḱyana, ‘he darted straight ahead as though projected forward’",
+        "definition": "to throw a javelin or any long thin round object; to throw sheaves of Sayú up to someone thatching a roof; refl. to soar through the air in a straight line without flapping the wings; of a snake, to dart forward; Note saying sõrkić lekać senoḱ eana, ‘he darted straight ahead as though projected forward’",
         "subwords": [
             {
                 "subword": "*sõr-aagu",
@@ -41956,7 +41944,7 @@
         "subwords": [
             {
                 "subword": "*sorae Bah",
-                "sub_definition": "a name given to the nalgum bā (q.v.) because it blossoms about the time of the sorae feast"
+                "sub_definition": "a name given to the nalgum Bah (q.v.) because it blossoms about the time of the sorae feast"
             },
             {
                 "subword": "*sórae chanḍuḱ",
@@ -42328,18 +42316,18 @@
         "word": "suba",
         "word_simple": "SUBA",
         "fone": "SUB4",
-        "definition": "beneath, below, under; be subject to (note the expressions, hō suba, of a woman to be subject to a man, to be married; rengeć-suba rabaṅ suba (used in prayers), to be subject to hunger and cold, i.e. to be poor); with verbs of scolding, under the pretense of scolding e.g. a child or a chicken (to whom the scolding is addressed) to in fact scold someone else (for whom the scolding is intended), e.g. honre subataḍte enga hereleć gondekićya, 'Under the prsense of scolding the child the mother in fact scolded her husband",
+        "definition": "beneath, below, under; be subject to (note the expressions, hō suba, of a woman to be subject to a man, to be married; rengeć-suba rabaṅ suba (used in prayers), to be subject to hunger and cold, i.e. to be poor); with verbs of scolding, under the pretense of scolding e.g. a child or a chicken (to whom the scolding is addressed) to in fact scold someone else (for whom the scolding is intended), e.g. hon re suba tat́ te enga Hereleć gonde ket́ića, 'Under the pretense of scolding the child the mother in fact scolded her husband",
         "subwords": [
             {
                 "subword": "*suba-aagu",
                 "sub_definition": "to lower, hang low, subdue, subject"
             },
             {
-                "subword": "*suba jí",
+                "subword": "*suba jiv",
                 "sub_definition": "a humble spirit"
             },
             {
-                "subword": "*suba jíten hoo",
+                "subword": "*suba jivten hoo",
                 "sub_definition": "a humble, modest person"
             },
             {
@@ -42380,7 +42368,7 @@
         "word": "Sút́, sudu",
         "word_simple": "SUD",
         "fone": "SUT",
-        "definition": "interest (e.g on a loan. Villagers sometimes use honko or posapā for this)"
+        "definition": "interest (e.g on a loan. Villagers sometimes use honko or posapaa for this)"
     },
     {
         "word": "sut́buṅ ken",
@@ -42484,7 +42472,7 @@
         "subwords": [
             {
                 "subword": "*sũir aagu",
-                "sub_definition": "same as sũr-ādu"
+                "sub_definition": "same as sũr-aagu"
             }
         ]
     },
@@ -42516,7 +42504,7 @@
         "word": "sukae",
         "word_simple": "SUKAE",
         "fone": "SUK4",
-        "definition": "an alternate form of sukā"
+        "definition": "an alternate form of sukaa"
     },
     {
         "word": "suku",
@@ -42607,7 +42595,7 @@
         "definition": "to crowd out, suffocate (used of e.g. weeds cutting off the light, air, moisture, etc. from other plants)"
     },
     {
-        "word": "suli há",
+        "word": "suli Haku",
         "word_simple": "SULI",
         "fone": "SULI",
         "definition": "a fish which looks like the choṛa haku, but is bigger"
@@ -42650,7 +42638,7 @@
         "subwords": [
             {
                 "subword": "*sum dámchuḱ",
-                "sub_definition": "a particular bird found often near tree paRasites (more commonly called sun-dānchuḱ, q.v.)"
+                "sub_definition": "a particular bird found often near tree paRasites (more commonly called sun-dã́nchuḱ, q.v.)"
             }
         ]
     },
@@ -42741,10 +42729,10 @@
         "definition": "only"
     },
     {
-        "word": "sun dánchuḱ Oe",
+        "word": "sun Dã́chuḱ Oe",
         "word_simple": "SUN",
         "fone": "SUN",
-        "definition": "a green bird somewhat like a dānchuḱ (King Crow), villagers identify it as Jerdon's Chlorpsis"
+        "definition": "a green bird somewhat like a dã́nchuḱ (King Crow), villagers identify it as Jerdon's Chlorpsis"
     },
     {
         "word": "sunḍić",
@@ -42762,7 +42750,7 @@
         "word": "suni",
         "word_simple": "SUNI",
         "fone": "SUNI",
-        "definition": "a weak cold state of a person in which he tenses his limbs, e.g. hō homeć sāsākante suniteć tāućyoḱtana, 'When a man's body has become cold he tenses his limbs due to this weak cold condition'",
+        "definition": "a weak cold state of a person in which he tenses his limbs, e.g. hoo homooć sásá akante suni teć taućoḱ tana, 'When a man's body has become cold he tenses his limbs due to this weak cold condition'",
         "subwords": [
             {
                 "subword": "*suni-tauć",
@@ -43142,7 +43130,7 @@
         "word": "sú-sú",
         "word_simple": "SU",
         "fone": "SU",
-        "definition": "the steaming sound made by boiling paddy after the excess water is poured out until it is properly dried out and starts to crack (sā)"
+        "definition": "the steaming sound made by boiling paddy after the excess water is poured out until it is properly dried out and starts to crack (saa)"
     },
     {
         "word": "susun",
@@ -43214,7 +43202,7 @@
         "word": "suti",
         "word_simple": "SUTI",
         "fone": "SUTI",
-        "definition": "to come back to one's senses, e.g. after being drunk, in a trance, or in a deep sleep (to regain consciousness after being unconscious is sapātiń); figur. to come to one's senses (after foolish acting)",
+        "definition": "to come back to one's senses, e.g. after being drunk, in a trance, or in a deep sleep (to regain consciousness after being unconscious is sapátiń); figur. to come to one's senses (after foolish acting)",
         "subwords": [
             {
                 "subword": "*sutite",
@@ -43340,7 +43328,7 @@
         "word": "taḱ",
         "word_simple": "TAK",
         "fone": "TA",
-        "definition": "a suffix indicating an exact place (cf. -pā, which indicates an approximate place)"
+        "definition": "a suffix indicating an exact place (cf. -paa, which indicates an approximate place)"
     },
     {
         "word": "ṭá ken",
@@ -43411,7 +43399,7 @@
                 "sub_definition": "an earthen pot which is thrown down and broken, or at least left behind at the place where a mother who has recently given birth goes to bathe and to wash her clothes as a part of the purification rite"
             },
             {
-                "subword": "*tabaḱ-eḍaḱ",
+                "subword": "*tabaḱ-enḍaḱ",
                 "sub_definition": "to throw down intending to get rid of"
             },
             {
@@ -43487,10 +43475,10 @@
         "definition": "tough and rubbery, e.g. of something being chewed or something being pulled; of a fastened bow-string, to be somewhat looser than it should be; to be slow to obey or take up some work (see also uruć)"
     },
     {
-        "word": "tae Bah",
+        "word": "Taee Bah",
         "word_simple": "TAE",
         "fone": "TA",
-        "definition": "a water lily; also taṛae bā, q.v."
+        "definition": "a water lily; also taṛae bah, q.v."
     },
     {
         "word": "tãeḱ are",
@@ -43603,7 +43591,7 @@
                 "sub_definition": "to stay in a temporary residence (e.g. as a refuge)"
             },
             {
-                "subword": "*tae-hapann",
+                "subword": "*tae-hapannn",
                 "sub_definition": "to remain quiet, still (refl. form)"
             },
             {
@@ -43624,13 +43612,13 @@
         "word": "taenn",
         "word_simple": "TAENN",
         "fone": "TANN",
-        "definition": "to remain, stay (refl. form); to continue in some activity, e.g. jom-nūreko ṭaina, 'They keep eating and drinking', dubakangeko ṭaina, they remain sitting"
+        "definition": "to remain, stay (refl. form); to continue in some activity, e.g. jom-nú reko taena, 'They keep eating and drinking', dubakangeko ṭaina, they remain sitting"
     },
     {
         "word": "ṭaka",
         "word_simple": "TAKA",
         "fone": "TAK4",
-        "definition": "a rupee; nickel (a metal); verb form with a aspect marker, to gain money for someone, e.g. ṭakāḍkoać 'he gained money for them'",
+        "definition": "a rupee; nickel (a metal); verb form with a aspect marker, to gain money for someone, e.g. ṭakaat́koać 'he gained money for them'",
         "subwords": [
             {
                 "subword": "*taka andu",
@@ -43718,7 +43706,7 @@
         "word": "takić, ṭakić",
         "word_simple": "TAKIC",
         "fone": "TAKI",
-        "definition": "to hit any part of the body against something (note recip. usage - - Dama-Dumaṅ jaket́ko ṭapakića, 'they (dancers in a crowded Akaḍa) hit even against the drums",
+        "definition": "to hit any part of the body against something (note recip. usage - - Dama-Dumaṅ jaket́ko ṭapa ket́ića, 'they (dancers in a crowded Akaḍa) hit even against the drums",
         "subwords": [
             {
                 "subword": "*ṭakić-gao",
@@ -43878,7 +43866,7 @@
         "word": "talaṅ",
         "word_simple": "TALANG",
         "fone": "TAL4N",
-        "definition": "possessive pronoun, 1st per. dl. incl. (see -ta-). This is often used to associate the one addressed to the speaker, but to indicate that of the two of us you (or I) will do some action, e.g. am talaṅ dubme, ań tinguwakano;wa, You, my friend, sit, I will keep standing'"
+        "definition": "possessive pronoun, 1st per. dl. incl. (see -ta-). This is often used to associate the one addressed to the speaker, but to indicate that of the two of us you (or I) will do some action, e.g. am talaṅ duṕ me, ań tingu akanoḱa, You, my friend, sit, I will keep standing'"
     },
     {
         "word": "tale",
@@ -43949,7 +43937,7 @@
                 "sub_definition": "to hit so as to overturn or knock down"
             },
             {
-                "subword": "*tam-biyur",
+                "subword": "*tam-biur",
                 "sub_definition": "to beat about, e.g. to beat first one side and then another of a rice bandi when preparing it"
             },
             {
@@ -44208,7 +44196,7 @@
         "word": "taṅan",
         "word_simple": "TANGAN",
         "fone": "TAN4N",
-        "definition": "a varient form of tanga, 'separate"
+        "definition": "a varient form of tannga, 'separate"
     },
     {
         "word": "tanar",
@@ -44242,7 +44230,7 @@
         "word": "tanḍa",
         "word_simple": "TANDA",
         "fone": "TAND4",
-        "definition": "to spread the legs apart, e.g. tanḍākadać, 'he is standing with legs spread (when referring to women used as mage kaji)",
+        "definition": "to spread the legs apart, e.g. tanḍa akat́ać, 'he is standing with legs spread (when referring to women used as mage kaji)",
         "subwords": [
             {
                 "subword": "*tanḍa-manḍa tan",
@@ -44275,25 +44263,25 @@
         "definition": "to speak in a deep voice because one has a head-cold (see ṭṍt́)"
     },
     {
-        "word": "tanga",
+        "word": "tannga",
         "word_simple": "TANGA",
         "fone": "TAN4",
         "definition": "separate, apart; to separate",
         "subwords": [
             {
-                "subword": "*tanga-dapai",
-                "sub_definition": "each his own, separate (same as apan dapai, q.v.)"
+                "subword": "*tannga-dapae",
+                "sub_definition": "each his own, separate (same as apan dapae, q.v.)"
             },
             {
-                "subword": "*tangare",
+                "subword": "*tannga re",
                 "sub_definition": "separately, apart"
             },
             {
-                "subword": "*tanga-tanga",
-                "sub_definition": "same as tanga- dapai"
+                "subword": "*tannga-tannga",
+                "sub_definition": "same as tannga- dapae"
             },
             {
-                "subword": "*tanga-tapanga",
+                "subword": "*tannga-tapannga",
                 "sub_definition": "separation (Les.46)"
             }
         ]
@@ -44448,7 +44436,7 @@
         "word": "tapam-rupú",
         "word_simple": "TAPAM",
         "fone": "TAP4M",
-        "definition": "a collective noun and verb meaning to battle, fight one another (recip of tam-rū)"
+        "definition": "a collective noun and verb meaning to battle, fight one another (recip of tam-rú)"
     },
     {
         "word": "ṭapan",
@@ -44460,7 +44448,7 @@
         "word": "ṭapara",
         "word_simple": "TAPARA",
         "fone": "TAP4R4",
-        "definition": "of paddy being boiled for husking, to become burned (rongo) and stick to the pot when kept too long after being put back on the stove (tiń-sā) after water has been poured off (recip. of ṭara)"
+        "definition": "of paddy being boiled for husking, to become burned (rongo) and stick to the pot when kept too long after being put back on the stove (tiń-sá) after water has been poured off (recip. of ṭara)"
     },
     {
         "word": "tapaṛar",
@@ -44481,16 +44469,16 @@
         "definition": "of ducks, chickens, doves, etc., to waddle along with a big body and short legs; also used of small fat children (with verbs of going)"
     },
     {
-        "word": "tapaaić-tapanga",
+        "word": "tapaaić-tapannga",
         "word_simple": "TAPAIC",
         "fone": "TAP4I",
-        "definition": "dissension (pulling apart and not getting along together) (recip of tāuć and tanga)"
+        "definition": "dissension (pulling apart and not getting along together) (recip of tauć and tannga)"
     },
     {
         "word": "tapeḱ",
         "word_simple": "TAPEK",
         "fone": "TAP4",
-        "definition": "to sit on the ground with the legs to one side or forward (as distinct from duṕ-binḍu, to squat with the legs crossed under one', and chuchungūr, to sit on the hauches'",
+        "definition": "to sit on the ground with the legs to one side or forward (as distinct from duṕ-binḍu, to squat with the legs crossed under one', and chuchungurt́, to sit on the hauches'",
         "subwords": [
             {
                 "subword": "*tapeḱ jaṭaṅ",
@@ -44546,7 +44534,7 @@
         "word": "tapuḱ",
         "word_simple": "TAPUK",
         "fone": "TAPU",
-        "definition": "pregnant; pass. to be/become pregnant (not a polite term, better is homōpā tain)",
+        "definition": "pregnant; pass. to be/become pregnant (not a polite term, better is homoopaa taen)",
         "subwords": [
             {
                 "subword": "*tapuḱ ḍuki",
@@ -44554,7 +44542,7 @@
             },
             {
                 "subword": "*tapuḱ láć",
-                "sub_definition": "the big belly of a pregnant woman (tapuḱ lāić lekanić is sometimes said in jest of a man with a big stomach)"
+                "sub_definition": "the big belly of a pregnant woman (tapuḱ Láć lekanić is sometimes said in jest of a man with a big stomach)"
             }
         ]
     },
@@ -44562,11 +44550,11 @@
         "word": "tár",
         "word_simple": "TAR",
         "fone": "TAR",
-        "definition": "to spread out paddy sheaves and have cattle thresh them by walking on them (this refers primarily to the spreading out of the sheaves, but it is sometimes used of the whole process, also sometimes it is used with a short a, tar rather than tār)",
+        "definition": "to spread out paddy sheaves and have cattle thresh them by walking on them (this refers primarily to the spreading out of the sheaves, but it is sometimes used of the whole process, also sometimes it is used with a short a, tar rather than tár)",
         "subwords": [
             {
                 "subword": "*tár-jan",
-                "sub_definition": "to detach grains from their stalks by spreading out the stalks and have cattle walk on them tar-nam to finish the threshing (as given under tār)"
+                "sub_definition": "to detach grains from their stalks by spreading out the stalks and have cattle walk on them tar-nam to finish the threshing (as given under tár)"
             }
         ]
     },
@@ -44590,7 +44578,7 @@
         "subwords": [
             {
                 "subword": "*tara chaṭaḱ",
-                "sub_definition": "one half (e.g. of land to be divided, ańaḱ tara chaṭaḱ rājo, 'one half of my kingdom'"
+                "sub_definition": "one half (e.g. of land to be divided, ańaḱ tara chaṭaḱ rájo, 'one half of my kingdom'"
             },
             {
                 "subword": "*tara mara",
@@ -44598,7 +44586,7 @@
             },
             {
                 "subword": "*tara-paan",
-                "sub_definition": "refl. form to show favouritism, inclining towards (-pā) some' used with verb bichar, nel, etc."
+                "sub_definition": "refl. form to show favouritism, inclining towards (-paa) some' used with verb bichar, nel, etc."
             },
             {
                 "subword": "*tara...tara",
@@ -44774,7 +44762,7 @@
         "word": "táṛo",
         "word_simple": "TADO",
         "fone": "TADO",
-        "definition": "see tāṛ"
+        "definition": "see táṛ"
     },
     {
         "word": "ṭáṛo",
@@ -44840,7 +44828,7 @@
         "word": "tár-túr tan",
         "word_simple": "TAR",
         "fone": "TAR",
-        "definition": "utterly confused, not knowing what is going on, e.g. after a severe knock on the head or on the ear, e.g. tar-turtaneć chapaṛakićya, 'he slapped him so hard that he did not know what was happening'"
+        "definition": "utterly confused, not knowing what is going on, e.g. after a severe knock on the head or on the ear, e.g. tar-tur taneć chapaṛa ket́ića, 'he slapped him so hard that he did not know what was happening'"
     },
     {
         "word": "taṛić-maṛić",
@@ -44945,7 +44933,7 @@
         "definition": "of many, half each (e.g. each one receiving a half Puuḱ of rice-beer) (distributive form from tala, ef. mimiat́, one each, from miat́)"
     },
     {
-        "word": "ṭaṭanga choṛa há",
+        "word": "ṭaṭanga choṛa Haku",
         "word_simple": "TATANGA",
         "fone": "TAT4N4",
         "definition": "a chora fish, about 4 inches long and with rough scales"
@@ -44957,7 +44945,7 @@
         "definition": "a tall reed-like grass prob. Apluda varia, Hack. Inc. sub -sp. mutica and aristata, Gramineae, H.139/81/1",
         "subwords": [
             {
-                "subword": "*ṭaṭi-biyur",
+                "subword": "*ṭaṭi-biur",
                 "sub_definition": "to enclose by planting ṭaṭi reeds or some such sapplings or branches paṭi dumbu same as ṭaṭi"
             },
             {
@@ -44996,7 +44984,7 @@
             },
             {
                 "subword": "*ṭáuḱ-ṭáuḱ",
-                "sub_definition": "the cry made by the ṭāuḱ kula"
+                "sub_definition": "the cry made by the ṭáuḱ kula"
             }
         ]
     },
@@ -45024,11 +45012,11 @@
             },
             {
                 "subword": "*tauć-changá",
-                "sub_definition": "to pull apart (as in changā, q.v.)"
+                "sub_definition": "to pull apart (as in changá, q.v.)"
             },
             {
                 "subword": "*tauć-changola",
-                "sub_definition": "to stretch causing the mouth to be opened wide (with ā as object)"
+                "sub_definition": "to stretch causing the mouth to be opened wide (with Á as object)"
             },
             {
                 "subword": "*tauć-chooć",
@@ -45068,7 +45056,7 @@
             },
             {
                 "subword": "*tauć-ojá",
-                "sub_definition": "to pull and break off, e.g. a branch of a tree by pulling it with the hand (see hojā)"
+                "sub_definition": "to pull and break off, e.g. a branch of a tree by pulling it with the hand (see hojá)"
             },
             {
                 "subword": "*tauć-olt́",
@@ -45120,7 +45108,7 @@
         "subwords": [
             {
                 "subword": "*tauć-tumbal",
-                "sub_definition": "to pull up the left-overs after reaping; e.g. tāuć-tumbalteko asulentana 'they support themselves by pulling up the left-overs after reaping"
+                "sub_definition": "to pull up the left-overs after reaping; e.g. tauć-tumbal teko asulenn tana 'they support themselves by pulling up the left-overs after reaping"
             }
         ]
     },
@@ -45186,7 +45174,7 @@
         "word": "tayur",
         "word_simple": "TAYUR",
         "fone": "TAUR",
-        "definition": "poetic parallel of biyur, to wind about"
+        "definition": "poetic parallel of biur, to wind about"
     },
     {
         "word": "te",
@@ -45254,7 +45242,7 @@
         "word": "tedá",
         "word_simple": "TEDA",
         "fone": "TED4",
-        "definition": "affixed to a verb form, implies some causality, e.g. kam ayumetedā, 'since you don't hear’"
+        "definition": "affixed to a verb form, implies some causality, e.g. kam ayumè tedá, 'since you don't hear’"
     },
     {
         "word": "tega",
@@ -45299,7 +45287,7 @@
                 "sub_definition": "to trample down into dust"
             },
             {
-                "subword": "*tega-eḍaḱ",
+                "subword": "*tega-enḍaḱ",
                 "sub_definition": "to remove by treading on (e.g. weeds entwined around a plough)"
             },
             {
@@ -45466,7 +45454,7 @@
         "word": "tekeneḱ",
         "word_simple": "TEKENEK",
         "fone": "TEK4N4",
-        "definition": "of the teeth, to be small, well formed and close together (e.g. tekenećgeć daṭāna)"
+        "definition": "of the teeth, to be small, well formed and close together (e.g. tekeneć geć daṭaana)"
     },
     {
         "word": "teker-teker",
@@ -45562,7 +45550,7 @@
         "word": "ten",
         "word_simple": "TEN",
         "fone": "TEN",
-        "definition": "of a weight, to press down upon something; to weigh down with a burial stone, e.g. topākan hōko tenīya, 'they will put a burial stone over the buried man'",
+        "definition": "of a weight, to press down upon something; to weigh down with a burial stone, e.g. top akan hookó tenića, 'they will put a burial stone over the buried man'",
         "subwords": [
             {
                 "subword": "*ten diri",
@@ -46285,7 +46273,7 @@
                 "sub_definition": "same as tiki-choṛa"
             },
             {
-                "subword": "*tiki-eḍaḱ",
+                "subword": "*tiki-enḍaḱ",
                 "sub_definition": "to boil away in water, the final purification ceremony about 30 days after childbirth tiki-goso to partially boil (com- pare tiki-isin)"
             },
             {
@@ -46294,7 +46282,7 @@
             },
             {
                 "subword": "*tiki-sá",
-                "sub_definition": "same as tiń-sā, q.v."
+                "sub_definition": "same as tiṅg-sá, q.v."
             },
             {
                 "subword": "*tiki-tapaḱ",
@@ -46377,15 +46365,15 @@
                 "sub_definition": "to entertain by serving some drink"
             },
             {
-                "subword": "*til-jít́",
+                "subword": "*til-jivt́",
                 "sub_definition": "to give life or sustain in life by serving or providing something to drink"
             },
             {
-                "subword": "*til-jít́ Ḍiaṅ",
+                "subword": "*til-jivt́ Ḍiaṅ",
                 "sub_definition": "rice beer brought by neighbours and friends to the house where a person has died to be presented to the family and to those who attend and who help out at the burial"
             },
             {
-                "subword": "*til jinit́ ḍiaṅ",
+                "subword": "*til jinivt́ Ḍiaṅ",
                 "sub_definition": "same as the more commonly used term til-jivt́ Ḍiaṅ"
             },
             {
@@ -46500,7 +46488,7 @@
         "word": "tiṅg-honḍoć",
         "word_simple": "TING",
         "fone": "TIN",
-        "definition": "to boil paddy to the point where water is poured off prior to husking. The sequence of actions here would beć 1) tiń honḍoć, 2) tenḍaḱ, 3) tiń-sā, 4) tasi- rō, 5) ruṅ",
+        "definition": "to boil paddy to the point where water is poured off prior to husking. The sequence of actions here would beć 1) tiń honḍoć, 2) tenḍaḱ, 3) tiń-sá, 4) tasi- rō, 5) ruṅ",
         "subwords": [
             {
                 "subword": "*tiń-isin",
@@ -46579,7 +46567,7 @@
                 "sub_definition": "having reached a place to stand there (e.g. of those awaiting game to be driven toward them in a hunt, to 'cover' the area)"
             },
             {
-                "subword": "*tingu-biyur",
+                "subword": "*tingu-biur",
                 "sub_definition": "to stand around (some person, thing or place)"
             },
             {
@@ -46591,7 +46579,7 @@
                 "sub_definition": "to stand against; to resist; to stand to welcome someone"
             },
             {
-                "subword": "*tingu-eḍaḱ",
+                "subword": "*tingu-enḍaḱ",
                 "sub_definition": "to stand still for a long time"
             },
             {
@@ -46706,7 +46694,7 @@
         "word": "ṭipa-ṭopo",
         "word_simple": "TIPA",
         "fone": "TIP4",
-        "definition": "to add enough liquid to some mixture to make it pasty, i.e. between sakid (thickly congealed) and daḱ-daḱ (watery). For rice beer ṭipa-ṭopo would mean that it is too thick, Rice beer should be between ṭipa-ṭopo and daḱ-daḱ, i.e. sārge"
+        "definition": "to add enough liquid to some mixture to make it pasty, i.e. between sakid (thickly congealed) and daḱ-daḱ (watery). For rice beer ṭipa-ṭopo would mean that it is too thick, Rice beer should be between ṭipa-ṭopo and daḱ-daḱ, i.e. sárge"
     },
     {
         "word": "ṭipi",
@@ -46788,7 +46776,7 @@
         "subwords": [
             {
                 "subword": "*tiril chaṭakam",
-                "sub_definition": "used in prayers with the meaning of tiril danḍaḱ, 'a staff of the tiril tree'. Exact meaning of chaṭakam is not certain; sometimes a tiril branch is split and a white stone is put into the crevise, and then this is planted to ward off ā daṭa. There may be some reference to this in the term tiril chaṭakam"
+                "sub_definition": "used in prayers with the meaning of tiril danḍaḱ, 'a staff of the tiril tree'. Exact meaning of chaṭakam is not certain; sometimes a tiril branch is split and a white stone is put into the crevise, and then this is planted to ward off á daṭa. There may be some reference to this in the term tiril chaṭakam"
             },
             {
                 "subword": "*tiril guchaṅ",
@@ -46964,7 +46952,7 @@
     },
     {
         "word": "tiuḱ",
-        "word_simple": "TIYUK",
+        "word_simple": "TIUK",
         "fone": "TIU",
         "definition": "to reach up and take hold of in one hand, e.g. a fruit",
         "subwords": [
@@ -46981,16 +46969,16 @@
         "definition": "to hit e.g. a target with an arrow; to knock against; to make a catch of fish; pass. to befall; happen to (ṭoḱ has extensive idiomatic usages, e.g. Hasuć ṭoḱ eana, he was struck by a (contagious) disease'; puraḱ Kanarcha ṭoḱoḱa, 'there will be heavy expenses'; aćaḱ Bohḱ re Oaḱ-Duar reaḱ Boja ṭoḱoḱa, 'the burden of running the house will be his responsibility', am buginaḱ gem ṭoḱoḱa, 'good things will befall you'; Ḍiaṅ rágo redo bar-apé Maṭia redo joka-jokakô ṭoḱ baaoḱa, 'if rice beer is strong they will feel some effect by taking 2 or 3 maṭias of it')",
         "subwords": [
             {
-                "subword": "*toḱ-boro",
+                "subword": "*ṭoḱ-boro",
                 "sub_definition": "to cause fear by striking"
             },
             {
-                "subword": "*toḱ-pocha",
+                "subword": "*ṭoḱ-pocha",
                 "sub_definition": "to miss hitting (some target), pass. to miss being hit"
             },
             {
-                "subword": "*toḱ-toḱ",
-                "sub_definition": "the same as toḱ of a repeated action (e.g. a woodpecker tapping on a tree, someone knocking at a door, someone chopping down a tree)"
+                "subword": "*ṭoḱ-ṭoḱ",
+                "sub_definition": "the same as ṭoḱ of a repeated action (e.g. a woodpecker tapping on a tree, someone knocking at a door, someone chopping down a tree)"
             }
         ]
     },
@@ -47021,7 +47009,7 @@
                 "sub_definition": "to sever by chopping"
             },
             {
-                "subword": "*tobaṅ-eḍaḱ",
+                "subword": "*tobaṅ-enḍaḱ",
                 "sub_definition": "to chop off"
             },
             {
@@ -47082,7 +47070,7 @@
         "word": "ṭoć ken",
         "word_simple": "TOC",
         "fone": "TO",
-        "definition": "very quickly (used with verb gojoḱ, 'to die) (reference perhaps to the speed with which a cap-gun makes a ṭoć sound)",
+        "definition": "very quickly (used with verb goćoḱ, 'to die) (reference perhaps to the speed with which a cap-gun makes a ṭoć sound)",
         "subwords": [
             {
                 "subword": "*ṭoć rogo",
@@ -47185,7 +47173,7 @@
                 "sub_definition": "to tie together (e.g. branches) so as to form a fork"
             },
             {
-                "subword": "*tol-eḍaḱ",
+                "subword": "*tol-enḍaḱ",
                 "sub_definition": "to practically give away a cock by putting it up to fight against a cock with which it does not have a chance of winning"
             },
             {
@@ -47218,7 +47206,7 @@
             },
             {
                 "subword": "*tol-keṛeḱ",
-                "sub_definition": "to tie tightly tol-kesed to tie so as to block off, e.g. to blindfold the eyes; to enclose inside a cocoon tol-konja to tie fast two pieces of wood (e.g. of a seneyor) at a joint"
+                "sub_definition": "to tie tightly tol-keset́ to tie so as to block off, e.g. to blindfold the eyes; to enclose inside a cocoon tol-konja to tie fast two pieces of wood (e.g. of a seneyor) at a joint"
             },
             {
                 "subword": "*tol-para-paṭu/para-puṭu/paṭa-puṭu",
@@ -47444,7 +47432,7 @@
         "word": "ṭope tan",
         "word_simple": "TOPE",
         "fone": "TOP4",
-        "definition": "to have some sticky matter adhere, e.g.wet mud to the feet; to be clogged by some sticky matter; of numerous objects, to be clustered close together, e.g. fruit (ṭopetange jōwakana) or small flies (ṭopetangeko dubakana); a growth or excrescence (in this sense also ṭompe, q.v.); to cluster in great quantity or numbers (e.g. of flies one could say ṭope-chaba tat́ićako, 'they settled upon him in a thick cluster)",
+        "definition": "to have some sticky matter adhere, e.g.wet mud to the feet; to be clogged by some sticky matter; of numerous objects, to be clustered close together, e.g. fruit (ṭope tan ge jó akana) or small flies (ṭopetangeko dubakana); a growth or excrescence (in this sense also ṭompe, q.v.); to cluster in great quantity or numbers (e.g. of flies one could say ṭope-chaba tat́ićako, 'they settled upon him in a thick cluster)",
         "subwords": [
             {
                 "subword": "*ṭope kode",
@@ -47470,7 +47458,7 @@
         "word": "ṭopoḱ",
         "word_simple": "TOPOK",
         "fone": "TOPO",
-        "definition": "to hit against each other (recip. of toḱ); used of the action of pushing two cocks against each other before a fight; also used of two houses which touch one another"
+        "definition": "to hit against each other (recip. of ṭoḱ); used of the action of pushing two cocks against each other before a fight; also used of two houses which touch one another"
     },
     {
         "word": "topol",
@@ -47715,7 +47703,7 @@
         "definition": "a sound made by small frogs (also ṭeroe-ṭeroe, ṭeroe-reṭoe)"
     },
     {
-        "word": "toroṅ há",
+        "word": "toroṅ Haku",
         "word_simple": "TORONG",
         "fone": "TORON",
         "definition": "a large fish found in rivers (practically boneless except for the spine)"
@@ -47812,7 +47800,7 @@
         "word": "ṭoṭoka",
         "word_simple": "TOTOKA",
         "fone": "TOTOK4",
-        "definition": "danger (e.g. ṭoṭokareń ṭoḱyana, 'I was in a dangerous situation)"
+        "definition": "danger (e.g. ṭoṭokareń ṭoḱ eana, 'I was in a dangerous situation)"
     },
     {
         "word": "ṭoṭoro genda",
@@ -47836,7 +47824,7 @@
             },
             {
                 "subword": "*toa kṹyat́",
-                "sub_definition": "a name sometimes given to the kūyad plant because of its milk-like sap (also sometimes called sosoć kṹyad for the same reason)"
+                "sub_definition": "a name sometimes given to the kṹyat́ plant because of its milk-like sap (also sometimes called sosoć kṹyat́ for the same reason)"
             },
             {
                 "subword": "*toa manḍi",
@@ -47936,7 +47924,7 @@
         "word": "tú ken",
         "word_simple": "TU",
         "fone": "TU",
-        "definition": "a sound of spitting out saliva; sometimes tū is used as an exclamation of disgust (without actually spitting)"
+        "definition": "a sound of spitting out saliva; sometimes tú is used as an exclamation of disgust (without actually spitting)"
     },
     {
         "word": "ṭú ken",
@@ -47951,7 +47939,7 @@
         "definition": "to plug e.g. a cork, a rolled up leaf, etc. in a bottle",
         "subwords": [
             {
-                "subword": "*tubid-eset́",
+                "subword": "*tubit́-eset́",
                 "sub_definition": "to trap inside by plugging up the entrance of e.g. a bottle, a kumbad"
             }
         ]
@@ -47981,11 +47969,11 @@
         "definition": "to take out e.g. an arrow from a target, a thorn from a foot, sagaḱ from the clothes, the handle from a kudali or axe (in some of these usages the passive can mean 'to fall out, e.g. sar tut́ eana, the arrow fell out (of the target)); to take up something planted in the ground, e.g a trap (bale) for catching birds; to take off e.g. shoes, a bracelet, a shirt",
         "subwords": [
             {
-                "subword": "*tud-átu",
+                "subword": "*tut́-átu",
                 "sub_definition": "to take off and leave behind"
             },
             {
-                "subword": "*tud-olt́",
+                "subword": "*tut́-olt́",
                 "sub_definition": "to take out"
             }
         ]
@@ -48042,7 +48030,7 @@
         "word": "túkatuka",
         "word_simple": "TUKATUKA",
         "fone": "TUK4TUK4",
-        "definition": "same as tūkadoka, q.v."
+        "definition": "same as túkadoka, q.v."
     },
     {
         "word": "tuku",
@@ -48055,8 +48043,8 @@
                 "sub_definition": "the iron ring around the bottom of a husking pole (sambe alone also used for this); a sound made by the obor bird (the Indian Cuckoo)"
             },
             {
-                "subword": "*tukute biyur-nam",
-                "sub_definition": "see jarom tukute biyur nam"
+                "subword": "*tukute biur-nam",
+                "sub_definition": "see jarom tukute biur nam"
             },
             {
                 "subword": "*bar-tuku",
@@ -48151,7 +48139,7 @@
                 "sub_definition": "to lift out of the way"
             },
             {
-                "subword": "*tul-biyur",
+                "subword": "*tul-biur",
                 "sub_definition": "to carry around (used of carrying the corpse of a dead person counterclockwise an uneven number of times, usually seven, around a grave in which it is to be buried)"
             },
             {
@@ -48220,7 +48208,7 @@
         "word": "ṭulsa guru tulsa paaṭ",
         "word_simple": "TULSA",
         "fone": "TULS4",
-        "definition": "a guru bonga also called tulsa mā"
+        "definition": "a guru bonga also called tulsa má"
     },
     {
         "word": "tulić",
@@ -48347,7 +48335,7 @@
                 "sub_definition": "to be very reluctant to give something or to comply with some request (see secondary meaning of japit́)"
             },
             {
-                "subword": "*tumuṛulekan hoo",
+                "subword": "*tumuṛu lekan hoo",
                 "sub_definition": "a very quiet man"
             }
         ]
@@ -48356,13 +48344,13 @@
         "word": "tú-muṭu",
         "word_simple": "TU",
         "fone": "TU",
-        "definition": "the ceremony taking place on the night of the ote ili, (q.v.) feast, when the men of the village go from house to house collecting logs (muṭu) from which they make a communal fire"
+        "definition": "the ceremony taking place on the night of the Oteìli, (q.v.) feast, when the men of the village go from house to house collecting logs (muṭu) from which they make a communal fire"
     },
     {
         "word": "tuń",
         "word_simple": "TUNJ",
         "fone": "TUN",
-        "definition": "to shoot with an arrow (Note the expression, tuńkić lekaćseno yana, 'He went off as though shot by an arrow' (i.e. with a burst of speed)",
+        "definition": "to shoot with an arrow (Note the expression, tuń ket́ić lekać senoḱ eana, 'He went off as though shot by an arrow' (i.e. with a burst of speed)",
         "subwords": [
             {
                 "subword": "*tuń benḍekar bonga",
@@ -48386,7 +48374,7 @@
             },
             {
                 "subword": "*mit́ tuń",
-                "sub_definition": "with on shot (of an arrow), e.g. mid tuńteń goćkićya, I killed him with one shot'"
+                "sub_definition": "with on shot (of an arrow), e.g. mid tuńteń goć ket́ića, I killed him with one shot'"
             }
         ]
     },
@@ -48453,8 +48441,8 @@
         ]
     },
     {
-        "word": "ṭungaw",
-        "word_simple": "TUNGAW",
+        "word": "ṭungao",
+        "word_simple": "TUNGAO",
         "fone": "TUN4",
         "definition": "to prune the leprosy; a upper branches of a tree"
     },
@@ -48584,7 +48572,7 @@
         "word": "tupú",
         "word_simple": "TUPU",
         "fone": "TUPU",
-        "definition": "the sting of a bee (recip. form of tū)"
+        "definition": "the sting of a bee (recip. form of tú)"
     },
     {
         "word": "tuput́",
@@ -48608,7 +48596,7 @@
         "word": "ṭupuṅ",
         "word_simple": "TUPUNG",
         "fone": "TUPUN",
-        "definition": "a small insect which attacks plants and grains, found esp. on rambā plants; of such insects, to attack grain"
+        "definition": "a small insect which attacks plants and grains, found esp. on rambaa plants; of such insects, to attack grain"
     },
     {
         "word": "tupunḍu",
@@ -48802,7 +48790,7 @@
         "subwords": [
             {
                 "subword": "*turusi patá",
-                "sub_definition": "leaves of the 'tulsi' plant (used in oaḱ āndi and other ceremonies for sprinkling water)"
+                "sub_definition": "leaves of the 'tulsi' plant (used in oaḱ Aandi and other ceremonies for sprinkling water)"
             }
         ]
     },
@@ -48819,7 +48807,7 @@
         "definition": "to clear (lift) up the weeds or wood (branches, twigs, etc.) lying around on the ground (e.g. after a storm)",
         "subwords": [
             {
-                "subword": "*tusaṅ-eḍaḱ",
+                "subword": "*tusaṅ-enḍaḱ",
                 "sub_definition": "to clear out of the way (as under tusaṅ)"
             }
         ]
@@ -48936,7 +48924,7 @@
         "word": "ṭuḱ-ṭuḱ tan",
         "word_simple": "TUK",
         "fone": "TU",
-        "definition": "making a hollow sound e.g. by hitting against the kernel of some fruit (with verh ter or the like) (toḱ-toḱ would be used of the sound made by hitting against solid wood, and ṭeć-ṭeć of hitting against stone with e.g. a hammer)"
+        "definition": "making a hollow sound e.g. by hitting against the kernel of some fruit (with verh ter or the like) (ṭoḱ-ṭoḱ would be used of the sound made by hitting against solid wood, and ṭeć-ṭeć of hitting against stone with e.g. a hammer)"
     },
     {
         "word": "ṭuṭuka",
@@ -49054,7 +49042,7 @@
         "word": "daḱ dulbić oe",
         "word_simple": "DAK",
         "fone": "DA",
-        "definition": "a type of sandpiper (bird), also called gara dulbić, possibly the Wood or Spotted Sandpiper, see dulbić oe",
+        "definition": "a type of sandpiper (bird), also called Gaḍa dulbić, possibly the Wood or Spotted Sandpiper, see dulbić oe",
         "subwords": [
             {
                 "subword": "*daḱ ḍunḍuḱ",
@@ -49082,7 +49070,7 @@
             },
             {
                 "subword": "*Daḱ Káḱ",
-                "sub_definition": "a cormorant (bird), the Little Cormorant and perhaps also the Large Cormorant (also called gara Káḱ and unum Káḱ)"
+                "sub_definition": "a cormorant (bird), the Little Cormorant and perhaps also the Large Cormorant (also called Gaḍa Káḱ and unum Káḱ)"
             },
             {
                 "subword": "*daḱ Láć",
@@ -49118,7 +49106,7 @@
             },
             {
                 "subword": "*daḱ siraḱ",
-                "sub_definition": "the White Wagtail, also called gara siraḱ, see siraḱ"
+                "sub_definition": "the White Wagtail, also called Gaḍa siraḱ, see siraḱ"
             },
             {
                 "subword": "*daḱ sút́",
@@ -49151,6 +49139,12 @@
         "word_simple": "DA",
         "fone": "DA",
         "definition": "to block up flowing water"
+    },
+    {
+        "word": "ḍaṕ-ḍuṕ tan",
+        "word_simple": "DAP",
+        "fone": "DAP",
+        "definition": "a sound of a cart wheel knocking against stones or a like sound"
     },
     {
         "word": "dába",
@@ -49851,7 +49845,7 @@
         "definition": "to be partly enbedded in something (e.g. an arrow in an animal)",
         "subwords": [
             {
-                "subword": "*dangetl-hapann",
+                "subword": "*dangetl-hapannn",
                 "sub_definition": "to remain partly embedded (refl. form)"
             }
         ]
@@ -51107,7 +51101,7 @@
                 "sub_definition": "a sickness of women who have not yet born children. Their menstrual periods do not occur and their bodies waste away (also rooh chutuka)"
             },
             {
-                "subword": "*dinḍa hapanum",
+                "subword": "*dinḍa hapannum",
                 "sub_definition": "an unmarried young woman"
             },
             {
@@ -51120,7 +51114,7 @@
             },
             {
                 "subword": "*dinḍa Láć hon",
-                "sub_definition": "a first born child (also called pūruwa Láć hon or mutukul hon)"
+                "sub_definition": "a first born child (also called pũṛua Láć hon or mutukul hon)"
             },
             {
                 "subword": "*dinḍa ranḍi",
@@ -51888,7 +51882,7 @@
         "word": "dopoya-kupunḍam",
         "word_simple": "DOPOYA",
         "fone": "DOPO4",
-        "definition": "with backs to one another (eg. of two lines of people back to back sell- ing in the market) (recip. of doya kundam)"
+        "definition": "with backs to one another (eg. of two lines of people back to back sell- ing in the market) (recip. of doya kunḍam)"
     },
     {
         "word": "dor",
