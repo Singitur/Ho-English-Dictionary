@@ -48997,5 +48997,4299 @@
         "word_simple": "TUYUT",
         "fone": "TUT",
         "definition": "a throbbing sensation in a wound; a cry of the sĩlsiṭi bird, uttered flying high when rain is not imminent (see sĩlsiṭi-siṭi-siṭi) $last word 2"
+    },
+    {
+        "word": "da",
+        "word_simple": "DA",
+        "fone": "DA",
+        "definition": "interjection, 'give it here', e.g. da emańme, 'give it here to me'",
+        "subwords": [
+            {
+                "subword": "*da-to",
+                "sub_definition": "same as da"
+            },
+            {
+                "subword": "*daken-daken",
+                "sub_definition": "to have repeatedly said 'da' asking for something"
+            }
+        ]
+    },
+    {
+        "word": "-da",
+        "word_simple": "DA",
+        "fone": "DA",
+        "definition": "an enclitic usually implying contrast (same as the enclitic-do in meaning) (often following ge in the form-geda. When used without-ge the vowel is often lengthened -da",
+        "subwords": [
+            {
+                "subword": "*-daga",
+                "sub_definition": "da (as above) + the enclitic-ga (connoting respect) (when-ga is used the tendency is to use-da rather than -do"
+            }
+        ]
+    },
+    {
+        "word": "Daḱ",
+        "word_simple": "DAK",
+        "fone": "DA",
+        "definition": "water; to apply water to something; to turn something into water (e.g. an arrow by a sangar bonga, a foetus by a churdu bonga); pass. to become water; the expression okoćaḱ daḱ means 'whose child?' (i.e. seed, referring to the semen). This expression would not be used in mixed (male and female) company",
+        "subwords": [
+            {
+                "subword": "*daḱ chaṭu",
+                "sub_definition": "a chațu used for carrying water (as distinct from e.g. the manḍi chațu and the baba tiki chaṭu)"
+            },
+            {
+                "subword": "*daḱ-daḱ",
+                "sub_definition": "to apply water repeatedly; to be very watery (e.g. one's stool at time of diarrhoea); used figuratively in the passive with the meaning 'to be bothered, annoyed, concerned by something' (usually so used in neg. form)"
+            },
+            {
+                "subword": "*daḱ du-du",
+                "sub_definition": "steam"
+            },
+            {
+                "subword": "*daḱ dul",
+                "sub_definition": "to pour water, e.g. to water a garden; to pour water from a lota while praying e.g. to Desauli to get his blessing on silk worm cultivation antaksin enten beau)"
+            }
+        ]
+    },
+    {
+        "word": "daḱ dulbić oe",
+        "word_simple": "DAK",
+        "fone": "DA",
+        "definition": "a type of sandpiper (bird), also called gara dulbić, possibly the Wood or Spotted Sandpiper, see dulbić oe",
+        "subwords": [
+            {
+                "subword": "*daḱ ḍunḍuḱ",
+                "sub_definition": "water in which rice has been cooked (also ḍunḍuḱ daḱ)"
+            },
+            {
+                "subword": "*daḱ ḍunḍu biń",
+                "sub_definition": "a harmless water snakelow"
+            },
+            {
+                "subword": "*daḱ dunúṕ",
+                "sub_definition": "the bed of a body of water"
+            },
+            {
+                "subword": "*daḱ gama",
+                "sub_definition": "rain"
+            },
+            {
+                "subword": "*daḱ hora",
+                "sub_definition": "a course (e.g. a field) through which water runs, used in terms such as daḱ horalekan ote, daḱ hora reaḱ ote"
+            },
+            {
+                "subword": "*daḱ-jájo",
+                "sub_definition": "a sea-ship"
+            },
+            {
+                "subword": "*Daḱ Káḱ",
+                "sub_definition": "a cormorant (bird), the Little Cormorant and perhaps also the Large Cormorant (also called gara Káḱ and unum Káḱ)"
+            },
+            {
+                "subword": "*daḱ Láć",
+                "sub_definition": "the part of the stomach of an animal or a man where water is believed to be stored. It is said that if an animal is hit there, it will fall (E.M. gives 'the belly of cattle and goats below the kidney on the right side') i"
+            },
+            {
+                "subword": "*Daḱ lekan hoo",
+                "sub_definition": "a very mild person, one who does not easily get angry"
+            },
+            {
+                "subword": "*daḱ manḍi",
+                "sub_definition": "cooked rice in which water has been put so that it can be kept and eaten (cold) later (as distinct from freshly cooked hot rice called roka or lolo mandi)"
+            },
+            {
+                "subword": "*daḱ oroyoṅ",
+                "sub_definition": "a water snake, yellowish in colour"
+            },
+            {
+                "subword": "*daḱ ote",
+                "sub_definition": "a field in which once it rains the water remains until the harvest"
+            },
+            {
+                "subword": "*daḱ ringa",
+                "sub_definition": "drought"
+            },
+            {
+                "subword": "*daḱ-sakam",
+                "sub_definition": "a prospective bride (a term used by those making initial enquiries about a girl for marriage, implying one who will bring water and fetch firewood and leaves for the family meal)"
+            },
+            {
+                "subword": "*daḱ sim",
+                "sub_definition": "a chicken-like bird which frequents ponds, etc. the Little Grebe or Dabchick"
+            },
+            {
+                "subword": "*daḱ siraḱ",
+                "sub_definition": "the White Wagtail, also called gara siraḱ, see siraḱ"
+            },
+            {
+                "subword": "*daḱ sút́",
+                "sub_definition": "a village well, also called merely Sút́, q.v."
+            },
+            {
+                "subword": "*daḱ sunum",
+                "sub_definition": "urine (in front of mixed company people would more easily say this or pisab daḱ than duki)"
+            },
+            {
+                "subword": "*daḱ tetaṅ",
+                "sub_definition": "thirst (used as noun e.g. in expression daḱ tetań anḍoḱ Láć rengeć re, 'at time of thirst and hunger', also used as verb e.g. daḱ tetanintana, I thirst'"
+            },
+            {
+                "subword": "*daḱ umbae",
+                "sub_definition": "steam"
+            },
+            {
+                "subword": "*daḱ unum oe",
+                "sub_definition": "same as Daḱ Káḱ q.v."
+            },
+            {
+                "subword": "*daḱ uru",
+                "sub_definition": "a water beetle"
+            }
+        ]
+    },
+    {
+        "word": "dã́",
+        "word_simple": "DA",
+        "fone": "DA",
+        "definition": "to block up flowing water"
+    },
+    {
+        "word": "dába",
+        "word_simple": "DABA",
+        "fone": "DAB4",
+        "definition": "a fork of two branches in a tree; of flowing oil, to branch into two streams (see also doba)"
+    },
+    {
+        "word": "dabaḱ",
+        "word_simple": "DABAK",
+        "fone": "DAB4",
+        "definition": "to hobble cattle, i.e. to tie two feet (usually the forefeet) with a short rope so as to impede motion",
+        "subwords": [
+            {
+                "subword": "*dabaḱ-dabon",
+                "sub_definition": "used of dabaḱ) to control (figur."
+            }
+        ]
+    },
+    {
+        "word": "ḍaba",
+        "word_simple": "DABA",
+        "fone": "DAB4",
+        "definition": "lungam a variety of silkworm cocoon"
+    },
+    {
+        "word": "ḍaba-ḍubu",
+        "word_simple": "DABA",
+        "fone": "DAB4",
+        "definition": "to swim splashing noisily"
+    },
+    {
+        "word": "Ḍabara Buru",
+        "word_simple": "DABARA",
+        "fone": "DAB4R4",
+        "definition": "a hill mentioned in prayers"
+    },
+    {
+        "word": "dabi",
+        "word_simple": "DABI",
+        "fone": "DABI",
+        "definition": "the shoulder blade"
+    },
+    {
+        "word": "dabi",
+        "word_simple": "DABI",
+        "fone": "DABI",
+        "definition": "a stain on one's reputation, pass. of one's reputation to be stained or blemished (e.g. because one has been in jail, or has a case recorded against him in the kacheri) (possibly from the word dagi, a stain); figur. to accuse, e.g. dabiki yako, 'they accused him'"
+    },
+    {
+        "word": "dabi",
+        "word_simple": "DABI",
+        "fone": "DABI",
+        "definition": "a permanent weakness in the body after a serious fall; a section of a tree which has been cut as revealed by a new growth, eg. by a sum, q.v. or a new tender offshoot"
+    },
+    {
+        "word": "dabon",
+        "word_simple": "DABON",
+        "fone": "DABON",
+        "definition": "to suppress"
+    },
+    {
+        "word": "ḍabura",
+        "word_simple": "DABURA",
+        "fone": "DABUR4",
+        "definition": "to cause to sink down into some soft substance or into a liquid; pass, to sink down into a soft substance or liquid",
+        "subwords": [
+            {
+                "subword": "*ḍabura-goć",
+                "sub_definition": "to drown"
+            }
+        ]
+    },
+    {
+        "word": "dachaḱ-dachaḱ",
+        "word_simple": "DACHAK",
+        "fone": "DAC4",
+        "definition": "of chickens, to jump up and down slightly or to move forward slowly in small hops; of small birds, to hop along"
+    },
+    {
+        "word": "dachola",
+        "word_simple": "DACHOLA",
+        "fone": "DACOL4",
+        "definition": "a beard (more common is dariya)"
+    },
+    {
+        "word": "dachul",
+        "word_simple": "DACHUL",
+        "fone": "DACUL",
+        "definition": "to jump or bounce up and down",
+        "subwords": [
+            {
+                "subword": "*dachul-dachul",
+                "sub_definition": "the same of a repeated action, e.g. of a car bounching or a rough road"
+            }
+        ]
+    },
+    {
+        "word": "dada",
+        "word_simple": "DADA",
+        "fone": "DAD4",
+        "definition": "older brother (vocative)"
+    },
+    {
+        "word": "ḍáḍá",
+        "word_simple": "DADA",
+        "fone": "DAD4",
+        "definition": "bald (of the head of a man, with Bohḱ; also in songs or jest of the head of an elephant); bare of trees and shrubs (of a hillock)"
+    },
+    {
+        "word": "dadani",
+        "word_simple": "DADANI",
+        "fone": "DAD4NI",
+        "definition": "earnest money, a part payment made in advance for work to be done"
+    },
+    {
+        "word": "dadara",
+        "word_simple": "DADARA",
+        "fone": "DAD4R4",
+        "definition": "bald"
+    },
+    {
+        "word": "dat́-dut́ tan",
+        "word_simple": "DAT",
+        "fone": "DAT",
+        "definition": "to beat something repeatedly so as to raise dust; to finish off some work or many works quickly"
+    },
+    {
+        "word": "ḍaḍu",
+        "word_simple": "DADU",
+        "fone": "DADU",
+        "definition": "of the head, to be big (used as the nickname of a tiger)",
+        "subwords": [
+            {
+                "subword": "*ḍaḍu bohḱ",
+                "sub_definition": "big headed"
+            },
+            {
+                "subword": "*ḍaḍu muć",
+                "sub_definition": "an ant with a very big head and a smaller body"
+            }
+        ]
+    },
+    {
+        "word": "ḍaḍuru",
+        "word_simple": "DADURU",
+        "fone": "DADURU",
+        "definition": "bald"
+    },
+    {
+        "word": "dãe",
+        "word_simple": "DAE",
+        "fone": "DA",
+        "definition": "a victim for sacrifice; refl. to offer oneself as a victim",
+        "subwords": [
+            {
+                "subword": "*dãe daka",
+                "sub_definition": "collective noun for the victim and all things required for a sacrifice"
+            }
+        ]
+    },
+    {
+        "word": "dagaḱ",
+        "word_simple": "DAGAK",
+        "fone": "DAG4",
+        "definition": "to impede motion, e.g. a dhoti or skirt impeding the motion of the legs; of paddy, to resist the cutting action of the sickle"
+    },
+    {
+        "word": "daga",
+        "word_simple": "DAGA",
+        "fone": "DAG4",
+        "definition": "to make streaks or markings on something, e.g. to make streaked scars on a bullock with a red hot iron instrument in order to cure some sickness; to streak cattle with soso sunum for the same reason"
+    },
+    {
+        "word": "dage",
+        "word_simple": "DAGE",
+        "fone": "DAG4",
+        "definition": "baby talk for human excrement (also poṭo)"
+    },
+    {
+        "word": "dagi",
+        "word_simple": "DAGI",
+        "fone": "DAGI",
+        "definition": "a scar; stain; pass. to be scarred or stained; to have a stain on one's reputation"
+    },
+    {
+        "word": "dagun-dagun",
+        "word_simple": "DAGUN",
+        "fone": "DAGUN",
+        "definition": "of the hair, to stand somewhat up from the head and to wave in the breeze or with motion (see also danun-danun)"
+    },
+    {
+        "word": "dae",
+        "word_simple": "DAE",
+        "fone": "DA",
+        "definition": "to be able, to win, succeed, e.g. daeabu, 'we will succeed', 'we will win'; daeoḱabu, 'we are able to succeed'; verbal affix can, e.g. kać hućoḱ-daea, 'He cannot come', When a verb form with the dai affix takes an object an a aspect marke is used, e.g. Hon koń nel daeakoa, 'I can see the children' (See Les. 27)",
+        "subwords": [
+            {
+                "subword": "*dae-joka",
+                "sub_definition": "as much as one can; as far as one is able"
+            },
+            {
+                "subword": "*dae-uraa",
+                "sub_definition": "to succeed again; to be able (used often with same meaning as dai, esp. of some task in which one can succeed only with great difficulty)"
+            },
+            {
+                "subword": "*daea jóṅ",
+                "sub_definition": "as far as one is able"
+            }
+        ]
+    },
+    {
+        "word": "dai",
+        "word_simple": "DAI",
+        "fone": "DAI",
+        "definition": "older sister (vocative); used also as a term of address to the older sister of one's husband, or to the wife of the older brother of one's husband"
+    },
+    {
+        "word": "dã́ć dṹć",
+        "word_simple": "DAC",
+        "fone": "DA",
+        "definition": "to move along unsteadily, lurching from side to side, due e.g. to intoxication or weakness"
+    },
+    {
+        "word": "Ḍain churdu",
+        "word_simple": "DAIN",
+        "fone": "DAIN",
+        "definition": "a churdu bonga who works with witches (also called Ḍã́ṛi churdu)"
+    },
+    {
+        "word": "daka",
+        "word_simple": "DAKA",
+        "fone": "DAK4",
+        "definition": "a tuber (potato, onion, etc.); of tubers, to be formed; a honeycomb, hive; to form a honeycomb; the eggs or grubs of any kind of ant"
+    },
+    {
+        "word": "daka",
+        "word_simple": "DAKA",
+        "fone": "DAK4",
+        "definition": "used as poetic parallel with dãe, a sacrificial victim"
+    },
+    {
+        "word": "ḍaka",
+        "word_simple": "DAKA",
+        "fone": "DAK4",
+        "definition": "a very small crevice in the ground, i.e. only a few inches (a bigger crevice would be called Ḍakut́"
+    },
+    {
+        "word": "ḍakara",
+        "word_simple": "DAKARA",
+        "fone": "DAK4R4",
+        "definition": "to proclain something publicly, e.g. with drum beat to get attention; to call loudly on a spirit (same as ḍako in this sense)",
+        "subwords": [
+            {
+                "subword": "*ḍakara-biur",
+                "sub_definition": "to go about proclaiming (as under ḍakara)"
+            }
+        ]
+    },
+    {
+        "word": "dakaḍa-dukuḍu",
+        "word_simple": "DAKADA",
+        "fone": "DAK4D4",
+        "definition": "of a road, to be very rough and uneven; with tan to bounce up and down on a rough uneven road (with verb sen, etc.)"
+    },
+    {
+        "word": "ḍáki",
+        "word_simple": "DAKI",
+        "fone": "DAKI",
+        "definition": "a large basket"
+    },
+    {
+        "word": "ḍakil",
+        "word_simple": "DAKIL",
+        "fone": "DAKIL",
+        "definition": "of a village headman or some such official, to hand over collected tax money, etc. to the proper higher authorities"
+    },
+    {
+        "word": "dakin",
+        "word_simple": "DAKIN",
+        "fone": "DAKIN",
+        "definition": "Souh (from Hindi, more proper Ho would be Bohḱ Kandua)"
+    },
+    {
+        "word": "ḍáko",
+        "word_simple": "DAKO",
+        "fone": "DAKO",
+        "definition": "of a dewa, to call upon his guru bongako, q.v., to assist him in his work of divining (e.g. in discerning what spirit is causing some harm), (rauć is also used with this meaning); the art of calling upon one's guru spirits",
+        "subwords": [
+            {
+                "subword": "*ḍáko hućoḱ",
+                "sub_definition": "to conjure a spirit (as under (ḍáko)"
+            }
+        ]
+    },
+    {
+        "word": "dakrasi",
+        "word_simple": "DAKRASI",
+        "fone": "DAKR4SI",
+        "definition": "wine"
+    },
+    {
+        "word": "ḍaku",
+        "word_simple": "DAKU",
+        "fone": "DAKU",
+        "definition": "a dacoit, bandit"
+    },
+    {
+        "word": "ḍakut́",
+        "word_simple": "DAKUT",
+        "fone": "DAKUT",
+        "definition": "pond, ditch; a crevice in the ground; to make a depression in the middle by piling up all around the sides (e.g. paddy sheaves placed in a circular form)",
+        "subwords": [
+            {
+                "subword": "*ḍakut́-makut́",
+                "sub_definition": "a jingle on dakud, of terrain, to be very uneven"
+            }
+        ]
+    },
+    {
+        "word": "dakuć",
+        "word_simple": "DAKUC",
+        "fone": "DAKU",
+        "definition": "of men or animals, to move the body back and forth, to copulate (mage kaji)"
+    },
+    {
+        "word": "ḍakua",
+        "word_simple": "DAKUA",
+        "fone": "DAKU4",
+        "definition": "the village head- man's helper who gives notices, etc."
+    },
+    {
+        "word": "dal",
+        "word_simple": "DAL",
+        "fone": "DAL",
+        "definition": "to place tiles or thatch on a roof"
+    },
+    {
+        "word": "ḍal",
+        "word_simple": "DAL",
+        "fone": "DAL",
+        "definition": "a term used for the shield used with swords on the occasion of the or-topa dance (Hindi - dhal)"
+    },
+    {
+        "word": "ḍala",
+        "word_simple": "DALA",
+        "fone": "DAL4",
+        "definition": "a four-cornered basket, bigger than a gantaḱ",
+        "subwords": [
+            {
+                "subword": "*ḍala chauli",
+                "sub_definition": "a ḍala full of husked rice"
+            },
+            {
+                "subword": "*ḍala gantaḱ",
+                "sub_definition": "same as ḍala"
+            }
+        ]
+    },
+    {
+        "word": "dalal",
+        "word_simple": "DALAL",
+        "fone": "DAL4L",
+        "definition": "to intermediate, advise about lawyers, etc. in connection with a court case; one who does such work"
+    },
+    {
+        "word": "ḍali",
+        "word_simple": "DALI",
+        "fone": "DALI",
+        "definition": "a fleshy crest of a cock; poetic parallel for ba, 'flower'"
+    },
+    {
+        "word": "dáli",
+        "word_simple": "DALI",
+        "fone": "DALI",
+        "definition": "dal; to prepare dal"
+    },
+    {
+        "word": "ḍalia",
+        "word_simple": "DALIA",
+        "fone": "DALI4",
+        "definition": "a basket with round mouth and bottom, also called changarić"
+    },
+    {
+        "word": "dalob",
+        "word_simple": "DALOB",
+        "fone": "DALOP",
+        "definition": "to cover (c. dapal, to cover a smaller area",
+        "subwords": [
+            {
+                "subword": "*daloṕ-daloṕ",
+                "sub_definition": "of any cover, to be shaken up and fall back into position repeatedly, like thatch on a roof in a heavy wind or the lid of a boiling pot"
+            },
+            {
+                "subword": "*daloṕ-topa",
+                "sub_definition": "to cover completely (so as to bury)"
+            }
+        ]
+    },
+    {
+        "word": "dalpa",
+        "word_simple": "DALPA",
+        "fone": "DALP4",
+        "definition": "see dalpa-dapa dalpa-dapa an adjective used in reference to kera, buffalo, in prayers, apparently refers to the horns of a buffalo and means 'big and turning'"
+    },
+    {
+        "word": "dalpuṅ",
+        "word_simple": "DALPUNG",
+        "fone": "DALPUN",
+        "definition": "a term descriptive of the bent-over shuffling gait of a bear (used with leka or orge and verbs of motion, e.g. dalpuṅ lekać senè tana or dalpuṅoḱ geć senè tana), sometimes used in jest of a man (see also dinan)",
+        "subwords": [
+            {
+                "subword": "*dalpuṅ-dalpuṅ tan",
+                "sub_definition": "the same of a continued action (with verbs of motion)"
+            }
+        ]
+    },
+    {
+        "word": "dama",
+        "word_simple": "DAMA",
+        "fone": "DAM4",
+        "definition": "a large one headed drum, like a kettle-drum",
+        "subwords": [
+            {
+                "subword": "*dama dumaṅ",
+                "sub_definition": "a collective noun for drums"
+            }
+        ]
+    },
+    {
+        "word": "damá-dumú",
+        "word_simple": "DAMA",
+        "fone": "DAM4",
+        "definition": "to be unsteady in one's steps (due esp, to intoxication less than dumka- dapt would imply)"
+    },
+    {
+        "word": "damar-dumur",
+        "word_simple": "DAMAR",
+        "fone": "DAM4R",
+        "definition": "of a baby (child or animal) to be able to see a little; you can say damar-dumurtia, he (a baby) is reaching the stage where he can see a little'"
+    },
+    {
+        "word": "ḍambau",
+        "word_simple": "DAMBAU",
+        "fone": "DAMB4U",
+        "definition": "daru a custard apple tree, Anona squamosa, L. Anonaceae, B.4/2, H.4/1/1"
+    },
+    {
+        "word": "damchuṅ",
+        "word_simple": "DAMCHUNG",
+        "fone": "DAMCUN",
+        "definition": "of a four-footed animal, to rear up on hind legs; to run lifting the front legs high; to gallop"
+    },
+    {
+        "word": "dam-dum",
+        "word_simple": "DAM",
+        "fone": "DAM",
+        "definition": "to stagger, as in intoxication; to feel one's way in the dark or because of blindness"
+    },
+    {
+        "word": "damka-dapú",
+        "word_simple": "DAMKA",
+        "fone": "DAMK4",
+        "definition": "to stagger, as when drunk or exhausted"
+    },
+    {
+        "word": "damkom",
+        "word_simple": "DAMKOM",
+        "fone": "DAMKOM",
+        "definition": "a young bull with 2 or 3 teeth, almost of an age to begin ploughing"
+    },
+    {
+        "word": "dampa",
+        "word_simple": "DAMPA",
+        "fone": "DAMP4",
+        "definition": "of the foot, to be unusally large so that one walks with heavy steps",
+        "subwords": [
+            {
+                "subword": "*dampa-dumpu",
+                "sub_definition": "to stamp the feet hard, as in darkness or when drunk"
+            }
+        ]
+    },
+    {
+        "word": "ḍamuka",
+        "word_simple": "DAMUKA",
+        "fone": "DAMUK4",
+        "definition": "a pond"
+    },
+    {
+        "word": "damul",
+        "word_simple": "DAMUL",
+        "fone": "DAMUL",
+        "definition": "to transport convicts"
+    },
+    {
+        "word": "ḍaṅ",
+        "word_simple": "DANG",
+        "fone": "DAN",
+        "definition": "a support, esp. a long fairly thick branch or log used to support e.g. a net; also as in ḍaṅ danḍaḱ",
+        "subwords": [
+            {
+                "subword": "*ḍaṅ-danḍaḱ",
+                "sub_definition": "a fishing rod; a long rod, e.g. of bamboo. to which birdlime is applied e.g. to catch wasps trying to eat silkworms"
+            }
+        ]
+    },
+    {
+        "word": "dáṅ",
+        "word_simple": "DANG",
+        "fone": "DAN",
+        "definition": "to pronounce the sacrificial formula over a victim"
+    },
+    {
+        "word": "danaloṕ",
+        "word_simple": "DANALOP",
+        "fone": "DAN4LOP",
+        "definition": "a covering (verbal noun of dalob)"
+    },
+    {
+        "word": "danaṅ",
+        "word_simple": "DANANG",
+        "fone": "DAN4N",
+        "definition": "to hide; to hide behind; behind (usually in space but sometimes also in time, e.g. musiń barsiń dananre, 'after a day or two)",
+        "subwords": [
+            {
+                "subword": "*danaṅ kaji",
+                "sub_definition": "a secret; a mystery"
+            }
+        ]
+    },
+    {
+        "word": "danarom",
+        "word_simple": "DANAROM",
+        "fone": "DAN4ROM",
+        "definition": "a meeting; an op- posing, something with which one meets or wards off, e.g. a shield (ver bal noun of darom)"
+    },
+    {
+        "word": "danat́om",
+        "word_simple": "DANATOM",
+        "fone": "DAN4TOM",
+        "definition": "a compact fitting together (verbal noun of datom, q.v.); to compactly fit together"
+    },
+    {
+        "word": "dã́chut́",
+        "word_simple": "DACHUT",
+        "fone": "DACUT",
+        "definition": "the King Crow or Black Drongo (also called gau dã́chut́)"
+    },
+    {
+        "word": "Dã́chuḱ",
+        "word_simple": "DACHUK",
+        "fone": "DACU",
+        "definition": "another form of Dã́chut́"
+    },
+    {
+        "word": "danda",
+        "word_simple": "DANDA",
+        "fone": "DAND4",
+        "definition": "to be amazed (same as akadanda)"
+    },
+    {
+        "word": "Danḍaḱ, Ḍanḍaḱ",
+        "word_simple": "DANDAK",
+        "fone": "DAND4",
+        "definition": "a stick (smaller than soța); to hit with a stick",
+        "subwords": [
+            {
+                "subword": "*danḍaḱ-enḍaḱ",
+                "sub_definition": "to expel using a stick (a term used of driving out an evil spirit hy moving along with a stick while in a trance (rum))"
+            },
+            {
+                "subword": "*danḍaḱ-nam",
+                "sub_definition": "to search out by moving a stick around e.g. while in a trance (rum)"
+            },
+            {
+                "subword": "*danḍaḱ-olt́",
+                "sub_definition": "same as danḍaḱ-enḍaḱ"
+            },
+            {
+                "subword": "*danḍaḱ-soan",
+                "sub_definition": "to beat with a stick (used in jest to children)"
+            },
+            {
+                "subword": "*mit́ danḍaḱ",
+                "sub_definition": "one stroke with a stick"
+            }
+        ]
+    },
+    {
+        "word": "danḍaḱ kula",
+        "word_simple": "DANDAK",
+        "fone": "DAND4",
+        "definition": "a hyena"
+    },
+    {
+        "word": "daṅ-daṅ",
+        "word_simple": "DANG",
+        "fone": "DAN",
+        "definition": "amazement; to be amazed (also akadanda, danda)"
+    },
+    {
+        "word": "daṅ-daṅ",
+        "word_simple": "DANG",
+        "fone": "DAN",
+        "definition": "of a foor-footed animal, e.g. a bear or a goat, to stand up on hind legs (in refl. form dan-dañen)"
+    },
+    {
+        "word": "ḍaṅ-ḍaṅ",
+        "word_simple": "DANG",
+        "fone": "DAN",
+        "definition": "the sound caused by hitting against a piece of brass or by a brass plate"
+    },
+    {
+        "word": "dandara",
+        "word_simple": "DANDARA",
+        "fone": "DAND4R4",
+        "definition": "consternation; amazement (with some element of fear); to amaze; to scold"
+    },
+    {
+        "word": "danḍe, ḍanḍe",
+        "word_simple": "DANDE",
+        "fone": "DAND4",
+        "definition": "a fine; a punishment; to exact a fine or punishment (the person from which the fine is exacted can stand as direct object, e.g. Simć danḍe ket́lea, 'He fined us a chicken'); of a spirit, to exact a sacrifice in reparation for some offense committed against the spirit",
+        "subwords": [
+            {
+                "subword": "*danḍe-jom",
+                "sub_definition": "to exact a fine or punishment (e.g. a spirit exacting a sacrifice)"
+            },
+            {
+                "subword": "*danḍe-pochann",
+                "sub_definition": "to be spared punishment (refl, form)"
+            },
+            {
+                "subword": "*danḍe-saja",
+                "sub_definition": "punishment"
+            }
+        ]
+    },
+    {
+        "word": "danḍet́-danḍet́",
+        "word_simple": "DANDET",
+        "fone": "DAND4T",
+        "definition": "to wag e.g. the tail of a bird (also liat́-liat́)",
+        "subwords": [
+            {
+                "subword": "*danḍet́ siraḱ oe",
+                "sub_definition": "the Grey Wagtail, also called liat́ siraḱ, see siraḱ"
+            }
+        ]
+    },
+    {
+        "word": "danḍi, ḍanḍi",
+        "word_simple": "DANDI",
+        "fone": "DANDI",
+        "definition": "a small handle, e.g. that of the artificial spur used for cock fighting; small connecting piece, e.g, that connecting a gulab (nose ornament) Fto the nose; the stem of a leaf (for this meaning danți is more common)"
+    },
+    {
+        "word": "danḍika haku",
+        "word_simple": "DANDIKA",
+        "fone": "DANDIK4",
+        "definition": "a very small variety of fish, smaller than this is perhaps only the budu haku"
+    },
+    {
+        "word": "danḍia inun",
+        "word_simple": "DANDIA",
+        "fone": "DANDI4",
+        "definition": "the game of kabbadi"
+    },
+    {
+        "word": "danḍom, ḍanḍom",
+        "word_simple": "DANDOM",
+        "fone": "DANDOM",
+        "definition": "the handle e.g. of an axe, kudali, adze; the stem e.g. of a mushroom or of a plant; to fit with a handle"
+    },
+    {
+        "word": "ḍaṅ-ḍuṅ",
+        "word_simple": "DANG",
+        "fone": "DAN",
+        "definition": "of something suspended e.g. on a rope, to swing back and forth, to dangle"
+    },
+    {
+        "word": "dangar leka",
+        "word_simple": "DANGAR",
+        "fone": "DAN4R",
+        "definition": "of blood, to flow freely with a deep red colour (used with verb mayom)",
+        "subwords": [
+            {
+                "subword": "*dangar-dangar (tan)",
+                "sub_definition": "of a continued action the same"
+            }
+        ]
+    },
+    {
+        "word": "danget́",
+        "word_simple": "DANGET",
+        "fone": "DAN4T",
+        "definition": "to be partly enbedded in something (e.g. an arrow in an animal)",
+        "subwords": [
+            {
+                "subword": "*dangetl-hapann",
+                "sub_definition": "to remain partly embedded (refl. form)"
+            }
+        ]
+    },
+    {
+        "word": "dangi",
+        "word_simple": "DANGI",
+        "fone": "DANI",
+        "definition": "to dangle a child playfully at arm's length before one; refl. dangin of a goat, to balance itself as given under dangi-beta",
+        "subwords": [
+            {
+                "subword": "*dangi-beța",
+                "sub_definition": "of goats (in the refl. form), to balance themselves on their hind legs with their forelegs raised against e.g. a tree in order to get something to eat"
+            }
+        ]
+    },
+    {
+        "word": "dani-mani",
+        "word_simple": "DANI",
+        "fone": "DANI",
+        "definition": "rich (used in a song, from Hindi, hetter Ho would be naiki or munda(tan))"
+    },
+    {
+        "word": "ḍanți",
+        "word_simple": "DANȚI",
+        "fone": "DANȚI",
+        "definition": "same as danțola, q.v."
+    },
+    {
+        "word": "ḍant́ola",
+        "word_simple": "DANTOLA",
+        "fone": "DANTOL4",
+        "definition": "the stem connecting a leaf or flower (or its gopot́) to a bush, branch, etc."
+    },
+    {
+        "word": "danuṅ leka",
+        "word_simple": "DANUNG",
+        "fone": "DANUN",
+        "definition": "with hair waving up and down e.g. of a running bear; of a man with flapping hair we could say danun- lekać neloḱ tana)",
+        "subwords": [
+            {
+                "subword": "*danuṅ-danuṅ (tan)",
+                "sub_definition": "the same of a continued action (e.g. of a bear we could say danuṅ-danuṅ taneć nir tana)"
+            }
+        ]
+    },
+    {
+        "word": "dapal",
+        "word_simple": "DAPAL",
+        "fone": "DAP4L",
+        "definition": "to cover some small object (compare dalob to cover a larger object or area)",
+        "subwords": [
+            {
+                "subword": "*dapal-dapal",
+                "sub_definition": "of some covering, to be shaken up and fall down again into position repeatedly"
+            },
+            {
+                "subword": "*dapal-keset́",
+                "sub_definition": "to block (from sight) by covering"
+            }
+        ]
+    },
+    {
+        "word": "dapani",
+        "word_simple": "DAPANI",
+        "fone": "DAP4NI",
+        "definition": "a circular bamboo piece about 1 ft. in diameter used to cover the opening of a tunḍi chaṭu"
+    },
+    {
+        "word": "daponga",
+        "word_simple": "DAPONGA",
+        "fone": "DAPON4",
+        "definition": "of the rim of any object, e.g. a bucket, a chațu to have a part broken off; used also of broken teeth"
+    },
+    {
+        "word": "dapú",
+        "word_simple": "DAPU",
+        "fone": "DAPU",
+        "definition": "of a man (not of animals), to push the male organ against someone or something (not used of intercourse) (mage kaji)"
+    },
+    {
+        "word": "dapuṛu",
+        "word_simple": "DAPUDU",
+        "fone": "DAPUDU",
+        "definition": "used with negative ká expresses very strong refusal, e.g. kań dapuṛua 'I absolutely will not!'; used as a verbal affix expresses something agreed to in frustration, e.g. people urge someone not to go. He doesn't listen to sense, finally someone will say, senoḱ- dapuṛukâć, Oh let him go, (it's useless trying to convince him)"
+    },
+    {
+        "word": "dár",
+        "word_simple": "DAR",
+        "fone": "DAR",
+        "definition": "used in prayers in the phrase mera dar mera sampura apparently meaning flet them (us) not come to any harm, (dár probably from darom, also see sampurt́) dár used as verbal affix in the word jom-dár, q.v. (not used independently in that sense)"
+    },
+    {
+        "word": "ḍahr",
+        "word_simple": "DAHR",
+        "fone": "DAR",
+        "definition": "of a path, to be cleared of twigs, etc. and smooth, e.g. a path made by an animal such as a field mouse repeatedly going back and forth; to make a path clean and smooth by repeatedly travelling on it",
+        "subwords": [
+            {
+                "subword": "*ḍahr-chaba",
+                "sub_definition": "to make a path completely clean and smooth by travelling on it"
+            }
+        ]
+    },
+    {
+        "word": "dára",
+        "word_simple": "DARA",
+        "fone": "DAR4",
+        "definition": "verbal affix along with (used with verbs of bringing. Les.27)"
+    },
+    {
+        "word": "dáraà",
+        "word_simple": "DARAA",
+        "fone": "DAR4",
+        "definition": "is coming (Les. 36) (dara + mood marker-a)"
+    },
+    {
+        "word": "dárat́",
+        "word_simple": "DARAT",
+        "fone": "DAR4T",
+        "definition": "close by (esp with hućoḱ); recently (see nen dárat́)",
+        "subwords": [
+            {
+                "subword": "*dárat́ taḱ",
+                "sub_definition": "in recent years (also nen dárat́ taḱ)"
+            }
+        ]
+    },
+    {
+        "word": "ḍárat́",
+        "word_simple": "DARAT",
+        "fone": "DAR4T",
+        "definition": "same as ḍár; q.v."
+    },
+    {
+        "word": "dara-dari",
+        "word_simple": "DARA",
+        "fone": "DAR4",
+        "definition": "neighbouring",
+        "subwords": [
+            {
+                "subword": "*nen dara-dari hatu ko",
+                "sub_definition": "villages in this neighbourhood"
+            }
+        ]
+    },
+    {
+        "word": "daḍa-duḍu",
+        "word_simple": "DADA",
+        "fone": "DAD4",
+        "definition": "of a road, to be very rough and uneven, with tan, to bounce up and down on a rough uneven road (with verb seri, etc.) daraka"
+    },
+    {
+        "word": "daḍaka gaḍi",
+        "word_simple": "DADAKA",
+        "fone": "DAD4K4",
+        "definition": "a truck"
+    },
+    {
+        "word": "daṛás",
+        "word_simple": "DADAS",
+        "fone": "DAD4S",
+        "definition": "promptly"
+    },
+    {
+        "word": "darchaḱ",
+        "word_simple": "DARCHAK",
+        "fone": "DARC4",
+        "definition": "pass. (esp in form darchaḱ akana) of the hairs of the head, to extend out in all directions",
+        "subwords": [
+            {
+                "subword": "*darchaḱ Bohḱ",
+                "sub_definition": "a head with hair extending out in an unruly fashion in all directions"
+            }
+        ]
+    },
+    {
+        "word": "darchat́ oe",
+        "word_simple": "DARCHAT",
+        "fone": "DARC4T",
+        "definition": "the Hoopoe bird (a local name, elsewhere called dochod dumbi, domchor oe)"
+    },
+    {
+        "word": "dardar",
+        "word_simple": "DARDAR",
+        "fone": "DARD4R",
+        "definition": "to stretch out the fingers keeping them separate one from another"
+    },
+    {
+        "word": "dar-dur",
+        "word_simple": "DAR",
+        "fone": "DAR",
+        "definition": "a splashing sound caused by many fish, or a man or animal, splashing through water"
+    },
+    {
+        "word": "dãṛe",
+        "word_simple": "DADE",
+        "fone": "DAD4",
+        "definition": "poetic form of dãe, a victim, to offer a victim"
+    },
+    {
+        "word": "daḍi",
+        "word_simple": "DADI",
+        "fone": "DADI",
+        "definition": "a village spring from which water is drawn (also called sút́)"
+    },
+    {
+        "word": "ḍã́ṛi",
+        "word_simple": "DADI",
+        "fone": "DADI",
+        "definition": "a witch dari bonga a spirit who supports the activities of witches",
+        "subwords": [
+            {
+                "subword": "*ḍã́ṛi churdu",
+                "sub_definition": "a churdu bonga (q.v.) who works with witches (also called dain churdu)"
+            },
+            {
+                "subword": "*ḍã́ṛi era",
+                "sub_definition": "a witch (female)"
+            },
+            {
+                "subword": "*ḍã́ṛi kaḍia",
+                "sub_definition": "a collective noun for witches; witchcraft"
+            }
+        ]
+    },
+    {
+        "word": "daḍia",
+        "word_simple": "DADIA",
+        "fone": "DADI4",
+        "definition": "a beard"
+    },
+    {
+        "word": "darji",
+        "word_simple": "DARJI",
+        "fone": "DARJI",
+        "definition": "a tailor"
+    },
+    {
+        "word": "daḍo",
+        "word_simple": "DADO",
+        "fone": "DADO",
+        "definition": "the pincer of a crab, the mandibles or jaw of a large black ant; of a crab or a large ant, to grab with the pincers or mandibles; a finger (in this sense ganḍa is commonly used near Chaibasa)"
+    },
+    {
+        "word": "darom",
+        "word_simple": "DAROM",
+        "fone": "DAROM",
+        "definition": "to meet, to confront (can connote either hospitality or confrontation acording to the context)",
+        "subwords": [
+            {
+                "subword": "*darom Ḍiaṅ",
+                "sub_definition": "rice-beer given in hospitality to one arriving"
+            },
+            {
+                "subword": "*darom-sampurt́, darom sampúr",
+                "sub_definition": "of a spirit, to roam around suddenly attacking somone (see next item)"
+            },
+            {
+                "subword": "*darom-sampurt́ bonga",
+                "sub_definition": "any spirit who roams around and suddenly attacks someone exacting a sudden sacrificial offering (not being content with the promise of a future offering, e.g. a tapan), (such spirits are also called sen-saruṕ bongako)"
+            },
+            {
+                "subword": "*darom-uraa",
+                "sub_definition": "to give support to e.g. someone in danger of falling or actually starting to fall, or being carried away by water"
+            }
+        ]
+    },
+    {
+        "word": "darpil",
+        "word_simple": "DARPIL",
+        "fone": "DARPIL",
+        "definition": "to have branches spreading out on all sides"
+    },
+    {
+        "word": "daru",
+        "word_simple": "DARU",
+        "fone": "DARU",
+        "definition": "a tree; a plant; building timber; to use as building timber (e.g. for posts, beams, etc. of a house); pass. to become a plant or tree; of a plant or tree, to develop",
+        "subwords": [
+            {
+                "subword": "*daru bengá",
+                "sub_definition": "an eggplant (brinjal) see bengá"
+            },
+            {
+                "subword": "*daru chalaṭa",
+                "sub_definition": "a wooden plank"
+            },
+            {
+                "subword": "*daru choke",
+                "sub_definition": "a tree frog, which stays in the hollow of trees and is whitish in colour. Its bite is considered poisonous, and its urine is said to be poisonous and to cause wounds"
+            },
+            {
+                "subword": "*daru diri",
+                "sub_definition": "a collective noun indicating firm stable objects (used in a prayer at time of marriage daru-diri leka juḍi-badi kiṅ taenkâ, May the two of them remain united in a strong union')"
+            },
+            {
+                "subword": "*daru doba",
+                "sub_definition": "a fork between the trunk of a tree and a branch"
+            },
+            {
+                "subword": "*daru ganḍu",
+                "sub_definition": "a wooden stool"
+            },
+            {
+                "subword": "*daru gaḍi",
+                "sub_definition": "a cart with wheels made of solid wood (rather than merely having wooden spokes), (also called buți gaḍi)"
+            },
+            {
+                "subword": "*daru hopoḱ",
+                "sub_definition": "a kind of tree weevil which has fairly long antennas"
+            },
+            {
+                "subword": "*daru korpaḱ",
+                "sub_definition": "a hole in a tree"
+            },
+            {
+                "subword": "*daru kukuru",
+                "sub_definition": "a large hollow hole inside a tree"
+            },
+            {
+                "subword": "*daru mistri",
+                "sub_definition": "a carpenter"
+            },
+            {
+                "subword": "*daru Nael",
+                "sub_definition": "a wooden plough daru sitirkad a sitirkad plant, q.v., growing in a cavity of a tree"
+            },
+            {
+                "subword": "*daru suba",
+                "sub_definition": "under a tree; of a woman, to get married, to be married (daru suba eanać would have the same meaning as ho suba eanać or hooanać, 'She is married'"
+            },
+            {
+                "subword": "*daru umbul",
+                "sub_definition": "the shade of a tree"
+            }
+        ]
+    },
+    {
+        "word": "daḍuḱ",
+        "word_simple": "DADUK",
+        "fone": "DADU",
+        "definition": "of one's head, to bob up and down (see also doḍoḱ)",
+        "subwords": [
+            {
+                "subword": "*daḍuḱ-maḍuḱ(tan)",
+                "sub_definition": "to go along with the head bobbing up and down (with verbs of motion)"
+            }
+        ]
+    },
+    {
+        "word": "daru haaht́ haku",
+        "word_simple": "DARU",
+        "fone": "DARU",
+        "definition": "a fish much like the haaht́ fish in appearance, but bigger"
+    },
+    {
+        "word": "darua",
+        "word_simple": "DARUA",
+        "fone": "DARU4",
+        "definition": "used as verbal affix in word jom-darua, q.v., not used independently"
+    },
+    {
+        "word": "dasae, dasãe",
+        "word_simple": "DASAE",
+        "fone": "DAS4",
+        "definition": "of a group of young men, to go around from village to village dancing, beating gongs and requesting rice on the occasion of the dosora feast",
+        "subwords": [
+            {
+                "subword": "*dasae duraṅ",
+                "sub_definition": "a song sung by the dasseko"
+            },
+            {
+                "subword": "*dasae ko",
+                "sub_definition": "those who go from village to village dancing during the dosora poroṕ"
+            },
+            {
+                "subword": "*dasae lee baba",
+                "sub_definition": "paddy gathered by the dasaeko as they go from place to place dancing"
+            }
+        ]
+    },
+    {
+        "word": "dasi",
+        "word_simple": "DASI",
+        "fone": "DASI",
+        "definition": "a servant who stays in the house of the master.(compare chitira a servant who comes from his own house to work); a slave (in non-Ho contexts); refl to engage oneself as a dasi",
+        "subwords": [
+            {
+                "subword": "*dasi-asulenn",
+                "sub_definition": "to support oneself (financially) by doing the work of a dasi, (refl. form)"
+            },
+            {
+                "subword": "*dasi-chitira",
+                "sub_definition": "a collective noun for servants"
+            },
+            {
+                "subword": "*dasi-era",
+                "sub_definition": "a female dasi"
+            },
+            {
+                "subword": "*dasi-jari",
+                "sub_definition": "to subject (someone) to slavery; enslavement (see also dasi- sasati)"
+            },
+            {
+                "subword": "*dasi-pasi",
+                "sub_definition": "a collective term for the work of a dasi (used in a riddle, not in common use in the Chaibasa area)"
+            },
+            {
+                "subword": "*dasi-pasir",
+                "sub_definition": "same as dasi-pasi"
+            },
+            {
+                "subword": "*dasi-pusi",
+                "sub_definition": "same as dasi-pasi"
+            },
+            {
+                "subword": "*dasi-sasati",
+                "sub_definition": "enslavement, slavery"
+            },
+            {
+                "subword": "*dasi suba",
+                "sub_definition": "to enslave; pass. to be enslaved"
+            }
+        ]
+    },
+    {
+        "word": "dasikar",
+        "word_simple": "DASIKAR",
+        "fone": "DASIK4R",
+        "definition": "a small centipede about 2 inches long with legs about one half inch long found in the jungles"
+    },
+    {
+        "word": "daṭa, ḍaṭa",
+        "word_simple": "DATA",
+        "fone": "DAT4",
+        "definition": "a tooth",
+        "subwords": [
+            {
+                "subword": "*daṭa buṭa",
+                "sub_definition": "the gum"
+            },
+            {
+                "subword": "*daṭa gangai",
+                "sub_definition": "a term sometimes used for tepoć gangai, maize (also called turpu gangai)"
+            },
+            {
+                "subword": "*daṭa jilu",
+                "sub_definition": "the gum"
+            },
+            {
+                "subword": "*daṭa kanḍom",
+                "sub_definition": "the biting edge of a tooth"
+            },
+            {
+                "subword": "*daṭa puṭuṅ",
+                "sub_definition": "the tusk of an elephant (also merely puțuṅ)"
+            },
+            {
+                "subword": "*daṭa rețe-rețe",
+                "sub_definition": "the grinding of teeth (e.g. at times of anguish)"
+            },
+            {
+                "subword": "*daṭa-uraa",
+                "sub_definition": "to develop teeth again; to resharpen the teeth (e.g. of a sickle)"
+            }
+        ]
+    },
+    {
+        "word": "datarom",
+        "word_simple": "DATAROM",
+        "fone": "DAT4ROM",
+        "definition": "a toothed sickle",
+        "subwords": [
+            {
+                "subword": "*datarom Aaḱ",
+                "sub_definition": "a herb with toothed leaves, and a solitary yellow flower on a long peduncle, also called dora 8, q.v."
+            },
+            {
+                "subword": "*datarom jaṅ",
+                "sub_definition": "the collar bone"
+            }
+        ]
+    },
+    {
+        "word": "daṭoṕ",
+        "word_simple": "DATOP",
+        "fone": "DATOP",
+        "definition": "to press compactly together; to fit compactly with no intervening space; as verbal affix-compactly"
+    },
+    {
+        "word": "daṭom",
+        "word_simple": "DATOM",
+        "fone": "DATOM",
+        "definition": "to tie or join two",
+        "subwords": [
+            {
+                "subword": "*daṭom-keset́",
+                "sub_definition": "to block off by tying together tightly"
+            },
+            {
+                "subword": "*daṭom Puuḱ",
+                "sub_definition": "two leaves fit compactly one on top of the other to form a strong leaf cup"
+            }
+        ]
+    },
+    {
+        "word": "dau",
+        "word_simple": "DAU",
+        "fone": "DAU",
+        "definition": "times (same meaning and usage as duná, dũa)"
+    },
+    {
+        "word": "Ḍau daru",
+        "word_simple": "DAU",
+        "fone": "DAU",
+        "definition": "a large tree with strong wood and edible fruit, Artocarpus lakoocha, Roxb., Moraceae, B.125/2, H.125/7/1"
+    },
+    {
+        "word": "ḍaulaḱ",
+        "word_simple": "DAULAK",
+        "fone": "DAUL4",
+        "definition": "a basket with round mouth and bottom (also ḍalia, changarić)"
+    },
+    {
+        "word": "dãuṛia",
+        "word_simple": "DAUDIA",
+        "fone": "DAUDI4",
+        "definition": "a type of songs sung on the Bah feast (a word now rarely heard near Chaibasa)"
+    },
+    {
+        "word": "dauru jan",
+        "word_simple": "DAURU",
+        "fone": "DAURU",
+        "definition": "the shoulder blade of cattle"
+    },
+    {
+        "word": "daya",
+        "word_simple": "DAYA",
+        "fone": "DA",
+        "definition": "mercy; merciful daya-denga merciful help; (God's helping grace)",
+        "subwords": [
+            {
+                "subword": "*daya-uṛuḱ",
+                "sub_definition": "mercy; favour; to show mercy or favour"
+            }
+        ]
+    },
+    {
+        "word": "de",
+        "word_simple": "DE",
+        "fone": "DE",
+        "definition": "an interjection much like da in meaning, 'show me', 'tell me"
+    },
+    {
+        "word": "dee",
+        "word_simple": "DE",
+        "fone": "DE",
+        "definition": "of men or animals, to copulate, commit fornication (mage kaji)"
+    },
+    {
+        "word": "deć",
+        "word_simple": "DEC",
+        "fone": "DE",
+        "definition": "to climb; to ride (esp. in the form deć akana) (note the expression, sadom dikuko dećtia, 'non-tribals use the horse for riding)"
+    },
+    {
+        "word": "deć-hapa",
+        "word_simple": "DEC",
+        "fone": "DE",
+        "definition": "to climb and then remain still (e.g. someone hiding in a tree)",
+        "subwords": [
+            {
+                "subword": "*deć-nam",
+                "sub_definition": "to find or get (e.g. fruit from a tree) by climbing"
+            }
+        ]
+    },
+    {
+        "word": "ḍebera",
+        "word_simple": "DEBERA",
+        "fone": "DEB4R4",
+        "definition": "a word used in a riddle with keḍa. 'buffalo', probably meaning 'small, undersized' (often with a large stomach (so used in Santali to refer to buffaloes and bullocks)"
+    },
+    {
+        "word": "det́",
+        "word_simple": "DET",
+        "fone": "DET",
+        "definition": "an exclamation expressing disgust or disagreement"
+    },
+    {
+        "word": "ḍeḍa",
+        "word_simple": "DEDA",
+        "fone": "DED4",
+        "definition": "stunted, weak and not properly grown (also ṭurka, ṭerka)"
+    },
+    {
+        "word": "dedeć dumbu",
+        "word_simple": "DEDEC",
+        "fone": "DED4",
+        "definition": "a weed found in rice fields, esp. before reploughing, Ischaemum rugosum, Salisb. Gramineae, H. 139/62/1, E.M. (not in B.)"
+    },
+    {
+        "word": "ḍeḍem",
+        "word_simple": "DEDEM",
+        "fone": "DED4M",
+        "definition": "a sparrow",
+        "subwords": [
+            {
+                "subword": "*ḍeḍem chara",
+                "sub_definition": "sparrow feed; an ornament hanging from the centre of the nose (also called gulab)"
+            }
+        ]
+    },
+    {
+        "word": "ḍet́la-met́la",
+        "word_simple": "DETLA",
+        "fone": "DETL4",
+        "definition": "of a small child to have a big stomach (same as ḍéla-méla)"
+    },
+    {
+        "word": "Ḍegena buru",
+        "word_simple": "DEGENA",
+        "fone": "DEG4N4",
+        "definition": "a hill mentioned in prayers"
+    },
+    {
+        "word": "dék",
+        "word_simple": "DEK",
+        "fone": "DEK",
+        "definition": "same as deko, q.v."
+    },
+    {
+        "word": "ḍeke",
+        "word_simple": "DEKE",
+        "fone": "DEK4",
+        "definition": "an indentation around a circular object, e.g. a bed-post, a tree, etc; to make such an indentation",
+        "subwords": [
+            {
+                "subword": "*ḍeke-meke (tan)",
+                "sub_definition": "having an indentation in the centre and bulging out toward the ends (a jingle on deke, with verb nelo;, etc.)"
+            },
+            {
+                "subword": "*ḍeke surpaṅ",
+                "sub_definition": "a kind of wasp which is very thin in the middle"
+            }
+        ]
+    },
+    {
+        "word": "ḍekem",
+        "word_simple": "DEKEM",
+        "fone": "DEK4M",
+        "definition": "of birds, to walk along the ground; of sitting men, to move along remaining in a sitting position"
+    },
+    {
+        "word": "deki",
+        "word_simple": "DEKI",
+        "fone": "DEKI",
+        "definition": "an exclamation, Let me (us) go and see (prob. from Hindi dekhna)"
+    },
+    {
+        "word": "deko, dekho",
+        "word_simple": "DEKO",
+        "fone": "DEKO",
+        "definition": "an interjection sometimes used in prayers when calling upon a spirit (presumably form Hindi dekho, used much like ocho, q.v.)"
+    },
+    {
+        "word": "ḍekot́",
+        "word_simple": "DEKOT",
+        "fone": "DEKOT",
+        "definition": "to shake something; intrans. to shake; with the negative ka often translated as not to budge or not to be able to budge something, e.g. ena kać ḍekot́- daeat́a, 'He could not budge that'; figur. to get the better of (someone). e.g. enić kam dekodiya, You will not get the better of him'",
+        "subwords": [
+            {
+                "subword": "*ḍekot́-ḍekot́",
+                "sub_definition": "to shake repeatedly because loose, e.g. of loose teeth"
+            }
+        ]
+    },
+    {
+        "word": "ḍekólat́",
+        "word_simple": "DEKOLAT",
+        "fone": "DEKOL4T",
+        "definition": "indentations in fields, etc. due e.g to cattle's foot prints; a depression in some surface"
+    },
+    {
+        "word": "ḍekóm",
+        "word_simple": "DEKOM",
+        "fone": "DEKOM",
+        "definition": "of rain water, to gather in some depression (used in passive)"
+    },
+    {
+        "word": "dela",
+        "word_simple": "DELA",
+        "fone": "DEL4",
+        "definition": "an invitation to come (ela is more commonly used for this)"
+    },
+    {
+        "word": "ḍela",
+        "word_simple": "DELA",
+        "fone": "DEL4",
+        "definition": "lumps (e.g. of cooked rice); of cooked rice, to form into lumps",
+        "subwords": [
+            {
+                "subword": "*ḍela-ḍumaṅ",
+                "sub_definition": "to be lumped together, (e.g. of cooked rice)"
+            }
+        ]
+    },
+    {
+        "word": "Ḍelaḱ Baṭa",
+        "word_simple": "DELAK",
+        "fone": "DEL4",
+        "definition": "oe a bird of the bata family. They stay esp. in the fields, often in the footprints made by cattle (they stay even when people approach) (the word dela con- notes smallness, therefore this be would be smaller than bața oe)"
+    },
+    {
+        "word": "Ḍelaḱ Ḍur",
+        "word_simple": "DELAK",
+        "fone": "DEL4",
+        "definition": "the same as Ḍelaḱ Baṭa Oe"
+    },
+    {
+        "word": "ḍéla",
+        "word_simple": "DELA",
+        "fone": "DEL4",
+        "definition": "of the stomach of a child, large",
+        "subwords": [
+            {
+                "subword": "*ḍela Láć",
+                "sub_definition": "a big stomach of a small child"
+            },
+            {
+                "subword": "*ḍéla-méla",
+                "sub_definition": "of a small child, to have a large stomach"
+            }
+        ]
+    },
+    {
+        "word": "ḍel-ḍel",
+        "word_simple": "DEL",
+        "fone": "DEL",
+        "definition": "of the stomach, to be swollen"
+    },
+    {
+        "word": "ḍele",
+        "word_simple": "DELE",
+        "fone": "DEL4",
+        "definition": "of men and animals, to be in the first stage of growth, e.g. a baby one or two days old, a newly hatched bird with wings not yet formed"
+    },
+    {
+        "word": "ḍele Láć",
+        "word_simple": "DELE",
+        "fone": "DEL4",
+        "definition": "the large stomach of a small child"
+    },
+    {
+        "word": "ḍele marmar",
+        "word_simple": "DELE",
+        "fone": "DEL4",
+        "definition": "a large red scorpion"
+    },
+    {
+        "word": "ḍelka Láć",
+        "word_simple": "DELKA",
+        "fone": "DELK4",
+        "definition": "the large stomach of a big child or adult"
+    },
+    {
+        "word": "dema",
+        "word_simple": "DEMA",
+        "fone": "DEM4",
+        "definition": "some days from now (same as gapaman, often used before some specific time, e.g. dema sardi imita, the harvest time to come after some days"
+    },
+    {
+        "word": "ḍembaḱ",
+        "word_simple": "DEMBAK",
+        "fone": "DEMB4",
+        "definition": "a bundle of leaves"
+    },
+    {
+        "word": "Ḍeń Buru",
+        "word_simple": "DENJ",
+        "fone": "DEN",
+        "definition": "a hill referred to along with Luku Buru in some traditional prayers"
+    },
+    {
+        "word": "ḍeń-ḍań",
+        "word_simple": "DENJ",
+        "fone": "DEN",
+        "definition": "of a tree, to be entirely bare of leaves; sometimes used of the sound of a bell"
+    },
+    {
+        "word": "denga",
+        "word_simple": "DENGA",
+        "fone": "DEN4",
+        "definition": "help; to help",
+        "subwords": [
+            {
+                "subword": "*denga-depenga",
+                "sub_definition": "a general term for help, including mutual help"
+            },
+            {
+                "subword": "*denga hopor",
+                "sub_definition": "to be close at hand helping"
+            },
+            {
+                "subword": "*denga-modot́",
+                "sub_definition": "a general term for help"
+            }
+        ]
+    },
+    {
+        "word": "ḍenkanáṛo",
+        "word_simple": "DENKANADO",
+        "fone": "DENK4N4DO",
+        "definition": "Denkanal in Orissa (many Hos settled there)"
+    },
+    {
+        "word": "ḍepo",
+        "word_simple": "DEPO",
+        "fone": "DEPO",
+        "definition": "a bird which eats silkworms, also called obor oe, possibly the Indian Cuckoo"
+    },
+    {
+        "word": "ḍera",
+        "word_simple": "DERA",
+        "fone": "DER4",
+        "definition": "a temporary residence (basa is more common for this)"
+    },
+    {
+        "word": "ḍera",
+        "word_simple": "DERA",
+        "fone": "DER4",
+        "definition": "to screw e.g. a cap onto a bottle; to twist together 2 or 3 strands of badchom in order to form a rope; to twist one's arm; a painful sensation in the stomach, figur. in stories, to twirl the end of one's mustache in the thumb and finger as a show of power",
+        "subwords": [
+            {
+                "subword": "*ḍera-aderenn",
+                "sub_definition": "to twist one's way inside, e.g. of an insect entering the ear (refl. form)"
+            },
+            {
+                "subword": "*ḍera-biur",
+                "sub_definition": "to turn, twist, e.g a faucet"
+            }
+        ]
+    },
+    {
+        "word": "deraṅ",
+        "word_simple": "DERANG",
+        "fone": "DER4N",
+        "definition": "a word used to express uncertainty about the truth of some statement",
+        "subwords": [
+            {
+                "subword": "*deraṅ-meraṅ kaji",
+                "sub_definition": "hearsay"
+            }
+        ]
+    },
+    {
+        "word": "deḍet́ leka",
+        "word_simple": "DEDET",
+        "fone": "DED4T",
+        "definition": "of cold, to be such as to cause one to shake (e.g. deḍet́-leka rabaṅa)",
+        "subwords": [
+            {
+                "subword": "*deḍet́-deḍet́",
+                "sub_definition": "to shake with cold (can be used with tan and verb raban, e.g. deḍet́-deḍet́ taneć rabaṅ tana, 'It is so cold as to cause people to shake'"
+            }
+        ]
+    },
+    {
+        "word": "deḍet́ choke",
+        "word_simple": "DEDET",
+        "fone": "DED4T",
+        "definition": "a frog of a small variety",
+        "subwords": [
+            {
+                "subword": "*deḍet́-deḍet́",
+                "sub_definition": "the cry of the above"
+            }
+        ]
+    },
+    {
+        "word": "ḍeroa",
+        "word_simple": "DEROA",
+        "fone": "DERO4",
+        "definition": "to twist or screw something, e.g. the neck of a chicken (much like ḍera)",
+        "subwords": [
+            {
+                "subword": "*ḍeroa-goć",
+                "sub_definition": "to kill by twisting e.g. a chicken by twisting its neck"
+            }
+        ]
+    },
+    {
+        "word": "ḍesaṅ-ḍubaṅ",
+        "word_simple": "DESANG",
+        "fone": "DES4N",
+        "definition": "particular drum beat"
+    },
+    {
+        "word": "Desauli",
+        "word_simple": "DESAULI",
+        "fone": "DES4ULI",
+        "definition": "the sacred grove a of a village; the main protecting spirit of a village, to whom sacrificial offerings are made on all main feasts"
+    },
+    {
+        "word": "Dẽoa",
+        "word_simple": "DEOA",
+        "fone": "DEO4",
+        "definition": "a shaman, one who divines at times of sickness to discern what spirit has been offended and what offering should bemade to appease that spirit; pass. to become a dewa"
+    },
+    {
+        "word": "deà",
+        "word_simple": "DEA",
+        "fone": "DE4",
+        "definition": "same as de, q.v. (de+a); a mild invitation e.g. to join in some action"
+    },
+    {
+        "word": "deale",
+        "word_simple": "DEALE",
+        "fone": "DE4L4",
+        "definition": "precedes vocatives in prayers, meaning same as deà"
+    },
+    {
+        "word": "deoḱ",
+        "word_simple": "DEOK",
+        "fone": "DEO",
+        "definition": "retching; a sensation in the throat as if one is about to vomit"
+    },
+    {
+        "word": "ḍẽoa",
+        "word_simple": "DEOA",
+        "fone": "DEO4",
+        "definition": "to swing e.g. a stick, firebrand, etc. in a circular motion",
+        "subwords": [
+            {
+                "subword": "*ḍẽoa-ḍẽoa",
+                "sub_definition": "the same of a continued or repeated action"
+            }
+        ]
+    },
+    {
+        "word": "ḍhal",
+        "word_simple": "DHAL",
+        "fone": "D4L",
+        "definition": "a shield (see ḍal)"
+    },
+    {
+        "word": "dhobi, dobi",
+        "word_simple": "DHOBI",
+        "fone": "DOBI",
+        "definition": "a member of the Dhobi (washerman) caste"
+    },
+    {
+        "word": "dhorom",
+        "word_simple": "DHOROM",
+        "fone": "DOROM",
+        "definition": "religion",
+        "subwords": [
+            {
+                "subword": "*dhorom ãṛi",
+                "sub_definition": "the sacred work of silkworm cultivation; the place where this takes place (see ãṛi bonga)"
+            },
+            {
+                "subword": "*dhorom haṛam ko",
+                "sub_definition": "the venerable dead ancestors (a term used in prayers)"
+            },
+            {
+                "subword": "*Dhorom Má Buru",
+                "sub_definition": "a term sometimes used in prayers to refer to Má Buru"
+            }
+        ]
+    },
+    {
+        "word": "Ḍí",
+        "word_simple": "DI",
+        "fone": "DI",
+        "definition": "a small area of land, e.g. as in term Oaḱ-Ḍí, q.v. (At least near Chaibasa di not used alone. Used in term Oaḱ Ḍí and in prayers as given below)",
+        "subwords": [
+            {
+                "subword": "*Ḍí-Ḍumburi",
+                "sub_definition": "used in prayers as poetic parallel with Hatu-Disum"
+            }
+        ]
+    },
+    {
+        "word": "dić",
+        "word_simple": "DIC",
+        "fone": "DI",
+        "definition": "to choke (see diać)"
+    },
+    {
+        "word": "ḍiṕ",
+        "word_simple": "DIP",
+        "fone": "DIP",
+        "definition": "of the heart, to beat in fear; to experience sudden fear (e.g. on seeing some sight or hearing some news which causes alarm), ḍiṕ kenać, 'He felt sudden fear'",
+        "subwords": [
+            {
+                "subword": "*ḍiṕ-ḍiṕ",
+                "sub_definition": "of the heart, to beat quickly"
+            }
+        ]
+    },
+    {
+        "word": "ḍibiri",
+        "word_simple": "DIBIRI",
+        "fone": "DIBIRI",
+        "definition": "a lamp"
+    },
+    {
+        "word": "didi",
+        "word_simple": "DIDI",
+        "fone": "DIDI",
+        "definition": "a vulture"
+    },
+    {
+        "word": "ḍiḍi",
+        "word_simple": "DIDI",
+        "fone": "DIDI",
+        "definition": "to stand on tiptoes",
+        "subwords": [
+            {
+                "subword": "*ḍiḍinn hoo",
+                "sub_definition": "a man who stands on tiptoes (refl. form); figur. a proud man"
+            },
+            {
+                "subword": "*ḍiḍi-rakaṕenn",
+                "sub_definition": "to stretch oneself up on tiptoes (refl. form)"
+            }
+        ]
+    },
+    {
+        "word": "ḍí-ḍí",
+        "word_simple": "DI",
+        "fone": "DI",
+        "definition": "of the heart, to beat e.g. from fear, much like ḍiṕ-ḍiṕ but refers to a stronger reaction to fear; refl. esum ḍí-ḍínn tana, 'you excite yourself very much"
+    },
+    {
+        "word": "ḍiḍiri",
+        "word_simple": "DIDIRI",
+        "fone": "DIDIRI",
+        "definition": "of a grain, etc., to be somewhat swollen by being in water"
+    },
+    {
+        "word": "ḍiḍiaḱ",
+        "word_simple": "DIDIAK",
+        "fone": "DIDI4",
+        "definition": "to have an uncomfortable feeling in the stomach due to undigested food (e.g. due to eating too much moroć jaṅ), (sometimes used with Láć (stomach) expressed, e.g. Hon Láćć ḍiḍiaḱ kana, 'the child feels uncomfortable in the stomach due to undigested food')"
+    },
+    {
+        "word": "ḍigri",
+        "word_simple": "DIGRI",
+        "fone": "DIGRI",
+        "definition": "a degree of the court; to receive a degree in one's favour"
+    },
+    {
+        "word": "díki-díki",
+        "word_simple": "DIKI",
+        "fone": "DIKI",
+        "definition": "to vex, annoy, trouble, nag (from Hindi)"
+    },
+    {
+        "word": "diku",
+        "word_simple": "DIKU",
+        "fone": "DIKU",
+        "definition": "a non-tribal; to speak Hindi (sometimes used transitively, e.g. dikuè tanać, 'He is speaking Hindi'); refl. to act like a diku, το speak Hindi",
+        "subwords": [
+            {
+                "subword": "*diku Aandi",
+                "sub_definition": "a marriage taking place at the home of the girl rather than that of the boy (a. Ho andi takes place at the boy's home)"
+            },
+            {
+                "subword": "*diku-bangali ko",
+                "sub_definition": "a collective noun for non-tribals"
+            },
+            {
+                "subword": "*diku jojo daru",
+                "sub_definition": "given as the Ho name of a tree found near Noamundi, for which the Hindi name 'ban jilebi' was given"
+            },
+            {
+                "subword": "*diku kaji",
+                "sub_definition": "Hindi"
+            },
+            {
+                "subword": "*diku mage",
+                "sub_definition": "the Mokor porob (Makar Sankranti) of the Hindus; the Ho mage porob when timed to coincide with this (as is done in Orissa and Uriya dominated areas)"
+            }
+        ]
+    },
+    {
+        "word": "ḍikulaṅ",
+        "word_simple": "DIKULANG",
+        "fone": "DIKUL4N",
+        "definition": "to lift someone up enabling him to hold on to e.g. a branch or rope suspended in the air; refl. to hold on to something suspended in the air"
+    },
+    {
+        "word": "ḍíl",
+        "word_simple": "DIL",
+        "fone": "DIL",
+        "definition": "to wave in the breeze,e.g. tall grass"
+    },
+    {
+        "word": "ḍilḍil",
+        "word_simple": "DILDIL",
+        "fone": "DILDIL",
+        "definition": "to swell up, e.g. some part of the body, a door or a wall due to moisture"
+    },
+    {
+        "word": "dili",
+        "word_simple": "DILI",
+        "fone": "DILI",
+        "definition": "to set a date; to announce that one will come or to invite someone to come on a given date; to invite; to promise an offering to a spirit to be given on some specified date; such a promise",
+        "subwords": [
+            {
+                "subword": "*dili-gitić",
+                "sub_definition": "to set the following day for a sacrifice to be offered to some spirit (a term used in prayers, see gitić)"
+            },
+            {
+                "subword": "*dili-raḱ",
+                "sub_definition": "by crying to give notice to others e.g. that someone has died"
+            },
+            {
+                "subword": "*dili-uput́",
+                "sub_definition": "the appointed day when rice beer will forment, i.e. the 3rd day (a term used in prayers, dili-uput́ rele emamea, 'We will give you on the third day')"
+            },
+            {
+                "subword": "*dili-uraa",
+                "sub_definition": "to invite in return"
+            }
+        ]
+    },
+    {
+        "word": "ḍiluṅ",
+        "word_simple": "DILUNG",
+        "fone": "DILUN",
+        "definition": "to swing or oscillate back and forth hanging suspended from some object"
+    },
+    {
+        "word": "ḍilua",
+        "word_simple": "DILUA",
+        "fone": "DILU4",
+        "definition": "a swing; e,g, suspended on ropes from a tree; to swing on such a swing"
+    },
+    {
+        "word": "ḍim ken",
+        "word_simple": "DIM",
+        "fone": "DIM",
+        "definition": "the sound of hitting someone's body e.g. with a din beta to reach a particular fist; the sound of something heavy falling, e.g. a coconut or a bel fruit"
+    },
+    {
+        "word": "ḍimbu",
+        "word_simple": "DIMBU",
+        "fone": "DIMBU",
+        "definition": "the early stage of the development of paddy ears previous to gele (the fully developed ear); of paddy, to be at such a stage"
+    },
+    {
+        "word": "ḍimbu",
+        "word_simple": "DIMBU",
+        "fone": "DIMBU",
+        "definition": "a creeper having yellow flowers, and fruit about 1.25-1.5 inches diameter, striped green and white or green and pale green, Cucumis trigonus, Roxb. Cucur bitaceae, E.M., B.71/7, H.71/7/1. There is an edible variety called biń dimbu, the fruit of which is whiter, usually somewhat elongated and considered poisonous",
+        "subwords": [
+            {
+                "subword": "*dimbu bah",
+                "sub_definition": "- used in the Sonua area as the local term for the loa bah, q.v., E.M. gives for this the related plant Ocimum gratissimum, L., Labiatae, B.106/18, H.106/1/1"
+            },
+            {
+                "subword": "*ḍimbu tayer",
+                "sub_definition": "a cultivated melon closely related to the dimbu creeper, prob. cucumis melo, L., Cucur- bitaceae, H.71/7/2, B.71/5"
+            }
+        ]
+    },
+    {
+        "word": "ḍimḍirić",
+        "word_simple": "DIMDIRIC",
+        "fone": "DIMDIRI",
+        "definition": "small but heavy, e.g. a stone, also used of a strong small child"
+    },
+    {
+        "word": "dimsi",
+        "word_simple": "DIMSI",
+        "fone": "DIMSI",
+        "definition": "daily",
+        "subwords": [
+            {
+                "subword": "*dimsi-dimsi",
+                "sub_definition": "daily"
+            }
+        ]
+    },
+    {
+        "word": "din",
+        "word_simple": "DIN",
+        "fone": "DIN",
+        "definition": "day (see also mah, betar, betaraṅ, ulan); to set a date; to allow days to pass; to postphone; to make someone wait for a later day (with dir. an. obj.)",
+        "subwords": [
+            {
+                "subword": "*din beṭa",
+                "sub_definition": "to reach a particular day or time, used often with the meaning of an expectant mother reaching her tine for giving birth"
+            },
+            {
+                "subword": "*din-idi",
+                "sub_definition": "to continually postphone to a later date"
+            },
+            {
+                "subword": "*din kutuil",
+                "sub_definition": "poetic parallel of din munḍi with the same meaning"
+            },
+            {
+                "subword": "*din munḍi",
+                "sub_definition": "the completion of some time e.g. of the yearly cycle of a crop (used in prayers)"
+            },
+            {
+                "subword": "*dinoḱ",
+                "sub_definition": "for the duration of some days"
+            },
+            {
+                "subword": "*din-uraa",
+                "sub_definition": "to fix a new day or date"
+            }
+        ]
+    },
+    {
+        "word": "dinaṅ",
+        "word_simple": "DINANG",
+        "fone": "DIN4N",
+        "definition": "the bent over gait of a bear or of an old woman",
+        "subwords": [
+            {
+                "subword": "*dinaṅ-dapaṅ (tan)",
+                "sub_definition": "of a bear, to go along with its bent-over gait (with verbs of motion, also dalpuń-dalpun)"
+            }
+        ]
+    },
+    {
+        "word": "dinḍa, ḍinḍa",
+        "word_simple": "DINDA",
+        "fone": "DIND4",
+        "definition": "an unmarried woman or man; a virgin (when clear from the context dinḍa is sometimes used of a married person who has not yet had a child)",
+        "subwords": [
+            {
+                "subword": "*dinḍa bár",
+                "sub_definition": "to be of a marriage- able age"
+            },
+            {
+                "subword": "*dinḍa buḍi",
+                "sub_definition": "an older woman who never married"
+            },
+            {
+                "subword": "*dinḍa churdu bonga",
+                "sub_definition": "a spirit who causes barrenness in young married women and to whom sacrifices are made when children are not being born to a married couple"
+            },
+            {
+                "subword": "*dinḍa chutuka",
+                "sub_definition": "a sickness of women who have not yet born children. Their menstrual periods do not occur and their bodies waste away (also rooh chutuka)"
+            },
+            {
+                "subword": "*dinḍa hapanum",
+                "sub_definition": "an unmarried young woman"
+            },
+            {
+                "subword": "*dinḍa haṛam",
+                "sub_definition": "an older man who never married"
+            },
+            {
+                "subword": "*dinḍa kũari (kõari) bonga",
+                "sub_definition": "same as dinḍa churdu bonga"
+            },
+            {
+                "subword": "*dinḍa Láć hon",
+                "sub_definition": "a first born child (also called pūruwa Láć hon or mutukul hon)"
+            },
+            {
+                "subword": "*dinḍa ranḍi",
+                "sub_definition": "a childless widow or widower"
+            }
+        ]
+    },
+    {
+        "word": "dindi-lisi",
+        "word_simple": "DINDI",
+        "fone": "DINDI",
+        "definition": "of chickens, peacocks, etc., to have all the feathers standing up including the wings to some extent (e.g. of a mother hen when excited); of someone in a state of excitement, to have his hair unkempt"
+    },
+    {
+        "word": "ḍíń-ḍubaṅ",
+        "word_simple": "DINJ",
+        "fone": "DIN",
+        "definition": "a particular drum-beat"
+    },
+    {
+        "word": "dingar-dangar",
+        "word_simple": "DINGAR",
+        "fone": "DIN4R",
+        "definition": "red, of the colour of blood"
+    },
+    {
+        "word": "dingar-dongor",
+        "word_simple": "DINGAR",
+        "fone": "DIN4R",
+        "definition": "bright red"
+    },
+    {
+        "word": "dinili",
+        "word_simple": "DINILI",
+        "fone": "DINILI",
+        "definition": "the setting of a time for something, or an invitation to something (verbal noun of dili)"
+    },
+    {
+        "word": "ḍinkí",
+        "word_simple": "DINKI",
+        "fone": "DINKI",
+        "definition": "a long wooden instrument worked by the foot for husking rice"
+    },
+    {
+        "word": "díp",
+        "word_simple": "DIP",
+        "fone": "DIP",
+        "definition": "a built-up place where sindur is spread and where dewa students learn their trade"
+    },
+    {
+        "word": "ḍipa",
+        "word_simple": "DIPA",
+        "fone": "DIP4",
+        "definition": "a slightly raised piece of land; of earth, slightly raised",
+        "subwords": [
+            {
+                "subword": "*ḍipa-baann",
+                "sub_definition": "of earth, to build itself up slightly (become slightly raised) here and there (refl. form)"
+            }
+        ]
+    },
+    {
+        "word": "dipil",
+        "word_simple": "DIPIL",
+        "fone": "DIPIL",
+        "definition": "to carry on the head (a more common word for this is dupil)"
+    },
+    {
+        "word": "dipila",
+        "word_simple": "DIPILA",
+        "fone": "DIPIL4",
+        "definition": "time"
+    },
+    {
+        "word": "dipilaṅ",
+        "word_simple": "DIPILANG",
+        "fone": "DIPIL4N",
+        "definition": "time"
+    },
+    {
+        "word": "dipili, dipli",
+        "word_simple": "DIPILI",
+        "fone": "DIPILI",
+        "definition": "time (Les. 34) N.B. the word dipili can also occur as the recip, of dili, q.v."
+    },
+    {
+        "word": "dir",
+        "word_simple": "DIR",
+        "fone": "DIR",
+        "definition": "to stretch so that the shoulders go back and the stomach comes forward; refl. diren, of men or animals, to stretch out one's limbs, e.g. after getting up from sleep; of animals (cattle, goats, sheep) to stretch out the body when sick or in pain (therefore in prayers mera dir-may they not stretch out their bodies in sickness' would mean 'may they not be sick')",
+        "subwords": [
+            {
+                "subword": "*dir-dir",
+                "sub_definition": "same as dir of a ued action, e.g. as used in the expression dir-diroḱ ge duṕ akanać, He is sitting with his shoulders thrown back"
+            }
+        ]
+    },
+    {
+        "word": "diri",
+        "word_simple": "DIRI",
+        "fone": "DIRI",
+        "definition": "a stone",
+        "subwords": [
+            {
+                "subword": "*diri hopoḱ",
+                "sub_definition": "a kind of weevil which hores into stones"
+            },
+            {
+                "subword": "*diri lata",
+                "sub_definition": "a cave formed in a rock"
+            },
+            {
+                "subword": "*diri lópaḱ",
+                "sub_definition": "a small hollow or cavity under a stone (such as to shelter a bird)"
+            },
+            {
+                "subword": "*diri-ruguḍi ko",
+                "sub_definition": "a collective noun for small stones and pebbles"
+            },
+            {
+                "subword": "*diri sum",
+                "sub_definition": "a stone parasite"
+            },
+            {
+                "subword": "*diri sunum",
+                "sub_definition": "oil poured upon a burial stone (sasan diri)"
+            },
+            {
+                "subword": "*diri-ten-topa",
+                "sub_definition": "the ceremony performed when putting a stone on a grave (also called dul-sunum and in the Bhoya area jagen)"
+            },
+            {
+                "subword": "*diri unḍu",
+                "sub_definition": "a crevice or hole (e.g. a cave big enough for an animal to enter) in a rock"
+            }
+        ]
+    },
+    {
+        "word": "diriṅ",
+        "word_simple": "DIRING",
+        "fone": "DIRIN",
+        "definition": "horns (of an animal)",
+        "subwords": [
+            {
+                "subword": "*diriṅ kokor",
+                "sub_definition": "a small owl with tufts of feathers sticking up from the head like small horns, probably the Collared Scops Owl"
+            },
+            {
+                "subword": "*diriṅ tuți",
+                "sub_definition": "a blunted arrow-head made from the horn of cattle"
+            }
+        ]
+    },
+    {
+        "word": "disum",
+        "word_simple": "DISUM",
+        "fone": "DISUM",
+        "definition": "country; to establish one's country somewhere"
+    },
+    {
+        "word": "dița, ḍița",
+        "word_simple": "DIȚA",
+        "fone": "DIT4",
+        "definition": "to be able to succeed in some difficult work"
+    },
+    {
+        "word": "Diuri",
+        "word_simple": "DIURI",
+        "fone": "DIURI",
+        "definition": "a village priest who performs sacrifices in the name of the whole village on certain occasions. His role is ritual and much different than that of the dewa, who is a shaman",
+        "subwords": [
+            {
+                "subword": "*diuri oe",
+                "sub_definition": "the Malabar Pied Hornbill (a bird)"
+            }
+        ]
+    },
+    {
+        "word": "diaḱ",
+        "word_simple": "DIAK",
+        "fone": "DI4",
+        "definition": "to have something caught in the throat (i.e. something does not go down properly and one would like some water to help it down; compare dić which connotes a more serious condition when one is choking and cannot get his breath)"
+    },
+    {
+        "word": "Ḍiaṅ",
+        "word_simple": "DIANG",
+        "fone": "DI4N",
+        "definition": "rice beer, to make rice-beer",
+        "subwords": [
+            {
+                "subword": "*Ḍiaṅ akit́ chaṭu",
+                "sub_definition": "an earthen pot kept aside for the preparation of rice-beer"
+            },
+            {
+                "subword": "*Ḍiaṅ leékako",
+                "sub_definition": "rice-beer counters, i.e. men who are sent ahead of time to a place of marriage to see whether as many pots of rice-beer as have been agreed upon are in fact prepared for the bride's party"
+            },
+            {
+                "subword": "*Ḍiaṅ tangarṭ",
+                "sub_definition": "a tángár (earthen pot) reserved for keeping rice-beer"
+            },
+            {
+                "subword": "*Ḍiaṅ unuput́ re",
+                "sub_definition": "as many days as it takes rice-beer to ferment, usually three days"
+            }
+        ]
+    },
+    {
+        "word": "-do",
+        "word_simple": "DO",
+        "fone": "DO",
+        "definition": "a frequently used enclitic, usually implying some contrast do (1) an exclamation inviting someone to do something along with the speaker (also dola. When addressing one person the form dolan is usually used, when addressing two or more the form dolabu)",
+        "subwords": [
+            {
+                "subword": "*dokań",
+                "sub_definition": "let me (do+ka+i) urging oneself to do something"
+            },
+            {
+                "subword": "*doken-doken",
+                "sub_definition": "having repeated invited someone to join on in some action"
+            },
+            {
+                "subword": "*dote",
+                "sub_definition": "an exclamation meaning literally 'come on then' but with the meaning 'come and see whether or not... (spoken by one who wants to show others who are sceptical that he can do or has done something; the following verb is often preceded by ka)"
+            }
+        ]
+    },
+    {
+        "word": "doh",
+        "word_simple": "DOH",
+        "fone": "DO",
+        "definition": "have sexual intercourse; fornicate, (in Mundari this is the common word for 'to put'. In Ho, at least throughout most of Singhbhum, it is now used only in the sexual sense and is considered mage kaji)"
+    },
+    {
+        "word": "doba",
+        "word_simple": "DOBA",
+        "fone": "DOB4",
+        "definition": "a washerman (Hindi dhobi)"
+    },
+    {
+        "word": "doba janum",
+        "word_simple": "DOBA",
+        "fone": "DOB4",
+        "definition": "see Búṭ Janum"
+    },
+    {
+        "word": "dobá",
+        "word_simple": "DOBA",
+        "fone": "DOB4",
+        "definition": "a group of men or animals (used in expressions such as bar dobá, 'two groups', or dobá (ge)-dobá, see below)",
+        "subwords": [
+            {
+                "subword": "*dobá-dobá",
+                "sub_definition": "in large groups together', e.g. of birds, sometimes of men; in two or more lines, e.g. people sitting down to eat a meal, or of dancers (sometimes used in the form dobáge-dobá)"
+            }
+        ]
+    },
+    {
+        "word": "dóba",
+        "word_simple": "DOBA",
+        "fone": "DOB4",
+        "definition": "the fork between the trunk and a branch or between two large branches of a tree (the fork between smaller branches would be called daba); to divide off into two branches (e.g. flowing oil)",
+        "subwords": [
+            {
+                "subword": "*dóba danḍaḱ",
+                "sub_definition": "a cut off forked branch, e.g. such as is used for a sonoba, q.v. or for a tenela, q.v."
+            },
+            {
+                "subword": "*dóba daru",
+                "sub_definition": "same as dóba danḍaḱ"
+            },
+            {
+                "subword": "*dóba diri",
+                "sub_definition": "a stone with a large cleft so as to resemble the doba of a tree"
+            }
+        ]
+    },
+    {
+        "word": "ḍoṕ-ḍoṕ",
+        "word_simple": "DOP",
+        "fone": "DOP",
+        "definition": "plump, well filled out (used esp. of birds, chickens and ducks, could be used of a very young goat. Used in phrases such as ḍoṕ-ḍoṕ lekan kaluți sim)"
+    },
+    {
+        "word": "ḍobe",
+        "word_simple": "DOBE",
+        "fone": "DOB4",
+        "definition": "wet mud (a small amount, cf. losot́); to spatter or make dirty with a small amount of wet mud"
+    },
+    {
+        "word": "ḍoboḱ",
+        "word_simple": "DOBOK",
+        "fone": "DOBO",
+        "definition": "to muddy water by tramping in it in order to daze fish; to daze fish by muddying water; to make water dark e.g. with blood (sometimes the form dobol is used for this)"
+    },
+    {
+        "word": "ḍobol",
+        "word_simple": "DOBOL",
+        "fone": "DOBOL",
+        "definition": "same as above, also"
+    },
+    {
+        "word": "ḍobol",
+        "word_simple": "DOBOL",
+        "fone": "DOBOL",
+        "definition": "to bob around on or near the surface of water (cf. chatom of something completely floating)",
+        "subwords": [
+            {
+                "subword": "*ḍobol-ḍobol",
+                "sub_definition": "the same of a repeated action"
+            }
+        ]
+    },
+    {
+        "word": "ḍobol",
+        "word_simple": "DOBOL",
+        "fone": "DOBOL",
+        "definition": "a stone or the like (e.g. a coin, or a rounded off piece of tile) thrown to hit a previously thrown like object in a game",
+        "subwords": [
+            {
+                "subword": "*ḍobol-dobol",
+                "sub_definition": "the game played with a ḍobol"
+            }
+        ]
+    },
+    {
+        "word": "doboṛi",
+        "word_simple": "DOBODI",
+        "fone": "DOBODI",
+        "definition": "double; twice; to make something double; to put something twice (used e.g. of a rope doubled over, or a price doubled. See also dunua)"
+    },
+    {
+        "word": "dochot́",
+        "word_simple": "DOCHOT",
+        "fone": "DOCOT",
+        "definition": "a crest of feathers or hairs, e.g. as on the chepor bird (a bigger crest is called domchory",
+        "subwords": [
+            {
+                "subword": "*dochod dumbi oe",
+                "sub_definition": "the Hoopoe bird (which has a crest of hairs on the head), called domchor oe in some places"
+            },
+            {
+                "subword": "*dochod oe",
+                "sub_definition": "same as dochot́ dumbi oe"
+            }
+        ]
+    },
+    {
+        "word": "dot́",
+        "word_simple": "DOT",
+        "fone": "DOT",
+        "definition": "to stammer, stutter (used in expressions dot́ geć kajièa or Kajić dot́ea, 'he stammers')",
+        "subwords": [
+            {
+                "subword": "*dot́-mot́",
+                "sub_definition": "to stammer (with verb kaji or the like)"
+            }
+        ]
+    },
+    {
+        "word": "dodolaṅ",
+        "word_simple": "DODOLANG",
+        "fone": "DODOL4N",
+        "definition": "sometimes used in prayers or songs for dolan (see dola)"
+    },
+    {
+        "word": "dodoro, dodro",
+        "word_simple": "DODORO",
+        "fone": "DODORO",
+        "definition": "having many gaping holes (used e.g.of a roof, an umbrella, a basket, clothing)"
+    },
+    {
+        "word": "ḍoḍoro",
+        "word_simple": "DODORO",
+        "fone": "DODORO",
+        "definition": "a hollow (hole) in a large tree (also ḍuḍuru)"
+    },
+    {
+        "word": "doć",
+        "word_simple": "DOC",
+        "fone": "DO",
+        "definition": "a small green parrot"
+    },
+    {
+        "word": "ḍogoḱ-ḍogoḱ",
+        "word_simple": "DOGOK",
+        "fone": "DOGO",
+        "definition": "the sound made by very loud talking or laughing"
+    },
+    {
+        "word": "Ḍoka Daru",
+        "word_simple": "DOKA",
+        "fone": "DOK4",
+        "definition": "a big tree with wood useable for making roof beams (jangi). The bark is light coloured in young trees. The wood is not strong and does not burn well",
+        "subwords": [
+            {
+                "subword": "*Ḍoka Met́ Oe",
+                "sub_definition": "the White-eye bird (at least a local name given by some villagers)"
+            }
+        ]
+    },
+    {
+        "word": "dokan",
+        "word_simple": "DOKAN",
+        "fone": "DOK4N",
+        "definition": "a shop"
+    },
+    {
+        "word": "dokol",
+        "word_simple": "DOKOL",
+        "fone": "DOKOL",
+        "definition": "to shake"
+    },
+    {
+        "word": "dokol",
+        "word_simple": "DOKOL",
+        "fone": "DOKOL",
+        "definition": "to possess; deeds of possession",
+        "subwords": [
+            {
+                "subword": "*dokol sakam",
+                "sub_definition": "deeds of possession"
+            }
+        ]
+    },
+    {
+        "word": "ḍol",
+        "word_simple": "DOL",
+        "fone": "DOL",
+        "definition": "a kind of grass which remains inside water, not rising above the water level"
+    },
+    {
+        "word": "dola",
+        "word_simple": "DOLA",
+        "fone": "DOL4",
+        "definition": "an exclamation inviting someone to do something along with the speaker (also do); Dual is dolaṅ, plural is dolabu. These precede a future verb form, e.g. dolabu senoḱa, 'let us (pl) go', but some- times are used alone when the verb is understood. dolaṅ and dolabu can be used as verbs, e.g. dolantat́ićać, 'He urges him (saying dolan to him) to join him in some action'"
+    },
+    {
+        "word": "Ḍola",
+        "word_simple": "DOLA",
+        "fone": "DOL4",
+        "definition": "the fruit of the mahua tree",
+        "subwords": [
+            {
+                "subword": "*Ḍola chokaḱ",
+                "sub_definition": "the outer skin of the fruit of the mahua tree; used as mage kaji to refer to the female organ"
+            },
+            {
+                "subword": "*Ḍola jaṅ",
+                "sub_definition": "the seed of the mahua fruit"
+            },
+            {
+                "subword": "*Ḍola sunum",
+                "sub_definition": "oil made from the fruit of the mahua tree"
+            }
+        ]
+    },
+    {
+        "word": "dolan oaḱ",
+        "word_simple": "DOLAN",
+        "fone": "DOL4N",
+        "definition": "a two or more storied house"
+    },
+    {
+        "word": "Dolbuṅ",
+        "word_simple": "DOLBUNG",
+        "fone": "DOLBUN",
+        "definition": "the Dalbhum area of East Singhbhum"
+    },
+    {
+        "word": "doldol",
+        "word_simple": "DOLDOL",
+        "fone": "DOLDOL",
+        "definition": "a swamp (Hindi. daldal, better Ho would be jagda)"
+    },
+    {
+        "word": "doldol",
+        "word_simple": "DOLDOL",
+        "fone": "DOLDOL",
+        "definition": "dirty colour (in the phrase en doldol used in stories)"
+    },
+    {
+        "word": "ḍol-ḍol",
+        "word_simple": "DOL",
+        "fone": "DOL",
+        "definition": "of water, to be muddy (also boḍo-boḍo)"
+    },
+    {
+        "word": "doldolia",
+        "word_simple": "DOLDOLIA",
+        "fone": "DOLDOLI4",
+        "definition": "a swamp (less common form of doldol)"
+    },
+    {
+        "word": "Dolma Buru",
+        "word_simple": "DOLMA",
+        "fone": "DOLM4",
+        "definition": "Dalma hill near Jamshedpur"
+    },
+    {
+        "word": "dóm",
+        "word_simple": "DOM",
+        "fone": "DOM",
+        "definition": "an offering, sukul or rice-beer, made to the ancestors to appease them when they are inflicting some punishment; to say the sacrificial formula over a victim (for this the word dan is more usually used, dom is more properly the first meaning given above)",
+        "subwords": [
+            {
+                "subword": "*dóm-uraa",
+                "sub_definition": "an offering, e.g. paddy, made in order to appease a spirit, e.g. in the hon ba feast paddy is offered to Sinbonga to request him to have the baba-enga protect the paddy"
+            }
+        ]
+    },
+    {
+        "word": "ḍom",
+        "word_simple": "DOM",
+        "fone": "DOM",
+        "definition": "a member of the Dom caste",
+        "subwords": [
+            {
+                "subword": "*ḍom-duliako",
+                "sub_definition": "a collective noun for Doms and other such people who live on selling fish and skins and on beating drums and blowing trumpets at festivals"
+            }
+        ]
+    },
+    {
+        "word": "Domchor",
+        "word_simple": "DOMCHOR",
+        "fone": "DOMCOR",
+        "definition": "a big crest of hairs (ef. dochod. a smaller crest); a big fleshy crest of a cock (this is usually called dali)",
+        "subwords": [
+            {
+                "subword": "*Domchor Oe",
+                "sub_definition": "the Hoopoe bird, also called dochot́ dumbi"
+            }
+        ]
+    },
+    {
+        "word": "domkao",
+        "word_simple": "DOMKAO",
+        "fone": "DOMK4O",
+        "definition": "to rebuke",
+        "subwords": [
+            {
+                "subword": "*domkao boro",
+                "sub_definition": "to scare or intimidate by rebuking"
+            }
+        ]
+    },
+    {
+        "word": "domoṅ-domoṅ",
+        "word_simple": "DOMONG",
+        "fone": "DOMON",
+        "definition": "of a horse, to run with the head and body moving up and down; of a boat, to move up and down on the waves"
+    },
+    {
+        "word": "don",
+        "word_simple": "DON",
+        "fone": "DON",
+        "definition": "to lift in order to put something on or take something off from the head; to take something, e.g. a chaṭu off a fire (to put something on a fire would be chonda)",
+        "subwords": [
+            {
+                "subword": "*don aagu",
+                "sub_definition": "to lift down something held on the head; to take something off a fire"
+            }
+        ]
+    },
+    {
+        "word": "don",
+        "word_simple": "DON",
+        "fone": "DON",
+        "definition": "wealth, riches",
+        "subwords": [
+            {
+                "subword": "*don-biti",
+                "sub_definition": "a collective noun for one's wealth and possessions"
+            },
+            {
+                "subword": "*don churdu",
+                "sub_definition": "a spirit who steals grains from others to increase the grain supplies of his devotees, but who prevents them from having male children"
+            }
+        ]
+    },
+    {
+        "word": "ḍoṅ",
+        "word_simple": "DONG",
+        "fone": "DON",
+        "definition": "to give (or in the passive receive) each one his own share however little it may be (used esp. of food and drink)"
+    },
+    {
+        "word": "donḍa, ḍonḍa",
+        "word_simple": "DONDA",
+        "fone": "DOND4",
+        "definition": "a tree lizard",
+        "subwords": [
+            {
+                "subword": "*Donḍa Beleṅ Aaḱ",
+                "sub_definition": "a herb with a solitary yellow flower on a long peduncle, also called Sonamuni Aaḱ and Ḍora Aaḱ, q.v."
+            }
+        ]
+    },
+    {
+        "word": "donḍe",
+        "word_simple": "DONDE",
+        "fone": "DOND4",
+        "definition": "immediately (same meaning as torsa, not used alone but used in the following expressions) -",
+        "subwords": [
+            {
+                "subword": "*en donḍe",
+                "sub_definition": "immediately after that"
+            },
+            {
+                "subword": "*mit́ donḍe",
+                "sub_definition": "immediately"
+            }
+        ]
+    },
+    {
+        "word": "donḍea",
+        "word_simple": "DONDEA",
+        "fone": "DOND4",
+        "definition": "a lizard (an alternate form for Donḍa, a small lizard)"
+    },
+    {
+        "word": "dondo",
+        "word_simple": "DONDO",
+        "fone": "DONDO",
+        "definition": "to hold, brandish, support something at about eye level",
+        "subwords": [
+            {
+                "subword": "*dondo-rakaṕ",
+                "sub_definition": "to lift up to about eye level"
+            }
+        ]
+    },
+    {
+        "word": "donḍo, ḍonḍo",
+        "word_simple": "DONDO",
+        "fone": "DONDO",
+        "definition": "foolish, foolishness; to act foolishly (used in prayers e.g. at the time of baba tár in parallel with kaji to refer to any offenses spoken (Á Daṭa) which must be purified)",
+        "subwords": [
+            {
+                "subword": "*donḍo te, sama donḍo te",
+                "sub_definition": "in a foolish manner, foolishly"
+            }
+        ]
+    },
+    {
+        "word": "donḍochol",
+        "word_simple": "DONDOCHOL",
+        "fone": "DONDOCOL",
+        "definition": "to have some part jutting out"
+    },
+    {
+        "word": "Donea Aaḱ",
+        "word_simple": "DONEA",
+        "fone": "DON4",
+        "definition": "an annual slender branched herb, 1-2 ft. high, cultivated for the seed which is used as a condiment, Coriandrum sativum, L. Umbelliferae, B.74/4, H.74/11/1 (in Ho also called Masala Aaḱ, in English 'coriander')"
+    },
+    {
+        "word": "Ḍonga",
+        "word_simple": "DONGA",
+        "fone": "DON4",
+        "definition": "a boat; the wooden piece supporting the iron axle of a cart (also called kampu daru)"
+    },
+    {
+        "word": "ḍonga",
+        "word_simple": "DONGA",
+        "fone": "DON4",
+        "definition": "of birds, to be dark coloured about the neck or throat, used esp. of some varieties of the kud and dur birds"
+    },
+    {
+        "word": "Ḍonga Hesaḱ",
+        "word_simple": "DONGA",
+        "fone": "DON4",
+        "definition": "same as Ḍunga Hesaḱ, q.v."
+    },
+    {
+        "word": "dongoṕ-dongoṕ tan",
+        "word_simple": "DONGOP",
+        "fone": "DONOP",
+        "definition": "sparkling bright, e.g. of a line of dancers dressed in neat clean clothes, (with neloḱ, susun, etc.)"
+    },
+    {
+        "word": "Ḍongol",
+        "word_simple": "DONGOL",
+        "fone": "DONOL",
+        "definition": "Chaibasa town (In his Ho Grammar Burrows gives an encampment of many tents', Hoffman in E.M. gives 'court of law)",
+        "subwords": [
+            {
+                "subword": "*Ḍongol Háṭ",
+                "sub_definition": "the weekly market held in Chaibasa"
+            }
+        ]
+    },
+    {
+        "word": "dongor",
+        "word_simple": "DONGOR",
+        "fone": "DONOR",
+        "definition": "of a fire, to blaze brightly; the deep red colour of a blazing fire",
+        "subwords": [
+            {
+                "subword": "*dongor-dongor",
+                "sub_definition": "the same as dongor of a prolonged or repeated action"
+            }
+        ]
+    },
+    {
+        "word": "doni",
+        "word_simple": "DONI",
+        "fone": "DONI",
+        "definition": "rich (sometimes heard in songs, from Hindi 'dhani')"
+    },
+    {
+        "word": "ḍonka",
+        "word_simple": "DONKA",
+        "fone": "DONK4",
+        "definition": "a wooden manger for feeding cattle (a word used in the Sonua area) (another word for manger is daraka)"
+    },
+    {
+        "word": "dopa",
+        "word_simple": "DOPA",
+        "fone": "DOP4",
+        "definition": "an opening between the wall and the roof (used esp. of the front and sometimes of the back part of the house, not used of the sides of a mail Oaḱ, however in a kupi Oaḱ there can be a mutul dopa)"
+    },
+    {
+        "word": "dopali",
+        "word_simple": "DOPALI",
+        "fone": "DOP4LI",
+        "definition": "of eg. a chicken or a bird, to spring up into the air, of e.g. a horse or a man, to spring in the air in a manner resembling this",
+        "subwords": [
+            {
+                "subword": "*dopali-iuḱ",
+                "sub_definition": "to make fall (pass.- to fall) by springing or leaping (as given under dopali)"
+            },
+            {
+                "subword": "*dopali-olt́",
+                "sub_definition": "to spring or leap out (as given under dopali)"
+            }
+        ]
+    },
+    {
+        "word": "doparangi",
+        "word_simple": "DOPARANGI",
+        "fone": "DOP4R4NI",
+        "definition": "to leave something (e.g. wood being brought from the jungle) somewhere for some time (hours or days) half way on a journey with the intention of coming back to get it later"
+    },
+    {
+        "word": "dopoh",
+        "word_simple": "DOPOH",
+        "fone": "DOPO",
+        "definition": "to have sexual intercourse, fornicate (recip. of doh, mage kaji)"
+    },
+    {
+        "word": "dopol",
+        "word_simple": "DOPOL",
+        "fone": "DOPOL",
+        "definition": "of some object, e.g. leaves in a wind, to shake; of the earth, to quake",
+        "subwords": [
+            {
+                "subword": "*dopol-iuḱ",
+                "sub_definition": "to make fall from a height by shaking"
+            }
+        ]
+    },
+    {
+        "word": "dopoya-kupunḍam",
+        "word_simple": "DOPOYA",
+        "fone": "DOPO4",
+        "definition": "with backs to one another (eg. of two lines of people back to back sell- ing in the market) (recip. of doya kundam)"
+    },
+    {
+        "word": "dor",
+        "word_simple": "DOR",
+        "fone": "DOR",
+        "definition": "rate for buying or selling"
+    },
+    {
+        "word": "doḍa",
+        "word_simple": "DODA",
+        "fone": "DOD4",
+        "definition": "a ditch"
+    },
+    {
+        "word": "ḍora",
+        "word_simple": "DORA",
+        "fone": "DOR4",
+        "definition": "a string worn around the waist (nowadays worn esp. by children to support their botoć)",
+        "subwords": [
+            {
+                "subword": "*ḍora Aaḱ",
+                "sub_definition": "a herb with a solitary yellow flower on a long peduncle, Tridax procumbens, L., Compositae, b.78/44, H.78/34/1 (also called datarom Aaḱ, Sonamuni Aaḱ, Gusam Aaḱ, Donḍa Beleṅ Aaḱ, Raṕ-roṕ Aaḱ, Hau Jujuṅ and Buru Kesari Aaḱ)"
+            }
+        ]
+    },
+    {
+        "word": "dóra",
+        "word_simple": "DORA",
+        "fone": "DOR4",
+        "definition": "same as dora-ura, q.v.",
+        "subwords": [
+            {
+                "subword": "*dóra-uraa",
+                "sub_definition": "to do for a second time, to repeat (used in a prayer prob. from Hindi, more commonly used in Ho is dunua)"
+            }
+        ]
+    },
+    {
+        "word": "doṛaṅ",
+        "word_simple": "DODANG",
+        "fone": "DOD4N",
+        "definition": "of something balanced or resting on an elevation, to fall or slip off to the side, e.g. a chațu being carried, or a chațu from the stove; of stones, to be loosely piled one upon another so that one walking on them is in danger of slipping",
+        "subwords": [
+            {
+                "subword": "*doṛaṅ-doṛaṅ (tan)",
+                "sub_definition": "esp. of a tall elderly man, to walk as if in danger of toppling over (with verb sen, etc.)"
+            }
+        ]
+    },
+    {
+        "word": "dorbar",
+        "word_simple": "DORBAR",
+        "fone": "DORB4R",
+        "definition": "the hearing of a case; to try or hear a case; with anim. obj. to call someone before a village panchayat in order to try his case"
+    },
+    {
+        "word": "dorga",
+        "word_simple": "DORGA",
+        "fone": "DORG4",
+        "definition": "a daroga (police officer)"
+    },
+    {
+        "word": "doṛi",
+        "word_simple": "DODI",
+        "fone": "DODI",
+        "definition": "a merry-go-round or ferris wheel such as are found at fairs (the form duṛi is more common); used in stories for koḍokoḍia, a palanquin"
+    },
+    {
+        "word": "dorkar",
+        "word_simple": "DORKAR",
+        "fone": "DORK4R",
+        "definition": "necessary; necessity; pass, to be necessary"
+    },
+    {
+        "word": "dorkas",
+        "word_simple": "DORKAS",
+        "fone": "DORK4S",
+        "definition": "an application, a petition, esp. in a legal sense",
+        "subwords": [
+            {
+                "subword": "*dorkas sakam",
+                "sub_definition": "a petition paper"
+            }
+        ]
+    },
+    {
+        "word": "doḍoḱ",
+        "word_simple": "DODOK",
+        "fone": "DODO",
+        "definition": "to nod assent",
+        "subwords": [
+            {
+                "subword": "*doḍoḱ-beṭoḱ",
+                "sub_definition": "of one dozing off while sitting, for the head to bob up and down"
+            }
+        ]
+    },
+    {
+        "word": "ḍoro-ḍongi",
+        "word_simple": "DORO",
+        "fone": "DORO",
+        "definition": "an alternate form of ḍoro-ḍungi, q.v."
+    },
+    {
+        "word": "doro-doro",
+        "word_simple": "DORO",
+        "fone": "DORO",
+        "definition": "an exclamation used to incite a dog to e.g. run after someone or some animal"
+    },
+    {
+        "word": "ḍoro-dungi",
+        "word_simple": "DORO",
+        "fone": "DORO",
+        "definition": "a wooden obstacle placed around the necks of cattle to accustom them to the yoke; a piece of wood suspended by a rope from the neck of cattle to prevent them from moving fast or far away"
+    },
+    {
+        "word": "dorom",
+        "word_simple": "DOROM",
+        "fone": "DOROM",
+        "definition": "see dhorom and related words"
+    },
+    {
+        "word": "dorom",
+        "word_simple": "DOROM",
+        "fone": "DOROM",
+        "definition": "used in prayers in the phrase gitil-tanakir daḱ ge dorom aete apparently referring to a place where much water gathers (exact meaning not known)"
+    },
+    {
+        "word": "Dorom Duar",
+        "word_simple": "DOROM",
+        "fone": "DOROM",
+        "definition": "a place in the jungles near Peṭapiṭi where Dẽoa go to learn their trade. They call upon the spirits of this place to help them"
+    },
+    {
+        "word": "doroṅ-doroṅ",
+        "word_simple": "DORONG",
+        "fone": "DORON",
+        "definition": "a buzzing sound, e.g. that made by a swarm of flies"
+    },
+    {
+        "word": "dós, dóso",
+        "word_simple": "DOS",
+        "fone": "DOS",
+        "definition": "guilt; to accuse"
+    },
+    {
+        "word": "dosi",
+        "word_simple": "DOSI",
+        "fone": "DOSI",
+        "definition": "guilty; to declare guilty, to accuse",
+        "subwords": [
+            {
+                "subword": "*dosi saṕ",
+                "sub_definition": "accuse to declare guilty, to accuse"
+            }
+        ]
+    },
+    {
+        "word": "dṍsi",
+        "word_simple": "DOSI",
+        "fone": "DOSI",
+        "definition": "thirty"
+    },
+    {
+        "word": "Dosora Poroṕ",
+        "word_simple": "DOSORA",
+        "fone": "DOSOR4",
+        "definition": "the dashara feast of the Hindus",
+        "subwords": [
+            {
+                "subword": "*dosora chanḍuḱ",
+                "sub_definition": "the time of the dosora porob, late September and early October"
+            }
+        ]
+    },
+    {
+        "word": "dostur",
+        "word_simple": "DOSTUR",
+        "fone": "DOSTUR",
+        "definition": "custom; tradition"
+    },
+    {
+        "word": "ḍoaṅ",
+        "word_simple": "DOANG",
+        "fone": "DO4N",
+        "definition": "a level section in a jungle above a ravine and between hills"
+    },
+    {
+        "word": "ḍoaṅ",
+        "word_simple": "DOANG",
+        "fone": "DO4N",
+        "definition": "of flood water, to knock out a section of an embankment"
+    },
+    {
+        "word": "Doya",
+        "word_simple": "DOYA",
+        "fone": "DO4",
+        "definition": "the back",
+        "subwords": [
+            {
+                "subword": "*Doyadabi",
+                "sub_definition": "the shoulder blade (also merely dabi)"
+            },
+            {
+                "subword": "*Doya Kunḍam",
+                "sub_definition": "behind the back; to put something behind the back; to reject"
+            },
+            {
+                "subword": "*Doya paa Hora",
+                "sub_definition": "from behind doyare, doyate in back of (Les. 40)"
+            }
+        ]
+    },
+    {
+        "word": "doen",
+        "word_simple": "DOEN",
+        "fone": "DO4N",
+        "definition": "uselessly; in vain; regretably (used as adverb in form doen te or merely doen)"
+    },
+    {
+        "word": "duḱ",
+        "word_simple": "DUK",
+        "fone": "DU",
+        "definition": "to pull (e.g. a piece of wood) from a fire (opposite to uskur)"
+    },
+    {
+        "word": "duṕ",
+        "word_simple": "DUP",
+        "fone": "DUP",
+        "definition": "to sit; to settle down (e.g. mud stirred up in water); to study with a guru (e.g. en guru taḱ chela ko duṕ akana, 'disciples are learning with the guru'); of a silkworm, to remain still and fasting before shedding its skin; to make sit e.g for a panchayat; to set something down, (e.g. as in the expression góṭo duṕ, q.v.); to fix an arrow in the bowstring ready to shoot (with sar as object); with Singi or Chanḍuḱ (expressed or understood) as object and with no subject expressed in expressions such as duṕićakô, duṕ tat́ićako, duṕ akat́ićakô-'to form a halo around the sun or moon' (as though spirits are sitting around the sun or moon holding a panchayat); the passive form duṕoḱ is sometimes used with the meaning 'be seated' when the act of sitting is less from one's own volition, e.g. the action of a silkworm fasting before shedding its skin. Also the term duṕoḱkâbu let us be seated' is sometimes used by those familiar with Hindi",
+        "subwords": [
+            {
+                "subword": "*duṕ-aagu",
+                "sub_definition": "to sit in some lower position"
+            },
+            {
+                "subword": "*duṕ-angara",
+                "sub_definition": "to sit or to set something down in the evening to remain there until the morning"
+            },
+            {
+                "subword": "*duṕ-bár",
+                "sub_definition": "to sit in great numbers at the same time; of silkworms, to fast in great numbers at the same time"
+            },
+            {
+                "subword": "*duṕ-binḍu",
+                "sub_definition": "to sit squatting (with one's legs crossed)"
+            },
+            {
+                "subword": "*duṕ-biur",
+                "sub_definition": "to sit around e.g. a fire"
+            },
+            {
+                "subword": "*duṕ-chenṭa",
+                "sub_definition": "to harass by sitting, (e.g. to harass a nage bonga by sitting on a rock under which the spirit dwells)"
+            },
+            {
+                "subword": "*duṕ donḍa bohḱ",
+                "sub_definition": "to sit quietly"
+            },
+            {
+                "subword": "*duṕ-donḍochol",
+                "sub_definition": "to sit with the chin jutting out"
+            },
+            {
+                "subword": "*duṕ enḍaḱ",
+                "sub_definition": "to sit idly"
+            },
+            {
+                "subword": "*duṕ-goom",
+                "sub_definition": "to sit keeping someone company"
+            },
+            {
+                "subword": "*dub hapa",
+                "sub_definition": "to sit still; this can be"
+            },
+            {
+                "subword": "*duṕ-hopor",
+                "sub_definition": "to sit near to"
+            },
+            {
+                "subword": "*duṕ-horho",
+                "sub_definition": "to guard by sitting close"
+            },
+            {
+                "subword": "*duṕ-jirao",
+                "sub_definition": "to sit and get some"
+            },
+            {
+                "subword": "*duṕ-rubu-rubu",
+                "sub_definition": "to sit bent over"
+            },
+            {
+                "subword": "*duṕ-sakú",
+                "sub_definition": "to fall (collapse) in a sitting position; to push someone so that he falls in a sitting position"
+            },
+            {
+                "subword": "*duṕ-sangi",
+                "sub_definition": "to swell the number of those sitting by joining them"
+            },
+            {
+                "subword": "*duṕ-sereṅ",
+                "sub_definition": "a place in the hill near Karlajuri village where a large stone is set to in some prayers, literally 'a compost heap hooked pole' referring to the action of a chicken probing in a dungheap with its beak)"
+            },
+            {
+                "subword": "*duṕ-tagul",
+                "sub_definition": "to fall in a sitting position (from a less distance than duṕ-taḍagur would imply)"
+            },
+            {
+                "subword": "*duṕ-takir",
+                "sub_definition": "to sit down quivering"
+            },
+            {
+                "subword": "*duṕ-tapeć",
+                "sub_definition": "to sit on the ground (N.B. to squat is duṕ-binḍu)"
+            },
+            {
+                "subword": "*duṕ-taḍagur",
+                "sub_definition": "to fall in a sitting position causing pain in the back duṕ-tenḍer to support someone by leaning against something"
+            },
+            {
+                "subword": "*duṕ-tenḍer",
+                "sub_definition": "to support someone"
+            },
+            {
+                "subword": "*duṕ-tumuḍu",
+                "sub_definition": "to sit quietly"
+            },
+            {
+                "subword": "*duṕ-umbul",
+                "sub_definition": "to move into the house e.g. of a widow, to help look after the culivation, etc. (as a relative often does)"
+            },
+            {
+                "subword": "*duṕ-hunḍi",
+                "sub_definition": "to sit in large numbers, e.g. bees on flowers"
+            },
+            {
+                "subword": "*duṕ-uraa",
+                "sub_definition": "to sit again; to remain stunted or retarded, e.g. rice stalks which do not grow properly because surrouded by tall weeds used in figur. sense meaning to not speak up or not take action (e.g."
+            }
+        ]
+    },
+    {
+        "word": "ḍuṕ",
+        "word_simple": "DUP",
+        "fone": "DUP",
+        "definition": "to knock one's head against something when one should do so)"
+    },
+    {
+        "word": "ḍuba",
+        "word_simple": "DUBA",
+        "fone": "DUB4",
+        "definition": "an aluminium bowl, bigger than a gina but smaller than a bela"
+    },
+    {
+        "word": "ḍubaṅ-ḍubaṅ",
+        "word_simple": "DUBANG",
+        "fone": "DUB4N",
+        "definition": "the sound of a dama drum beat"
+    },
+    {
+        "word": "ḍubao",
+        "word_simple": "DUBAO",
+        "fone": "DUB4O",
+        "definition": "to sink (Hindi - dubana), used esp. in figurative sense with nutum, of one's name, to be ruined; to be disgraced"
+    },
+    {
+        "word": "dubi",
+        "word_simple": "DUBI",
+        "fone": "DUBI",
+        "definition": "a dungheap, compost",
+        "subwords": [
+            {
+                "subword": "*dubi ankai",
+                "sub_definition": "-a chicken (so referred"
+            },
+            {
+                "subword": "*dubi chidu",
+                "sub_definition": "an insect. white in colour about 2-3 inches long, about as thick as a man's small finger and found in dungheaps (i.e. sit on a very fluffy or elastic material so that one continues to quiver for a while)"
+            },
+            {
+                "subword": "*dubi tasat́",
+                "sub_definition": "Couch Grass, Cynodon dactylon, Gramineae, B.139/14, H.139/20/1"
+            }
+        ]
+    },
+    {
+        "word": "ḍubsu",
+        "word_simple": "DUBSU",
+        "fone": "DUBSU",
+        "definition": "round"
+    },
+    {
+        "word": "ḍubu",
+        "word_simple": "DUBU",
+        "fone": "DUBU",
+        "definition": "of birds, flying ants, etc., for the wings to start to form (used in forms ḍubu akana, ḍubutia)"
+    },
+    {
+        "word": "dubui",
+        "word_simple": "DUBUI",
+        "fone": "DUBUI",
+        "definition": "the buttocks; the base of vessels such as a chațu, muta, etc.",
+        "subwords": [
+            {
+                "subword": "*dubui kuḍusur",
+                "sub_definition": "the region around the base of the spine"
+            },
+            {
+                "subword": "*dubui muṭi",
+                "sub_definition": "of men, the region around the base of the spine; of birds, chickens, etc. the posterior where the tail feathers protrude"
+            }
+        ]
+    },
+    {
+        "word": "ḍubuć",
+        "word_simple": "DUBUC",
+        "fone": "DUBU",
+        "definition": "to make sink into water; pass, - to sink down into ter (cf. múć- to sink into some other soft material, e.g. mud); of the sun, to set",
+        "subwords": [
+            {
+                "subword": "*ḍubuć-goć",
+                "sub_definition": "to kill by making sink under water, pass, to die by sinking under water"
+            }
+        ]
+    },
+    {
+        "word": "ḍubul",
+        "word_simple": "DUBUL",
+        "fone": "DUBUL",
+        "definition": "a word imitative of the sound made by beating a dama drum (also ḍubuṅ-ḍubuṅ)"
+    },
+    {
+        "word": "ḍubuṅ-ḍubuṅ",
+        "word_simple": "DUBUNG",
+        "fone": "DUBUN",
+        "definition": "the sound of drums, esp. of the dama"
+    },
+    {
+        "word": "ḍut́ḍa",
+        "word_simple": "DUTDA",
+        "fone": "DUTD4",
+        "definition": "meaning uncertain, perhaps 'very small, dwarfish' used in a story as adj. with hisir (garland) (cf. Santali duda, dudga, Mundari dudka all meaning 'very small')"
+    },
+    {
+        "word": "dut́-dut́",
+        "word_simple": "DUT",
+        "fone": "DUT",
+        "definition": "the rising of heavy smoke, e.g. from a train engine; of the head, to throb with a high fever; to feel a spinning sensation, e.g. when suddenly getting up; of rain, to descent in very light drops (resembling smoke), used with tan and the verb gama, e.g. dut́-dut́ taneć gamaè tana; loose dust-like particles, e.g. of chaff after threshing"
+    },
+    {
+        "word": "ḍuḍi",
+        "word_simple": "DUDI",
+        "fone": "DUDI",
+        "definition": "a small culvert or a hollow log used to pass water through (e.g. an embankment) from one field to another"
+    },
+    {
+        "word": "dudlum, dudulum",
+        "word_simple": "DUDLUM",
+        "fone": "DUDLUM",
+        "definition": "a pigeon"
+    },
+    {
+        "word": "dudmul, dudumul",
+        "word_simple": "DUDMUL",
+        "fone": "DUDMUL",
+        "definition": "an alternate spelling of dudlum, 'pigeon'"
+    },
+    {
+        "word": "Ḍuḍri Jó",
+        "word_simple": "DUDRI",
+        "fone": "DUDRI",
+        "definition": "the fruit of a tree which when crushed and mixed with water lathers and is used for soap; Gardenia turgida, Roxb., Rubiaceae, E.M., B.77/8, H.77/12/1"
+    },
+    {
+        "word": "dú-dú",
+        "word_simple": "DU",
+        "fone": "DU",
+        "definition": "of much smoke, to arise (cf. daḱ dú-dú, steam); dú-dú(tan) of numerous flying ants, etc., to come out at the same time (with verb olt́)"
+    },
+    {
+        "word": "dú-dú",
+        "word_simple": "DU",
+        "fone": "DU",
+        "definition": "small green flying insects which attack the stalks of growing grains in great number about late Aug. or Sept."
+    },
+    {
+        "word": "ḍuḍu",
+        "word_simple": "DUDU",
+        "fone": "DUDU",
+        "definition": "to be clothed scantily around the waist with e.g. a gamcha (more than a botoć)",
+        "subwords": [
+            {
+                "subword": "*ḍuḍu botoć",
+                "sub_definition": "a loin cloth and something around the waist"
+            }
+        ]
+    },
+    {
+        "word": "dudu bachara",
+        "word_simple": "DUDU",
+        "fone": "DUDU",
+        "definition": "a white worm, said to be very small (one-half inch) and thin (threadlike), smaller than a bachara, q.v., said to come out of the feet of men and in their stool"
+    },
+    {
+        "word": "dudugar",
+        "word_simple": "DUDUGAR",
+        "fone": "DUDUG4R",
+        "definition": "a cloud of dust"
+    },
+    {
+        "word": "dudumui dumbu",
+        "word_simple": "DUDUMUI",
+        "fone": "DUDUMUI",
+        "definition": "a weed found in rice fields"
+    },
+    {
+        "word": "ḍuḍuru",
+        "word_simple": "DUDURU",
+        "fone": "DUDURU",
+        "definition": "the hollow of a large tree."
+    },
+    {
+        "word": "ḍuguran",
+        "word_simple": "DUGURAN",
+        "fone": "DUGUR4N",
+        "definition": "running as in ḍugur-ḍugur (an adjectival form)"
+    },
+    {
+        "word": "ḍugur-ḍugur",
+        "word_simple": "DUGUR",
+        "fone": "DUGUR",
+        "definition": "the way of running of the quail (dur); to run this way, e.g. of small children running quickly with small steps"
+    },
+    {
+        "word": "dṹć",
+        "word_simple": "DUC",
+        "fone": "DU",
+        "definition": "to slant or tilt to the side, e.g. of a vessel slanting at an angle inbo",
+        "subwords": [
+            {
+                "subword": "*dṹć Singi",
+                "sub_definition": "about 1:00 P.M. (when the sun starts to slant from being directly above) having a"
+            }
+        ]
+    },
+    {
+        "word": "ḍuć-ḍuć tan",
+        "word_simple": "DUC",
+        "fone": "DU",
+        "definition": "bloated stomach (with verbs such as bí, ḍuć-ḍuć taneć bí akana, his stomach is full and bloated')"
+    },
+    {
+        "word": "duir",
+        "word_simple": "DUIR",
+        "fone": "DUIR",
+        "definition": "to copulate, fornicate (mage kaji)"
+    },
+    {
+        "word": "ḍũia Láć",
+        "word_simple": "DUIA",
+        "fone": "DUI4",
+        "definition": "the large stomach of a small child"
+    },
+    {
+        "word": "duki",
+        "word_simple": "DUKI",
+        "fone": "DUKI",
+        "definition": "used in term duki hon as poetic parallel to porja hon, and to randi hon, probably from Hindi and meaning afflicted, suffering"
+    },
+    {
+        "word": "ḍuki",
+        "word_simple": "DUKI",
+        "fone": "DUKI",
+        "definition": "to urinate; urine",
+        "subwords": [
+            {
+                "subword": "*ḍuki-oyot́",
+                "sub_definition": "to experience a partial digestion by urinating (e.g. a baby, who then wants more of the mother's milk)"
+            },
+            {
+                "subword": "*ḍuki parom",
+                "sub_definition": "to urinate in one's clothes"
+            },
+            {
+                "subword": "*ḍuki-topa",
+                "sub_definition": "poetic parallel of ić topa, q.v."
+            },
+            {
+                "subword": "*ḍuki usić",
+                "sub_definition": "to feel the urge to urinate"
+            }
+        ]
+    },
+    {
+        "word": "duku",
+        "word_simple": "DUKU",
+        "fone": "DUKU",
+        "definition": "suffering; grief; to suffer (Les. 26)",
+        "subwords": [
+            {
+                "subword": "*duku balai",
+                "sub_definition": "to relieve (assuage) some suffering or grief"
+            },
+            {
+                "subword": "*Duku Disum Maraṅ Bonga",
+                "sub_definition": "a name sometimes given to Maraṅ Bonga. See also Dupuṕ Disum Maraṅ Bonga"
+            },
+            {
+                "subword": "*duku-ichi",
+                "sub_definition": "to cause suffering (to someone)"
+            },
+            {
+                "subword": "*duku-sasati",
+                "sub_definition": "persecution; to persecute, inflict suffering"
+            },
+            {
+                "subword": "*duku-suku",
+                "sub_definition": "suffering and joy; the expression duku-sukute means the same as bad dukute, 'with much difficulty"
+            }
+        ]
+    },
+    {
+        "word": "ḍuku-ḍuku",
+        "word_simple": "DUKU",
+        "fone": "DUKU",
+        "definition": "of a bird, to sit somewhat raised from the ground with the head tucked in"
+    },
+    {
+        "word": "ḍukuilaḱ",
+        "word_simple": "DUKUILAK",
+        "fone": "DUKUIL4",
+        "definition": "a term used in the keya ader ceremony when inquiring whether the rowa of the dead person has yet entered the adiń"
+    },
+    {
+        "word": "dukur-pukur",
+        "word_simple": "DUKUR",
+        "fone": "DUKUR",
+        "definition": "to be anxious with concern or fear"
+    },
+    {
+        "word": "dul",
+        "word_simple": "DUL",
+        "fone": "DUL",
+        "definition": "to pour (liquids, grains, loose earth, etc.); to pour fish out of e.g. a kumbad into one's țunki; as an adjective made of cast iron (e.g. dul gaenta, dul kudlam and dul pål); (see also separate entry dul(ken))",
+        "subwords": [
+            {
+                "subword": "*dul-aagu",
+                "sub_definition": "to pour (something) down"
+            },
+            {
+                "subword": "*dul-ãṛi",
+                "sub_definition": "to make an embankment by pouring (heaping up) soil"
+            },
+            {
+                "subword": "*dul-bolo",
+                "sub_definition": "o previous amount pour more into a"
+            },
+            {
+                "subword": "*dul-buru",
+                "sub_definition": "to pour (e.g. some grain) in high heaps"
+            },
+            {
+                "subword": "*dul daḱ",
+                "sub_definition": "a waterfall"
+            },
+            {
+                "subword": "*dulenn tan daḱ",
+                "sub_definition": "a waterfall"
+            },
+            {
+                "subword": "*dul-hunḍi",
+                "sub_definition": "to pour together or into a heap"
+            },
+            {
+                "subword": "*dul-jivt́",
+                "sub_definition": "to keep alive by pouring (e.g. water upon some growing plants, etc.)"
+            },
+            {
+                "subword": "*dul-loboḱ",
+                "sub_definition": "to pour a liquid into a thick mass so that particles of the mass float about in the liquid"
+            },
+            {
+                "subword": "*dul-lum",
+                "sub_definition": "to make wet by pouring some liquid"
+            },
+            {
+                "subword": "*dul-muyu",
+                "sub_definition": "a calf-shaped statue made of cast metal dul-omon to make sprout by watering"
+            },
+            {
+                "subword": "*dul-oḍann",
+                "sub_definition": "to bathe by pouring water on oneself (refl. form) dul-pair to pour a liquid causing it to overflow (as is done in the ote ili feast)"
+            },
+            {
+                "subword": "*dul Pál",
+                "sub_definition": "a plough-share made of cast iron or cast steel (rather than by a local kamar forging together pieces of iron)"
+            },
+            {
+                "subword": "*dul-pereć",
+                "sub_definition": "to pour full"
+            },
+            {
+                "subword": "*dul-pura",
+                "sub_definition": "to pour in all recepta cles"
+            },
+            {
+                "subword": "*dul-sareć",
+                "sub_definition": "to pour keeping some back"
+            },
+            {
+                "subword": "*dul-soman",
+                "sub_definition": "to pour and level off (e.g. the floor of a house)"
+            },
+            {
+                "subword": "*dul-sunum",
+                "sub_definition": "another name given to the diri-ten-topa ceremony of putting a stone over a grave. Oil is poured on the stone as part of the rite. (This ceremony is called jagen in the Bhoya area)"
+            },
+            {
+                "subword": "*dul-uraa",
+                "sub_definition": "to pour again (with ari, 'embankment', as obj. this would mean to repair by filling in fresh mud)"
+            }
+        ]
+    },
+    {
+        "word": "dul ken",
+        "word_simple": "DUL",
+        "fone": "DUL",
+        "definition": "to make the loud sound of beating something heavily (e.g. a bandi) (with verb tam, etc.)",
+        "subwords": [
+            {
+                "subword": "*dul-dul(tan)",
+                "sub_definition": "the same of a repeated action"
+            }
+        ]
+    },
+    {
+        "word": "ḍult́",
+        "word_simple": "DUL",
+        "fone": "DUL",
+        "definition": "dust; to be covered with dust (more common form is ḍulit́)"
+    },
+    {
+        "word": "dṹl",
+        "word_simple": "DUL",
+        "fone": "DUL",
+        "definition": "to shake somewhat; to waver"
+    },
+    {
+        "word": "ḍṹl",
+        "word_simple": "DUL",
+        "fone": "DUL",
+        "definition": "round"
+    },
+    {
+        "word": "ḍula",
+        "word_simple": "DULA",
+        "fone": "DUL4",
+        "definition": "poetic parallel for baleć, 'an infant'"
+    },
+    {
+        "word": "dulaḍ",
+        "word_simple": "DULAD",
+        "fone": "DUL4T",
+        "definition": "love; to love",
+        "subwords": [
+            {
+                "subword": "*dulaḍ-darom",
+                "sub_definition": "to welcome with love (someone coming)"
+            },
+            {
+                "subword": "*dulaḍ-mán",
+                "sub_definition": "loving respect/reverence"
+            }
+        ]
+    },
+    {
+        "word": "Dulbić Oe",
+        "word_simple": "DULBIC",
+        "fone": "DULBI",
+        "definition": "-a sandpiper (bird), also called keć dulbi; some divide this into two types, 1) the Daḱ or Gaḍa Dulbi, perhaps the Wood or Spotted Sandpiper, and 2) pii dulbić, the Common Sandpiper"
+    },
+    {
+        "word": "ḍul-ḍul",
+        "word_simple": "DUL",
+        "fone": "DUL",
+        "definition": "to swell up (cf. also ḍil-ḍil which is more common)"
+    },
+    {
+        "word": "ḍule-ḍule",
+        "word_simple": "DULE",
+        "fone": "DUL4",
+        "definition": "used in prayers and songs of rice grains, apparently means to be well formed, well rounded out"
+    },
+    {
+        "word": "ḍulgi, ḍulgić",
+        "word_simple": "DULGI",
+        "fone": "DULGI",
+        "definition": "a leaf folded up on one side with a Charić or merely held by the hand (N.B. a Puuḱ is folded and Charić fixed on both sides); to shape a leaf into a ḍulgi, to drink from one cupped hand"
+    },
+    {
+        "word": "ḍulit́",
+        "word_simple": "DULIT",
+        "fone": "DULIT",
+        "definition": "dust; pass. to be covered with dust.",
+        "subwords": [
+            {
+                "subword": "*ḍulit́-dudugar",
+                "sub_definition": "a cloud of dust"
+            },
+            {
+                "subword": "*ḍulit́-porponḍe",
+                "sub_definition": "to cover with dust; covered with dust"
+            },
+            {
+                "subword": "*ḍulit́-ṭope",
+                "sub_definition": "to cover thickly with dust (see tope(tan))"
+            }
+        ]
+    },
+    {
+        "word": "ḍulia",
+        "word_simple": "DULIA",
+        "fone": "DULI4",
+        "definition": "used in prayers parallel with dom, or used in the compound term dom-duliyako to refer to Doms and such other people who live by selling fish and skins, and on beating drums and blowing trumpets at festivals"
+    },
+    {
+        "word": "ḍulki",
+        "word_simple": "DULKI",
+        "fone": "DULKI",
+        "definition": "a small drum beaten on the side with sticks or bamboo strips (not used much by Hos)"
+    },
+    {
+        "word": "dului leka",
+        "word_simple": "DULUI",
+        "fone": "DULUI",
+        "definition": "of smoke, dust, etc. to come up thickly (with verbs siṕ, moḱ, etc.)",
+        "subwords": [
+            {
+                "subword": "*dului-dului (tan)",
+                "sub_definition": "the same of a prolonged or repeated action"
+            },
+            {
+                "subword": "*dului-lopoṅ",
+                "sub_definition": "to cause dust to come up thickly (e.g. many people walking along a dirt road or dancing on a dirt akara); a- tan affix is sometimes used e.g. dului-lopontanko susuntana. Pass. of dust to come up thickly"
+            },
+            {
+                "subword": "*dului-lusui",
+                "sub_definition": "of birds or hairy animals, to dance with wings or hair flying around; ef. tungui-lusui of jackals dancing with tail flying"
+            }
+        ]
+    },
+    {
+        "word": "duum",
+        "word_simple": "DUM",
+        "fone": "DUM",
+        "definition": "to sleep; sometimes used as poetic parallel with ham, an old man, to become an old man; a dead ancestor",
+        "subwords": [
+            {
+                "subword": "*duum-met́",
+                "sub_definition": "of the eyes, to feel heavy with sleep (also met́-duum, Les. 26)"
+            },
+            {
+                "subword": "*duum hoo ko",
+                "sub_definition": "poetic parallel with ham hoko, the dead ancestors of a family"
+            }
+        ]
+    },
+    {
+        "word": "Dumaṅ",
+        "word_simple": "DUMANG",
+        "fone": "DUM4N",
+        "definition": "a hand drum beaten on both ends",
+        "subwords": [
+            {
+                "subword": "*dumaṅ-badi",
+                "sub_definition": "the leather strips on the side of a duman"
+            }
+        ]
+    },
+    {
+        "word": "ḍumaṅ",
+        "word_simple": "DUMANG",
+        "fone": "DUM4N",
+        "definition": "to make in the form of a ball; to cluster or lump together",
+        "subwords": [
+            {
+                "subword": "*ḍumaṅ ata",
+                "sub_definition": "puffed rice prepared with giru in the form of a ball"
+            },
+            {
+                "subword": "*mit́ dumaṅ",
+                "sub_definition": "a round lump of something (e.g. moist soil) about the size of a hockey ball or smaller (e.g. the ball of dung rolled by the gurić uru)"
+            }
+        ]
+    },
+    {
+        "word": "ḍumbaḱ",
+        "word_simple": "DUMBAK",
+        "fone": "DUMB4",
+        "definition": "close or clustered together, e.g. rice spread out on a mat, or many flowers growing together; refl. -to huddle clase together",
+        "subwords": [
+            {
+                "subword": "*ḍumbaḱ-ḍumbaḱ",
+                "sub_definition": "of flowers, etc., many clustered close together"
+            }
+        ]
+    },
+    {
+        "word": "dumbu",
+        "word_simple": "DUMBU",
+        "fone": "DUMBU",
+        "definition": "any kind of grass or weed; pass, verb of grass or weeds, to grow",
+        "subwords": [
+            {
+                "subword": "*dumbu-enḍaḱ",
+                "sub_definition": "to take out weeds; to weed out (a field)"
+            },
+            {
+                "subword": "*dumbu-enḍaḱ chanḍuḱ",
+                "sub_definition": "the month when the weeding of the main paddy crop is done (late July into August)"
+            },
+            {
+                "subword": "*dumbu jaṅ",
+                "sub_definition": "a small seed or fruit of some grass (such as would be carried off by an ant as food)"
+            },
+            {
+                "subword": "*dumbu-tasat́",
+                "sub_definition": "a collective noun for grasses and weeds"
+            },
+            {
+                "subword": "*dumbu-topa",
+                "sub_definition": "of weeds, to 'bury' e.g. padddy plants (ie. to grow higher than them cutting off sunlight.etc.)"
+            }
+        ]
+    },
+    {
+        "word": "ḍumburi",
+        "word_simple": "DUMBURI",
+        "fone": "DUMBURI",
+        "definition": "a term used as poetic parallel with Ḍí (q.v.) having the same meaning"
+    },
+    {
+        "word": "ḍumchaṅ",
+        "word_simple": "DUMCHANG",
+        "fone": "DUMC4N",
+        "definition": "sturdy (well formed and filled out, well rounded out) and of medium size (used of cattle, fruit, rice bundles, the human nose, etc)"
+    },
+    {
+        "word": "ḍum-ḍum",
+        "word_simple": "DUM",
+        "fone": "DUM",
+        "definition": "to crouch or huddle up in a sitting position, e.g because of extreme cold"
+    },
+    {
+        "word": "ḍum-ḍumakan ḍum-dumakan",
+        "word_simple": "DUM",
+        "fone": "DUM",
+        "definition": "the sound of beating a Ḍulki drum"
+    },
+    {
+        "word": "ḍumḍurić",
+        "word_simple": "DUMDURIC",
+        "fone": "DUMDURI",
+        "definition": "very small and globular"
+    },
+    {
+        "word": "dumkuć",
+        "word_simple": "DUMKUC",
+        "fone": "DUMKU",
+        "definition": "somewhat short or small and well rounded or filled out (used of fruit, cattle and the human nose)"
+    },
+    {
+        "word": "dumsu-dumbaḱ",
+        "word_simple": "DUMSU",
+        "fone": "DUMSU",
+        "definition": "of flowers etc., to be grouped together in big clusters"
+    },
+    {
+        "word": "Dumur",
+        "word_simple": "DUMUR",
+        "fone": "DUMUR",
+        "definition": "a bee (smaller than nili or tumbuli but bigger than hurum suku)",
+        "subwords": [
+            {
+                "subword": "*dumur bohḱ",
+                "sub_definition": "crinkly hair"
+            },
+            {
+                "subword": "*dumur bohḱ daḱ",
+                "sub_definition": "honey of the dumur bee"
+            },
+            {
+                "subword": "*dumur kuit́",
+                "sub_definition": "a kind of jungle eagle or kite that eats dumur bees, perhaps the Crested Honey Buzzard"
+            },
+            {
+                "subword": "*dumur rasi",
+                "sub_definition": "honey of the dumur bee"
+            }
+        ]
+    },
+    {
+        "word": "duná",
+        "word_simple": "DUNA",
+        "fone": "DUN4",
+        "definition": "times"
+    },
+    {
+        "word": "dũṛa",
+        "word_simple": "DUDA",
+        "fone": "DUD4",
+        "definition": "the resin (jayer) of the sal tree which is used for incense and also for making birdlime",
+        "subwords": [
+            {
+                "subword": "*dũṛa-dúp",
+                "sub_definition": "incense made from the above"
+            }
+        ]
+    },
+    {
+        "word": "dunḍaḱ",
+        "word_simple": "DUNDAK",
+        "fone": "DUND4",
+        "definition": "of the level of water, to subside; also sometimes used for jom-dunḍaḱ, q.v.",
+        "subwords": [
+            {
+                "subword": "*dunḍaḱ-aagu",
+                "sub_definition": "same as dunḍaḱ, q.v."
+            }
+        ]
+    },
+    {
+        "word": "dunḍit́",
+        "word_simple": "DUNDIT",
+        "fone": "DUNDIT",
+        "definition": "a herb, about 2-3 ft. high with a reddish (Jenga) stem and leaves like those of the sasan plant. The tubers (daka) of its roots are used for medicine"
+    },
+    {
+        "word": "dundu",
+        "word_simple": "DUNDU",
+        "fone": "DUNDU",
+        "definition": "a big owl"
+    },
+    {
+        "word": "ḍunḍuḱ",
+        "word_simple": "DUNDUK",
+        "fone": "DUNDU",
+        "definition": "same as dunduḱ daḱ",
+        "subwords": [
+            {
+                "subword": "*ḍunḍuḱ daḱ",
+                "sub_definition": "water in which rice has been cooked"
+            }
+        ]
+    },
+    {
+        "word": "Dunḍu Biṅ",
+        "word_simple": "DUNDU",
+        "fone": "DUNDU",
+        "definition": "a watersnake (also called daḱ dunḍuḱ biṅ)"
+    },
+    {
+        "word": "dunḍuchuḱ Aaḱ",
+        "word_simple": "DUNDUCHUK",
+        "fone": "DUNDUCU",
+        "definition": "a particular edible herb found in the jungle and not eaten until after the heroḱ feast"
+    },
+    {
+        "word": "Ḍunḍuliat́",
+        "word_simple": "DUNDULIAT",
+        "fone": "DUNDULI4T",
+        "definition": "a dragon fly (heard in the Buru Ṭonṭo area. Around Chaibasa Berbenḍoṅ is used for this)"
+    },
+    {
+        "word": "dun-dun",
+        "word_simple": "DUN",
+        "fone": "DUN",
+        "definition": "a sensation of great fear, e.g. when alone in a de serted place at night"
+    },
+    {
+        "word": "ḍuń-ḍuń-ḍuń-ḍuń",
+        "word_simple": "DUNJ",
+        "fone": "DUN",
+        "definition": "a word imitative of the sound pro- duced by beating a dulki drum"
+    },
+    {
+        "word": "dundura",
+        "word_simple": "DUNDURA",
+        "fone": "DUNDUR4",
+        "definition": "to talk in one's sleep or when delirious"
+    },
+    {
+        "word": "ḍunga",
+        "word_simple": "DUNGA",
+        "fone": "DUN4",
+        "definition": "to suspend by means of a rope, etc.; to hang on (to e.g. a suspended rope, a branch, etc.) with the hands or claws (compare juman 'to cling with the feet' e.g. a flying fox or caterpillar)",
+        "subwords": [
+            {
+                "subword": "*ḍunga-aagu",
+                "sub_definition": "to lower suspended by a rope, etc."
+            },
+            {
+                "subword": "*ḍunga-inuṅ",
+                "sub_definition": "of monkeys, to playfully swing from branch to branch suspended by the arms"
+            },
+            {
+                "subword": "*ḍunga-rakaṕ",
+                "sub_definition": "to climb up hanging by the hands"
+            },
+            {
+                "subword": "*ḍunga-hunḍi",
+                "sub_definition": "to suspend many (of some given object) by a rope, etc."
+            }
+        ]
+    },
+    {
+        "word": "ḍunga hesaḱ",
+        "word_simple": "DUNGA",
+        "fone": "DUN4",
+        "definition": "a tree of the same family (Ficus) as that of the hesaḱ tree and found often on steep sloping river banks"
+    },
+    {
+        "word": "ḍungi",
+        "word_simple": "DUNGI",
+        "fone": "DUNI",
+        "definition": "a weaver's shuttle"
+    },
+    {
+        "word": "dunguć",
+        "word_simple": "DUNGUC",
+        "fone": "DUNU",
+        "definition": "short (in stature; of a short line of dancers, etc.)"
+    },
+    {
+        "word": "ḍunkal oe",
+        "word_simple": "DUNKAL",
+        "fone": "DUNK4L",
+        "definition": "a bird also called kunkal oe, the Redstart"
+    },
+    {
+        "word": "dunkart́",
+        "word_simple": "DUNKAR",
+        "fone": "DUNK4R",
+        "definition": "used parallel to hankar with the same meaning or in the compound hankart́-dunkart́ (see hankart́) ,"
+    },
+    {
+        "word": "dunțu, ḍunṭu",
+        "word_simple": "DUNȚU",
+        "fone": "DUNȚU",
+        "definition": "a stump of a felled tree (also duțu, ḍuțu)"
+    },
+    {
+        "word": "dunuṕ",
+        "word_simple": "DUNUP",
+        "fone": "DUNUP",
+        "definition": "a meeting; to hold a meeting (verbal noun of dub, 'to sit') dunuṕ Oaḱ a meeting house"
+    },
+    {
+        "word": "dunúṕ",
+        "word_simple": "DUNUP",
+        "fone": "DUNUP",
+        "definition": "the base or foundation of some object, e.g. of a building, a bandi; the base of a vessel such as a chațu or a mațiya (for this dubui is also used); the bed of the sea; pass. to be firmly founded or settled"
+    },
+    {
+        "word": "dunua",
+        "word_simple": "DUNUA",
+        "fone": "DUNU4",
+        "definition": "to do for a second time",
+        "subwords": [
+            {
+                "subword": "*dunua-uraa",
+                "sub_definition": "same as dunuwa"
+            }
+        ]
+    },
+    {
+        "word": "dupil",
+        "word_simple": "DUPIL",
+        "fone": "DUPIL",
+        "definition": "to carry on the head",
+        "subwords": [
+            {
+                "subword": "*dupil enḍaḱ",
+                "sub_definition": "to carry something away on the head; to expel a malign spirit (e.g. a dinda churdu bonga) by carrying on the head (this is done by a man if the spirit has possessed a man, by a woman if the spirit has possessed a woman)"
+            },
+            {
+                "subword": "*dupil genḍa",
+                "sub_definition": "a shell-carrying snail"
+            },
+            {
+                "subword": "*dupil-hoba",
+                "sub_definition": "to carry all that is required on the head (e.g. water, rice beer --)"
+            },
+            {
+                "subword": "*dupil olt́",
+                "sub_definition": "to carry out (e.g. of a house) on the head"
+            },
+            {
+                "subword": "*dupil-hunḍi",
+                "sub_definition": "to gather together by carrying on the head (e.g. a sufficient amount of water for many people who will come for a feast) mi dupil as much as one takes in one trip carrying on the head"
+            }
+        ]
+    },
+    {
+        "word": "dupuṕ",
+        "word_simple": "DUPUP",
+        "fone": "DUPUP",
+        "definition": "to seat one another, e.g. on one another's cycles (recip. of duṕ)",
+        "subwords": [
+            {
+                "subword": "*Dupuṕ Disum Maraṅ Bonga",
+                "sub_definition": "an alternate and according to some the original and proper name for duku disum maran bonga (here dupub would be understood in the sense of dunúṕ, 'a base or foundation')"
+            }
+        ]
+    },
+    {
+        "word": "dupuir",
+        "word_simple": "DUPUIR",
+        "fone": "DUPUIR",
+        "definition": "to copulate (recip. of duir) (mage kaji)"
+    },
+    {
+        "word": "dupuraṅ",
+        "word_simple": "DUPURANG",
+        "fone": "DUPUR4N",
+        "definition": "to reply to one song with another (recip. of duraṅ). This is different from tela (tepela) durań which would mean to repeat the same stanza which others have just sung"
+    },
+    {
+        "word": "dupuru",
+        "word_simple": "DUPURU",
+        "fone": "DUPURU",
+        "definition": "to be very weak and the body cold because of sickness"
+    },
+    {
+        "word": "dur ken",
+        "word_simple": "DUR",
+        "fone": "DUR",
+        "definition": "the sound of a person or a heavy object plunging into deep water"
+    },
+    {
+        "word": "dúr",
+        "word_simple": "DUR",
+        "fone": "DUR",
+        "definition": "to remove to a distance (from Hindi, used in prayers parallel to atom)"
+    },
+    {
+        "word": "Ḍur",
+        "word_simple": "DUR",
+        "fone": "DUR",
+        "definition": "the Common or Bluelegged Bustard-Quail",
+        "subwords": [
+            {
+                "subword": "*ḍur-ḍur",
+                "sub_definition": "the sound made by the Ḍur bird"
+            }
+        ]
+    },
+    {
+        "word": "Ḍur Kula",
+        "word_simple": "DUR",
+        "fone": "DUR",
+        "definition": "a small leopard or wild cat which eats chickens and is said to bite men about the knee level"
+    },
+    {
+        "word": "duraṅ",
+        "word_simple": "DURANG",
+        "fone": "DUR4N",
+        "definition": "a song; to sing",
+        "subwords": [
+            {
+                "subword": "*duraṅ-enḍaḱ",
+                "sub_definition": "to sing out, i.e. to drive out (e.g. an Á Daṭa Bonga) by singing"
+            },
+            {
+                "subword": "*duraṅ olt́",
+                "sub_definition": "same as duran-eraḱ, q.v."
+            }
+        ]
+    },
+    {
+        "word": "durda",
+        "word_simple": "DURDA",
+        "fone": "DURD4",
+        "definition": "affixed to pronouns to indicate the one we have been looking for, e.g. enić durda"
+    },
+    {
+        "word": "dur-dur",
+        "word_simple": "DUR",
+        "fone": "DUR",
+        "definition": "a waterfall"
+    },
+    {
+        "word": "ḍurić",
+        "word_simple": "DURIC",
+        "fone": "DURI",
+        "definition": "round"
+    },
+    {
+        "word": "Ḍuri Jaṅ",
+        "word_simple": "DURI",
+        "fone": "DURI",
+        "definition": "the hip bone"
+    },
+    {
+        "word": "Ḍuḱri Jó",
+        "word_simple": "DUKRI",
+        "fone": "DURI",
+        "definition": "another form of Ḍuḍri Jó, q.v."
+    },
+    {
+        "word": "Duṛi",
+        "word_simple": "DUDI",
+        "fone": "DUDI",
+        "definition": "a merry-go-round or ferris wheel such as are found at fairs (the form dori is also used)"
+    },
+    {
+        "word": "Dũṛia ãṛa",
+        "word_simple": "DUDIA",
+        "fone": "DUDI4",
+        "definition": "silkworm breeding of the first yearly cycle (from about early July until mid-August). The silkworm emerges quicker from the cocoon and forms a less developed cocoon than that of the longer cycle (called maran ara); to breed silkworms of the first cycle"
+    },
+    {
+        "word": "dursu",
+        "word_simple": "DURSU",
+        "fone": "DURSU",
+        "definition": "to aim e.g. a bow and arrow (compare chundul, 'to aim a long straight object' such as a gun); to aim at; dursuge tore means 'to shoot straight at the target",
+        "subwords": [
+            {
+                "subword": "*mit́ dursu",
+                "sub_definition": "in a straight line"
+            }
+        ]
+    },
+    {
+        "word": "duṛuṕ",
+        "word_simple": "DUDUP",
+        "fone": "DUDUP",
+        "definition": "sometimes used in songs for duṕ, 'to sit"
+    },
+    {
+        "word": "durumusu",
+        "word_simple": "DURUMUSU",
+        "fone": "DURUMUSU",
+        "definition": "a feeling of sickness coming on, used in such expressions as 'durumusuń tana', 'durumusuoḱ tanań', 'durumusu geń adaè tana. (riam-ropoć and hasu-hasu have the same meaning)"
+    },
+    {
+        "word": "Dús",
+        "word_simple": "DUS",
+        "fone": "DUS",
+        "definition": "the iron axle in a cart wheel, also called Niga"
+    },
+    {
+        "word": "Duta Bisiri",
+        "word_simple": "DUTA",
+        "fone": "DUT4",
+        "definition": "a big hawk (falcon); smaller than this is the Ṭẽṛa Bisiri"
+    },
+    {
+        "word": "dutam",
+        "word_simple": "DUTAM",
+        "fone": "DUT4M",
+        "definition": "to intercede; a go-between",
+        "subwords": [
+            {
+                "subword": "*dutam karji",
+                "sub_definition": "a matchmaker"
+            }
+        ]
+    },
+    {
+        "word": "duti",
+        "word_simple": "DUTI",
+        "fone": "DUTI",
+        "definition": "a 'dhoti' esp. as worn by non-adibasis (a village type 'dhoti would be called pinda)"
+    },
+    {
+        "word": "duṭu, ḍuțu",
+        "word_simple": "DUTU",
+        "fone": "DUTU",
+        "definition": "the stump of a felled tree (also dunṭu, ḍunṭu)"
+    },
+    {
+        "word": "Duar",
+        "word_simple": "DUAR",
+        "fone": "DU4R",
+        "definition": "a door; a doorway; to make a door; to face a door in a certain direction",
+        "subwords": [
+            {
+                "subword": "*duar-darom",
+                "sub_definition": "to make the door*duar-duar"
+            },
+            {
+                "subword": "*Duar Hari Maraṅ Bonga",
+                "sub_definition": "a hunting spirit (sangar bonga) said by some to be a servant spirit to Maraṅ Bonga"
+            }
+        ]
+    },
+    {
+        "word": "ḍũya",
+        "word_simple": "DUYA",
+        "fone": "DU4",
+        "definition": "of the stomach of an adult or child, to be big"
     }
 ]
